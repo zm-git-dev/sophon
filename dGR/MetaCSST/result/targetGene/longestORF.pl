@@ -30,10 +30,12 @@ while(<IN>){
 	my @split = split(/\|/,$arr[0]);
 	if($split[0] ne $id){
 	    for(my $i=0;$i<$num;$i++){
-                for(my $j=0;$j<=4;$j++){
-                    print OUT "$data[$i][$j]\t";
-                }
-                print OUT "\n";
+		if($index[$i] == 0){
+		    for(my $j=0;$j<=4;$j++){
+			print OUT "$data[$i][$j]\t";
+		    }
+		    print OUT "\n";
+		}
             }
             @data = ();
             $num = 0;
@@ -49,10 +51,12 @@ while(<IN>){
 	}
 	elsif($arr[1] ne $strain){
 	    for(my $i=0;$i<$num;$i++){
-		for(my $j=0;$j<=4;$j++){
-		    print OUT "$data[$i][$j]\t";
+		if($index[$i] == 0){
+		    for(my $j=0;$j<=4;$j++){
+			print OUT "$data[$i][$j]\t";
+		    }
+		    print OUT "\n";
 		}
-		print OUT "\n";
 	    }
 	    @data = ();
 	    $num = 0;
@@ -76,7 +80,7 @@ while(<IN>){
 		my $len = $arr[4]-$arr[3];
 		my $retain = 0;
 		for(my $i=0;$i<$num;$i++){
-		    if($index[$i] == 0 && !($arr[4]<$data[$i][3] && $arr[3]>$data[$i][4])){
+		    if($arr[2] != $data[$i][2] && $index[$i] == 0 && !($arr[4]<$data[$i][3] || $arr[3]>$data[$i][4])){
 			my $len_this = $data[$i][4] - $data[$i][3];
 			if($len <= $len_this){
 			    $retain = -1;
@@ -86,14 +90,11 @@ while(<IN>){
 		}
 		if($retain == 0){
 		    for(my $i=0;$i<$num;$i++){
-			if($index[$i] == 0 && !($arr[4]<$data[$i][3] && $arr[3]>$data[$i][4])){
-			    my $len_this = $data[$i][4] - $data[$i][3];
-			    if($len <= $len_this){
-				$index[$i] = 1;
-			    }
+			if($arr[2] != $data[$i][2] && $index[$i] == 0 && !($arr[4]<$data[$i][3] || $arr[3]>$data[$i][4])){
+			    $index[$i] = -1;
 			}
 		    }
-		    
+		        
 		    for(my $i=0;$i<=4;$i++){
 			$data[$num][$i] = $arr[$i];
 		    }
@@ -105,7 +106,7 @@ while(<IN>){
 		my $len = $arr[3]-$arr[4];
                 my $retain = 0;
                 for(my $i=0;$i<$num;$i++){
-                    if($index[$i] == 0 && !($arr[3]<$data[$i][4] && $arr[4]>$data[$i][3])){
+                    if($arr[2] != $data[$i][2] && $index[$i] == 0 && !($arr[3]<$data[$i][4] || $arr[4]>$data[$i][3])){
                         my $len_this = $data[$i][3] - $data[$i][4];
                         if($len <= $len_this){
                             $retain = -1;
@@ -113,15 +114,13 @@ while(<IN>){
                         }
                     }
                 }
-		if($retain == 0){
+                if($retain == 0){
                     for(my $i=0;$i<$num;$i++){
-                        if($index[$i] == 0 && !($arr[3]<$data[$i][4] && $arr[4]>$data[$i][3])){
-                            my $len_this = $data[$i][3] - $data[$i][4];
-                            if($len <= $len_this){
-                                $index[$i] = 1;
-                            }
+                        if($arr[2] != $data[$i][2] && $index[$i] == 0 && !($arr[3]<$data[$i][4] || $arr[4]>$data[$i][3])){
+                            $index[$i] = -1;
                         }
                     }
+
                     for(my $i=0;$i<=4;$i++){
                         $data[$num][$i] = $arr[$i];
                     }
@@ -135,10 +134,12 @@ while(<IN>){
 }
 
 for(my $i=0;$i<$num;$i++){
-    for(my $j=0;$j<=4;$j++){
-	print OUT "$data[$i][$j]\t";
+    if($index[$i] == 0){
+	for(my $j=0;$j<=4;$j++){
+	    print OUT "$data[$i][$j]\t";
+	}
+	print OUT "\n";
     }
-    print OUT "\n";
 }
 
 close IN;close OUT;
