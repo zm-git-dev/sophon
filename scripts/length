@@ -1,0 +1,35 @@
+#!/usr/bin/perl -w
+use strict;
+
+#This program is used to get the sequence average length in a FASTA file
+
+my ($file)= @ARGV;
+die "Error with arguments!\nusage: $0 <FASTA file>\n" if (@ARGV<1);
+open(FILE,$file)||die("error\n");
+my ($num,$sum)=(0,0);
+my ($max,$min) = (0,100000000000000000);
+my $id = "";
+while(<FILE>){
+    chomp();
+    if($_ =~ />([^\s]+)/){
+	$id = $1;
+    }
+    elsif($_ =~ /[^\s]/){
+	$num += 1;
+	$sum += length($_);
+	my $len = length($_);
+	print "$id\t$len\n";
+	if(length($_) > $max){
+	    $max = length($_);
+	}
+	if(length($_) < $min){
+            $min = length($_);
+        }
+    }
+    next;
+}
+my $avg = sprintf("%0.2f",$sum/$num);
+print "Min:$min\tAverage Length:$avg\tMax:$max\n";
+
+close FILE;
+exit;

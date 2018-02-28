@@ -1,0 +1,74 @@
+#!/usr/bin/perl -w
+use strict;
+
+#This program is used to get the GC percentage for all the input sequences
+
+my ($file)= @ARGV;
+die "Error with arguments!\nusage: $0 <FASTA file>\n" if (@ARGV<1);
+system("chomp $file");
+
+my ($name,$seq)=("","");
+my ($total_A,$total_T,$total_C,$total_G) = (0,0,0,0);
+open(FILE,$file)||die("error\n");
+print "Seq\tA\tT\tC\tG\n";
+while(<FILE>){
+    chomp();
+    if($_ =~ />([^\s]+)/){
+	$name = $1;
+    }
+    elsif($_ =~ /[^\s]/){
+	$seq = $_;
+	my $A = content($seq,'A');$total_A += $A;
+	$A = sprintf("%0.2f",$A/length($seq));
+	my $T = content($seq,'T');$total_T += $T;
+	$T = sprintf("%0.2f",$T/length($seq));
+	my $C = content($seq,'C');$total_C += $C;
+	$C = sprintf("%0.2f",$C/length($seq));
+	my $G = content($seq,'G');$total_G += $G;
+	$G = sprintf("%0.2f",$G/length($seq));
+	#print "$name\t$A\t$T\t$C\t$G\n";
+    }
+}
+print "$total_A\t$total_T\t$total_C\t$total_G\n";
+my $sum = $total_A+$total_T+$total_C+$total_G;
+$total_A = sprintf("%0.2f",$total_A/$sum);
+$total_T = sprintf("%0.2f",$total_T/$sum);
+$total_C = sprintf("%0.2f",$total_C/$sum);
+$total_G = sprintf("%0.2f",$total_G/$sum);
+print "$total_A\t$total_T\t$total_C\t$total_G\n";
+
+close FILE;
+
+sub content{
+    my ($seq,$char)=@_;
+    my $num = 0;
+    for(my $i=0;$i<length($seq);$i++){
+	my $now = substr($seq,$i,1);
+	my $new = myUPPER($now);
+	if($new eq $char){
+	    $num++;
+	}
+    }
+    return $num;
+}
+
+sub myUPPER{
+    my ($in)=@_;
+    if($in eq 'a'){
+	return 'A';
+    }
+    elsif($in eq 't'){
+        return 'T';
+    }
+    elsif($in eq 'c'){
+        return 'C';
+    }
+    elsif($in eq 'g'){
+        return 'G';
+    }
+    else{
+	return $in;
+    }
+}
+
+exit;

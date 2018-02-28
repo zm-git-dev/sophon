@@ -1,0 +1,50 @@
+#!/usr/bin/perl -w
+use strict;
+use FileHandle;
+
+my (@files)= @ARGV;
+die "Error with arguments!\nusage: $0 <BAM files> \n" if (@ARGV<1);
+open(OUT,">hits.txt")||die("Can't write to hits.txt\n");
+
+foreach my $bam(@files){
+    print OUT "--FileName--$bam\n";
+    my %chr=();
+    
+    my $tmp=$bam.".tmp";
+    system("samtools view $bam >$tmp");
+    open(BAM,"$tmp")||die("error,can't open $tmp");
+    while(<BAM>){
+	chomp();
+	my @arr = split(/\s+/,$_);
+	my $chrom = $arr[2];
+	if($chrom ne "*"){
+	    if(not exists $chr{$chrom}){
+		$chr{$chrom} = 1;
+	    }
+	    else{
+		$chr{$chrom} += 1;
+	    }
+	}
+	next;
+    }
+    close BAM;
+    system("rm $tmp");
+
+    my %index = ();
+    foreach my $i(keys %chr){
+        my $hit="";my $score = 0;my $number = 0;
+	foreach my $j(keys %chr){
+            if(not exists $index{$j}){
+                if($chr{$j} >= $score){
+                    $hit = $j;
+                    $score = $chr{$j};
+                    $number = $j;
+                }
+            }
+        }
+        $index{$number} = 1;
+        print OUT "$hit\t$score\n";
+    }
+    
+}
+exit;

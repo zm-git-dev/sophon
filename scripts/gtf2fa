@@ -1,0 +1,92 @@
+#!/usr/bin/perl -w
+use strict;
+
+#This program is used to transfrom the gtf format file to fast format
+
+my ($genome,$gtf,$out)= @ARGV;
+die "Error with arguments!\nusage: $0 <Genome in fasta format> <INPUT in gtf format> <OUTPUT>\n" if (@ARGV<3);
+open(GENOME,$genome)||die("error with opening $genome\n");
+open(GTF,$gtf)||die("error with opening $gtf\n");
+open(OUT,">$out")||die("error with writing to $out\n");
+
+my %genome=();
+my ($chr_name,$chr_seq) = ("","");
+while(<GENOME>){
+    chomp;
+    if($_ =~ />([^\s]+)/){
+	if($chr_name ne ""){
+	    $genome{$chr_name} = $chr_seq;
+	}
+	$chr_name = $1;
+	$chr_seq = "";
+    }
+    else{
+	$chr_seq .= $_;
+    }
+    next;
+}
+
+my ($gene_id,$trans_id,$gene_name,$trans_name,$trans_type,$len)=("","","","","",0);
+my $seq="";
+($chr_name,$chr_seq)=("","");
+my $chr_length = 0;
+while(<GTF>){
+    chomp;
+    if($_ !~ /#/){
+	my @data = split(/\s+/,$_);
+	if($data[2] eq "transcript"){
+	    if($seq ne ""){
+		print OUT ">$trans_id|$gene_id|$trans_name|$gene_name|$len|$trans_type|\n";
+		print OUT "$seq\n";
+	    }	
+	    if($data[9]=~/\"(.+)\"\;/){
+		$gene_id = $1;
+	    }
+	    if($data[11]=~/\"(.+)\"\;/){
+		$trans_id = $1;
+	    }
+	    if($data[15]=~/\"(.+)\"\;/){
+		$gene_name = $1;
+	    }
+	    if($data[19]=~/\"(.+)\"\;/){
+		$trans_name = $1;
+	    }
+	    if($data[17]=~/\"(.+)\"\;/){
+		$trans_type = $1;
+	    }
+	    $len = 0;
+	    $seq = "";
+	    if($data[0] ne $chr_name){
+		$chr_name = $data[0];
+		$chr_seq = $genome{$chr_name};
+		$chr_length = length($chr_seq);
+	    }
+	}
+	elsif($data[2] eq "exon"){
+	    if(not exists($genome{$data[0]})){
+		print "Error,gtf annotation don't match with the genome!\n";
+		exit;
+	    }
+	    else{
+		my ($start,$end) = ($data[3]-1,$data[4]-1);
+		if($end > $chr_length){
+		    print "Error,annotation out of genome range!\n";
+		}
+		else{
+		    my $subseq = substr($chr_seq,$start,$end-$start+1);
+		    $len += $end-$start+1;
+		    $seq .= $subseq;
+		}
+	    }
+	}
+    }
+    next;
+}
+
+if($seq ne ""){
+    print OUT ">$trans_id|$gene_id|$trans_name|$gene_name|$len|$trans_type|\n";
+    print OUT "$seq\n";
+}
+
+close GENOME;close GTF;close OUT;
+exit;

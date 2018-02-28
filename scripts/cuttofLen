@@ -1,0 +1,21 @@
+#!/usr/bin/perl -w
+use strict;
+
+my ($file,$out,$len)= @ARGV;
+die "Error with arguments!\nusage: $0 <IN> <OUT> <Length Cuttof>\n" if (@ARGV<1);
+open(FILE,$file)||die("error\n");
+open(OUT,">$out")||die("error\n");
+my ($name,$seq)=("","");
+system("chomp $file");
+while(<FILE>){
+    chomp($_);
+    if($_ =~ />/){
+	$name = $_;
+    }
+    elsif(length($_)>=$len){
+	print OUT "$name\n$_\n";
+    }
+}
+
+close FILE;close OUT;
+exit;

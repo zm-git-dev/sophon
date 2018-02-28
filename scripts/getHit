@@ -1,0 +1,38 @@
+#!/usr/bin/perl -w
+use strict;
+
+#This program is used to make my own database according to the RNA-seq data
+
+my (@files)= @ARGV;
+die "Error with arguments!\nusage: $0 <Blast Out files>\n" if (@ARGV<1);
+foreach my $file(@files){
+    my $out = $file.".out";
+    open(OUT,">$out")||die("Can't write to $out\n");
+    open(FILE,$file)||die("Can't open $file\n");
+    
+    my $id=0;my $index = 0;
+    
+    while(<FILE>){
+	if($_ =~ /[A-Za-z\d]/){
+	    if($_ =~ /Query=\s([^\s]+)\s/){
+		$id = $1;
+		$index = 0;
+	    }
+	    elsif($_ =~ /Sequences producing significant alignments/){
+		$index = 1;
+		print OUT ">$id\n";
+	    }
+	    elsif($index == 1 && $_ !~ />/){
+		print OUT "$_"
+	    }
+	    if($_ =~ />/){
+		$index = 0;
+	    }
+	}
+	next;
+    }
+    
+    
+    close FILE;close OUT;
+}
+exit;

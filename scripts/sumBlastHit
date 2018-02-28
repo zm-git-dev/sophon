@@ -1,0 +1,59 @@
+#!/usr/bin/perl -w
+use strict;
+
+#This program is used to make my own database according to the RNA-seq data
+
+my (@files)= @ARGV;
+die "Error with arguments!\nusage: $0 <Hits Files>\n" if (@ARGV<1);
+
+open(OUT,">hits.txt")||die("Can't write to hits.txt\n");
+
+foreach my $file(@files){
+    open(FILE,$file)||die("Can't open $file\n");
+    print OUT "--FileName--$file\n";
+    my %hash=();
+    my %judge = ();
+   while(<FILE>){
+       chomp($_);
+       if($_ !~ />/){
+	   my @data = split(/\s+/,$_);
+	   if(not exists $hash{$data[1]}){
+	       $hash{$data[1]} = 1;
+	       $judge{$data[1]} = 1;
+	   }
+	   elsif(not exists $judge{$data[1]}){
+	       $hash{$data[1]} += 1;
+	       $judge{$data[1]} = 1;
+	   }
+       }
+       else{
+	   foreach my $key(keys %judge){
+	       delete($judge{$key});
+	   }
+       }
+       next;
+   }
+    my @hit=(keys %hash);
+    my @score=(values %hash);
+    my %index = ();
+
+    for(my $i=0;$i < @hit;$i++){
+	my $hit="";my $score = 0;my $number = 0;
+	for(my $j=0;$j < @hit;$j++){
+	    if(not exists $index{$hit[$j]}){
+		if($score[$j] >= $score){
+		    $hit = $hit[$j];
+		    $score = $score[$j];
+		    $number = $j;
+		}
+	    }
+	}
+	$index{$hit[$number]} = 1;
+	print OUT "$hit\t$score\n";
+    }
+    
+    close FILE;
+}
+
+close OUT;
+exit;

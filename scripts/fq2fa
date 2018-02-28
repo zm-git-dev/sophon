@@ -1,0 +1,34 @@
+#!/usr/bin/perl -w
+use strict;
+
+#This program is used to make my own database according to the RNA-seq data
+
+my ($out,@files)= @ARGV;
+die "Error with arguments!\nusage: $0 <OUT file> <Sample RNA-seq sequences>\n" if (@ARGV<2);
+
+open(OUT,">$out")||die("Can't write to $out\n");
+
+my $j = 1;
+foreach my $file(@files){
+    if($file =~ /\.gz/){
+	open(FILE,"gzip -dc $file|")||die("Can't open $file\n");
+    }
+    else{
+	open(FILE,$file)||die("Can't open $file\n");
+    }
+    my $i=1;
+    while(<FILE>){
+	if($i%4 == 1){
+	    print OUT ">$j\n";
+	    $j++;
+	}
+	elsif($i%4 == 2){
+	    print OUT "$_";
+	}
+	$i++;
+	next;
+    }
+    close FILE;
+}
+close OUT;
+exit;
