@@ -1,0 +1,7 @@
+###Data info
+   #To analyze the coverage depth
+   #dgr.id : predict intact DGRs + confirmed partial DGRs
+   #sample.id : the sample of the DGRs
+   #dgrFa/*fa : DGR containing sequence   	     
+   #Foreach DGR, the bowtie2 is run using the merged fasta file of the sample ==> bowtie2/*bam
+   
