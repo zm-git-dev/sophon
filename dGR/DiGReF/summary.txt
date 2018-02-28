@@ -1,0 +1,22 @@
+Start Probability:
+0.05	0.95	0.00
+End Probability:
+0.17	0.08	0.70
+Transition Probability:
+0.18	0.02	0.63
+0.59	0.14	0.19
+0.23	0.07	0.00
+Length Statistics:
+TR:	min:50	avg:102	max:215
+VR:	min:50	avg:102	max:215
+RT:	min:280	avg:1149	max:1573
+Gap Length Statistics:
+TR-TR:	min:51	avg:64	max:90
+TR-VR:	min:946	avg:1007	max:1096
+TR-RT:	min:74	avg:313	max:960
+VR-TR:	min:166	avg:554	max:1776
+VR-VR:	min:51	avg:503	max:992
+VR-RT:	min:492	avg:726	max:1826
+RT-TR:	min:866	avg:1109	max:1980
+RT-VR:	min:1282	avg:1726	max:2013
+RT-RT:	min:*	avg:*	max:*
