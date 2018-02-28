@@ -1,0 +1,5 @@
+###Data description:
+   #all-intact.gtf: Only intact DGRs (bacteria/ERP019800/HMASM/HMP_stool_assembly/SRA045646/SRA050230/SRP115494_gut)
+   #all-partialConfirmed.gtf:All confirmed partial DGRs(bacteria/ERP019800/HMASM/HMP_stool_assembly/SRA045646/SRA050230/SRP115494_gut)
+       #Only confirmed TRs are shown
+   #all-intact-partialConfirmed.fa: Sequences containing intact DGRs or confirmed partial DGRs
