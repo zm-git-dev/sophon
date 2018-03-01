@@ -34,5 +34,6 @@ grep -A 1 ">" targetGene-GO.blastp.out |grep -v ">" |grep -v "\-\-$" |awk '{prin
 ###GO enrichment && FDR calculation
 ./getCommonTerm.pl targetGene-GO.blastp-uniprot.txt common-uniprot.id targetGene-GO.blastp-uniprot-common.txt
 awk '{print $2}' targetGene-GO.blastp-uniprot-common.txt |sort |uniq >targetGene-GO.blastp-uniprot.GOterm.txt
+sh getFrequency.sh
 ./p_value.pl GOterm-frequency.txt GOA.txt |sort -nk 4 >p_value.txt
 grep -v "P_value" p_value.txt |awk -F '\t' '{print $1"\t"$2"\t"$3"\t"$4"\t"$4*408/NR"\t"$5"\t"$6}' >q_value.txt
