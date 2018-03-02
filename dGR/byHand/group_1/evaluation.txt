@@ -1,0 +1,7 @@
+Type	TP_train	TP_test	FPR
+TR	.6259	.6534	0
+Type	TP_train	TP_test	FPR
+TR	.6259	.6534	0
+VR	.1341	.1188	0
+RT	.8836	.8979	.0001
+DGR	.6191	.6428	0

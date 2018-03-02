@@ -1,0 +1,8 @@
+Start Probability:
+0.04	0.96	0.00
+End Probability:
+0.22	0.10	0.68
+Transition Probability:
+0.23	0.03	0.74
+0.62	0.15	0.22
+0.80	0.20	0.00

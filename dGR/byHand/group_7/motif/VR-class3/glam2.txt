@@ -1,0 +1,2519 @@
+GLAM2: Gapped Local Alignment of Motifs
+Version 1056
+
+glam2 -O group_7/motif/VR-class3 n group_7/classify/classify_VR/class3.fa
+Sequences: 197
+Greatest sequence length: 168
+Residue counts: a=2746 c=6316 g=6679 t=5115 N=0
+
+Score: 2886.58  Columns: 32  Sequences: 195
+
+                 ***********.*********************
+SRS012273_Ba  45 ggcgactacaa.ctgcaccgacaccaacgggtc  76 + 10.8
+SRS052027_LA  74 ctctgcggcaa.ccacaaccgcaacctcgggtt 105 + 9.56
+gi254523226_  21 tccgcgtggtt.cgtcgatttctacgacggcct  52 + 14.6
+gi237721078_   1 gcttccagcag.ttggtgcgtgggcttcaacgg  32 + 13.2
+SRS064645_LA   1 gcttccagcag.ttggaacgtgtacttcagcta  32 + 17.0
+SRS058770_LA   1 gcttccagcag.ttggtacgtgtacttcagcag  32 + 14.3
+SRS053214_LA   1 gcttccagcag.ttggaccgtgaacttcagcgg  32 + 16.6
+C2336306_VR1  93 actctcgggtg.tgcgggtttgggttgcgttct 124 + 5.66
+C1673591_VR1  23 tacgtcacgga.cttcggttgcagcctgagctt  54 + 6.42
+gi336402102_  73 gattcatcgtt.cacgtatgcgtacatcggcgt 104 + 23.9
+C3074383_VR1  72 gattcgtcgca.cgcgagtgcgagcatcggcgt 103 + 26.8
+SRS013687_Ba  72 gcttcttcgaa.ctcgaacacgggctgcggcgg 103 + 27.5
+SRS019030_Ba  72 gcttcatcgag.ctcgtacgcgaactacggggc 103 + 24.5
+SRS022609_Ba   3 acgccttacta.ctcgtacgccaacgtcgctcg  34 + 16.7
+gi189425132_   7 gactacagcaa.ccgtggctattccgtctatgt  38 + 1.08
+SRS015663_WU  63 gactattccag.cttctgcacgagtagtcgtat  94 + 6.63
+SRS015264_WU  72 gattcgtcgag.cacgatcgcgagcatcggctc 103 + 25.5
+C3869178_VR1  50 ggcttgaacgg.catctacaagtacagcagttg  81 + 8.47
+gi345893474_  64 acggcgtcgaa.cctgagcgcgaacatcggttg  95 + 22.8
+gi266622220_  15 ggccatggcat.tacggactaccacggcgcttc  46 + 8.73
+gi332534155_  76 tctcgcacggg.tgcgggcagctctcttggttt 107 + 11.7
+SRS016086_WU  20 ggttgctacta.tgcgtacgcgggcggtggcgt  51 + 19.8
+SRS017307_Ba  45 gatacgtggta.tgtgtactccgatggtctcgt  76 + 7.61
+SRS016203_WU  44 gcttcttcgta.ctcgtactcgagcttcggtgg  75 + 28.2
+SRS014459_WU  44 gcttcatcgaa.ctcgaatacgttctacggggc  75 + 21.4
+SRS013687_Ba  44 gcttcatcgag.ctcgagcgcgtactgcggggc  75 + 24.2
+gi253574968_  53 acgtcgtccgg.tcgcctcgactacctcggctg  84 + 12.2
+SRS020869_Ba  54 tctgctacgtt.ctccagcccgtgcgtcggttt  85 + 21.4
+SRS012273_Ba  55 aatgctacgat.ctccaatccgcgcgtcggttt  86 + 17.3
+SRS056519_LA  54 tctgctacgat.ctccaacccgcgcgtcggttt  85 + 20.1
+SRS023604_Ba  47 gacggctcgta.cggctactactatgtcagtca  78 + 12.2
+SRS014459_WU  78 tccacgtcgca.cgaccacgttggtttccgctc 109 + 6.19
+C2457943_VR1  67 tccacgtcgca.cgaccacgttggtttccgctc  98 + 6.19
+C2209444_VR1  41 ggcttctcgaa.tggcaacacgtacggcagcta  72 + 17.4
+SRS022609_Ba  40 aacttctcgga.tggcagcacgtacaactacgt  71 + 12.9
+C3424173_VR1  69 ggcaactggaa.cgccaacggctccctcggcgt 100 + 19.9
+SRS077730_LA  20 aatgcgggcag.cacgatctccttctgcgttgt  51 + 12.8
+C1505893_VR1  29 tatgcgagcta.cacgcactacttctgccgtgt  60 + 11.8
+SRS016335_WU  22 ggcggttgcta.ctacggtgctgatgacgggct  53 + 9.29
+gi126659397_  65 gctccgcgcga.cggcagctacggttttgggtt  96 + 10.7
+gi126659397_  32 tatcgatgccg.ttccgcctaccgcgacggctt  63 + 10.6
+gi186684985_  11 ggttcctggat.cttcgatcctgattactgccg  42 + 5.55
+SRS016335_WU  16 ggttctgcgaggtggtgacagctacgacaactt  48 + 4.91
+SRS017821_Ba  74 actgccgggaa.tgcccactgggccgtcggggc 105 + 17.3
+SRS013951_WU  74 actgccggggt.tgccggctggaacctcggggc 105 + 16.9
+gi355363092_   5 tgtcgcggcgg.ttcctggatcaacctcgggag  36 + 4.33
+SRS018817_WU  13 ccgtccggcct.tatcaactacaacttcggctg  44 + 11.5
+gi17230989_V  44 tccgcgtcccg.cggcaacaacgatagggcggg  75 + 5.56
+SRS015190_WU   1 gcttccagcag.ttggaccgtgtacttcaacta  32 + 10.5
+SRS043411_WU   7 agcagttggag.cgtgggcttcaacttcggcgg  38 + 16.5
+gi293372957_   1 gcttccagcag.ttggatcgtgtacttcagcgg  32 + 16.8
+SRS023176_Ba  28 agcggcggcag.cgtctacgcgtactaccgcca  59 + 10.7
+gi160885942_   7 agcagttggta.cgtgtacttcttcaacggcta  38 + 12.8
+SRS022137_WU  12 cattcgtcgca.cgcgtacaacgtgcgcgtcgt  43 + 8.29
+SRS017521_Ba  55 atctcgtccta.tcggcacgcgctcctcggttt  86 + 13.3
+SRS013951_WU  55 tcgtccggctg.tcggcacgtgtacctcggttt  86 + 16.0
+SRS023914_Ba  64 ggtgctacgtt.ccagatcgcgcacgtcggttt  95 + 16.6
+SRS056259_LA  54 tatgctacgaa.ctcctacccgggcctcggttt  85 + 22.5
+gi257440840_  55 aatgctgcgta.ctccctcccgaccgtcggttt  86 + 17.2
+SRS015663_WU  54 aatgctacgta.ctcctattcgagcgtcggttt  85 + 22.3
+SRS063985_LA  31 tcggcccgcta.ctggaactactactatgcttc  62 + 8.67
+SRS014683_WU  54 cgtgcttcgaa.ctcttacccgaacctcggttt  85 + 20.3
+SRS019030_Ba  54 agtgcttcgta.ctcctacccgtacctcggttt  85 + 23.9
+gi291561556_  37 cgctgctggaa.ttacctctcgt.cctcgtttc  67 + 2.79
+SRS019161_WU  20 gccccgtcgga.ctcggacacgcatatcggttc  51 + 23.1
+gi257094650_  39 gcgcccggcag.cgccgaccggggcgtcggttt  70 + 21.1
+gi345871758_  17 ggttcgtggtt.cctcaacgggcgccacctgcg  48 + 4.74
+SRS019161_WU  72 gattcatcggt.cacgagtgcgtacatcggcgt 103 + 23.3
+SRS019161_WU  38 tggaactcgga.cggtaacacttacagcccttc  69 + 4.56
+SRS023914_Ba  71 gatgtctcgaa.tgccagcggttacgtcggcgc 102 + 22.0
+SRS011306_Ba  30 aggcacggcaa.cggtagctggagcgacgtttc  61 + 8.98
+SRS011302_Ba  69 gatccttcgaa.cgcgtactcgtacatcggtgg 100 + 29.0
+SRS052697_LA  69 gttccttcggg.cgcgggctcgggcttcggtgg 100 + 21.3
+SRS015190_WU  68 tgcccctgtcactgcgtacacgtacatcggtgg 100 + 15.8
+gi355629964_  14 tcccgcggcgg.tgcggccgcgcgcatcggctt  45 + 18.8
+SRS078176_LA  46 ggctcctggtg.ccgctacggcttcgacatttg  77 + 11.0
+SRS015217_WU  32 ccccgctcgga.ctcgtactggggcctcggctt  63 + 23.3
+C3236803_VR1  71 ccccgctcgct.ctcgaactggggcctcggctt 102 + 20.3
+gi338999650_  25 gcgcgctccag.ctcgaatgcgtatctcgggct  56 + 17.7
+C1746428_VR1  23 ggctattacgg.cttgctcgtgggctgcgcttt  54 + 9.15
+SRS020328_Ba  59 cgcgttgcgga.cgcgaacactaacggcttcgg  90 + 8.91
+SRS022137_WU  59 cgccttgcgga.cacgggcactagcggctgcgc  90 + 9.71
+gi227485876_  47 aactggagccg.cgcgcgcgatggcaacggcgg  78 + 13.1
+SRS053398_LA   5 ggctcggccca.cctcgcccgctacgtcgacac  36 + 6.07
+SRS015663_WU   2 gccggctcggc.ccgcagcgcccgcttcgtcga  33 + 8.76
+SRS015065_WU   5 ggctcggccaa.ccgcgcccgcctcgtcggcgc  36 + 12.4
+SRS011302_Ba  50 ggctggaacaa.cgcctaccgcggcgacggcgg  81 + 16.3
+SRS017433_Ba   8 gcccttcggtt.cggttcttgcgactacggtct  39 + 4.12
+gi323485151_  14 aactttggcga.tccgaactacagcaacgcttc  45 + 12.7
+SRS013687_Ba  35 agccttggcta.tccgaactgcagctacgcttc  66 + 13.2
+SRS077730_LA  60 agctacggcga.tgcgagcaactacgacgcgtc  91 + 12.9
+SRS015133_WU  31 ggctccggtta.tgcggacagcaacagcgcttc  62 + 16.2
+SRS013951_WU 103 gcggcgtgggg.ctcgtacaccgacgtcggctc 134 + 24.4
+SRS057478_LA  41 ggcgctacgga.ctactcctacg.cttcggcct  71 + 6.93
+SRS022713_LA  34 ggcggggcggg.cagcgttggcagctacggctt  65 + 13.2
+gi83309559_V  12 tcggcgtgggt.ccagctcttcgacaccggcta  43 + 1.32
+SRS015217_WU  12 ggttcgagttt.ctacagcacttccagcggtgg  43 + 10.2
+SRS016095_WU  57 ggcttgtacta.ccctcgttctttcgtcggcgg  88 + 8.38
+SRS014459_WU  75 ccgcgctcgta.ttccagcgccagcgtcggggg 106 + 20.1
+SRS024435_LA  72 gattcgtcgta.ctcgaacgcgtacatcggctc 103 + 30.4
+SRS018656_WU  18 tcgttcagcta.tgcgagcgcgcatggcggcgt  49 + 16.0
+SRS016989_Ba  72 gattcgtcggg.cacgaatgcggtcatcggcgt 103 + 24.0
+SRS015190_WU  72 gattcatcgta.ctcggttgcgagcatcggcgt 103 + 24.6
+SRS017433_Ba  72 gattcatcggt.cacggttgcggccatcggcgt 103 + 17.8
+SRS022524_Ba  72 gattcatcggt.cacgggtgcgttcatcggcgt 103 + 20.2
+SRS023583_Ba  72 gtttcatcggt.cacgagtgcgagcatcggcgt 103 + 19.3
+SRS043411_WU  72 gattcatcgta.ctcggttgcgagcatcggcgt 103 + 24.6
+SRS019910_WU  72 gattcatcgaa.cacgtatgcgggcatcggcgt 103 + 25.7
+SRS011239_Ba  72 gtttcatcgag.cacgtatgcgagcatcggcgt 103 + 21.0
+SRS012902_Ba  72 gattcatcgaa.cacgtatgcgagcatcggtgt 103 + 25.7
+SRS013687_Ba  17 tacgcgtgggg.tttgagcctcaacatcggcta  48 + 16.7
+SRS015264_WU 102 ggcacttcgtt.tgcgtacgacgacgtcggctg 133 + 20.6
+SRS064276_LA 104 agcgcgtccaa.ctcgaacgcgagcatcggctg 135 + 27.5
+gi322688997_  67 ggcctctcgga.cgcgtggtgggcctgcggcgg  98 + 12.8
+SRS063985_LA  74 gccccgtcgga.ctcgtactgggaccgccgcgc 105 + 20.3
+gi239625916_  80 tgcccgtggag.cgtgtacgcgagcattggtgt 111 + 24.2
+gi160938970_  80 tacccgtggta.cgtgaccgcgagcattggtgt 111 + 23.3
+gi27311204_V  76 gcgcggtcgaa.ctcgaacagtagcatcggttt 107 + 24.5
+gi154504579_  78 tacccgtggag.tgtctctgcgaacgttggcgc 109 + 17.1
+gi120599269_  69 tcgcgttcgag.ctcgagcatctacgtcggttt 100 + 22.5
+SRS019030_Ba  75 tctgcgggcaa.tgcgagctggtacgtcggtgc 106 + 23.4
+SRS016335_WU  30 aggggtggcta.ttgctacaacagtggcgactt  61 + 8.21
+SRS011586_WU  77 tacccgtggaa.tgtcagcacgaatgtcggcgt 108 + 23.4
+SRS011271_WU  78 tacccgtggaa.tgtcaatacgtacattggcgc 109 + 20.8
+SRS014235_WU  71 tacccgtggga.cgtgaccacggacatcggcgc 102 + 24.4
+SRS042628_WU  80 tatccgtggca.cgtgagcgcggtcattggcgt 111 + 21.1
+gi377805963_  13 gctcattggcggtggcaactggaacgacggggt  45 + 11.3
+SRS023526_Ba  80 tctccgtggta.cgtgcgcacggactttggcgt 111 + 22.4
+SRS054956_LA  80 tatccatggag.cgtgaacacgggcgttggcgt 111 + 22.7
+SRS015794_Ba  80 tacccgtggaa.cgtgctcacgtacattggtgt 111 + 21.4
+gi291524999_  80 tacccgtggta.cgtggccgcgtacgttggtgt 111 + 22.3
+SRS013951_WU  81 tacccgtggaa.cgtgcacacgggcattggcgt 112 + 23.3
+gi377806011_  81 tgcccgtggaa.cgtgaacacgtacgttggcgt 112 + 25.6
+gi167758195_  78 tacccgtggta.cgtcggcgcgagcgttggcgt 109 + 23.2
+C1905524_VR1  72 tacccctggtt.tgttagcgcggttattggcgc 103 + 13.1
+SRS018817_WU  31 agctgcagcga.ctgttgcgacatccgcggtgt  62 + 12.4
+SRS054956_LA  23 gactccggcca.ctggagcgccagctacgagct  54 + 14.6
+SRS015133_WU  27 aacttcgggaa.ctacgttaacagcatcggtgt  58 + 14.5
+SRS023829_Ba  72 gattcatcgaa.cacgtatgcgagcatcggtgt 103 + 25.7
+gi336413450_  73 gattcatcgat.cacgggtgcgtacatcggtgt 104 + 22.8
+SRS014459_WU  72 gattcatcgta.ctcgtatgcgatcatcggtgt 103 + 25.3
+C1580692_VR1  75 gacgtcggcaa.ctggagcgcggtcggcgcgtt 106 + 15.9
+C1764656_VR1  31 agcggcggcaa.tgcgatttgcgacggcgcttc  62 + 12.1
+C1935518_VR1  32 gggtctgcgga.cagctacagctactacagcag  63 + 10.6
+SRS052027_LA  72 gcttcatcggt.ctcgtacacgttctacggggc 103 + 20.1
+SRS043411_WU  72 gcttcgtcgta.ctcgagcgcgagcttcggggc 103 + 28.0
+SRS043701_LA  24 aacctctcgta.tgcggatagcggtctcgctta  55 + 11.1
+SRS047014_WU  45 ggtctcgctta.tgcgtacgcgaacgtcgcttc  76 + 18.3
+SRS023914_Ba  72 gcttcttcgaa.ctcgaacacgggctgcggcgg 103 + 27.5
+SRS015190_WU  72 gcttcgtcgta.ctcgagcgcgagcttcggggc 103 + 28.0
+SRS015065_WU  65 gcttcatcggg.ctcgtacacgtactacggggc  96 + 23.1
+SRS047044_WU  72 gcttcatcgag.ctcgggcacgaactgcggggc 103 + 22.6
+gi41179367_V  76 gggccgtcgtt.ctcgttcgcgttcttcggggc 107 + 20.1
+SRS022609_Ba  72 gccgggacgaa.ctcgcacacgtactacggcgt 103 + 23.8
+gi113474819_  12 tatgccgacta.cctctccaacgataggggttt  43 + 4.11
+C5177931_VR1  53 aacggaaccgg.ttacttcggcagcggctgggt  84 + 4.76
+SRS011134_Ba   3 acgcctaacta.ctcgaacgcctactacgctcg  34 + 13.7
+SRS019582_WU   3 acgccttacta.ctcgtacgcctactacgctcg  34 + 14.8
+SRS064276_LA  86 agcctcgccaa.cgcgtccaacgagggcggcgt 117 + 12.2
+SRS015264_WU  74 gctgccgggag.tgcctactgggacctcggggc 105 + 20.9
+SRS014683_WU  30 ggtcgtggctg.cggcagcagcgctttcgacgt  61 + 11.7
+SRS043411_WU  73 ccgcgctccaa.tgccagcggcatcctcggggg 104 + 16.1
+SRS064276_LA  74 ccgcgctccta.tgcctgcggcaacatcggggg 105 + 18.4
+SRS022137_WU  75 ccgcgttctat.ctccaatgtgagtgtggggct 106 + 2.81
+SRS055982_Ba  18 ggcggtactta.tggttatggcggtctcgccgg  49 + 5.37
+gi161789197_  62 catcgctccga.ctcgagcggtggcatcggttt  93 + 21.4
+gi323486088_  74 ccccgctccga.tgcgggctggtccatcggttt 105 + 19.2
+SRS024132_Ba  15 aacgcttctgg.tactagccattacaacaatgt  46 + 1.72
+gi146277368_  76 gcgcggtcgat.cgcgaacacgagcctcgggtt 107 + 23.8
+C2383034_VR1  74 tcccgcagcag.tgtgagcacgtccctcggctt 105 + 18.6
+SRS013951_WU  74 tcccgcggcgg.tgcgggcacggacctcggctt 105 + 21.3
+gi260587208_  74 tcccgcagcgg.tgtgtccacgtacctcggctt 105 + 18.1
+gi299145828_  63 tacttcggcaa.ctacggcaagtgccacagtta  94 + 8.98
+SRS023346_LA  63 aacttcggcta.cggcagcaagtgcggcagtgg  94 + 14.0
+SRS056259_LA  33 ggcagctggtt.cgtgggctttagtaatggcgg  64 + 7.80
+SRS011586_WU  48 agctttagtaa.tggcaacttcagcaacggcag  79 + 8.45
+gi194337359_  12 tgtgattcgtggcgggagctggaactacggtgc  44 + 13.2
+gi332533803_  76 gcgcgttcgta.tgcgaacagtgctttcggttt 107 + 17.4
+gi291621968_  76 gcgcggtcgaa.ctcggtcagtaacatcggttt 107 + 21.4
+gi71065017_V  76 tctcggacgaa.cggcgaccaccacttcggtgt 107 + 17.5
+gi291546485_  27 tatggctacgg.cgcgaacgcgggtgtcggtta  58 + 17.1
+SRS019397_WU  35 tacgatggcct.tacgacctgctacggcgcttc  66 + 6.64
+SRS019910_WU  35 aactatggcaa.tgcgcactgcaacggcgcttc  66 + 13.4
+SRS015065_WU  35 ggctatggcaa.tccgaactactacaacgcttc  66 + 14.4
+SRS015264_WU  80 tatccgtggag.cgtgcgcacggacattggcgt 111 + 21.7
+SRS016018_WU  35 taccatggctc.tgcggactacacctacgcttc  66 + 5.79
+SRS022137_WU  90 aatccgacgag.cagcatcggcatctttggttt 121 + 14.1
+SRS016095_WU  19 ggccgttggta.cgagaatgtctacatcagtgg  50 + 17.3
+SRS015663_WU  83 ggtgccgcgta.ctgggacggcggggtcggtgt 114 + 18.5
+C2197865_VR1  59 aactacaacga.tgcgaacaacagctatggggt  90 + 11.5
+gi345871758_  71 gcgccggacag.ccgcttcgacttcatcggcct 102 + 10.5
+SRS019787_WU  74 gctcgttctta.ctcgaacagcggcatcggctt 105 + 23.7
+SRS017307_Ba  56 tggtgttggtccttcctctgctagtatcggttc  88 + 2.20
+C4412323_VR1  74 gctcgttctta.ctcgaacagcggcatcggctt 105 + 23.7
+C2204788_VR1 104 tccgtgtcgta.cgccagcgcgagcatcggctg 135 + 25.1
+
+                 gcctcctcgaa cgcgaacgcgaacatcggcgt
+                 tatcggggctg ttgctg agctg g    ttc
+                  g g t   g      g  t  g  t      g
+
+ a  c  g  t Del Ins Score
+37 15 93 50   0      36.3
+                  0 -0.168
+63 71 56  5   0      44.7
+                  0 -0.168
+ 0 86 29 80   0      94.1
+                  0 -0.168
+ 9 67 46 73   0      35.5
+                  0 -0.168
+16 109 47 23   0      61.5
+                  0 -0.168
+22 66 57 50   0      6.22
+                  0 -0.168
+33  3 45 114   0      92.1
+                  0 -0.168
+13 97 85  0   0      128.
+                  0 -0.168
+ 0 70 115 10   0      144.
+                  0 -0.168
+75 15 44 61   0      22.3
+                  0 -0.168
+111  3 53 28   0      91.9
+                  5 -39.3
+ 0 133  0 62   0      203.
+                  0 -0.168
+23 19 82 71   0      37.3
+                  0 -0.168
+13 107 40 35   0      56.5
+                  0 -0.168
+ 0 66 118 11   0      144.
+                  0 -0.168
+83 19 39 54   0      21.3
+                  0 -0.168
+96 18 60 21   0      48.5
+                  0 -0.168
+ 0 157  2 36   0      229.
+                  0 -0.168
+54 16 80 45   0      22.2
+                  0 -0.168
+31 96 46 22   0      32.5
+                  0 -0.168
+ 0 70 106 19   0      118.
+                  0 -0.168
+65 13 54 63   0      21.5
+                  0 -0.168
+87 14 71 21   2      33.0
+                  0 -0.168
+ 0 166  3 26   0      246.
+                  0 -0.168
+62 29 54 50   0     -2.51
+                  0 -0.168
+38  1 34 122   0      113.
+                  0 -0.168
+ 0 168  4 23   0      249.
+                  0 -0.168
+17  9 163  6   0      206.
+                  0 -0.168
+10 21 154 10   0      173.
+                  0 -0.168
+ 0 88 31 76   0      91.6
+                  0 -0.168
+ 6 16 94 79   0      88.4
+                  0 -0.168
+12 46 41 96   0      43.5
+
+Score: 2871.43  Columns: 29  Sequences: 193
+
+                 *********************..********
+SRS012273_Ba  24 ctgct.ctccaatggcgatat..cggcgact  51 + 12.1
+SRS052027_LA  79 cggcaaccacaaccgcaacct..cgggttca 107 + 12.9
+gi254523226_  59 cgactaccgccgcagcgacgg..cgggttcg  87 + 14.8
+gi237721078_  12 ttggtgcgtgggcttcaacgg..cggcagcg  40 + 18.2
+SRS064645_LA  12 ttggaacgtgtacttcagcta..cggctacg  40 + 22.3
+SRS058770_LA  12 ttggtacgtgtacttcagcag..cggcaccg  40 + 18.7
+SRS053214_LA  12 ttggaccgtgaacttcagcgg..cggcaacg  40 + 18.2
+C2336306_VR1  98 cgggtgtgcgggtttgggttg..cg.ttctt 125 + 9.28
+C1673591_VR1  28 cacggacttcggttgcagcct..gagcttcc  56 + 10.1
+gi336402102_  84 cacgtatgcgtacatcggcgtt.cggcttgc 113 + 23.4
+C3074383_VR1  83 cgcgagtgcgagcatcggcgtt.cggcttgc 112 + 24.0
+SRS013687_Ba  77 ttcgaactcgaacacgggctg..cggcggtc 105 + 21.6
+SRS019030_Ba  29 ctcgaatgcgtacagcggtct..cg.cttgt  56 + 19.5
+SRS022609_Ba  44 ctcggatggtggtttgagcta..cggcgctg  72 + 15.4
+gi189425132_   1 ctcgt.tgactacagcaaccg..tggctatt  28 + 10.4
+SRS015663_WU 104 tgcgactgacagtagctacag..ca.tttcc 131 + 8.40
+SRS015264_WU  23 cagctatgcgaacgcgaatgg..cggcgtgt  51 + 19.4
+C3869178_VR1  40 tggtagtggcggcttgaacgg..catctaca  68 + 6.77
+gi345893474_   3 ctccggcggctattggggcga..cggctcca  31 + 18.0
+gi266622220_  20 tggcattacggactaccacgg..cg.cttcg  47 + 12.5
+gi332534155_  81 cacgggtgcgggcagctctct..tggtttcc 109 + 15.4
+SRS016086_WU  25 ctactatgcgtacgcgggcgg..tggcgttg  53 + 16.3
+SRS017307_Ba  50 gtggtatgtgtactccgatgg..tctcgtcg  78 + 7.06
+SRS016203_WU  49 ttcgtactcgtactcgagctt..cggtgggc  77 + 20.7
+SRS014459_WU   1 ctcgaatgcgctcagcggtct..cg.cttgt  28 + 15.5
+SRS013687_Ba   1 ctcgaattcgaacagcggtct..cgcttatg  29 + 15.7
+gi253574968_  58 gtccggtcgcctcgactacct..cggctggc  86 + 9.59
+SRS020869_Ba  59 tacgttctccagcccgtgcgt..cggtttcc  87 + 19.0
+SRS012273_Ba  60 tacgatctccaatccgcgcgt..cggtttcc  88 + 15.7
+SRS056519_LA  59 tacgatctccaacccgcgcgt..cggtttcc  87 + 18.1
+SRS023604_Ba  52 ctcgtacggctactactatgt..cagtcatt  80 + 6.40
+SRS014459_WU  77 ttccacgtcgcacgaccacgt..tggtttcc 105 + 10.1
+C2457943_VR1  66 ttccacgtcgcacgaccacgt..tggtttcc  94 + 10.1
+C2209444_VR1  46 ctcgaatggcaacacgtacgg..cagctacg  74 + 20.4
+SRS022609_Ba  45 ctcggatggcagcacgtacaa..ctacgtca  73 + 7.56
+C3424173_VR1  74 ctggaacgccaacggctccct..cggcgtcc 102 + 23.7
+SRS077730_LA  61 cgggtctgcgagcagcagcta..cgcctact  89 + 17.3
+C1505893_VR1  70 cgggtctgcgaactactacga..cgcctact  98 + 16.9
+SRS016335_WU  16 cggtt.cggcggttgctacta..cggtgctg  43 + 7.48
+gi126659397_  71 cgcga.cggcagctacggttt..tgggttgc  98 + 12.3
+gi126659397_  38 tgccg.ttccgcctaccgcga..cggcttta  65 + 10.9
+gi186684985_  61 cagctatagggcggagcgcga..cggcatcc  89 + 6.03
+SRS016335_WU  23 cgagg.tggtgacagctacga..caactttc  50 + 7.76
+SRS017821_Ba  79 cgggaatgcccactgggccgt..cggggccg 107 + 18.8
+SRS013951_WU  79 cggggttgccggctggaacct..cggggccg 107 + 18.9
+gi355363092_  10 cggcggttcctggatcaacct..cgggaggt  38 + 7.78
+SRS018817_WU  30 ctacaacttcggctgtaactt..cagctgcg  58 + 11.3
+gi17230989_V  46 cgcgtcccgcggcaacaacga..tagggcgg  74 + 5.74
+SRS015190_WU  12 ttggaccgtgtacttcaacta..cggcaacg  40 + 16.0
+SRS043411_WU  12 ttggagcgtgggcttcaactt..cggcggcg  40 + 20.5
+gi293372957_  12 ttggatcgtgtacttcagcgg..cggcaacg  40 + 17.6
+SRS023176_Ba  12 ttggtacgtgacattcagcgg..cggcagcg  40 + 9.35
+gi160885942_  12 ttggtacgtgtacttcttcaa..cggctacg  40 + 16.2
+SRS022137_WU  41 cgtgtactcggacgggagcct..caactacc  69 + 11.8
+SRS017521_Ba  60 gtcctatcggcacgcgctcct..cggtttcc  88 + 9.45
+SRS013951_WU  60 cggctgtcggcacgtgtacct..cggtttcc  88 + 16.6
+SRS023914_Ba  69 tacgttccagatcgcgcacgt..cggtttcc  97 + 10.9
+SRS056259_LA  59 tacgaactcctacccgggcct..cggtttcc  87 + 20.6
+gi257440840_  60 tgcgtactccctcccgaccgt..cggtttcc  88 + 16.6
+SRS015663_WU  59 tacgtactcctattcgagcgt..cggtttcc  87 + 22.2
+SRS063985_LA  37 cgcta.ctggaactactacta..tg.cttcg  63 + 7.96
+SRS014683_WU  59 ttcgaactcttacccgaacct..cggtttcc  87 + 19.6
+SRS019030_Ba  59 ttcgtactcctacccgtacct..cggtttcc  87 + 21.2
+gi291561556_  30 ctcggcccgctgctggaatta..cctctcgt  58 + 2.74
+SRS019161_WU  25 gtcggactcggacacgcatat..cggttcgc  53 + 15.5
+gi257094650_  44 cggcagcgccgaccggggcgt..cggtttcc  72 + 23.8
+gi345871758_  38 cgccacctgcgctcggcgtgt..cg.cgccc  65 + 5.38
+SRS019161_WU  83 cacgagtgcgtacatcggcgtt.cggcttgc 112 + 22.3
+SRS019161_WU  43 ctcggacggtaacacttacag..cc.cttcg  70 + 9.93
+SRS023914_Ba  76 ctcgaatgccagcggttacgt..cggcgccg 104 + 21.0
+SRS011306_Ba  35 cggcaacggtagctggagcga..cg.tttct  62 + 16.8
+SRS011302_Ba  80 cgcgtactcgtacatcggtgg..cggctttc 108 + 24.2
+SRS052697_LA  80 cgcgggctcgggcttcggtgg..cggctttc 108 + 23.2
+SRS015190_WU  80 tgcgtacacgtacatcggtgg..cggctttc 108 + 20.6
+gi355629964_  19 cggcggtgcggccgcgcgcat..cggcttcc  47 + 20.5
+SRS078176_LA  42 tgccggctcctggtgccgcta..cggcttcg  70 + 16.5
+SRS015217_WU  37 ctcggactcgtactggggcct..cggcttcc  65 + 28.4
+C3236803_VR1  76 ctcgctctcgaactggggcct..cggcttcc 104 + 19.3
+gi338999650_  36 ctcgaatgcgtatctcgggctg.cggctctc  65 + 9.94
+C1746428_VR1  28 ttacggcttgctcgtgggctg..cg.ctttg  55 + 6.39
+SRS020328_Ba 100 ttcgtatggtgacacgaacgg..catttact 128 + 9.52
+SRS022137_WU 100 ttcgtatggtgacgcgaacgg..ccgttact 128 + 12.5
+gi227485876_  37 tggttccttgaactggagccg..cg.cgcgc  64 + 10.3
+SRS053398_LA  52 caggaactacgcctactacgg..ccgctacg  80 + 10.3
+SRS015663_WU   1 tgccggctcggcccgcagcgc..ccgcttcg  29 + 12.7
+SRS015065_WU  52 cgggggcggcgcctacggcgg..cggcaacg  80 + 16.7
+SRS011302_Ba  55 gaacaacgcctaccgcggcga..cggcggcc  83 + 16.3
+SRS017433_Ba  85 tgcgaactggcacctttccgc..cgccgatc 113 + 3.00
+gi323485151_  19 tggcgatccgaactacagcaa..cg.cttcg  46 + 18.0
+SRS013687_Ba  40 tggctatccgaactgcagcta..cg.cttcg  67 + 19.3
+SRS077730_LA  65 cggcgatgcgagcaactacga..cg.cgtct  92 + 19.5
+SRS015133_WU  36 cggttatgcggacagcaacag..cg.cttct  63 + 18.5
+SRS013951_WU 108 gtggggctcgtacaccgacgt..cggctccc 136 + 23.3
+SRS057478_LA  40 tggcgctacggactactccta..cg.cttcg  67 + 9.84
+SRS022713_LA  39 ggcgggcagcgttggcagcta..cggcttct  67 + 12.3
+gi83309559_V  17 gtgggtccagctcttcgacac..cggctacc  45 + 6.33
+SRS015217_WU   9 cgggg.ttcgagtttctacag..ca.cttcc  35 + 11.0
+SRS016095_WU   9 cgggg.ttcgagtttctacca..ca.cttcc  35 + 11.1
+SRS014459_WU  80 ctcgtattccagcgccagcgt..cgggggcc 108 + 21.9
+SRS024435_LA  77 gtcgtactcgaacgcgtacat..cggctctc 105 + 20.5
+SRS018656_WU  23 cagctatgcgagcgcgcatgg..cggcgtgt  51 + 16.5
+SRS016989_Ba  83 cacgaatgcggtcatcggcgtt.cggcttgc 112 + 20.6
+SRS015190_WU  83 ctcggttgcgagcatcggcgtt.cggcttgc 112 + 22.7
+SRS017433_Ba  83 cacggttgcggccatcggcgtt.cggcttgc 112 + 18.5
+SRS022524_Ba  83 cacgggtgcgttcatcggcgtt.cggcttgc 112 + 19.7
+SRS023583_Ba  83 cacgagtgcgagcatcggcgtt.cggcttgc 112 + 22.5
+SRS043411_WU  83 ctcggttgcgagcatcggcgtt.cggcttgc 112 + 22.7
+SRS019910_WU  83 cacgtatgcgggcatcggcgtt.cggcttgc 112 + 22.9
+SRS011239_Ba  83 cacgtatgcgagcatcggcgtt.cggcttgc 112 + 23.6
+SRS012902_Ba  83 cacgtatgcgagcatcggtgtt.cggcttgc 112 + 21.4
+SRS013687_Ba  22 gtggggtttgagcctcaacat..cggctacg  50 + 17.4
+SRS015264_WU 107 ttcgtttgcgtacgacgacgt..cggctgcc 135 + 22.8
+SRS064276_LA 109 gtccaactcgaacgcgagcat..cggctgcc 137 + 22.1
+gi322688997_  72 ctcggacgcgtggtgggcctg..cggcggtc 100 + 15.4
+SRS063985_LA  79 gtcggactcgtactgggaccg..ccgcgcgc 107 + 16.1
+gi239625916_  19 tggcggcggcgattggaacaa..cggcgtgc  47 + 19.7
+gi160938970_  19 tggcggcggccattggggcag..cggcgtgc  47 + 18.3
+gi27311204_V  81 gtcgaactcgaacagtagcat..cggttttc 109 + 20.7
+gi154504579_  83 gtggagtgtctctgcgaacgt..tggcgctc 111 + 9.54
+gi120599269_  74 ttcgagctcgagcatctacgt..cggtttcc 102 + 24.8
+SRS019030_Ba  80 gggcaatgcgagctggtacgt..cggtgcgt 108 + 18.7
+SRS016335_WU  35 tggctattgctacaacagtgg..cgacttct  63 + 15.8
+SRS011586_WU  82 gtggaatgtcagcacgaatgt..cggcgtgc 110 + 20.2
+SRS011271_WU  83 gtggaatgtcaatacgtacat..tggcgctc 111 + 12.7
+SRS014235_WU  10 cggcggcggcagctggtacca..tggcgttc  38 + 18.2
+SRS042628_WU  19 tggcggtggcaattggtacaa..cggggttc  47 + 16.6
+gi377805963_  19 tggcggtggcaactggaacga..cggggttc  47 + 21.2
+SRS023526_Ba  19 tggcggtggccgttggagcga..cggggttc  47 + 16.6
+SRS054956_LA  19 tggcggtggcagctggagcga..cggggttc  47 + 20.9
+SRS015794_Ba  19 tggcggcggcggttggaacga..cggcgtgc  47 + 20.4
+gi291524999_  19 tggcggcggcagttggggcga..cggcgtgc  47 + 21.0
+SRS013951_WU  20 tggcggcggcggttgcaacga..cggcgtgt  48 + 19.1
+gi377806011_  20 tggcggcggcggctggaacgg..cggcgtgc  48 + 22.7
+gi167758195_  17 tgcgggcgggaattggagcaa..cggcgtcc  45 + 23.8
+C1905524_VR1  11 cgcgggcggcgggtggaacaa..cggcgtta  39 + 14.6
+SRS018817_WU  18 cggcgatttcagcagctgcag..cgactgtt  46 + 13.4
+SRS054956_LA  22 ggactccggccactggagcgc..cagctacg  50 + 8.13
+SRS015133_WU  32 cgggaactacgttaacagcat..cggtgttc  60 + 13.2
+SRS023829_Ba  83 cacgtatgcgagcatcggtgtt.cggcttgc 112 + 21.4
+gi336413450_  84 cacgggtgcgtacatcggtgtt.cggcttgc 113 + 20.3
+SRS014459_WU  83 ctcgtatgcgatcatcggtgtt.cggcttgc 112 + 20.6
+C1580692_VR1  54 ttcgg.cgtgtactccagcgg..cgacgtcg  81 + 16.3
+C1764656_VR1  36 cggcaatgcgatttgcgacgg..cg.cttcg  63 + 18.7
+C1935518_VR1  37 tgcggacagctacagctacta..cagcagct  65 + 10.7
+SRS052027_LA  29 ctcgaatgcgaacagcggtct..cg.cttgg  56 + 21.1
+SRS043411_WU  77 gtcgtactcgagcgcgagctt..cggggcgc 105 + 17.6
+SRS043701_LA  29 ctcgtatgcggatagcggtct..cgcttatg  57 + 13.8
+SRS047014_WU  50 cgcttatgcgtacgcgaacgt..cg.cttct  77 + 18.9
+SRS023914_Ba  77 ttcgaactcgaacacgggctg..cggcggtc 105 + 21.6
+SRS015190_WU  77 gtcgtactcgagcgcgagctt..cggggcgc 105 + 17.6
+SRS015065_WU  22 ctcggttgcgtacagcggtct..cg.ctttt  49 + 17.1
+SRS047044_WU  29 ctcgaatgcggacagcggtct..cgcttatg  57 + 16.1
+gi41179367_V  16 ttcgg.cggcgcctggaacgg..ca.cgtcg  42 + 10.8
+SRS022609_Ba  77 gacgaactcgcacacgtacta..cggcgtgc 105 + 18.5
+gi113474819_  14 tgccgactacctctccaacga..taggggtt  42 + 3.22
+C5177931_VR1  76 cggctgggttactagcggcga..tggcgtcc 104 + 9.50
+SRS011134_Ba  44 ctcggttggtagtttgggcga..cggctctg  72 + 15.5
+SRS019582_WU   8 ttactactcgtacgcctacta..cg.ctcgg  35 + 10.9
+SRS064276_LA  91 cgccaacgcgtccaacgaggg..cggcgtcg 119 + 16.0
+SRS015264_WU  79 cgggagtgcctactgggacct..cggggccg 107 + 20.4
+SRS014683_WU  35 tggctgcggcagcagcgcttt..cgacgtct  63 + 13.3
+SRS043411_WU  78 ctccaatgccagcggcatcct..cgggggcc 106 + 16.3
+SRS064276_LA  79 ctcctatgcctgcggcaacat..cgggggcc 107 + 20.7
+SRS022137_WU  47 cggggaggctcacggcaattt..caactacc  75 + 8.17
+SRS055982_Ba  47 cggggaggctcacggcaattt..caactacc  75 + 8.17
+gi161789197_  67 ctccgactcgagcggtggcat..cggtttcc  95 + 21.7
+gi323486088_  79 ctccgatgcgggctggtccat..cggtttcc 107 + 22.6
+gi146277368_  81 gtcgatcgcgaacacgagcct..cgggtttc 109 + 20.6
+C2383034_VR1  79 cagcagtgtgagcacgtccct..cggcttcc 107 + 18.7
+SRS013951_WU  79 cggcggtgcgggcacggacct..cggcttcc 107 + 25.3
+gi260587208_  79 cagcggtgtgtccacgtacct..cggcttcc 107 + 18.9
+gi299145828_  38 ctggggcgtgtactttagtaa..tggctact  66 + 12.2
+SRS023346_LA  68 cggctacggcagcaagtgcgg..cagtggca  96 + 12.6
+SRS056259_LA  38 ctggttcgtgggctttagtaa..tggcggct  66 + 9.02
+SRS011586_WU  53 tagtaatggcaacttcagcaa..cggcagca  81 + 11.9
+gi194337359_  19 cgtgg.cgggagctggaacta..cggtgccg  46 + 11.0
+gi332533803_  81 ttcgtatgcgaacagtgcttt..cggttttc 109 + 17.6
+gi291621968_  81 gtcgaactcggtcagtaacat..cggttttc 109 + 17.0
+gi71065017_V  81 gacgaacggcgaccaccactt..cggtgtcc 109 + 15.9
+gi291546485_  44 cgcgggtgtcggttacagtag..cggcgtct  72 + 16.2
+SRS019397_WU  41 ggcct.tacgacctgctacgg..cg.cttcg  67 + 9.98
+SRS019910_WU  40 tggcaatgcgcactgcaacgg..cg.cttcg  67 + 21.8
+SRS015065_WU  40 tggcaatccgaactactacaa..cg.cttcg  67 + 16.7
+SRS015264_WU  19 tggcggtggccactggagcta..cggggttc  47 + 18.2
+SRS016018_WU  40 tggctctgcggactacaccta..cg.cttcg  67 + 14.8
+SRS022137_WU  35 tggtatctataacgacggtga..cggcgacg  63 + 7.49
+SRS016095_WU  48 tgggtccggcggctactactggtcggcttcg  78 + 12.4
+SRS015663_WU  82 cggtgccgcgtactgggacgg..cggggtcg 110 + 18.8
+C2197865_VR1  64 caacgatgcgaacaacagcta..tggggttg  92 + 12.9
+gi345871758_  11 cgcgg.cggttcgtggagcgt..cggcgggc  38 + 10.0
+SRS019787_WU  79 ttcttactcgaacagcggcat..cggcttcc 107 + 25.2
+C4412323_VR1  79 ttcttactcgaacagcggcat..cggcttcc 107 + 25.2
+C2204788_VR1 109 gtcgtacgccagcgcgagcat..cggctgcc 137 + 22.9
+
+                 cgcggacgcgaactgcagcgt  cggcttcc
+                 ttgctgttgcgg atgga  a      g gg
+                     a     t   c t   g        t 
+
+ a  c  g  t Del Ins Score
+ 0 99 26 68   0      101.
+                  0 -0.168
+30  0 82 81   0      90.9
+                  0 -0.168
+ 9 102 80  2   0      126.
+                  0 -0.168
+ 0 65 117 11   0      142.
+                  0 -0.168
+61  1 69 62   0      61.4
+                  0 -0.168
+97 16 48 18  14     -22.1
+                  0 -0.168
+ 0 98  5 90   0      153.
+                  0 -0.168
+ 7 12 118 56   0      109.
+                  0 -0.168
+ 9 107 51 26   0      70.2
+                  0 -0.168
+ 0 71 109 13   0      131.
+                  0 -0.168
+77 21 49 46   0      12.6
+                  0 -0.168
+97 16 66 14   0      65.2
+                  0 -0.168
+ 1 156  6 30   0      209.
+                  0 -0.168
+64 16 34 79   0      27.6
+                  0 -0.168
+28 43 78 44   0      7.03
+                  0 -0.168
+ 0 105 78 10   0      137.
+                  0 -0.168
+75 15 63 40   0      23.9
+                  0 -0.168
+83 12 95  3   0      110.
+                  0 -0.168
+ 0 156  2 35   0      227.
+                  0 -0.168
+36 34 88 35   0      15.7
+                  0 -0.168
+50  4 46 93   0      61.3
+                 18 -95.3
+ 0 175  1 17   0      283.
+                  0 -0.168
+19  7 166  1   0      234.
+                  0 -0.168
+ 9  6 146  4  28      85.7
+                  0 -0.168
+ 0 133 22 38   0      145.
+                  0 -0.168
+11  1 65 116   0      134.
+                  0 -0.168
+28 26 24 115   0      62.8
+                  0 -0.168
+ 0 111 42 40   0      102.
+                  0 -0.168
+ 8 102 53 30   0      64.2
+
+Score: 2693.21  Columns: 26  Sequences: 194
+
+                 **************************
+SRS012273_Ba  56 ctgcaccgacaccaacgggtcc.cgc  80 + 13.1
+SRS052027_LA  34 cacgaacgcgtacatcc.tgtt.cgt  57 + 15.5
+gi254523226_   1 cggccgcctggtcctcggcgtc.cgc  25 + 13.8
+gi237721078_  18 cgtgggcttcaacggcggc.ag.cgt  41 + 11.1
+SRS064645_LA  12 ttggaacgtgtacttcagctac.ggc  36 + 14.2
+SRS058770_LA  18 cgtgtacttcagcagcggc.ac.cgt  41 + 13.7
+SRS053214_LA  12 ttggaccgtgaacttcagcggc.ggc  36 + 13.6
+C2336306_VR1  98 cgggtgtgcgggtttgggt.tg.cgt 121 + 8.23
+C1673591_VR1  23 tacgt.cacggacttcggttgc.agc  46 + 12.4
+gi336402102_  84 cacgtatgcgtacatcggcgtt.cgg 108 + 24.5
+C3074383_VR1  83 cgcgagtgcgagcatcggcgtt.cgg 107 + 25.3
+SRS013687_Ba  83 ctcgaacacgggctgcggcggt.cgg 107 + 21.6
+SRS019030_Ba  83 ctcgtacgcgaactacggggcg.cgt 107 + 21.9
+SRS022609_Ba  14 ctcgtacgccaacgtcg.c.tc.ggg  36 + 16.2
+gi189425132_   1 ctcgt.tgactacagcaaccgt.ggc  24 + 3.57
+SRS015663_WU  62 cgactattccagcttctgcacg.agt  86 + 3.10
+SRS015264_WU  83 cacgatcgcgagcatcggctct.cgg 107 + 21.2
+C3869178_VR1  52 cttgaacggcatctacaagtac.agc  76 + 5.05
+gi345893474_  75 cctgagcgcgaacatcggttgc.cgc  99 + 20.2
+gi266622220_  26 tacggactaccacggcg.c.tt.cgg  48 + 7.84
+gi332534155_  87 tgcgggcagctctcttggtttc.cgt 111 + 11.9
+SRS016086_WU  31 tgcgtacgcgggcggtggcgttgcgt  56 + 14.0
+SRS017307_Ba  83 caccagcgcgccctgggcttgt.cgc 107 + 6.87
+SRS016203_WU  55 ctcgtactcgagcttcggtggg.cgg  79 + 22.9
+SRS014459_WU   1 ctcgaatgcgctcagcggt.ct.cgc  24 + 17.6
+SRS013687_Ba  55 ctcgagcgcgtactgcggggcg.cgt  79 + 21.5
+gi253574968_  65 cgcct.cgactacctcggctgg.cgg  88 + 14.8
+SRS020869_Ba  65 ctccagcccgtgcgtcggtttc.cgc  89 + 21.7
+SRS012273_Ba  66 ctccaatccgcgcgtcggtttc.cgc  90 + 19.7
+SRS056519_LA  65 ctccaacccgcgcgtcggtttc.cgc  89 + 21.2
+SRS023604_Ba  52 ctcgtacggctactactatgtc.agt  76 + 10.7
+SRS014459_WU  83 gtcgcacgaccacgttggtttc.cgc 107 + 13.5
+C2457943_VR1  72 gtcgcacgaccacgttggtttc.cgc  96 + 13.5
+C2209444_VR1  52 tggcaacacgtacggcagctac.ggc  76 + 11.8
+SRS022609_Ba  57 cacgtacaactacgtcaagtcc.agc  81 + 6.53
+C3424173_VR1  80 cgccaacggctccctcggcgtc.cgc 104 + 22.8
+SRS077730_LA  61 cgggtctgcgagcagcagc.ta.cgc  84 + 9.60
+C1505893_VR1  85 ctacgacgcctacttttcgttt.ggc 109 + 6.30
+SRS016335_WU  21 cggcggttgctactacggtgct.gat  45 + 3.88
+gi126659397_  71 cgcga.cggcagctacggtttt.ggg  94 + 16.3
+gi126659397_  76 cgacttctacgattttgggttg.cgt 100 + 7.08
+gi186684985_  46 cgcgtcccgcaacctcagctat.agg  70 + 8.31
+SRS016335_WU  31 tgacagctacgacaact.ttcc.cgc  54 + 3.67
+SRS017821_Ba  85 tgcccactgggccgtcggg.gc.cgc 108 + 12.5
+SRS013951_WU  85 tgccggctggaacctcggg.gc.cgc 108 + 15.1
+gi355363092_  29 ctcgggaggtacctgcg.t.tc.cgc  51 + 2.11
+SRS018817_WU  36 cttcggctgtaacttcagc.tg.cgt  59 + 10.5
+gi17230989_V  53 cgcgg.caacaacgatagggcg.ggg  76 + 3.82
+SRS015190_WU  18 cgtgtacttcaactacggc.aa.cgt  41 + 9.26
+SRS043411_WU  18 cgtgggcttcaacttcggc.gg.cgt  41 + 14.6
+gi293372957_  12 ttggatcgtgtacttcagcggc.ggc  36 + 13.3
+SRS023176_Ba  12 ttggtacgtgacattcagcggc.ggc  36 + 4.99
+gi160885942_  18 cgtgtacttcttcaacggc.ta.cgt  41 + 10.7
+SRS022137_WU  17 gtcgcacgcgtacaacg.tgcg.cgt  40 + 11.2
+SRS017521_Ba  67 cggca.cgcgctcctcggtttc.cgt  90 + 15.4
+SRS013951_WU  67 cggca.cgtgtacctcggtttc.cgc  90 + 16.9
+SRS023914_Ba  75 ccagatcgcgcacgtcggtttc.cgc  99 + 15.6
+SRS056259_LA  65 ctcctacccgggcctcggtttc.cgc  89 + 20.9
+gi257440840_  66 ctccctcccgaccgtcggtttc.cgc  90 + 16.3
+SRS015663_WU  65 ctcctattcgagcgtcggtttc.cgc  89 + 23.1
+SRS063985_LA  42 ctggaactactactatg.c.tt.cgc  64 + 10.7
+SRS014683_WU  65 ctcttacccgaacctcggtttc.cgc  89 + 20.1
+SRS019030_Ba  65 ctcctacccgtacctcggtttc.cgc  89 + 22.2
+gi291561556_  16 ttccg.tgggtacagctcggcc.cgc  39 + 4.36
+SRS019161_WU  31 ctcggacacgcatatcggttcg.cgc  55 + 18.6
+gi257094650_  50 cgccgaccggggcgtcggtttc.cgc  74 + 19.8
+gi345871758_  56 tgtcg.cgcccactacg.cgcc.ggg  78 + 5.13
+SRS019161_WU  83 cacgagtgcgtacatcggcgtt.cgg 107 + 24.0
+SRS019161_WU  49 cggtaacacttacagcc.c.tt.cgt  71 + 2.69
+SRS023914_Ba  82 tgccagcggttacgtcggc.gc.cgc 105 + 16.2
+SRS011306_Ba  66 cgctacttcgtgcggtg.cgtc.cgg  89 + 9.41
+SRS011302_Ba  80 cgcgtactcgtacatcggtggc.ggc 104 + 24.0
+SRS052697_LA  80 cgcgggctcgggcttcggtggc.ggc 104 + 20.7
+SRS015190_WU  80 tgcgtacacgtacatcggtggc.ggc 104 + 21.7
+gi355629964_  25 tgcggccgcgcgcatcggcttc.cgt  49 + 20.8
+SRS078176_LA  69 cgacatttggctcatcggcctc.agc  93 + 7.98
+SRS015217_WU  43 ctcgtactggggcctcggcttc.cgc  67 + 24.0
+C3236803_VR1  82 ctcgaactggggcctcggcttc.cgc 106 + 24.4
+gi338999650_  36 ctcgaatgcgtatctcgggctg.cgg  60 + 16.2
+C1746428_VR1  79 ctcgttttggttttacgggctg.ggc 103 + 7.60
+SRS020328_Ba  45 ctcgc.tttggccttcgcgttg.cgg  68 + 5.89
+SRS022137_WU  38 gacca.tgcttactttggcctt.cgc  61 + 6.00
+gi227485876_  62 cgcga.tggcaacggcggcgtt.cgc  85 + 19.4
+SRS053398_LA  64 ctactacggccgctacggcctg.cgc  88 + 13.7
+SRS015663_WU   1 tgccggctcggcccgcagcgcc.cgc  25 + 13.1
+SRS015065_WU  52 cgggggcggcgcctacggcggc.ggc  76 + 15.3
+SRS011302_Ba  64 ctaccgcggcgacggcggcctg.cgc  88 + 12.4
+SRS017433_Ba  85 tgcgaactggcacctttcc.gc.cgc 108 + 7.10
+gi323485151_  25 tccgaactacagcaacg.c.tt.cgt  47 + 8.21
+SRS013687_Ba  46 tccgaactgcagctacg.c.tt.cgg  68 + 8.78
+SRS077730_LA  86 cgcgtctaattctcttggcgtt.cgt 110 + 7.94
+SRS015133_WU  57 cgcttcttcctctattggcgtt.cgc  81 + 11.9
+SRS013951_WU 114 ctcgtacaccgacgtcggctcc.cga 138 + 18.0
+SRS057478_LA  46 tacggactactcctacg.cttc.ggc  69 + 9.38
+SRS022713_LA  21 ctactattccaatggcggggcg.ggc  45 + 9.39
+gi83309559_V  29 cttcgacaccggctaccagggc.agc  53 + 1.94
+SRS015217_WU  26 cagcacttccagcggtggtgct.ggt  50 + 8.66
+SRS016095_WU  14 ttcgagtttctaccaca.cttc.cgg  37 + 8.37
+SRS014459_WU  86 ttccagcgccagcgtcgggggc.cgt 110 + 19.7
+SRS024435_LA  83 ctcgaacgcgtacatcggctct.cgg 107 + 26.2
+SRS018656_WU  29 tgcgagcgcgcatggcggcgtgtcgt  54 + 11.8
+SRS016989_Ba  83 cacgaatgcggtcatcggcgtt.cgg 107 + 22.4
+SRS015190_WU  83 ctcggttgcgagcatcggcgtt.cgg 107 + 22.1
+SRS017433_Ba  83 cacggttgcggccatcggcgtt.cgg 107 + 18.2
+SRS022524_Ba  83 cacgggtgcgttcatcggcgtt.cgg 107 + 21.0
+SRS023583_Ba  83 cacgagtgcgagcatcggcgtt.cgg 107 + 23.6
+SRS043411_WU  83 ctcggttgcgagcatcggcgtt.cgg 107 + 22.1
+SRS019910_WU  83 cacgtatgcgggcatcggcgtt.cgg 107 + 23.2
+SRS011239_Ba  83 cacgtatgcgagcatcggcgtt.cgg 107 + 24.0
+SRS012902_Ba  83 cacgtatgcgagcatcggtgtt.cgg 107 + 23.4
+SRS013687_Ba  28 tttgagcctcaacatcggc.ta.cgc  51 + 11.2
+SRS015264_WU 113 tgcgtacgacgacgtcggctgc.cgc 137 + 21.2
+SRS064276_LA 115 ctcgaacgcgagcatcggctgc.cgc 139 + 27.0
+gi322688997_  78 cgcgtggtgggcctgcggcggt.cgc 102 + 11.4
+SRS063985_LA  85 ctcgtactgggaccgccgcgcg.cgt 109 + 14.7
+gi239625916_  91 cgtgtacgcgagcattggtgtg.cgg 115 + 21.7
+gi160938970_  91 cgtgaccgcgagcattggtgtg.cgg 115 + 19.5
+gi27311204_V  87 ctcgaacagtagcatcggtttt.cgc 111 + 22.0
+gi154504579_  89 tgtctctgcgaacgttggcgct.cgt 113 + 14.9
+gi120599269_  80 ctcgagcatctacgtcggtttc.cgt 104 + 21.1
+SRS019030_Ba  86 tgcgagctggtacgtcg.g.tg.cgt 108 + 12.7
+SRS016335_WU 101 tagttactccttttgtggtttt.cgt 125 + 7.57
+SRS011586_WU  88 tgtcagcacgaatgtcggcgtg.cgt 112 + 16.7
+SRS011271_WU  89 tgtcaatacgtacattggcgct.cgt 113 + 16.9
+SRS014235_WU  82 cgtgaccacggacatcggcgcg.cgg 106 + 18.9
+SRS042628_WU   4 cttgcgcgcgctcattggcggt.ggc  28 + 15.4
+gi377805963_   4 cttgcacgcgctcattggcggt.ggc  28 + 16.2
+SRS023526_Ba   4 cttgcacgcgctcgttggcggt.ggc  28 + 15.5
+SRS054956_LA   4 cttgcacgcgctccttggcggt.ggc  28 + 14.9
+SRS015794_Ba  91 cgtgctcacgtacattggtgtg.cgg 115 + 16.0
+gi291524999_  91 cgtggccgcgtacgttggtgtg.cgg 115 + 18.0
+SRS013951_WU   5 cttgcacgccctcattggcggc.ggc  29 + 15.7
+gi377806011_  26 cggcggctggaacggcggcgtg.cgt  50 + 18.4
+gi167758195_  23 cgggaattggagcaacggcgtc.cgc  47 + 21.8
+C1905524_VR1  83 tgttagcgcggttattggcgcg.cgc 107 + 11.3
+SRS018817_WU  42 ctgttgcgacatccgcggtgtt.cgc  66 + 14.2
+SRS054956_LA  19 cggggactccggccactgg.ag.cgc  42 + 6.47
+SRS015133_WU  39 tacgt.taacagcatcggtgtt.cgc  62 + 13.8
+SRS023829_Ba  83 cacgtatgcgagcatcggtgtt.cgg 107 + 23.4
+gi336413450_  84 cacgggtgcgtacatcggtgtt.cgg 108 + 22.3
+SRS014459_WU  83 ctcgtatgcgatcatcggtgtt.cgg 107 + 23.9
+C1580692_VR1  59 cgtgtactccagcggcgacgtc.ggc  83 + 16.2
+C1764656_VR1  36 cggcaatgcgatttgcgac.gg.cgc  59 + 7.82
+C1935518_VR1  52 ctactacagcagctacggg.ct.cgc  75 + 11.2
+SRS052027_LA  29 ctcgaatgcgaacagcggt.ct.cgc  52 + 21.0
+SRS043411_WU  83 ctcgagcgcgagcttcggggcg.cgt 107 + 22.6
+SRS043701_LA  29 ctcgtatgcggatagcggt.ct.cgc  52 + 16.6
+SRS047014_WU  29 ctcgaatgcgtacagcggt.ct.cgc  52 + 20.8
+SRS023914_Ba  83 ctcgaacacgggctgcggcggt.cgg 107 + 21.6
+SRS015190_WU  83 ctcgagcgcgagcttcggggcg.cgt 107 + 22.6
+SRS015065_WU  76 ctcgtacacgtactacggggcg.cgt 100 + 20.0
+SRS047044_WU  29 ctcgaatgcggacagcggt.ct.cgc  52 + 20.2
+gi41179367_V  87 ctcgttcgcgttcttcggggcg.cgc 111 + 19.7
+SRS022609_Ba  83 ctcgcacacgtactacggcgtg.cgg 107 + 21.1
+C5177931_VR1  61 cggttacttcggcagcggc.tg.ggt  84 + 9.41
+SRS011134_Ba  75 cgcgg.tggttacattggcgtt.cgt  98 + 15.1
+SRS019582_WU  74 tttcagtggtagctatggcgtt.cgt  98 + 12.4
+SRS064276_LA  91 cgccaacgcgtccaacgagggc.ggc 115 + 14.5
+SRS015264_WU  85 tgcctactgggacctcggg.gc.cgc 108 + 15.8
+SRS014683_WU  35 tggctgcggcagcagcg.cttt.cga  58 + 8.85
+SRS043411_WU  84 tgccagcggcatcctcgggggc.cgt 108 + 17.0
+SRS064276_LA  85 tgcctgcggcaacatcgggggc.cgt 109 + 19.8
+SRS022137_WU  15 cgtgg.cggtcattatggttct.ggc  38 + 4.39
+SRS055982_Ba  23 tacttatggttatggcggt.ct.cgc  46 + 5.64
+gi161789197_  73 ctcgagcggtggcatcggtttc.cgt  97 + 21.4
+gi323486088_  85 tgcgggctggtccatcggtttc.cgc 109 + 20.9
+SRS024132_Ba   2 cgcgcgcgcggttaacgcttct.ggt  26 + 9.00
+gi146277368_  87 cgcgaacacgagcctcgggttt.cgc 111 + 23.6
+C2383034_VR1  85 tgtgagcacgtccctcggcttc.cgt 109 + 18.8
+SRS013951_WU  85 tgcgggcacggacctcggcttc.cgt 109 + 21.1
+gi260587208_  85 tgtgtccacgtacctcggcttc.cgt 109 + 18.6
+gi299145828_  38 ctggggcgtgtactttagtaat.ggc  62 + 6.03
+SRS023346_LA  53 tagtaatggcaacttcggctac.ggc  77 + 11.8
+SRS056259_LA  32 cggcagctggttcgtgggcttt.agt  56 + 9.69
+SRS011586_WU  38 ctggtacgtgagctttagtaat.ggc  62 + 7.13
+gi194337359_  24 cgggagctggaactacggt.gc.cgt  47 + 16.6
+gi332533803_  81 ttcgtatgcgaacagtg.cttt.cgg 104 + 15.9
+gi291621968_  87 ctcggtcagtaacatcggtttt.cgc 111 + 18.8
+gi71065017_V  87 cggcgaccaccacttcggtgtc.cgg 111 + 15.3
+gi291546485_  38 cgcgaacgcgggtgtcggttac.agt  62 + 15.5
+SRS019397_WU  46 tacgacctgctacggcgcttcg.agc  70 + 6.76
+SRS019910_WU  46 tgcgcactgcaacggcg.cttc.ggg  69 + 12.5
+SRS015065_WU  46 tccgaactactacaacg.c.tt.cga  68 + 4.21
+SRS015264_WU   4 cttgcgcgcgctcgttggcggt.ggc  28 + 14.6
+SRS016018_WU  46 tgcggactacacctacg.c.tt.cgt  68 + 9.40
+SRS022137_WU 101 cagcatcggcatctttggtttc.cgt 125 + 14.0
+SRS016095_WU 112 ctcga.cttctacagcggtcac.cgg 135 + 11.1
+SRS015663_WU  88 cgcgtactgggacggcggggtc.ggt 112 + 19.6
+C2197865_VR1  13 cgggagcagtaactacg.ttcg.cgg  36 + 9.44
+gi345871758_  83 cgctt.cgacttcatcggcctg.cgt 106 + 10.9
+SRS019787_WU  85 ctcgaacagcggcatcggcttc.cgc 109 + 24.3
+SRS017307_Ba  42 cttca.ttcctctaatggtgtt.ggt  65 + 5.74
+C4412323_VR1  85 ctcgaacagcggcatcggcttc.cgc 109 + 24.3
+C2204788_VR1 115 cgccagcgcgagcatcggctgc.cgc 139 + 24.9
+
+                 cgcgaacgcgaacatcggcgtcgcgc
+                 tt ctgttgctg tg   tt tt  t
+                           g  g       g   g
+
+ a  c  g  t Del Ins Score
+ 0 140  4 50   0      190.
+                  0 -0.168
+26  5 83 80   0      70.5
+                  0 -0.168
+10 120 32 32   0      83.8
+                  0 -0.168
+ 0 53 130 11   0      157.
+                  0 -0.168
+80 18 36 60   0      23.0
+                  0 -0.168
+94 15 53 14  18     -31.2
+                  0 -0.168
+ 1 141  1 51   0      198.
+                  0 -0.168
+31 12 98 53   0      50.1
+                  0 -0.168
+21 102 52 19   0      51.6
+                  0 -0.168
+ 0 67 113 14   0      132.
+                  0 -0.168
+70 24 40 60   0      7.95
+                  0 -0.168
+91 21 56 26   0      33.5
+                  0 -0.168
+ 1 173  0 20   0      275.
+                  0 -0.168
+71 28 42 53   0      2.86
+                  0 -0.168
+35  0 41 118   0      113.
+                  0 -0.168
+ 0 155  3 36   0      221.
+                  0 -0.168
+16  4 167  7   0      227.
+                  0 -0.168
+ 8  7 158  0  21      146.
+                  0 -0.168
+ 0 98 30 66   0      96.2
+                  0 -0.168
+ 3  9 82 65  35     -46.5
+                  0 -0.168
+13 38 38 105   0      53.6
+                  0 -0.168
+ 4 79 41 70   0      56.5
+                  0 -0.168
+ 0  0  1  1 192     -31.7
+                  0 -0.168
+11 146 37  0   0      183.
+                  0 -0.168
+ 1  0 193  0   0      368.
+                  0 -0.168
+ 3 94 43 54   0      66.8
+
+Score: 2687.64  Columns: 26  Sequences: 195
+
+                 **************************
+SRS012273_Ba  56 ctgcaccgacaccaacgggtc.ccgc  80 + 13.2
+SRS052027_LA  34 cacgaacgcgtacatc.ctgt.tcgt  57 + 13.9
+gi254523226_   1 cggccgcctggtcctcggcgt.ccgc  25 + 14.8
+gi237721078_  12 ttggtgcgtgggcttcaacgg.cggc  36 + 12.1
+SRS064645_LA  12 ttggaacgtgtacttcagcta.cggc  36 + 15.7
+SRS058770_LA  18 cgtgtacttcagcagcggc.a.ccgt  41 + 14.2
+SRS053214_LA  12 ttggaccgtgaacttcagcgg.cggc  36 + 15.4
+C2336306_VR1  98 cgggtgtgcgggtttgggt.t.gcgt 121 + 7.04
+C1673591_VR1  23 tacg.tcacggacttcggttg.cagc  46 + 9.48
+gi336402102_  84 cacgtatgcgtacatcggcgt.tcgg 108 + 24.0
+C3074383_VR1  83 cgcgagtgcgagcatcggcgt.tcgg 107 + 25.3
+SRS013687_Ba  83 ctcgaacacgggctgcggcgg.tcgg 107 + 21.0
+SRS019030_Ba  83 ctcgtacgcgaactacggggc.gcgt 107 + 21.6
+SRS022609_Ba  14 ctcgtacgccaacgtc.gc.t.cggg  36 + 15.1
+gi189425132_  21 tggctattccgtctat.gt.g.cggt  43 + 2.23
+SRS015663_WU  62 cgactattccagcttctgcac.gagt  86 + 4.51
+SRS015264_WU  83 cacgatcgcgagcatcggctc.tcgg 107 + 20.2
+C3869178_VR1  52 cttgaacggcatctacaagta.cagc  76 + 7.10
+gi345893474_  75 cctgagcgcgaacatcggttg.ccgc  99 + 17.4
+gi266622220_  26 tacggactaccacggc.gc.t.tcgg  48 + 6.11
+gi332534155_  21 tggcaattggagcaac.acgt.ccgc  44 + 13.9
+SRS016086_WU  31 tgcgtacgcgggcggtggcgttgcgt  56 + 12.2
+SRS017307_Ba  15 ctgcgctcggctcttcggg.g.cggc  38 + 6.79
+SRS016203_WU  55 ctcgtactcgagcttcggtgg.gcgg  79 + 22.7
+SRS014459_WU   1 ctcgaatgcgctcagcggt.c.tcgc  24 + 16.0
+SRS013687_Ba   1 ctcgaattcgaacagcggt.c.tcgc  24 + 19.8
+gi253574968_  65 cgcc.tcgactacctcggctg.gcgg  88 + 10.6
+SRS020869_Ba  65 ctccagcccgtgcgtcggttt.ccgc  89 + 22.1
+SRS012273_Ba  66 ctccaatccgcgcgtcggttt.ccgc  90 + 20.7
+SRS056519_LA  65 ctccaacccgcgcgtcggttt.ccgc  89 + 21.8
+SRS023604_Ba  52 ctcgtacggctactactatgt.cagt  76 + 12.9
+SRS014459_WU  83 gtcgcacgaccacgttggttt.ccgc 107 + 10.1
+C2457943_VR1  72 gtcgcacgaccacgttggttt.ccgc  96 + 10.1
+C2209444_VR1  52 tggcaacacgtacggcagcta.cggc  76 + 13.7
+SRS022609_Ba  57 cacgtacaactacgtcaagtc.cagc  81 + 6.84
+C3424173_VR1  80 cgccaacggctccctcggcgt.ccgc 104 + 22.7
+SRS077730_LA  61 cgggtctgcgagcagcagc.t.acgc  84 + 13.0
+C1505893_VR1  70 cgggtctgcgaactactac.g.acgc  93 + 7.84
+SRS016335_WU  21 cggcggttgctactacggtgc.tgat  45 + 10.7
+gi126659397_  71 cgcg.acggcagctacggttt.tggg  94 + 16.6
+gi126659397_  43 ttccgcctaccgcgacggctt.taat  67 + 5.68
+gi186684985_  46 cgcgtcccgcaacctcagcta.tagg  70 + 10.5
+SRS016335_WU  28 tggtgacagctacgacaactt.tccc  52 + 1.31
+SRS017821_Ba  85 tgcccactgggccgtcggg.g.ccgc 108 + 13.3
+SRS013951_WU  85 tgccggctggaacctcggg.g.ccgc 108 + 16.8
+gi355363092_  49 cgcttaccgctacttcaggcc.cctt  73 + 4.99
+SRS018817_WU  36 cttcggctgtaacttcagc.t.gcgt  59 + 10.4
+gi17230989_V  46 cgcgtcccgcggcaacaacga.tagg  70 + 6.68
+SRS015190_WU  18 cgtgtacttcaactacggc.a.acgt  41 + 11.5
+SRS043411_WU  18 cgtgggcttcaacttcggc.g.gcgt  41 + 13.8
+gi293372957_  12 ttggatcgtgtacttcagcgg.cggc  36 + 14.5
+SRS023176_Ba  12 ttggtacgtgacattcagcgg.cggc  36 + 6.59
+gi160885942_  18 cgtgtacttcttcaacggc.t.acgt  41 + 11.3
+SRS022137_WU  47 ctcggacgggagcctcaacta.cctc  71 + 11.9
+SRS017521_Ba  67 cggc.acgcgctcctcggttt.ccgt  90 + 14.9
+SRS013951_WU  67 cggc.acgtgtacctcggttt.ccgc  90 + 17.6
+SRS023914_Ba  75 ccagatcgcgcacgtcggttt.ccgc  99 + 12.4
+SRS056259_LA  65 ctcctacccgggcctcggttt.ccgc  89 + 22.0
+gi257440840_  66 ctccctcccgaccgtcggttt.ccgc  90 + 16.0
+SRS015663_WU  65 ctcctattcgagcgtcggttt.ccgc  89 + 24.2
+SRS063985_LA  42 ctggaactactactat.gc.t.tcgc  64 + 9.68
+SRS014683_WU  65 ctcttacccgaacctcggttt.ccgc  89 + 20.8
+SRS019030_Ba  65 ctcctacccgtacctcggttt.ccgc  89 + 22.8
+gi291561556_  16 ttcc.gtgggtacagctcggc.ccgc  39 + 4.93
+SRS019161_WU  31 ctcggacacgcatatcggttc.gcgc  55 + 16.0
+gi257094650_  50 cgccgaccggggcgtcggttt.ccgc  74 + 21.8
+gi345871758_  56 tgtc.gcgcccactac.gcgc.cggg  78 + 4.58
+SRS019161_WU  83 cacgagtgcgtacatcggcgt.tcgg 107 + 23.0
+SRS019161_WU  49 cggtaacacttacagc.cc.t.tcgt  71 + 2.08
+SRS023914_Ba  82 tgccagcggttacgtcggc.g.ccgc 105 + 16.7
+SRS011306_Ba  66 cgctacttcgtgcggt.gcgt.ccgg  89 + 8.85
+SRS011302_Ba  80 cgcgtactcgtacatcggtgg.cggc 104 + 24.0
+SRS052697_LA  80 cgcgggctcgggcttcggtgg.cggc 104 + 21.2
+SRS015190_WU  80 tgcgtacacgtacatcggtgg.cggc 104 + 21.5
+gi355629964_  25 tgcggccgcgcgcatcggctt.ccgt  49 + 20.6
+SRS078176_LA  48 ctcctggtgccgctacggctt.cgac  72 + 9.33
+SRS015217_WU  43 ctcgtactggggcctcggctt.ccgc  67 + 24.4
+C3236803_VR1  82 ctcgaactggggcctcggctt.ccgc 106 + 24.5
+gi338999650_  36 ctcgaatgcgtatctcgggct.gcgg  60 + 13.3
+C1746428_VR1  16 ctgcgttggctattacggctt.gctc  40 + 8.12
+SRS020328_Ba 112 cacgaacggcatttactgtgc.tctt 136 + 5.94
+SRS022137_WU  38 gacc.atgcttactttggcct.tcgc  61 + 3.53
+gi227485876_  62 cgcg.atggcaacggcggcgt.tcgc  85 + 19.5
+SRS053398_LA  64 ctactacggccgctacggcct.gcgc  88 + 13.1
+SRS015663_WU   1 tgccggctcggcccgcagcgc.ccgc  25 + 14.0
+SRS015065_WU  52 cgggggcggcgcctacggcgg.cggc  76 + 16.6
+SRS011302_Ba  61 cgcctaccgcggcgacggcgg.cctg  85 + 14.5
+SRS017433_Ba  85 tgcgaactggcacctttcc.g.ccgc 108 + 7.06
+gi323485151_  19 tggcgatccgaactacagc.a.acgc  42 + 9.07
+SRS013687_Ba  40 tggctatccgaactgcagc.t.acgc  63 + 11.7
+SRS077730_LA  65 cggcgatgcgagcaactac.g.acgc  88 + 9.18
+SRS015133_WU  57 cgcttcttcctctattggcgt.tcgc  81 + 10.5
+SRS013951_WU 114 ctcgtacaccgacgtcggctc.ccga 138 + 14.2
+SRS057478_LA  46 tacggactactcctac.gctt.cggc  69 + 8.26
+SRS022713_LA  21 ctactattccaatggcggggc.gggc  45 + 8.50
+gi83309559_V  29 cttcgacaccggctaccaggg.cagc  53 + 3.20
+SRS015217_WU  26 cagcacttccagcggtggtgc.tggt  50 + 8.87
+SRS016095_WU  14 ttcgagtttctaccac.actt.ccgg  37 + 8.02
+SRS014459_WU  86 ttccagcgccagcgtcggggg.ccgt 110 + 20.0
+SRS024435_LA  83 ctcgaacgcgtacatcggctc.tcgg 107 + 24.6
+SRS018656_WU  29 tgcgagcgcgcatggcggcgtgtcgt  54 + 10.9
+SRS016989_Ba  83 cacgaatgcggtcatcggcgt.tcgg 107 + 21.4
+SRS015190_WU  83 ctcggttgcgagcatcggcgt.tcgg 107 + 22.1
+SRS017433_Ba  83 cacggttgcggccatcggcgt.tcgg 107 + 17.3
+SRS022524_Ba  83 cacgggtgcgttcatcggcgt.tcgg 107 + 19.8
+SRS023583_Ba  83 cacgagtgcgagcatcggcgt.tcgg 107 + 23.3
+SRS043411_WU  83 ctcggttgcgagcatcggcgt.tcgg 107 + 22.1
+SRS019910_WU  83 cacgtatgcgggcatcggcgt.tcgg 107 + 23.2
+SRS011239_Ba  83 cacgtatgcgagcatcggcgt.tcgg 107 + 24.2
+SRS012902_Ba  83 cacgtatgcgagcatcggtgt.tcgg 107 + 23.5
+SRS013687_Ba  28 tttgagcctcaacatcggc.t.acgc  51 + 12.3
+SRS015264_WU 113 tgcgtacgacgacgtcggctg.ccgc 137 + 20.8
+SRS064276_LA 115 ctcgaacgcgagcatcggctg.ccgc 139 + 26.9
+gi322688997_  78 cgcgtggtgggcctgcggcgg.tcgc 102 + 14.7
+SRS063985_LA  85 ctcgtactgggaccgccgcgc.gcgt 109 + 12.7
+gi239625916_  91 cgtgtacgcgagcattggtgt.gcgg 115 + 20.1
+gi160938970_  91 cgtgaccgcgagcattggtgt.gcgg 115 + 17.6
+gi27311204_V  87 ctcgaacagtagcatcggttt.tcgc 111 + 21.2
+gi154504579_  89 tgtctctgcgaacgttggcgc.tcgt 113 + 14.7
+gi120599269_  14 cggcgactggagcagcggcgt.cagc  38 + 20.3
+SRS019030_Ba  86 tgcgagctggtacgtcggt.g.cgtc 109 + 12.5
+SRS016335_WU  35 tggctattgctacaacagtgg.cgac  59 + 10.6
+SRS011586_WU  88 tgtcagcacgaatgtcggcgt.gcgt 112 + 15.1
+SRS011271_WU  89 tgtcaatacgtacattggcgc.tcgt 113 + 15.8
+SRS014235_WU  16 cggcagctggtaccatggcgt.tcgc  40 + 19.2
+SRS042628_WU  25 tggcaattggtacaacggggt.tcac  49 + 16.5
+gi377805963_  25 tggcaactggaacgacggggt.tcac  49 + 17.5
+SRS023526_Ba  25 tggccgttggagcgacggggt.tcgc  49 + 16.3
+SRS054956_LA  25 tggcagctggagcgacggggt.tcac  49 + 16.0
+SRS015794_Ba  25 cggcggttggaacgacggcgt.gcat  49 + 15.1
+gi291524999_  91 cgtggccgcgtacgttggtgt.gcgg 115 + 15.8
+SRS013951_WU   5 cttgcacgccctcattggcgg.cggc  29 + 12.6
+gi377806011_  26 cggcggctggaacggcggcgt.gcgt  50 + 19.5
+gi167758195_  23 cgggaattggagcaacggcgt.ccgc  47 + 24.7
+C1905524_VR1  17 cggcgggtggaacaacggcgt.taac  41 + 10.6
+SRS018817_WU  42 ctgttgcgacatccgcggtgt.tcgc  66 + 13.1
+SRS054956_LA  19 cggggactccggccactgg.a.gcgc  42 + 8.99
+SRS015133_WU  38 ctacgttaacagcatcggtgt.tcgc  62 + 12.4
+SRS023829_Ba  83 cacgtatgcgagcatcggtgt.tcgg 107 + 23.5
+gi336413450_  84 cacgggtgcgtacatcggtgt.tcgg 108 + 21.5
+SRS014459_WU  83 ctcgtatgcgatcatcggtgt.tcgg 107 + 23.1
+C1580692_VR1  59 cgtgtactccagcggcgacgt.cggc  83 + 17.1
+C1764656_VR1  18 tgccagtgtgggcagcggcgg.caat  42 + 10.6
+C1935518_VR1  52 ctactacagcagctacggg.c.tcgc  75 + 12.2
+SRS052027_LA  29 ctcgaatgcgaacagcggt.c.tcgc  52 + 20.5
+SRS043411_WU  83 ctcgagcgcgagcttcggggc.gcgt 107 + 21.3
+SRS043701_LA  29 ctcgtatgcggatagcggt.c.tcgc  52 + 15.6
+SRS047014_WU  29 ctcgaatgcgtacagcggt.c.tcgc  52 + 19.9
+SRS023914_Ba  83 ctcgaacacgggctgcggcgg.tcgg 107 + 21.0
+SRS015190_WU  83 ctcgagcgcgagcttcggggc.gcgt 107 + 21.3
+SRS015065_WU  76 ctcgtacacgtactacggggc.gcgt 100 + 19.0
+SRS047044_WU  29 ctcgaatgcggacagcggt.c.tcgc  52 + 19.5
+gi41179367_V  87 ctcgttcgcgttcttcggggc.gcgc 111 + 17.6
+SRS022609_Ba  83 ctcgcacacgtactacggcgt.gcgg 107 + 19.7
+gi113474819_  17 cgactacctctccaacgat.a.gggg  40 + 0.204
+C5177931_VR1  61 cggttacttcggcagcggc.t.gggt  84 + 10.0
+SRS011134_Ba  75 cgcg.gtggttacattggcgt.tcgt  98 + 13.9
+SRS019582_WU  74 tttcagtggtagctatggcgt.tcgt  98 + 12.7
+SRS064276_LA  91 cgccaacgcgtccaacgaggg.cggc 115 + 16.2
+SRS015264_WU  85 tgcctactgggacctcggg.g.ccgc 108 + 17.6
+SRS014683_WU  71 cggcaatgtgagctactgggg.cagc  95 + 12.5
+SRS043411_WU  84 tgccagcggcatcctcggggg.ccgt 108 + 17.1
+SRS064276_LA  85 tgcctgcggcaacatcggggg.ccgt 109 + 20.7
+SRS022137_WU  15 cgtg.gcggtcattatggttc.tggc  38 + 2.12
+SRS055982_Ba  23 tacttatggttatggcggt.c.tcgc  46 + 5.07
+gi161789197_  73 ctcgagcggtggcatcggttt.ccgt  97 + 20.3
+gi323486088_  85 tgcgggctggtccatcggttt.ccgc 109 + 20.6
+SRS024132_Ba   2 cgcgcgcgcggttaacgcttc.tggt  26 + 5.95
+gi146277368_  87 cgcgaacacgagcctcgggtt.tcgc 111 + 23.2
+C2383034_VR1  85 tgtgagcacgtccctcggctt.ccgt 109 + 16.7
+SRS013951_WU  85 tgcgggcacggacctcggctt.ccgt 109 + 20.4
+gi260587208_  85 tgtgtccacgtacctcggctt.ccgt 109 + 17.4
+gi299145828_  38 ctggggcgtgtactttagtaa.tggc  62 + 6.46
+SRS023346_LA  53 tagtaatggcaacttcggcta.cggc  77 + 13.7
+SRS056259_LA  32 cggcagctggttcgtgggctt.tagt  56 + 9.44
+SRS011586_WU  38 ctggtacgtgagctttagtaa.tggc  62 + 8.48
+gi194337359_  24 cgggagctggaactacggt.g.ccgt  47 + 18.4
+gi332533803_  81 ttcgtatgcgaacagt.gctt.tcgg 104 + 14.5
+gi291621968_  87 ctcggtcagtaacatcggttt.tcgc 111 + 17.7
+gi71065017_V  87 cggcgaccaccacttcggtgt.ccgg 111 + 16.4
+gi291546485_  38 cgcgaacgcgggtgtcggtta.cagt  62 + 15.5
+SRS019397_WU  22 tgcctatgtgggctacgatgg.cctt  46 + 10.2
+SRS019910_WU  46 tgcgcactgcaacggc.gctt.cggg  69 + 11.6
+SRS015065_WU  40 tggcaatccgaactactac.a.acgc  63 + 5.34
+SRS015264_WU  25 tggccactggagctacggggt.tcac  49 + 14.9
+SRS016018_WU  46 tgcggactacacctac.gc.t.tcgt  68 + 8.86
+SRS022137_WU 101 cagcatcggcatctttggttt.ccgt 125 + 13.2
+SRS016095_WU 112 ctcg.acttctacagcggtca.ccgg 135 + 9.45
+SRS015663_WU  88 cgcgtactgggacggcggggt.cggt 112 + 19.9
+C2197865_VR1  64 caacgatgcgaacaacagcta.tggg  88 + 10.4
+gi345871758_  16 cggttcgtggagcgtcggcgg.gcgc  40 + 11.7
+SRS019787_WU  85 ctcgaacagcggcatcggctt.ccgc 109 + 23.7
+SRS017307_Ba   2 tggtcactctggcaatggcgg.tcag  26 + 5.16
+C4412323_VR1  85 ctcgaacagcggcatcggctt.ccgc 109 + 23.7
+C2204788_VR1 115 cgccagcgcgagcatcggctg.ccgc 139 + 25.6
+
+                 cgcgaacgcgaacatcggcgtgccgc
+                 ttgctgttgctg ta   ttgtt  t
+                     g     g  g           g
+
+ a  c  g  t Del Ins Score
+ 0 135  3 57   0      188.
+                  0 -0.168
+24  2 96 73   0      90.9
+                  0 -0.168
+ 8 113 52 22   0      83.9
+                  0 -0.168
+ 0 71 112 12   0      137.
+                  0 -0.168
+70 12 39 62  12     -42.4
+                  0 -0.168
+112 17 52 14   0      76.3
+                  0 -0.168
+ 0 129  4 62   0      177.
+                  0 -0.168
+25 20 92 58   0      37.0
+                  0 -0.168
+14 96 64 21   0      56.3
+                  0 -0.168
+ 0 61 122 12   0      145.
+                  0 -0.168
+81 20 41 53   0      17.7
+                  0 -0.168
+91 16 70 18   0      54.9
+                  0 -0.168
+ 1 180  0 14   0      297.
+                  0 -0.168
+69 27 43 56   0      2.92
+                  0 -0.168
+53  0 35 107   0      99.2
+                  0 -0.168
+ 0 168  2 25   0      255.
+                  0 -0.168
+22  2 147 10  14      109.
+                  0 -0.168
+17  5 173  0   0      262.
+                  0 -0.168
+ 0 102 31 62   0      98.1
+                  0 -0.168
+ 3  5 89 60  38     -38.5
+                  0 -0.168
+18 33 43 101   0      41.9
+                  0 -0.168
+ 0  0  1  1 193     -31.7
+                  0 -0.168
+ 9 88 29 69   0      54.0
+                  0 -0.168
+15 145 35  0   0      174.
+                  0 -0.168
+12  1 175  7   0      262.
+                  0 -0.168
+ 1 103 42 49   0      85.2
+
+Score: 2559.83  Columns: 24  Sequences: 194
+
+                 ************************
+SRS012273_Ba  28 tctccaatggcgatatcggcgact  51 + 9.71
+SRS052027_LA  63 cgggcactgcgctctgcggcaacc  86 + 9.33
+gi254523226_  25 cgtggttcgtcgatttctacgacg  48 + 9.75
+gi237721078_  11 gttggtgcgtgggcttcaacggcg  34 + 16.1
+SRS064645_LA  11 gttggaacgtgtacttcagctacg  34 + 17.4
+SRS058770_LA  11 gttggtacgtgtacttcagcagcg  34 + 17.1
+SRS053214_LA  11 gttggaccgtgaacttcagcggcg  34 + 15.2
+C2336306_VR1  97 tcgggtgtgcgggtttgggttgcg 120 + 13.9
+C1673591_VR1  45 gcctgagcttcctctggagttacg  68 + 5.00
+gi336402102_  50 tttcgtgtgcgaacgcgagttacg  73 + 20.3
+C3074383_VR1  49 tttcgtgtgcgagcgcggtttacg  72 + 15.1
+SRS013687_Ba  49 tcgcttatgcgaacgcgagcagcg  72 + 19.9
+SRS019030_Ba  49 tcgcttgtgcgtgcgcgagctacg  72 + 20.1
+SRS022609_Ba  43 gctcggatggtggtttgagctacg  66 + 15.6
+SRS015663_WU 103 ctgcgactgacagtagctacagca 126 + 4.25
+SRS015264_WU  49 tgtcgttcgcgtactcgcactacg  72 + 15.3
+C3869178_VR1  39 ttggtagtggcggcttgaacggca  62 + 15.6
+gi345893474_   2 actccggcggctattggggcgacg  25 + 18.5
+gi266622220_   1 ttgccactgtgtacggccatggca  24 + 9.00
+gi332534155_  14 ctcgcggtggcaattggagcaaca  37 + 16.2
+SRS016086_WU  51 ttgcgttttcggttgcgagccacg  74 + 10.3
+SRS017307_Ba  61 actccgatggtctcgtcggcgaca  84 + 9.26
+SRS016203_WU  21 tcgcctttgcgaacgcgagctacg  44 + 19.6
+SRS014459_WU  21 tcgcttgtgcgatcgcgtaccacg  44 + 15.8
+SRS013687_Ba  21 tcgcttatgcgagcgcgaactacg  44 + 20.6
+gi253574968_  27 actcggcccgctactgggattaca  50 + 13.8
+SRS020869_Ba  28 attcggcccgctactgggacttca  51 + 14.9
+SRS012273_Ba  29 attcggcccgctactggaacctca  52 + 14.5
+SRS056519_LA  28 attcggcccgctactggtactaca  51 + 16.4
+SRS023604_Ba  51 gctcgtacggctactactatgtca  74 + 11.0
+SRS014459_WU  49 cgtccgctctctacttggctaacc  72 + 3.69
+C2457943_VR1  38 cgtccgctctctacttggctaacc  61 + 3.69
+C2209444_VR1  45 tctcgaatggcaacacgtacggca  68 + 14.9
+SRS022609_Ba  44 tctcggatggcagcacgtacaact  67 + 15.8
+C3424173_VR1  52 actccaatggcaactacggcaact  75 + 13.2
+SRS077730_LA  60 acgggtctgcgagcagcagctacg  83 + 18.0
+C1505893_VR1  69 acgggtctgcgaactactacgacg  92 + 17.5
+SRS016335_WU  14 tgcggttcggcggttgctactacg  37 + 12.7
+gi126659397_  39 gccgttccgccttccgcaactacg  62 + 10.2
+gi126659397_  39 gccgttccgcctaccgcgacggct  62 + 6.21
+gi186684985_   3 tgcggggcggttcctggatcttcg  26 + 9.90
+SRS016335_WU  21 tgcgaggtggtgacagctacgaca  44 + 5.67
+SRS017821_Ba  78 ccgggaatgcccactgggccgtcg 101 + 14.0
+SRS013951_WU  78 ccggggttgccggctggaacctcg 101 + 16.6
+gi119509703_   3 tgcggggcggttcctgggtcgacc  26 + 6.25
+gi355363092_  72 ttgctgatctcatcgacaacaacg  95 + 12.5
+SRS018817_WU  35 acttcggctgtaacttcagctgcg  58 + 10.2
+gi17230989_V  42 gttccgcgtcccgcggcaacaacg  65 + 12.5
+SRS015190_WU  11 gttggaccgtgtacttcaactacg  34 + 17.1
+SRS043411_WU  11 gttggagcgtgggcttcaacttcg  34 + 15.3
+gi293372957_  11 gttggatcgtgtacttcagcggcg  34 + 13.5
+SRS023176_Ba  32 gcggcagcgtctacgcgtactacc  55 + 12.5
+gi160885942_  11 gttggtacgtgtacttcttcaacg  34 + 13.9
+SRS022137_WU  46 actcggacgggagcctcaactacc  69 + 11.6
+SRS017521_Ba  59 cgtcctatcggcacgcgctcctcg  82 + 4.45
+SRS013951_WU  59 ccggctgtcggcacgtgtacctcg  82 + 11.5
+SRS023914_Ba  38 actcggcccgcagctggagttgca  61 + 12.7
+SRS056259_LA  34 cccgctactggtacggctactatg  57 + 10.9
+gi257440840_  29 attcggcccgccactgggacaacc  52 + 14.2
+SRS015663_WU  28 attcggcccgctactggtacatca  51 + 15.1
+SRS063985_LA  29 attcggcccgctactggaactact  52 + 16.5
+SRS014683_WU  28 cttcggcccgcttctggatcagca  51 + 10.2
+SRS019030_Ba  28 gttcggcccgctactggagctact  51 + 15.7
+gi291561556_  29 gctcggcccgctgctggaattacc  52 + 12.9
+SRS019161_WU  24 cgtcggactcggacacgcatatcg  47 + 7.14
+gi257094650_  43 ccggcagcgccgaccggggcgtcg  66 + 12.4
+gi345871758_  48 gctcggcgtgtcgcgcccactacg  71 + 5.53
+SRS019161_WU  49 tttcgtatgcgggcgcgagttacg  72 + 19.2
+SRS019161_WU   6 actctgctggcgacgtgtacctct  29 + 10.2
+SRS023914_Ba  75 tctcgaatgccagcggttacgtcg  98 + 13.2
+SRS011306_Ba  34 acggcaacggtagctggagcgacg  57 + 18.1
+SRS011302_Ba  73 cttcgaacgcgtactcgtacatcg  96 + 18.7
+SRS052697_LA  73 cttcgggcgcgggctcgggcttcg  96 + 18.4
+SRS015190_WU  39 tgttctctgcggactggtattgcg  62 + 12.9
+gi355629964_  18 gcggcggtgcggccgcgcgcatcg  41 + 10.9
+SRS078176_LA  11 tcgttgccggctactgcaaccttg  34 + 11.0
+SRS015217_WU  36 gctcggactcgtactggggcctcg  59 + 15.4
+C3236803_VR1   9 tctctggtggcggttggtacaacg  32 + 18.9
+gi338999650_  29 gctccagctcgaatgcgtatctcg  52 + 7.41
+C1746428_VR1  72 tttctaactcgttttggttttacg  95 + 7.21
+SRS020328_Ba  99 attcgtatggtgacacgaacggca 122 + 13.7
+SRS022137_WU  99 attcgtatggtgacgcgaacggcc 122 + 14.1
+gi227485876_  36 atggttccttgaactggagccgcg  59 + 13.2
+SRS053398_LA  39 atggcactctgttcaggaactacg  62 + 12.1
+SRS015663_WU  39 atggcactctgaactggaactacg  62 + 17.3
+SRS015065_WU  60 gcgcctacggcggcggcaacggcc  83 + 14.1
+SRS011302_Ba  39 ttggcacgctgggctggaacaacg  62 + 14.4
+SRS017433_Ba  12 ttcggttcggttcttgcgactacg  35 + 9.69
+gi323485151_  18 ttggcgatccgaactacagcaacg  41 + 18.5
+SRS013687_Ba  39 ttggctatccgaactgcagctacg  62 + 20.6
+SRS077730_LA  64 acggcgatgcgagcaactacgacg  87 + 15.0
+SRS015133_WU  35 ccggttatgcggacagcaacagcg  58 + 16.9
+SRS013951_WU  35 ttctctacgtcggcggctactacg  58 + 12.8
+SRS057478_LA  39 gtggcgctacggactactcctacg  62 + 7.87
+SRS022713_LA  26 attccaatggcggggcgggcagcg  49 + 11.0
+gi83309559_V   5 ttccggctcggcgtgggtccagct  28 + 5.13
+SRS015217_WU   7 tccggggttcgagtttctacagca  30 + 9.78
+SRS016095_WU   7 tccggggttcgagtttctaccaca  30 + 9.19
+SRS014459_WU  13 atcgcggtgcgtactggagcaatg  36 + 18.0
+SRS024435_LA  49 tgtcgtgcgcgagcacgagctacg  72 + 18.0
+SRS018656_WU  49 tgtcgtacgcgtacgcgagcatcg  72 + 18.9
+SRS016989_Ba  49 tttcgtatgcgtacgcgaattacg  72 + 20.6
+SRS015190_WU  49 tttcgtgtgcgtacgcgaataacg  72 + 20.8
+SRS017433_Ba  49 tttcgtgtgcgggcgcgagttacg  72 + 19.2
+SRS022524_Ba  49 tttcgtatgcgagcgcgaataacg  72 + 20.1
+SRS023583_Ba  49 tttcgtatgcgtacgcgattaacg  72 + 17.2
+SRS043411_WU  49 tttcgtgtgcgtacgcgaataacg  72 + 20.8
+SRS019910_WU  49 tttcgtttgcgagcgcgagtaacg  72 + 17.3
+SRS011239_Ba  49 tttcgtctgcggtcgcgagttacg  72 + 16.6
+SRS012902_Ba  49 tttcgtgtgcgtccgcgagtaacg  72 + 16.3
+SRS013687_Ba  42 tcggctacgcgtacggcagcacta  65 + 9.07
+SRS015264_WU 106 cttcgtttgcgtacgacgacgtcg 129 + 13.5
+SRS064276_LA  84 tgttctacgtgtactgcagcagcg 107 + 14.4
+gi322688997_  71 tctcggacgcgtggtgggcctgcg  94 + 12.4
+SRS063985_LA  78 cgtcggactcgtactgggaccgcc 101 + 10.7
+gi239625916_  18 ttggcggcggcgattggaacaacg  41 + 21.7
+gi160938970_  18 ttggcggcggccattggggcagcg  41 + 17.7
+gi27311204_V  14 ttcgcgggggctactggaacaatg  37 + 16.2
+gi154504579_  16 tagcgggcggctactggtacgatg  39 + 14.8
+gi120599269_   7 tccgtggcggcgactggagcagcg  30 + 19.7
+SRS019030_Ba  79 cgggcaatgcgagctggtacgtcg 102 + 16.3
+SRS016335_WU  28 ataggggtggctattgctacaaca  51 + 12.9
+SRS011586_WU  15 tagcgggcggcgactggagccttg  38 + 12.5
+SRS011271_WU  16 gagcgggcggcaactgggccgatg  39 + 9.76
+SRS014235_WU   9 tcggcggcggcagctggtaccatg  32 + 16.6
+SRS042628_WU  18 ttggcggtggcaattggtacaacg  41 + 21.1
+gi377805963_  18 ttggcggtggcaactggaacgacg  41 + 24.5
+SRS023526_Ba  18 ttggcggtggccgttggagcgacg  41 + 19.4
+SRS054956_LA  18 ttggcggtggcagctggagcgacg  41 + 23.3
+SRS015794_Ba  18 ttggcggcggcggttggaacgacg  41 + 20.5
+gi291524999_  18 ttggcggcggcagttggggcgacg  41 + 19.2
+SRS013951_WU  19 ttggcggcggcggttgcaacgacg  42 + 19.7
+gi377806011_  19 ttggcggcggcggctggaacggcg  42 + 21.8
+gi167758195_  16 ttgcgggcgggaattggagcaacg  39 + 22.4
+C1905524_VR1  10 tcgcgggcggcgggtggaacaacg  33 + 18.1
+SRS018817_WU  17 ccggcgatttcagcagctgcagcg  40 + 11.3
+SRS054956_LA  27 ccggccactggagcgccagctacg  50 + 8.15
+SRS015133_WU  10 cgccggttggcggcatcaacttcg  33 + 10.1
+SRS023829_Ba  49 tttcgtgtgcgtccgcgagtaacg  72 + 16.3
+gi336413450_  50 tttcgtgtgcgggcgcgagtcacg  73 + 17.5
+SRS014459_WU  49 tttcgtgtgcgagcgcggatttcg  72 + 17.2
+C1580692_VR1  52 ccttcggcgtgtactccagcggcg  75 + 13.7
+C1764656_VR1  35 gcggcaatgcgatttgcgacggcg  58 + 13.1
+C1935518_VR1  30 atgggtctgcggacagctacagct  53 + 13.0
+SRS052027_LA  49 tcgcttgggcgagcgcgagcagcg  72 + 15.8
+SRS043411_WU  49 tcgcttatgcgcacgcgtactacg  72 + 18.7
+SRS043701_LA  49 tcgcttatgcgctcgcgaactacg  72 + 17.4
+SRS047014_WU  49 tcgcttatgcgtacgcgaacgtcg  72 + 19.6
+SRS023914_Ba  49 tcgcttatgcgaacgcgagcagcg  72 + 19.9
+SRS015190_WU  49 tcgcttatgcgcacgcgtactacg  72 + 18.7
+SRS015065_WU  42 tcgcttttgcgaacgcgtactacg  65 + 17.8
+SRS047044_WU  49 tcgcttatgcggacgcgcacagcg  72 + 16.0
+gi41179367_V  53 ctcgcgctgcgctctggtacagcg  76 + 14.6
+SRS022609_Ba  49 tcgcgtactcgagcgcgaataacg  72 + 16.6
+gi113474819_  13 atgccgactacctctccaacgata  36 + 2.20
+C5177931_VR1  54 acggaaccggttacttcggcagcg  77 + 7.85
+SRS011134_Ba  43 gctcggttggtagtttgggcgacg  66 + 12.1
+SRS019582_WU  43 actcggatggtagtttgagcggct  66 + 11.0
+SRS064276_LA  69 acaccgccggcgacagcagcctcg  92 + 11.0
+SRS015264_WU  78 ccgggagtgcctactgggacctcg 101 + 17.4
+SRS014683_WU  25 ctgcgggtcgtggctgcggcagca  48 + 11.9
+SRS043411_WU  11 ttcgcggtggccactgggtcaatg  34 + 13.3
+SRS064276_LA  78 gctcctatgcctgcggcaacatcg 101 + 18.5
+SRS022137_WU  46 ccggggaggctcacggcaatttca  69 + 8.21
+SRS055982_Ba  46 ccggggaggctcacggcaatttca  69 + 8.21
+gi161789197_   1 acgcgg.tggctactggaacaacg  23 + 12.4
+gi323486088_  78 gctccgatgcgggctggtccatcg 101 + 15.8
+SRS024132_Ba  22 ctggtactagccattacaacaatg  45 + 3.26
+gi146277368_  80 ggtcgatcgcgaacacgagcctcg 103 + 10.8
+C2383034_VR1  12 ctcgcgggggcctctggtacggcg  35 + 11.5
+SRS013951_WU  12 ttcgcgggggcaactggggcggcg  35 + 16.7
+gi260587208_  12 atcgcgggggcgactggaacggcg  35 + 16.8
+gi299145828_  52 ttagtaatggctacttcggcaact  75 + 10.7
+SRS023346_LA  52 ttagtaatggcaacttcggctacg  75 + 14.4
+SRS056259_LA  52 ttagtaatggcggcttcggcaaca  75 + 10.9
+SRS011586_WU  52 ttagtaatggcaacttcagcaacg  75 + 15.8
+gi194337359_  17 ttcgtggcgggagctggaactacg  40 + 21.3
+gi332533803_  14 tacgtggcggcgtctggaactatg  37 + 10.4
+gi291621968_  26 actggggcgctggctcgggcgccg  49 + 10.9
+gi71065017_V  14 ttgtgggcggcaactggagctacg  37 + 20.8
+gi291546485_  13 actccggtggcaactatggctacg  36 + 13.2
+SRS019397_WU  21 ttgcctatgtgggctacgatggcc  44 + 9.46
+SRS019910_WU  39 atggcaatgcgcactgcaacggcg  62 + 18.7
+SRS015065_WU  39 atggcaatccgaactactacaacg  62 + 15.2
+SRS015264_WU  18 ttggcggtggccactggagctacg  41 + 22.9
+SRS016018_WU  39 atggctctgcggactacacctacg  62 + 15.0
+SRS022137_WU  28 atcgtggtggtatctataacgacg  51 + 7.63
+SRS016095_WU  80 tgggcgagagctgcagcagcaacg 103 + 9.03
+SRS015663_WU  81 tcggtgccgcgtactgggacggcg 104 + 19.7
+C2197865_VR1  48 cgggtagtctgaactacaacgatg  71 + 7.27
+gi345871758_   9 tgcgcggcggttcgtggagcgtcg  32 + 6.85
+SRS019787_WU  78 gttcttactcgaacagcggcatcg 101 + 12.4
+C4412323_VR1  78 gttcttactcgaacagcggcatcg 101 + 12.4
+C2204788_VR1 108 tgtcgtacgccagcgcgagcatcg 131 + 17.9
+
+                 tttcggatgggaactggaacaacg
+                 acggctgc cctg gccgg tg  
+                       c    g     t  g   
+
+ a  c  g  t Del Ins Score
+39 32 31 92   0      21.5
+                  0 -0.168
+ 4 75 23 92   0      81.2
+                  0 -0.168
+ 6 27 80 81   0      64.9
+                  0 -0.168
+ 0 98 88  8   0      143.
+                  0 -0.168
+ 2 68 89 35   0      73.7
+                  0 -0.168
+38  1 89 66   0      76.6
+                  0 -0.168
+69 41 69 14   1      13.7
+                  0 -0.168
+ 0 81 11 102   0      134.
+                  0 -0.168
+ 3 25 146 20   0      159.
+                  0 -0.168
+ 2 82 85 25   0      86.1
+                  0 -0.168
+ 0 80 94 20   0      110.
+                  0 -0.168
+62 24 49 59   0      2.96
+                  0 -0.168
+106  7 63 18   0      86.2
+                  0 -0.168
+ 0 161  4 29   0      231.
+                  0 -0.168
+20  4 56 114   0      100.
+                  0 -0.168
+15 52 97 30   0      44.1
+                  0 -0.168
+ 0 70 121  3   0      173.
+                  0 -0.168
+102  7 43 42   0      61.8
+                  0 -0.168
+101  9 75  9   0      98.5
+                  0 -0.168
+ 0 162  0 32   0      251.
+                  0 -0.168
+66 19 50 59   0      10.5
+                  0 -0.168
+108  2 46 38   0      86.9
+                  0 -0.168
+ 0 180  0 14   0      304.
+                  0 -0.168
+25 12 146 11   0      149.
+
+Score: 2427.74  Columns: 23  Sequences: 195
+
+                 *************..**********
+SRS012273_Ba  28 tctccaatggcga..tatcggcgac  50 + 10.0
+SRS052027_LA  62 tcgggcactgcgct.ctgcggcaac  85 + 10.9
+gi254523226_  64 accgccgcagcga..cggcgggttc  86 + 12.6
+gi237721078_  17 gcgtgggcttcaa..cggcggcagc  39 + 13.3
+SRS064645_LA  17 acgtgtacttcag..ctacggctac  39 + 19.2
+SRS058770_LA  17 acgtgtacttcag..cagcggcacc  39 + 17.1
+SRS053214_LA  17 ccgtgaacttcag..cggcggcaac  39 + 14.5
+C2336306_VR1   3 acggcgtctgttggtcggcggttcc  27 + 8.88
+C1673591_VR1  27 tcacggacttcgg..ttgcagcctg  49 + 12.0
+gi336402102_  89 atgcgtacatcggc.gttcggcttg 112 + 20.4
+C3074383_VR1  88 gtgcgagcatcggc.gttcggcttg 111 + 18.9
+SRS013687_Ba  34 atgcgaacagcgg..tctcgcttat  56 + 19.0
+SRS019030_Ba  34 atgcgtacagcgg..tctcgcttgt  56 + 18.8
+SRS022609_Ba  13 actcgtacgccaa..cgtcgctcgg  35 + 8.79
+gi189425132_   5 ttgactacagcaa..ccgtggctat  27 + 7.16
+SRS015663_WU  13 gcacgcttagcag..tagtgcttac  35 + 5.04
+SRS015264_WU  88 tcgcgagcatcggc.tctcggctcg 111 + 18.6
+C3869178_VR1  57 acggcatctacaa..gtacagcagt  79 + 4.77
+gi345893474_  80 gcgcgaacatcgg..ttgccgcctc 102 + 19.6
+gi266622220_  25 ttacggactacca..cggcgcttcg  47 + 6.48
+gi332534155_  86 gtgcgggcagctc..tcttggtttc 108 + 10.0
+SRS016086_WU  36 acgcgggcggtgg..cgttgcgttt  58 + 12.1
+SRS017307_Ba  67 atggtctcgtcgg..cgacaccagc  89 + 8.12
+SRS016203_WU   6 gtgcgagcagcgg..tctcgccttt  28 + 18.8
+SRS014459_WU   6 atgcgctcagcgg..tctcgcttgt  28 + 16.5
+SRS013687_Ba   6 attcgaacagcgg..tctcgcttat  28 + 17.3
+gi253574968_  63 gtcgcctcgacta..cctcggctgg  85 + 6.97
+SRS020869_Ba  70 gcccgtgcgtcgg..tttccgcccc  92 + 15.7
+SRS012273_Ba  71 atccgcgcgtcgg..tttccgcccc  93 + 15.5
+SRS056519_LA  70 acccgcgcgtcgg..tttccgcccc  92 + 16.0
+SRS023604_Ba  33 ccgttgtcagcag..tgacggctcg  55 + 10.3
+SRS014459_WU  88 acgaccacgttgg..tttccgctcc 110 + 13.5
+C2457943_VR1  77 acgaccacgttgg..tttccgctcc  99 + 13.5
+C2209444_VR1  57 acacgtacggcag..ctacggcaag  79 + 15.2
+SRS022609_Ba  56 gcacgtacaacta..cgtcaagtcc  78 + 5.99
+C3424173_VR1  85 acggctccctcgg..cgtccgcccc 107 + 14.5
+SRS077730_LA  66 ctgcgagcagcag..ctacgcctac  88 + 16.8
+C1505893_VR1  75 ctgcgaactacta..cgacgcctac  97 + 13.4
+SRS016335_WU  20 tcggcggttgcta..ctacggtgct  42 + 7.39
+gi126659397_  75 acggcagctacgg..ttttgggttg  97 + 12.3
+gi126659397_  42 gttccgcctaccg..cgacggcttt  64 + 6.64
+gi186684985_  45 ccgcgtcccgcaa..cctcagctat  67 + 8.06
+SRS016335_WU  27 gtggtgacagcta..cgacaacttt  49 + 4.81
+SRS017821_Ba  84 atgcccactgggc..cgtcggggcc 106 + 9.85
+SRS013951_WU  18 tcggtgattgcgg..caacggtacg  40 + 8.94
+gi119509703_  24 accttcctaggga..ctgccgttct  46 + 0.438
+gi355363092_  48 ccgcttaccgcta..cttcaggccc  70 + 6.03
+SRS018817_WU  23 ttatcaactacaa..cttcggctgt  45 + 9.07
+gi17230989_V  54 gcggcaacaacgatagggcggggcg  78 + 5.81
+SRS015190_WU  17 ccgtgtacttcaa..ctacggcaac  39 + 12.4
+SRS043411_WU  17 gcgtgggcttcaa..cttcggcggc  39 + 14.8
+gi293372957_  17 tcgtgtacttcag..cggcggcaac  39 + 15.5
+SRS023176_Ba  29 gcggcggcagcgt..ctacgcgtac  51 + 7.39
+gi160885942_  17 acgtgtacttctt..caacggctac  39 + 10.7
+SRS022137_WU  46 actcggacgggag..cctcaactac  68 + 7.02
+SRS017521_Ba  71 acgcgctcctcgg..tttccgtccc  93 + 16.6
+SRS013951_WU  71 acgtgtacctcgg..tttccgcccc  93 + 16.9
+SRS023914_Ba  80 tcgcgcacgtcgg..tttccgcccc 102 + 18.1
+SRS056259_LA  70 acccgggcctcgg..tttccgcccc  92 + 15.1
+gi257440840_  71 tcccgaccgtcgg..tttccgcccc  93 + 12.7
+SRS015663_WU  70 attcgagcgtcgg..tttccgcccc  92 + 17.7
+SRS063985_LA  41 actggaactacta..ctatgcttcg  63 + 10.0
+SRS014683_WU  70 acccgaacctcgg..tttccgcccc  92 + 16.6
+SRS019030_Ba  70 acccgtacctcgg..tttccgcccc  92 + 16.5
+gi291561556_  20 gtgggtacagctc..ggcccgctgc  42 + 6.07
+SRS019161_WU  36 acacgcatatcggt.tcgcgcctcg  59 + 11.7
+gi257094650_  49 gcgccgaccgggg..cgtcggtttc  71 + 15.9
+gi345871758_   1 ccgcgtgctgc.g..cggcggttcg  22 + 11.1
+SRS019161_WU  88 gtgcgtacatcggc.gttcggcttg 111 + 19.4
+SRS019161_WU  48 acggtaacactta..cagcccttcg  70 + 3.77
+SRS023914_Ba  81 atgccagcggtta..cgtcggcgcc 103 + 14.7
+SRS011306_Ba  19 tcgtgggtgtcag..gcacggcaac  41 + 6.54
+SRS011302_Ba  85 actcgtacatcgg..tggcggcttt 107 + 21.4
+SRS052697_LA  85 gctcgggcttcgg..tggcggcttt 107 + 18.5
+SRS015190_WU  85 acacgtacatcgg..tggcggcttt 107 + 19.9
+gi355629964_  30 ccgcgcgcatcgg..cttccgtgcc  52 + 18.0
+SRS078176_LA  74 tttggctcatcgg..cctcagctac  96 + 12.8
+SRS015217_WU  42 actcgtactgggg..cctcggcttc  64 + 18.5
+C3236803_VR1  87 actggggcctcgg..cttccgctcc 109 + 18.2
+gi338999650_  41 atgcgtatctcggg.ctgcggctct  64 + 16.6
+C1746428_VR1  33 gcttgctcgtggg..ctgcgctttg  55 + 9.91
+SRS020328_Ba  42 atgctcgctttggc.cttcgcgttg  65 + 10.7
+SRS022137_WU  42 atgcttactttggc.cttcgccttg  65 + 15.1
+gi227485876_  57 gcgcgcgcgatgg..caacggcggc  79 + 14.2
+SRS053398_LA  69 acggccgctacggc.ctgcgccccg  92 + 12.7
+SRS015663_WU  60 acgcctactactg..cggccacgcc  82 + 12.1
+SRS015065_WU  51 acgggggcggcgc..ctacggcggc  73 + 14.0
+SRS011302_Ba  60 acgcctaccgcgg..cgacggcggc  82 + 18.7
+SRS017433_Ba  18 tcggttcttgcga..ctacggtctg  40 + 6.33
+gi323485151_  24 atccgaactacag..caacgcttcg  46 + 13.3
+SRS013687_Ba  45 atccgaactgcag..ctacgcttcg  67 + 16.1
+SRS077730_LA  70 atgcgagcaacta..cgacgcgtct  92 + 13.0
+SRS015133_WU  41 atgcggacagcaa..cagcgcttct  63 + 16.1
+SRS013951_WU 113 gctcgtacaccga..cgtcggctcc 135 + 17.0
+SRS057478_LA  27 ttgtgctccacgg..tggcgctacg  49 + 8.63
+SRS022713_LA  59 acggcttctgttggtcggcggttcc  83 + 9.54
+gi83309559_V  22 tccagctcttcga..caccggctac  44 + 4.84
+SRS015217_WU  13 gttcgagtttcta..cagcacttcc  35 + 7.02
+SRS016095_WU  13 gttcgagtttcta..ccacacttcc  35 + 6.52
+SRS014459_WU  91 gcgccagcgtcgg..gggccgttcc 113 + 16.7
+SRS024435_LA  88 acgcgtacatcggc.tctcggctcg 111 + 21.0
+SRS018656_WU  34 gcgcgcatggcggc.gtgtcgtacg  57 + 6.23
+SRS016989_Ba  88 atgcggtcatcggc.gttcggcttg 111 + 18.1
+SRS015190_WU  88 ttgcgagcatcggc.gttcggcttg 111 + 18.0
+SRS017433_Ba  88 ttgcggccatcggc.gttcggcttg 111 + 15.0
+SRS022524_Ba  88 gtgcgttcatcggc.gttcggcttg 111 + 17.8
+SRS023583_Ba  88 gtgcgagcatcggc.gttcggcttg 111 + 18.9
+SRS043411_WU  88 ttgcgagcatcggc.gttcggcttg 111 + 18.0
+SRS019910_WU  88 atgcgggcatcggc.gttcggcttg 111 + 19.1
+SRS011239_Ba  88 atgcgagcatcggc.gttcggcttg 111 + 19.8
+SRS012902_Ba  88 atgcgagcatcggt.gttcggcttg 111 + 19.8
+SRS013687_Ba  27 gtttgagcctcaa..catcggctac  49 + 12.2
+SRS015264_WU 112 ttgcgtacgacga..cgtcggctgc 134 + 18.8
+SRS064276_LA 120 acgcgagcatcgg..ctgccgcctc 142 + 21.1
+gi322688997_  50 ccgcggacggctg..ggacggcctc  72 + 13.6
+SRS063985_LA  84 actcgtactggga..ccgccgcgcg 106 + 12.5
+gi239625916_  96 acgcgagcattggt.gtgcggtgcg 119 + 15.5
+gi160938970_   9 acgccctcgttgg..cggcggccat  31 + 14.5
+gi27311204_V  86 actcgaacagtag..catcggtttt 108 + 16.7
+gi154504579_  54 gctcgtgccgtggt.ttgcgacgtt  77 + 7.12
+gi120599269_  79 gctcgagcatcta..cgtcggtttc 101 + 18.0
+SRS019030_Ba  85 atgcgagctggta..cgtcggtgcg 107 + 13.7
+SRS016335_WU  40 attgctacaacag..tggcgacttc  62 + 11.2
+SRS011586_WU   8 gcgctgatagcggg.cggcgactgg  31 + 9.04
+SRS011271_WU  94 atacgtacattgg..cgctcgtggg 116 + 5.93
+SRS014235_WU  21 gctggtaccatgg..cgttcgcgcc  43 + 9.75
+SRS042628_WU   9 gcgcgctcattgg..cggtggcaat  31 + 12.8
+gi377805963_   9 acgcgctcattgg..cggtggcaac  31 + 14.9
+SRS023526_Ba   9 acgcgctcgttgg..cggtggccgt  31 + 12.9
+SRS054956_LA   9 acgcgctccttgg..cggtggcagc  31 + 12.9
+SRS015794_Ba   9 gcgccctcattgg..cggcggcggt  31 + 14.9
+gi291524999_   9 gcgccctcattgg..cggcggcagt  31 + 14.3
+SRS013951_WU  10 acgccctcattgg..cggcggcggt  32 + 15.8
+gi377806011_  10 acgccctcattgg..cggcggcggc  32 + 17.0
+gi167758195_  28 attggagcaacgg..cgtccgcggc  50 + 15.8
+C1905524_VR1  52 gcgctgtctactg..taacggctac  74 + 11.2
+SRS018817_WU  23 atttcagcagctg..cagcgactgt  45 + 8.49
+SRS054956_LA  24 actccggccactg..gagcgccagc  46 + 7.36
+SRS015133_WU  16 ttggcggcatcaa..cttcgggaac  38 + 9.89
+SRS023829_Ba  88 atgcgagcatcggt.gttcggcttg 111 + 19.8
+gi336413450_  89 gtgcgtacatcggt.gttcggcttg 112 + 19.4
+SRS014459_WU  88 atgcgatcatcggt.gttcggcttg 111 + 18.8
+C1580692_VR1  64 actccagcggcga..cgtcggcaac  86 + 16.3
+C1764656_VR1  41 atgcgatttgcga..cggcgcttcg  63 + 15.0
+C1935518_VR1  51 gctactacagcag..ctacgggctc  73 + 8.91
+SRS052027_LA  34 atgcgaacagcgg..tctcgcttgg  56 + 19.4
+SRS043411_WU  34 ttgcgcacggcgg..tctcgcttat  56 + 15.4
+SRS043701_LA  34 atgcggatagcgg..tctcgcttat  56 + 14.9
+SRS047014_WU  34 atgcgtacagcgg..tctcgcttat  56 + 18.9
+SRS023914_Ba  34 atgcgaacagcgg..tctcgcttat  56 + 19.0
+SRS015190_WU  34 ttgcgcacggcgg..tctcgcttat  56 + 15.4
+SRS015065_WU  27 ttgcgtacagcgg..tctcgctttt  49 + 17.6
+SRS047044_WU  34 atgcggacagcgg..tctcgcttat  56 + 18.2
+gi41179367_V  65 tctggtacagcggg.ccgtcgttct  88 + 9.56
+SRS022609_Ba  88 acacgtactacggc.gtgcggctgg 111 + 14.5
+C5177931_VR1  60 ccggttacttcgg..cagcggctgg  82 + 14.8
+SRS011134_Ba  79 gtggttacattgg..cgttcgtccc 101 + 10.1
+SRS019582_WU  55 gtttgagcggcta..ctttgctttc  77 + 8.92
+SRS064276_LA  96 acgcgtccaacga..gggcggcgtc 118 + 15.6
+SRS015264_WU  84 gtgcctactggga..cctcggggcc 106 + 11.2
+SRS014683_WU  34 gtggctgcggcag..cagcgctttc  56 + 13.2
+SRS043411_WU  23 actgggtcaatgg..cggcggcgcc  45 + 14.9
+SRS064276_LA  90 gcggcaacatcgg..gggccgttcc 112 + 16.8
+SRS022137_WU  28 atggttctggcgg..tctcgccggg  50 + 6.58
+SRS055982_Ba  28 atggttatggcgg..tctcgccggg  50 + 9.48
+gi161789197_  72 actcgagcggtgg..catcggtttc  94 + 18.0
+gi323486088_  90 gctggtccatcgg..tttccgctcc 112 + 16.4
+SRS024132_Ba   1 acgcgcgc.gcggt.taacgcttct  23 + 3.45
+gi146277368_  92 acacgagcctcggg.tttcgccccg 115 + 13.2
+C2383034_VR1  90 gcacgtccctcgg..cttccgtgcc 112 + 13.3
+SRS013951_WU  90 gcacggacctcgg..cttccgtgcc 112 + 15.6
+gi260587208_  90 ccacgtacctcgg..cttccgtgcc 112 + 14.3
+gi299145828_  43 gcgtgtactttag..taatggctac  65 + 10.2
+SRS023346_LA  58 atggcaacttcgg..ctacggcagc  80 + 17.9
+SRS056259_LA  58 atggcggcttcgg..caacaccagc  80 + 9.74
+SRS011586_WU  58 atggcaacttcag..caacggcagc  80 + 14.5
+gi194337359_  23 gcgggagctggaa..ctacggtgcc  45 + 11.6
+gi332533803_  86 atgcgaacagtgc..tttcggtttt 108 + 15.7
+gi291621968_  86 actcggtcagtaa..catcggtttt 108 + 12.7
+gi71065017_V  20 gcggcaactggag..ctacggcgcg  42 + 12.5
+gi291546485_  19 gtggcaactatgg..ctacggcgcg  41 + 14.3
+SRS019397_WU  45 ttacgacctgcta..cggcgcttcg  67 + 9.89
+SRS019910_WU  45 atgcgcactgcaa..cggcgcttcg  67 + 17.3
+SRS015065_WU  45 atccgaactacta..caacgcttcg  67 + 11.3
+SRS015264_WU   9 gcgcgctcgttgg..cggtggccac  31 + 13.2
+SRS016018_WU  45 ctgcggactacac..ctacgcttcg  67 + 9.95
+SRS022137_WU  40 tctataacgacgg..tgacggcgac  62 + 7.78
+SRS016095_WU   4 ttgcctgcggctgg.cggccgttgg  27 + 10.5
+SRS015663_WU  93 actgggacggcgg..ggtcggtgtg 115 + 15.4
+C2197865_VR1  69 atgcgaacaacag..ctatggggtt  91 + 12.1
+gi345871758_   1 ccgcgtgctgc.g..cggcggttcg  22 + 11.1
+SRS019787_WU  84 actcgaacagcgg..catcggcttc 106 + 22.9
+SRS017307_Ba  46 attcctctaatgg..tgttggtcct  68 + 4.34
+C4412323_VR1  84 actcgaacagcgg..catcggcttc 106 + 22.9
+C2204788_VR1 120 gcgcgagcatcgg..ctgccgcctc 142 + 20.1
+
+                 acgcgaacatcgg  cttcggctcc
+                 gttgctg tg  a  tgg  ct tg
+                                  a      t
+
+ a  c  g  t Del Ins Score
+100 14 52 29   0      49.6
+                  0 -0.168
+ 0 114  0 81   0      188.
+                  0 -0.168
+15 14 127 39   0      100.
+                  0 -0.168
+ 6 128 42 19   0      113.
+                  0 -0.168
+ 0 44 134 17   0      151.
+                  0 -0.168
+62 38 37 58   0     -4.42
+                  0 -0.168
+93 13 59 30   0      45.1
+                  0 -0.168
+ 0 177  0 18   0      292.
+                  0 -0.168
+80 22 38 54   1      4.70
+                  0 -0.168
+31  3 74 87   0      73.1
+                  0 -0.168
+ 0 151 11 33   0      192.
+                  0 -0.168
+35  2 128 28   2      103.
+                  0 -0.168
+45  7 141  2   0      171.
+                 38 -157.
+ 0 115 28 52   0      113.
+                  0 -0.168
+27 30 63 75   0      13.8
+                  0 -0.168
+39  3 61 92   0      67.6
+                  0 -0.168
+ 0 175  0 20   0      286.
+                  0 -0.168
+12 37 146  0   0      180.
+                  0 -0.168
+ 8 48 139  0   0      177.
+                  0 -0.168
+ 0 117 14 64   0      136.
+                  0 -0.168
+23 28 35 109   0      50.5
+                  0 -0.168
+36 73 34 52   0      1.87
+                  0 -0.168
+ 0 93 60 42   0      83.8
+
+Score: 2375.54  Columns: 20  Sequences: 193
+
+                 ********************
+SRS012273_Ba  34 atggcgatatcggcgactac  53 + 8.77
+SRS052027_LA  69 ctgcgctctgcggcaaccac  88 + 10.3
+gi254523226_   6 gcctggtcctcggcgtccgc  25 + 14.9
+gi237721078_  17 gcgtgggcttcaacggcggc  36 + 12.2
+SRS064645_LA  17 acgtgtacttcagctacggc  36 + 16.1
+SRS058770_LA  17 acgtgtacttcagcagcggc  36 + 14.6
+SRS053214_LA  17 ccgtgaacttcagcggcggc  36 + 15.3
+C2336306_VR1   3 acggcgtctgttg.gtcggc  21 + 6.54
+C1673591_VR1  27 tcacggacttcggttgcagc  46 + 12.9
+gi336402102_  89 atgcgtacatcggcgttcgg 108 + 20.6
+C3074383_VR1  88 gtgcgagcatcggcgttcgg 107 + 19.2
+SRS013687_Ba  34 atgcgaacagcggtctc.gc  52 + 17.6
+SRS019030_Ba  34 atgcgtacagcggtctc.gc  52 + 17.5
+SRS022609_Ba  79 gtggtagctatggcgttcgt  98 + 10.4
+gi189425132_   5 ttgactacagcaaccgtggc  24 + 5.51
+SRS015663_WU  61 acgactattccagcttctgc  80 + 3.62
+SRS015264_WU  88 tcgcgagcatcggctctcgg 107 + 14.1
+C3869178_VR1  66 acaagtacagcagttgctat  85 + 4.10
+gi345893474_  80 gcgcgaacatcggttgccgc  99 + 22.0
+gi266622220_  31 actaccacggcg.cttc.gg  48 + 3.43
+gi332534155_  26 attggagcaaca.cgtccgc  44 + 10.2
+SRS016086_WU  36 acgcgggcggtggcgtt.gc  54 + 14.6
+SRS017307_Ba  67 atggtctcgtcggcgac.ac  85 + 9.26
+SRS016203_WU   6 gtgcgagcagcggtctc.gc  24 + 16.0
+SRS014459_WU   6 atgcgctcagcggtctc.gc  24 + 15.3
+SRS013687_Ba   6 attcgaacagcggtctc.gc  24 + 15.8
+gi253574968_   9 gtgcgattcgcggctactac  28 + 7.36
+SRS020869_Ba  70 gcccgtgcgtcggtttccgc  89 + 17.8
+SRS012273_Ba  71 atccgcgcgtcggtttccgc  90 + 17.3
+SRS056519_LA  70 acccgcgcgtcggtttccgc  89 + 17.9
+SRS023604_Ba  33 ccgttgtcagcagtgacggc  52 + 8.10
+SRS014459_WU  88 acgaccacgttggtttccgc 107 + 13.9
+C2457943_VR1  77 acgaccacgttggtttccgc  96 + 13.9
+C2209444_VR1  57 acacgtacggcagctacggc  76 + 14.3
+SRS022609_Ba  56 gcacgtacaactacgtcaag  75 + 3.78
+C3424173_VR1  85 acggctccctcggcgtccgc 104 + 18.0
+SRS077730_LA  66 ctgcgagcagcagctac.gc  84 + 12.8
+C1505893_VR1  75 ctgcgaactactacgac.gc  93 + 8.21
+SRS016335_WU  23 gcggttgctactacggt.gc  41 + 5.31
+gi126659397_  75 acggcagctacggttttggg  94 + 13.0
+gi126659397_  66 atccgcgcttcgacttctac  85 + 9.66
+gi186684985_  45 ccgcgtcccgcaacctcagc  64 + 6.77
+SRS016335_WU  27 gtggtgacagctacgacaac  46 + 3.25
+SRS017821_Ba  90 actgggccgtcgg.ggccgc 108 + 11.3
+SRS013951_WU  90 gctggaacctcgg.ggccgc 108 + 13.6
+gi355363092_  48 ccgcttaccgctacttcagg  67 + 5.24
+SRS018817_WU  41 gctgtaacttcagctgc.gt  59 + 9.08
+gi17230989_V  45 ccgcgtcccgcggcaacaac  64 + 6.39
+SRS015190_WU  17 ccgtgtacttcaactacggc  36 + 10.7
+SRS043411_WU  17 gcgtgggcttcaacttcggc  36 + 12.5
+gi293372957_  17 tcgtgtacttcagcggcggc  36 + 15.2
+SRS023176_Ba  17 acgtgacattcagcggcggc  36 + 6.26
+gi160885942_  23 acttcttcaacggctac.gt  41 + 8.01
+SRS022137_WU  22 acgcgtacaacg..tgc.gc  38 + 7.56
+SRS017521_Ba  71 acgcgctcctcggtttccgt  90 + 17.5
+SRS013951_WU  71 acgtgtacctcggtttccgc  90 + 19.2
+SRS023914_Ba  80 tcgcgcacgtcggtttccgc  99 + 19.0
+SRS056259_LA  70 acccgggcctcggtttccgc  89 + 17.8
+gi257440840_  71 tcccgaccgtcggtttccgc  90 + 14.5
+SRS015663_WU  70 attcgagcgtcggtttccgc  89 + 19.3
+SRS063985_LA  72 cccctttcctcggtttccgc  91 + 13.0
+SRS014683_WU  70 acccgaacctcggtttccgc  89 + 19.3
+SRS019030_Ba  70 acccgtacctcggtttccgc  89 + 19.2
+gi291561556_  52 ctctcgtcctcg.tttcggc  70 + 3.07
+SRS019161_WU  36 acacgcatatcgg.ttc.gc  53 + 8.42
+gi257094650_  55 accggggcgtcggtttccgc  74 + 16.8
+gi345871758_   1 ccgcgtgctgcg.cggcggt  19 + 10.7
+SRS019161_WU  88 gtgcgtacatcggcgttcgg 107 + 19.7
+SRS023914_Ba  87 gcggttacgtcggcgcc.gc 105 + 12.2
+SRS011306_Ba  71 cttcgtgcggtg.cgtccgg  89 + 6.81
+SRS011302_Ba  85 actcgtacatcggtggcggc 104 + 20.7
+SRS052697_LA  85 gctcgggcttcggtggcggc 104 + 17.8
+SRS015190_WU  85 acacgtacatcggtggcggc 104 + 19.5
+gi355629964_  30 ccgcgcgcatcggcttccgt  49 + 18.4
+SRS078176_LA  74 tttggctcatcggcctcagc  93 + 11.8
+SRS015217_WU  48 actggggcctcggcttccgc  67 + 18.8
+C3236803_VR1  87 actggggcctcggcttccgc 106 + 18.8
+gi338999650_  48 tctcgggctgcggctctcgc  67 + 12.1
+C1746428_VR1   3 ttgctcgctttggctgc.gt  21 + 8.80
+SRS020328_Ba  42 atgctcgctttggccttcgc  61 + 14.0
+SRS022137_WU  42 atgcttactttggccttcgc  61 + 15.5
+gi227485876_  66 atggcaacggcggcgttcgc  85 + 17.8
+SRS053398_LA  60 acgcctactacggccgctac  79 + 11.8
+SRS015663_WU  60 acgcctactactgcggccac  79 + 13.2
+SRS015065_WU  57 gcggcgcctacggcggcggc  76 + 13.9
+SRS011302_Ba  60 acgcctaccgcggcgacggc  79 + 18.4
+SRS017433_Ba  90 actggcaccttt.ccgccgc 108 + 5.31
+gi323485151_  24 atccgaactacagcaac.gc  42 + 8.74
+SRS013687_Ba  45 atccgaactgcagctac.gc  63 + 12.3
+SRS077730_LA  70 atgcgagcaactacgac.gc  88 + 10.6
+SRS015133_WU  41 atgcggacagcaacagc.gc  59 + 10.5
+SRS013951_WU 113 gctcgtacaccgacgtcggc 132 + 13.1
+SRS057478_LA  27 ttgtgctccacggtggc.gc  45 + 8.81
+SRS022713_LA  50 ttggcagctacggcttctgt  69 + 10.2
+gi83309559_V  17 gtgggtccagct.cttcgac  35 + 4.88
+SRS015217_WU  28 gcacttccagcggtggt.gc  46 + 8.73
+SRS016095_WU  73 gttctttcgtcggcggcaat  92 + 7.08
+SRS014459_WU  91 gcgccagcgtcgggggccgt 110 + 13.1
+SRS024435_LA  88 acgcgtacatcggctctcgg 107 + 17.0
+SRS018656_WU  34 gcgcgcatggcgg.cgt.gt  51 + 2.27
+SRS016989_Ba  88 atgcggtcatcggcgttcgg 107 + 18.6
+SRS015190_WU  88 ttgcgagcatcggcgttcgg 107 + 17.8
+SRS017433_Ba  88 ttgcggccatcggcgttcgg 107 + 15.0
+SRS022524_Ba  88 gtgcgttcatcggcgttcgg 107 + 18.4
+SRS023583_Ba  88 gtgcgagcatcggcgttcgg 107 + 19.2
+SRS043411_WU  88 ttgcgagcatcggcgttcgg 107 + 17.8
+SRS019910_WU  88 atgcgggcatcggcgttcgg 107 + 19.3
+SRS011239_Ba  88 atgcgagcatcggcgttcgg 107 + 20.1
+SRS012902_Ba  88 atgcgagcatcggtgttcgg 107 + 19.0
+SRS013687_Ba  33 gcctcaacatcggctac.gc  51 + 11.8
+SRS015264_WU 118 acgacgacgtcggctgccgc 137 + 16.8
+SRS064276_LA 120 acgcgagcatcggctgccgc 139 + 23.4
+gi322688997_  50 ccgcggacggctgggacggc  69 + 9.26
+SRS063985_LA  36 gccggaactgcggccctcgt  55 + 8.94
+gi239625916_   9 gcgccctcattggcggcggc  28 + 16.6
+gi160938970_   9 acgccctcgttggcggcggc  28 + 16.2
+gi27311204_V  92 acagtagcatcggttttcgc 111 + 14.7
+gi154504579_  94 ctgcgaacgttggcgctcgt 113 + 10.8
+gi120599269_  19 actggagcagcggcgtcagc  38 + 17.2
+SRS019030_Ba  91 gctggtacgtcgg.tgc.gt 108 + 8.07
+SRS016335_WU  40 attgctacaacagtggcgac  59 + 9.34
+SRS011586_WU  27 actggagccttggcgttgat  46 + 9.95
+SRS011271_WU  94 atacgtacattggcgctcgt 113 + 11.4
+SRS014235_WU  21 gctggtaccatggcgttcgc  40 + 13.7
+SRS042628_WU   9 gcgcgctcattggcggtggc  28 + 16.7
+gi377805963_   9 acgcgctcattggcggtggc  28 + 17.6
+SRS023526_Ba   9 acgcgctcgttggcggtggc  28 + 16.4
+SRS054956_LA   9 acgcgctccttggcggtggc  28 + 16.2
+SRS015794_Ba   9 gcgccctcattggcggcggc  28 + 16.6
+gi291524999_   9 gcgccctcattggcggcggc  28 + 16.6
+SRS013951_WU  10 acgccctcattggcggcggc  29 + 17.5
+gi377806011_  10 acgccctcattggcggcggc  29 + 17.5
+gi167758195_  28 attggagcaacggcgtccgc  47 + 18.8
+C1905524_VR1 100 gcgcgcgcttcggctgtgac 119 + 15.4
+SRS018817_WU  47 gcgacatccgcggtgttcgc  66 + 12.6
+SRS054956_LA  18 acggggactccggccactgg  37 + 8.07
+SRS015133_WU  43 ttaacagcatcggtgttcgc  62 + 10.7
+SRS023829_Ba  88 atgcgagcatcggtgttcgg 107 + 19.0
+gi336413450_  89 gtgcgtacatcggtgttcgg 108 + 18.6
+SRS014459_WU  88 atgcgatcatcggtgttcgg 107 + 18.3
+C1580692_VR1  64 actccagcggcgacgtcggc  83 + 15.0
+C1764656_VR1  41 atgcgatttgcgacggc.gc  59 + 10.9
+C1935518_VR1  51 gctactacagcagctacggg  70 + 8.52
+SRS052027_LA  34 atgcgaacagcggtctc.gc  52 + 17.6
+SRS043411_WU  88 gcgcgagcttcgg.ggc.gc 105 + 13.9
+SRS043701_LA  34 atgcggatagcggtctc.gc  52 + 12.8
+SRS047014_WU  34 atgcgtacagcggtctc.gc  52 + 17.5
+SRS023914_Ba  34 atgcgaacagcggtctc.gc  52 + 17.6
+SRS015190_WU  88 gcgcgagcttcgg.ggc.gc 105 + 13.9
+SRS015065_WU  27 ttgcgtacagcggtctc.gc  45 + 15.1
+SRS047044_WU  34 atgcggacagcggtctc.gc  52 + 16.8
+gi41179367_V  92 tcgcgttcttcgg.ggc.gc 109 + 11.6
+SRS022609_Ba  34 atgcgggtggcggtctc.gc  52 + 10.9
+C5177931_VR1  60 ccggttacttcggcagcggc  79 + 14.0
+SRS011134_Ba  79 gtggttacattggcgttcgt  98 + 13.6
+SRS019582_WU  79 gtggtagctatggcgttcgt  98 + 10.4
+SRS064276_LA  96 acgcgtccaacgagggcggc 115 + 11.5
+SRS015264_WU  90 actgggacctcgg.ggccgc 108 + 13.7
+SRS014683_WU  25 ctgcgggtcgtggctgcggc  44 + 10.3
+SRS043411_WU  23 actgggtcaatggcggcggc  42 + 14.3
+SRS064276_LA  90 gcggcaacatcgggggccgt 109 + 13.9
+SRS022137_WU  28 atggttctggcggtctc.gc  46 + 5.91
+SRS055982_Ba  28 atggttatggcggtctc.gc  46 + 8.49
+gi161789197_  78 gcggtggcatcggtttccgt  97 + 15.2
+gi323486088_  90 gctggtccatcggtttccgc 109 + 16.9
+SRS024132_Ba   7 gcgcggttaacg.cttctgg  25 + 4.38
+gi146277368_  92 acacgagcctcgggtttcgc 111 + 13.6
+C2383034_VR1  90 gcacgtccctcggcttccgt 109 + 14.3
+SRS013951_WU  90 gcacggacctcggcttccgt 109 + 16.2
+gi260587208_  90 ccacgtacctcggcttccgt 109 + 15.5
+gi299145828_  58 atggctacttcggcaactac  77 + 9.83
+SRS023346_LA  58 atggcaacttcggctacggc  77 + 18.2
+SRS056259_LA  58 atggcggcttcggcaac.ac  76 + 8.67
+SRS011586_WU  58 atggcaacttcagcaacggc  77 + 13.0
+gi194337359_  29 gctggaactacgg.tgccgt  47 + 9.72
+gi332533803_  86 atgcgaacagtg.ctttcgg 104 + 11.1
+gi291621968_  92 tcagtaacatcggttttcgc 111 + 13.0
+gi71065017_V  92 accaccacttcggtgtccgg 111 + 12.2
+gi291546485_  19 gtggcaactatggctacggc  38 + 12.9
+SRS019397_WU  45 ttacgacctgctacggc.gc  63 + 4.77
+SRS019910_WU  45 atgcgcactgcaacggc.gc  63 + 12.6
+SRS015065_WU  45 atccgaactactacaac.gc  63 + 4.81
+SRS015264_WU   9 gcgcgctcgttggcggtggc  28 + 15.4
+SRS016018_WU   5 gtttcttcggctgttttcgc  24 + 7.03
+SRS022137_WU 106 tcggcatctttggtttccgt 125 + 11.8
+SRS016095_WU 116 acttctacagcggtcaccgg 135 + 10.8
+SRS015663_WU  93 actgggacggcggggtcggt 112 + 11.6
+C2197865_VR1  69 atgcgaacaacagctatggg  88 + 13.3
+gi345871758_   1 ccgcgtgctgcg.cggcggt  19 + 10.7
+SRS019787_WU  84 actcgaacagcggcatcggc 103 + 18.7
+SRS017307_Ba   7 actctggcaatggcggtcag  26 + 7.39
+C4412323_VR1  84 actcgaacagcggcatcggc 103 + 18.7
+C2204788_VR1 120 gcgcgagcatcggctgccgc 139 + 22.5
+
+                 acgcgaacatcggcgtccgc
+                 gt gctg tg   ttgtg  
+
+ a  c  g  t Del Ins Score
+100 20 53 20   0      49.6
+                  0 -0.168
+ 0 116  0 77   0      187.
+                  0 -0.168
+16 18 123 36   0      87.9
+                  0 -0.168
+11 115 50 17   0      85.8
+                  0 -0.168
+ 0 41 129 23   0      137.
+                  0 -0.168
+64 33 37 59   0     -1.11
+                  0 -0.168
+87 15 56 35   0      32.6
+                  0 -0.168
+ 1 180  0 12   0      301.
+                  0 -0.168
+80 29 33 51   0      11.0
+                  0 -0.168
+27  3 55 108   0      89.6
+                  0 -0.168
+ 0 160  0 33   0      247.
+                  0 -0.168
+25  0 154 14   0      198.
+                  0 -0.168
+20  0 162  0  11      198.
+                  0 -0.168
+ 0 120  6 55  12      87.0
+                  0 -0.168
+12 25 88 68   0      50.2
+                  0 -0.168
+29  7 61 96   0      63.3
+                  0 -0.168
+ 0 143  0 50   0      215.
+                  0 -0.168
+ 9 80 51 10  43     -91.2
+                  0 -0.168
+19  0 174  0   0      285.
+                  0 -0.168
+ 0 135 30 28   0      146.
+
+Score: 2308.56  Columns: 22  Sequences: 192
+
+                 *********.................*************
+SRS012273_Ba  44 cggcgactacaactgcaccgacac..caacgggtcccgc  80 + 2.25
+SRS052027_LA  36 cgaacgcgta................catcc.tgttcgt  57 + 10.9
+gi254523226_   1 cggccgcctggt..............cctcggcgtccgc  25 + 18.5
+gi237721078_  18 cgtgggctt.................caacggcggcagc  39 + 8.64
+SRS064645_LA  18 cgtgtacttcag..............ctacggcta.cgt  41 + 10.3
+SRS058770_LA  18 cgtgtacttcag..............cagcggcac.cgt  41 + 9.00
+SRS053214_LA  14 ggaccgtgaa................cttcagcgg.cgg  35 + 6.83
+C2336306_VR1   7 cgtctgttggt...............cggcggttc.cgt  29 + 10.0
+C1673591_VR1  21 cgtacgtcacgga.............cttcggttgcagc  46 + 9.14
+gi336402102_  86 cgtatgcgta................catcggcgttcgg 108 + 22.8
+C3074383_VR1  85 cgagtgcgag................catcggcgttcgg 107 + 22.2
+SRS013687_Ba  31 cgaatgcgaa................cagcggtct.cgc  52 + 19.5
+SRS019030_Ba  31 cgaatgcgta................cagcggtct.cgc  52 + 19.5
+SRS022609_Ba  73 cttacagtggtag.............ctatggcgttcgt  98 + 6.67
+SRS015264_WU  85 cgatcgcgag................catcggctctcgg 107 + 19.6
+gi345893474_  77 tgagcgcgaa................catcggttgccgc  99 + 17.8
+gi266622220_  29 ggactacca.................cggcg.ctt.cgg  48 + 10.1
+gi332534155_  83 cgggtgcgggcagctc..........tcttggtttccgt 111 + 11.4
+SRS016086_WU  33 cgtacgcggg................cggtggcgt.tgc  54 + 15.0
+SRS017307_Ba  52 ggtatgtgtactc.............cgatggtct.cgt  76 + 6.64
+SRS016203_WU  57 cgtactcgag................cttcggtgggcgg  79 + 18.1
+SRS014459_WU   3 cgaatgcgct................cagcggtct.cgc  24 + 16.5
+SRS013687_Ba   3 cgaattcgaa................cagcggtct.cgc  24 + 18.5
+gi253574968_  61 cggtcgcctcgacta...........cctcggctggcgg  88 + 12.6
+SRS020869_Ba  61 cgttctccagcccgtg..........cgtcggtttccgc  89 + 16.9
+SRS012273_Ba  62 cgatctccaatccgcg..........cgtcggtttccgc  90 + 17.2
+SRS056519_LA  61 cgatctccaacccgcg..........cgtcggtttccgc  89 + 17.2
+SRS023604_Ba  28 cgtgcccgttgt..............cagcagtga.cgg  51 + 3.91
+SRS014459_WU  85 cgcacgacca................cgttggtttccgc 107 + 12.4
+C2457943_VR1  74 cgcacgacca................cgttggtttccgc  96 + 12.4
+C2209444_VR1  28 cgcatggct.................cgtcggctt.ctc  48 + 11.2
+C3424173_VR1  76 ggaacgccaacggctc..........cctcggcgtccgc 104 + 15.9
+SRS077730_LA  63 ggtctgcgag................cagcagcta.cgc  84 + 10.7
+C1505893_VR1   1 cgcctgctac................tggtggctc.cgc  22 + 9.65
+SRS016335_WU  24 cggttgcta.................ctacggtgc.tga  44 + 5.00
+gi126659397_  69 cgcgcgacggcag.............ctacggttt.tgg  93 + 6.85
+gi126659397_  76 cgacttctacga..............ttttgggttgcgt 100 + 8.74
+gi186684985_ 101 ggttttcgtgttgt............ctgcg.cgttcgg 126 + 8.31
+SRS016335_WU   3 cgtctgaga.................cggtggttc.tgc  23 + 8.49
+SRS017821_Ba  28 cgactacggtacgcg...........tggtggtttgcgc  55 + 12.6
+SRS013951_WU  22 tgattgcggcaacggtacgac.....tgttggtttgcgc  55 + 7.88
+gi119509703_  34 ggactgccgtt...............ctgcg.tct.cgc  55 + 8.03
+gi355363092_   1 cgtctgtcg.................cggcggttcctgg  22 + 10.4
+SRS018817_WU  36 cttcggctgtaa..............cttcagctg.cgt  59 + 2.84
+gi17230989_V  18 ggagctcctctcctgtagt.......ctgccgttc.cgc  48 + 1.83
+SRS015190_WU  18 cgtgtacttcaa..............ctacggcaa.cgt  41 + 6.32
+SRS043411_WU  18 cgtgggcttcaa..............cttcggcgg.cgt  41 + 10.5
+gi293372957_  18 cgtgtacttcag..............cggcggcaa.cgt  41 + 7.75
+SRS023176_Ba  14 ggtacgtgacatt.............cagcggcggcagc  39 + 7.64
+gi160885942_  18 cgtgtacttctt..............caacggcta.cgt  41 + 11.4
+SRS022137_WU  19 cgcacgcgta................caacg.tgcgcgt  40 + 12.2
+SRS017521_Ba  68 ggcacgcgct................cctcggtttccgt  90 + 14.1
+SRS013951_WU  68 ggcacgtgta................cctcggtttccgc  90 + 13.9
+SRS023914_Ba  77 agatcgcgca................cgtcggtttccgc  99 + 10.3
+SRS056259_LA  61 cgaactcctacccggg..........cctcggtttccgc  89 + 17.7
+gi257440840_  62 cgtactccctcccgac..........cgtcggtttccgc  90 + 15.9
+SRS015663_WU  61 cgtactcctattcgag..........cgtcggtttccgc  89 + 18.8
+SRS063985_LA  62 cgctctccttccccttt.........cctcggtttccgc  91 + 13.7
+SRS014683_WU  61 cgaactcttacccgaa..........cctcggtttccgc  89 + 16.4
+SRS019030_Ba  61 cgtactcctacccgta..........cctcggtttccgc  89 + 17.3
+gi291561556_  56 cgtcctcgttt...............cggca.cgtcagc  78 + 6.26
+SRS019161_WU  27 cggactcggacacgca..........tatcggttcgcgc  55 + 13.8
+gi257094650_  53 cgaccgggg.................cgtcggtttccgc  74 + 20.8
+gi345871758_   4 cgtgctgcg.................cggcggttcgtgg  25 + 10.4
+SRS019161_WU  85 cgagtgcgta................catcggcgttcgg 107 + 22.2
+SRS019161_WU  19 cgtgtacct.................ctatagcttgtgg  40 + 7.04
+SRS023914_Ba  78 cgaatgccagcggtta..........cgtcggcgc.cgc 105 + 16.1
+SRS011306_Ba  68 ctacttcgtg................cggtg.cgtccgg  89 + 9.85
+SRS011302_Ba  82 cgtactcgta................catcggtgg.cgg 103 + 18.1
+SRS052697_LA  82 cgggctcggg................cttcggtgg.cgg 103 + 15.0
+SRS015190_WU  82 cgtacacgta................catcggtgg.cgg 103 + 17.7
+gi355629964_  27 cggccgcgcg................catcggcttccgt  49 + 19.0
+SRS078176_LA  63 cggcttcgacatttggct........catcggcctcagc  93 + 11.0
+SRS015217_WU  45 cgtactgggg................cctcggcttccgc  67 + 18.6
+C3236803_VR1  84 cgaactgggg................cctcggcttccgc 106 + 18.9
+gi338999650_  38 cgaatgcgtatctcggg.........ctgcggctctcgc  67 + 16.7
+C1746428_VR1  31 cggcttgct.................cgtgggctg.cgc  51 + 6.81
+SRS020328_Ba  66 cggacgcgaacac.............taacggctt.cgg  90 + 15.5
+SRS022137_WU  66 cggacacgggcac.............tagcggctg.cgc  90 + 12.7
+gi227485876_  58 cgcgcgcgatggcaa...........cggcggcgttcgc  85 + 17.9
+SRS053398_LA  64 ctactacggccg..............ctacggcctgcgc  88 + 11.9
+SRS015663_WU  61 cgcctacta.................ctgcggcca.cgc  81 + 10.3
+SRS015065_WU  19 cgcccgcct.................cgtcggcgc.cgt  39 + 16.3
+SRS011302_Ba  64 ctaccgcggcga..............cggcggcctgcgc  88 + 15.1
+SRS017433_Ba  28 cgactacggtctgtc...........tgatggccagcgc  55 + 7.10
+gi323485151_  27 cgaactacag................caacg.ctt.cgt  47 + 9.69
+SRS013687_Ba  48 cgaactgcag................ctacg.ctt.cgg  68 + 10.2
+SRS077730_LA  88 cgtctaattc................tcttggcgttcgt 110 + 7.32
+SRS015133_WU  59 cttcttcctc................tattggcgttcgc  81 + 12.1
+SRS013951_WU 116 cgtacaccga................cgtcggctcccga 138 + 15.5
+SRS057478_LA  48 cggactactc................ctacg.ctt.cgg  68 + 7.69
+SRS022713_LA  60 cggcttctgttggt............cggcggttc.cgg  85 + 11.2
+gi83309559_V  38 cggctacca.................gggcagcta.cgg  58 + 1.03
+SRS015217_WU  80 cgtcaacga.................catcg.ttt.cgt  99 + 8.60
+SRS016095_WU  80 cgtcggcgg.................caatg.tgt.cgt  99 + 8.52
+SRS014459_WU  82 cgtattccagcgccag..........cgtcgggggccgt 110 + 11.9
+SRS024435_LA  85 cgaacgcgta................catcggctctcgg 107 + 21.5
+SRS018656_WU  31 cgagcgcgcatgg.............cggcg.tgt.cgt  54 + 10.1
+SRS016989_Ba  85 cgaatgcggt................catcggcgttcgg 107 + 23.0
+SRS015190_WU  85 cggttgcgag................catcggcgttcgg 107 + 20.0
+SRS017433_Ba  85 cggttgcggc................catcggcgttcgg 107 + 19.8
+SRS022524_Ba  85 cgggtgcgtt................catcggcgttcgg 107 + 21.0
+SRS023583_Ba  85 cgagtgcgag................catcggcgttcgg 107 + 22.2
+SRS043411_WU  85 cggttgcgag................catcggcgttcgg 107 + 20.0
+SRS019910_WU  85 cgtatgcggg................catcggcgttcgg 107 + 22.6
+SRS011239_Ba  85 cgtatgcgag................catcggcgttcgg 107 + 22.8
+SRS012902_Ba  85 cgtatgcgag................catcggtgttcgg 107 + 22.5
+SRS013687_Ba  19 cgcgtggggtttgagcctcaa.....catcggcta.cgc  51 + 9.90
+SRS015264_WU 115 cgtacgacga................cgtcggctgccgc 137 + 16.2
+SRS064276_LA 117 cgaacgcgag................catcggctgccgc 139 + 22.2
+gi322688997_  74 cggacgcgtggtgggc..........ctgcggcggtcgc 102 + 15.7
+SRS063985_LA  31 cgttggccggaa..............ctgcggccctcgt  55 + 9.43
+gi239625916_  93 tgtacgcgag................cattggtgtgcgg 115 + 17.5
+gi160938970_  93 tgaccgcgag................cattggtgtgcgg 115 + 17.1
+gi27311204_V  83 cgaactcgaacagtag..........catcggttttcgc 111 + 20.3
+gi154504579_  51 ggcgctcgtg................ccgtggtttgcga  73 + 8.89
+gi120599269_  76 cgagctcgagcatcta..........cgtcggtttccgt 104 + 18.5
+SRS019030_Ba  88 cgagctggtacgt.............cggtg.cgtccgt 112 + 9.56
+SRS016335_WU 103 gttactcctt................ttgtggttttcgt 125 + 7.47
+SRS011586_WU  84 ggaatgtcagcacgaa..........tgtcggcgtgcgt 112 + 8.95
+SRS011271_WU  85 ggaatgtcaatacgta..........cattggcgctcgt 113 + 8.23
+SRS014235_WU  84 tgaccacgga................catcggcgcgcgg 106 + 15.6
+SRS042628_WU  93 tgagcgcggt................cattggcgtgtgg 115 + 13.3
+gi377805963_  37 cgacggggttca..............cgatggctcgcgg  61 + 9.52
+SRS023526_Ba  10 cgcgctcgt.................tggcggtggccgt  31 + 13.6
+SRS054956_LA  93 tgaacacggg................cgttggcgtgtgg 115 + 12.2
+SRS015794_Ba  93 tgctcacgta................cattggtgtgcgg 115 + 12.9
+gi291524999_  93 tggccgcgta................cgttggtgtgcgg 115 + 15.3
+SRS013951_WU  94 tgcacacggg................cattggcgtgtgg 116 + 11.3
+gi377806011_  23 cggcggcggctggaa...........cggcggcgtgcgt  50 + 13.9
+gi167758195_  25 ggaattggag................caacggcgtccgc  47 + 16.1
+C1905524_VR1  85 ttagcgcggt................tattggcgcgcgc 107 + 8.88
+SRS018817_WU  42 ctgttgcgacat..............ccgcggtgttcgc  66 + 12.7
+SRS054956_LA   7 cgtcagcca.................caacgggga.ctc  27 + 0.596
+SRS015133_WU  34 ggaactacgttaacag..........catcggtgttcgc  62 + 12.2
+SRS023829_Ba  85 cgtatgcgag................catcggtgttcgg 107 + 22.5
+gi336413450_  86 cgggtgcgta................catcggtgttcgg 108 + 20.7
+SRS014459_WU  85 cgtatgcgat................catcggtgttcgg 107 + 22.5
+C1580692_VR1  59 cgtgtactc.................cagcggcga.cgt  79 + 10.5
+C1764656_VR1  44 cgatttgcga................cggcg.ctt.cga  64 + 6.19
+C1935518_VR1  39 cggacagctacagctacta.......cagcagcta.cgg  69 + 4.65
+SRS052027_LA  31 cgaatgcgaa................cagcggtct.cgc  52 + 19.5
+SRS043411_WU  85 cgagcgcgag................cttcggggcgcgt 107 + 15.4
+SRS043701_LA  31 cgtatgcgga................tagcggtct.cgc  52 + 16.1
+SRS047014_WU  31 cgaatgcgta................cagcggtct.cgc  52 + 19.5
+SRS023914_Ba  31 cgaatgcgaa................cagcggtct.cgc  52 + 19.5
+SRS015190_WU  85 cgagcgcgag................cttcggggcgcgt 107 + 15.4
+SRS015065_WU  24 cggttgcgta................cagcggtct.cgc  45 + 16.3
+SRS047044_WU  31 cgaatgcgga................cagcggtct.cgc  52 + 19.2
+gi41179367_V  89 cgttcgcgtt................cttcggggcgcgc 111 + 14.7
+SRS022609_Ba  85 cgcacacgta................ctacggcgtgcgg 107 + 17.5
+gi113474819_  17 cgactacctctccaacga........taggggttttcga  47 + 3.12
+C5177931_VR1  76 cggctgggttactagcgg........cgatggcgtccgt 106 + 11.1
+SRS011134_Ba  71 tgctcgcggtggtta...........cattggcgttcgt  98 + 12.1
+SRS019582_WU  62 cggctactttgctttcagtggtag..ctatggcgttcgt  98 + 6.26
+SRS064276_LA  73 cgccggcga.................cagcagcct.cgc  93 + 10.6
+SRS015264_WU  28 cggctacggtacgaa...........tgttggtttgcgc  55 + 12.2
+SRS014683_WU  35 tggctgcggcag..............cagcg.ctttcga  58 + 8.44
+SRS043411_WU  74 cgcgctccaatgc.............cagcggcatcctc  99 + 7.77
+SRS064276_LA  85 tgcctgcggcaa..............catcgggggccgt 109 + 10.9
+SRS022137_WU   9 cttattcgtggcggtcattatggttctggcggtct.cgc  46 + 4.22
+SRS055982_Ba  25 cttatggtta................tggcggtct.cgc  46 + 7.42
+gi161789197_  75 cgagcggtgg................catcggtttccgt  97 + 17.7
+gi323486088_  87 cgggctggtc................catcggtttccgc 109 + 18.8
+SRS024132_Ba   4 cgcgcgcggt................taacg.cttctgg  25 + 8.31
+gi146277368_  89 cgaacacgag................cctcgggtttcgc 111 + 17.2
+C2383034_VR1  87 tgagcacgtc................cctcggcttccgt 109 + 16.3
+SRS013951_WU  87 cgggcacgga................cctcggcttccgt 109 + 18.0
+gi260587208_  87 tgtccacgta................cctcggcttccgt 109 + 16.1
+gi299145828_  62 ctacttcggcaa..............ctacggcaagtgc  86 + 3.89
+SRS023346_LA  55 gtaatggcaa................cttcggcta.cgg  76 + 8.31
+SRS056259_LA  44 cgtgggctttagtaa...........tggcggctt.cgg  70 + 9.20
+SRS011586_WU  55 gtaatggcaa................cttcagcaa.cgg  76 + 0.0344
+gi194337359_  26 ggagctggaa................ctacggtgc.cgt  47 + 9.39
+gi332533803_  83 cgtatgcgaacagtgc..........tttcggttttcgt 111 + 16.0
+gi291621968_  83 cgaactcggtcagtaa..........catcggttttcgc 111 + 20.1
+gi71065017_V  90 cgaccacca.................cttcggtgtccgg 111 + 19.8
+gi291546485_  40 cgaacgcggg................tgtcggttacagt  62 + 12.2
+SRS019397_WU  48 cgacctgcta................cggcg.ctt.cga  68 + 7.95
+SRS019910_WU  48 cgcactgcaa................cggcg.ctt.cgg  68 + 10.1
+SRS015065_WU  48 cgaactacta................caacg.ctt.cga  68 + 7.04
+SRS015264_WU  93 tgcgcacgga................cattggcgtgtgg 115 + 10.3
+SRS016018_WU  48 cggactacac................ctacg.ctt.cgt  68 + 7.39
+SRS022137_WU  97 cgagcagcatcggcat..........ctttggtttccgt 125 + 12.0
+SRS016095_WU 114 cgacttcta.................cagcggtcaccgg 135 + 14.3
+SRS015663_WU  90 cgtactggga................cggcggggt.cgg 111 + 13.5
+C2197865_VR1   6 cgaacgccgggagcagtaa.......ctacg.ttcgcgg  36 + 8.10
+gi345871758_  17 ggttcgtggag...............cgtcggcgggcgc  40 + 10.9
+SRS019787_WU  87 cgaacagcgg................catcggcttccgc 109 + 19.6
+SRS017307_Ba  43 ttcattcctc................taatggtgt.tgg  64 + 1.14
+C4412323_VR1  87 cgaacagcgg................catcggcttccgc 109 + 19.6
+C2204788_VR1 111 cgtacgccagcgcgag..........catcggctgccgc 139 + 18.2
+
+                 cgaacgcga                 catcggcttccgc
+                   tctt ct                  gg   tg t  g
+                    g    g                          g  t
+
+ a  c  g  t Del Ins Score
+ 1 152 21 18   0      185.
+                  0 -0.168
+ 0  0 177 15   0      297.
+                  0 -0.168
+75 26 33 58   0      11.3
+                  0 -0.168
+81 48 42 21   0      16.0
+                  0 -0.168
+ 2 100 10 80   0      121.
+                  0 -0.168
+38  1 101 52   0      84.4
+                  0 -0.168
+11 144 27 10   0      148.
+                  0 -0.168
+ 0 56 112 24   0      114.
+                  0 -0.168
+64  9 55 64   0      30.3
+                558 -625.
+ 0 166  1 25   0      257.
+                  0 -0.168
+81 19 54 38   0      20.1
+                  0 -0.168
+31  0 58 103   0      98.0
+                  0 -0.168
+ 0 153  2 37   0      221.
+                  0 -0.168
+10  2 180  0   0      300.
+                  0 -0.168
+ 0  0 170  0  22      227.
+                  0 -0.168
+ 0 101 10 81   0      135.
+                  0 -0.168
+ 6 22 76 88   0      72.8
+                  0 -0.168
+18 28 22 124   0      85.9
+                  0 -0.168
+ 0 54 34 38  66     -138.
+                  0 -0.168
+ 6 172  0 14   0      262.
+                  0 -0.168
+ 0  0 189  3   0      351.
+                  0 -0.168
+ 8 79 58 47   0      38.6
+
+Score: 2229.67  Columns: 20  Sequences: 192
+
+                 ********************
+SRS012273_Ba  62 cg.acaccaacgggtcccgc  80 + 6.04
+SRS052027_LA  40 cgcgta.catc.ctgttcgt  57 + 10.9
+gi254523226_  71 ca.gcgacggcgg.gttcgc  88 + 13.5
+gi237721078_  61 tacgcg.taccgg.gttcgt  78 + 12.6
+SRS064645_LA  61 ggcgcg.taccgg.gttcgt  78 + 9.71
+SRS058770_LA  61 agcgcg.taccgg.gttcgt  78 + 9.71
+SRS053214_LA  61 ggcgcg.taccgg.gttcgt  78 + 9.71
+C2336306_VR1 104 tgcggg.tttggg.ttgcgt 121 + 10.2
+C1673591_VR1  28 cacgga.cttcggttgcagc  46 + 11.9
+gi336402102_  90 tgcgta.catcggcgttcgg 108 + 21.4
+C3074383_VR1  89 tgcgag.catcggcgttcgg 107 + 20.8
+SRS013687_Ba  35 tgcgaa.cagcgg.tctcgc  52 + 17.3
+SRS019030_Ba  35 tgcgta.cagcgg.tctcgc  52 + 17.9
+SRS022609_Ba  80 tg.gtagctatggcgttcgt  98 + 13.6
+gi189425132_  38 tgcggt.tagtgcgtgccgg  56 + 1.92
+SRS015264_WU  89 cgcgag.catcggctctcgg 107 + 19.6
+C3869178_VR1  40 tg.gtagtggcggcttgaac  58 + 0.889
+gi345893474_  81 cgcgaa.catcggttgccgc  99 + 19.2
+gi266622220_  38 cg.gcg.cttcgg.actctc  54 + 4.08
+gi332534155_  93 ca.gctctcttggtttccgt 111 + 7.07
+SRS016086_WU  71 cacgatgcctcgg.gttcgt  89 + 14.6
+SRS017307_Ba  22 cg.gct.cttcgg.ggcggc  38 + 10.7
+SRS016203_WU   7 tgcgag.cagcgg.tctcgc  24 + 17.2
+SRS014459_WU   7 tgcgct.cagcgg.tctcgc  24 + 17.6
+SRS013687_Ba  61 cgcgta.ctgcggggcgcgt  79 + 13.4
+gi253574968_  70 cg.actacctcggctggcgg  88 + 9.27
+SRS020869_Ba  71 cccgtg.cgtcggtttccgc  89 + 17.7
+SRS012273_Ba  72 tccgcg.cgtcggtttccgc  90 + 18.2
+SRS056519_LA  71 cccgcg.cgtcggtttccgc  89 + 18.2
+SRS023604_Ba  40 ca.gcagtgac.g.gctcgt  56 + 3.79
+SRS014459_WU  89 cg.accacgttggtttccgc 107 + 8.88
+C2457943_VR1  78 cg.accacgttggtttccgc  96 + 8.88
+C2209444_VR1  32 tg.gct.cgtcgg.cttctc  48 + 10.1
+SRS022609_Ba  81 ca.gtagcagg.gttcgagc  98 + 0.797
+C3424173_VR1  86 cg.gctccctcggcgtccgc 104 + 14.9
+SRS077730_LA   2 tg.gtggctcc.g.ctccgt  18 + 5.59
+C1505893_VR1  11 tg.gtggctcc.g.ctccgt  27 + 5.59
+SRS016335_WU  94 tg.gaa.ctgc.g.gggcgt 109 + 7.12
+gi126659397_  76 cg.gcagctacggttttggg  94 + 11.3
+gi126659397_  83 tacgat.tttggg.ttgcgt 100 + 8.14
+gi186684985_  91 ca.gcactcttggttttcgt 109 + 8.34
+SRS016335_WU   7 tg.aga.cggtgg.ttctgc  23 + 3.51
+SRS017821_Ba  37 tacgcg.tggtggtttgcgc  55 + 11.9
+SRS013951_WU  92 tg.gaa.cctcgg.ggccgc 108 + 13.8
+gi119509703_  40 cc.gtt.ctgc.g.tctcgc  55 + 6.52
+gi355363092_   5 tg.tcg.cggcgg.ttcctg  21 + 6.97
+SRS018817_WU   3 cg.tcg.tttcgccgtccgg  20 + 6.24
+gi17230989_V  40 cc.gtt.ccgc.g.tcccgc  55 + 5.28
+SRS015190_WU  61 tacgcg.taccgg.gttcgt  78 + 12.6
+SRS043411_WU  61 agcgcg.taccgg.gttcgt  78 + 9.71
+gi293372957_  61 tacgcg.acccgg.gttcgt  78 + 6.76
+SRS023176_Ba  62 tc.gcg.taccgg.gttcgt  78 + 9.40
+gi160885942_  61 ggcgcg.agccgg.gttcgt  78 + 4.68
+SRS022137_WU  23 cgcgta.caac.gtgcgcgt  40 + 11.4
+SRS017521_Ba  72 cgcgct.cctcggtttccgt  90 + 19.1
+SRS013951_WU  72 cgtgta.cctcggtttccgc  90 + 14.5
+SRS023914_Ba  81 cgcgca.cgtcggtttccgc  99 + 21.2
+SRS056259_LA  71 cccggg.cctcggtttccgc  89 + 15.9
+gi257440840_  72 cccgac.cgtcggtttccgc  90 + 14.6
+SRS015663_WU  72 tc.gag.cgtcggtttccgc  89 + 15.0
+SRS063985_LA  73 cccttt.cctcggtttccgc  91 + 12.7
+SRS014683_WU  71 cccgaa.cctcggtttccgc  89 + 16.5
+SRS019030_Ba  71 cccgta.cctcggtttccgc  89 + 17.0
+gi291561556_  53 tc.tcgtcctc.g.tttcgg  69 + 2.23
+SRS019161_WU  37 cacgca.tatcggttcgcgc  55 + 15.1
+gi257094650_  57 cg.ggg.cgtcggtttccgc  74 + 17.4
+gi345871758_  45 tgcgct.cggc.g.tgtcgc  61 + 11.7
+SRS019161_WU  89 tgcgta.catcggcgttcgg 107 + 21.4
+SRS019161_WU  55 cactta.cagc.c.cttcgt  71 + 0.334
+SRS023914_Ba  88 cg.gttacgtcgg.cgccgc 105 + 11.0
+SRS011306_Ba  15 tg.ggt.cgtgggtgtcagg  32 + 7.57
+SRS011302_Ba  87 tc.gta.catcgg.tggcgg 103 + 11.4
+SRS052697_LA  87 tc.ggg.cttcgg.tggcgg 103 + 9.38
+SRS015190_WU  86 cacgta.catcgg.tggcgg 103 + 14.6
+gi355629964_  31 cgcgcg.catcggcttccgt  49 + 22.1
+SRS078176_LA  76 tg.gct.catcggcctcagc  93 + 13.1
+SRS015217_WU  50 tg.ggg.cctcggcttccgc  67 + 17.2
+C3236803_VR1  89 tg.ggg.cctcggcttccgc 106 + 17.2
+gi338999650_  50 tc.ggg.ctgcggctctcgc  67 + 12.8
+C1746428_VR1   4 tgctcg.ctttgg.ctgcgt  21 + 9.78
+SRS020328_Ba  43 tgctcg.ctttggccttcgc  61 + 13.7
+SRS022137_WU  43 tgctta.ctttggccttcgc  61 + 13.3
+gi227485876_  67 tg.gcaacggcggcgttcgc  85 + 17.5
+SRS053398_LA  70 cg.gccgctacggcctgcgc  88 + 10.5
+SRS015663_WU  77 cacgcc.ctgc.g.ccccgc  93 + 5.18
+SRS015065_WU  70 cg.gcggcaacggcctgcgc  88 + 13.9
+SRS011302_Ba  70 cg.gcgacggcggcctgcgc  88 + 13.7
+SRS017433_Ba   6 tc.gcc.cttcgg.ttcggt  22 + 7.47
+SRS013687_Ba   4 cg.ttt.cttcggctctctt  21 + 8.79
+SRS077730_LA  19 tgcgtggtgtggg.gtctgc  37 + 7.29
+SRS015133_WU  21 ca.ttgtcaacgg.ctccgg  38 + 3.41
+SRS013951_WU 101 tc.gcggcgtggg.gctcgt 118 + 8.66
+SRS057478_LA  28 tgtgct.ccacgg.tggcgc  45 + 7.75
+SRS022713_LA  51 tg.gcagctacggcttctgt  69 + 11.5
+gi83309559_V   9 ggctcggcgtggg.tccagc  27 + 1.70
+SRS015217_WU  83 ca.acgacatc.g.tttcgt  99 + 6.74
+SRS016095_WU  83 cg.gcggcaat.g.tgtcgt  99 + 6.68
+SRS014459_WU  35 tg.gcggcaac.gctggcgt  52 + 9.63
+SRS024435_LA  89 cgcgta.catcggctctcgg 107 + 20.2
+SRS018656_WU  37 cgcatggcggc.g.tgtcgt  54 + 6.82
+SRS016989_Ba  89 tgcggt.catcggcgttcgg 107 + 19.6
+SRS015190_WU  89 tgcgag.catcggcgttcgg 107 + 20.8
+SRS017433_Ba  89 tgcggc.catcggcgttcgg 107 + 17.7
+SRS022524_Ba  89 tgcgtt.catcggcgttcgg 107 + 20.6
+SRS023583_Ba  89 tgcgag.catcggcgttcgg 107 + 20.8
+SRS043411_WU  89 tgcgag.catcggcgttcgg 107 + 20.8
+SRS019910_WU  89 tgcggg.catcggcgttcgg 107 + 20.3
+SRS011239_Ba  89 tgcgag.catcggcgttcgg 107 + 20.8
+SRS012902_Ba  89 tgcgag.catcggtgttcgg 107 + 20.1
+SRS013687_Ba  10 cgcgac.ctac.gcgtgggg  27 + 4.70
+SRS015264_WU 101 cg.gca.cttc.gtttgcgt 117 + 12.9
+SRS064276_LA 121 cgcgag.catcggctgccgc 139 + 19.8
+gi322688997_  85 tg.ggc.ctgcggcggtcgc 102 + 12.5
+SRS063985_LA  38 cg.gaa.ctgcggccctcgt  55 + 13.2
+gi239625916_  97 cgcgag.cattggtgtgcgg 115 + 16.4
+gi160938970_  97 cgcgag.cattggtgtgcgg 115 + 16.4
+gi27311204_V  93 ca.gtagcatcggttttcgc 111 + 17.5
+gi154504579_  95 tgcgaa.cgttggcgctcgt 113 + 16.8
+gi120599269_  21 tg.gag.cagcggcgtcagc  38 + 13.8
+SRS019030_Ba  93 tg.gta.cgtc.g.gtgcgt 108 + 10.9
+SRS016335_WU 114 tgtggt.tttc.g.ttccgc 130 + 4.76
+SRS011586_WU  94 cacgaa.tgtcggcgtgcgt 112 + 14.6
+SRS011271_WU  95 tacgta.cattggcgctcgt 113 + 16.3
+SRS014235_WU  88 cacgga.catcggcgcgcgg 106 + 15.6
+SRS042628_WU  10 cgcgct.cattggcggtggc  28 + 13.9
+gi377805963_  10 cgcgct.cattggcggtggc  28 + 13.9
+SRS023526_Ba  10 cgcgct.cgttggcggtggc  28 + 13.1
+SRS054956_LA  10 cgcgct.ccttggcggtggc  28 + 12.3
+SRS015794_Ba  97 cacgta.cattggtgtgcgg 115 + 15.1
+gi291524999_  97 cgcgta.cgttggtgtgcgg 115 + 16.2
+SRS013951_WU  98 cacggg.cattggcgtgtgg 116 + 9.92
+gi377806011_  33 tg.gaa.cggcggcgtgcgt  50 + 15.6
+gi167758195_  30 tg.gag.caacggcgtccgc  47 + 16.6
+C1905524_VR1  89 cgcggt.tattggcgcgcgc 107 + 12.7
+SRS018817_WU  48 cg.acatccgcggtgttcgc  66 + 9.98
+SRS015133_WU  44 ta.acagcatcggtgttcgc  62 + 13.6
+SRS023829_Ba  89 tgcgag.catcggtgttcgg 107 + 20.1
+gi336413450_  90 tgcgta.catcggtgttcgg 108 + 20.8
+SRS014459_WU  89 tgcgat.catcggtgttcgg 107 + 19.5
+C1580692_VR1  19 tgcgct.ctgc.g.tttcgt  35 + 13.0
+C1764656_VR1  64 aactct.catggg.gttcgt  81 + 5.62
+C1935518_VR1  58 ca.gcagctacgg.gctcgc  75 + 11.6
+SRS052027_LA  35 tgcgaa.cagcgg.tctcgc  52 + 17.3
+SRS043411_WU  35 tgcgca.cggcgg.tctcgc  52 + 17.5
+SRS043701_LA  35 tgcgga.tagcgg.tctcgc  52 + 14.1
+SRS047014_WU  35 tgcgta.cagcgg.tctcgc  52 + 17.9
+SRS023914_Ba  35 tgcgaa.cagcgg.tctcgc  52 + 17.3
+SRS015190_WU  35 tgcgca.cggcgg.tctcgc  52 + 17.5
+SRS015065_WU  28 tgcgta.cagcgg.tctcgc  45 + 17.9
+SRS047044_WU  35 tgcgga.cagcgg.tctcgc  52 + 16.8
+gi41179367_V  93 cgcgtt.cttcggggcgcgc 111 + 14.5
+SRS022609_Ba  89 cacgta.ctacggcgtgcgg 107 + 14.7
+C5177931_VR1  88 ta.gcggcgatggcgtccgt 106 + 11.6
+SRS011134_Ba  80 tg.gttacattggcgttcgt  98 + 15.7
+SRS019582_WU  80 tg.gtagctatggcgttcgt  98 + 13.6
+SRS064276_LA  76 cg.gcgacagcag.cctcgc  93 + 5.64
+SRS015264_WU  92 tg.gga.cctcgg.ggccgc 108 + 13.3
+SRS014683_WU  19 tgcgct.ctgc.g.ggtcgt  35 + 11.0
+SRS043411_WU  90 cg.gcatcctcgggggccgt 108 + 9.95
+SRS064276_LA  91 cg.gcaacatcgggggccgt 109 + 13.6
+SRS022137_WU  29 tg.gttctggcgg.tctcgc  46 + 8.44
+SRS055982_Ba  29 tg.gttatggcgg.tctcgc  46 + 10.4
+gi161789197_  79 cg.gtggcatcggtttccgt  97 + 18.3
+gi323486088_  92 tg.gtc.catcggtttccgc 109 + 16.7
+SRS024132_Ba   8 cgcggt.taac.gcttctgg  25 + 4.85
+gi146277368_  93 cacgag.cctcgggtttcgc 111 + 15.1
+C2383034_VR1  91 cacgtc.cctcggcttccgt 109 + 15.5
+SRS013951_WU  91 cacgga.cctcggcttccgt 109 + 17.1
+gi260587208_  91 cacgta.cctcggcttccgt 109 + 18.2
+gi299145828_  97 tg.gtgagagcggttgcagc 115 + 2.51
+SRS023346_LA  59 tg.gcaacttcggctacggc  77 + 6.35
+SRS056259_LA  39 tg.gtt.cgtgggctttagt  56 + 10.6
+SRS011586_WU  39 tg.gta.cgtgagctttagt  56 + 4.48
+gi194337359_  31 tg.gaa.ctacgg.tgccgt  47 + 11.8
+gi332533803_  87 tgcgaa.cagt.gctttcgg 104 + 12.7
+gi291621968_  93 ca.gtaacatcggttttcgc 111 + 17.0
+gi71065017_V  93 cc.accacttcggtgtccgg 111 + 7.05
+gi291546485_  38 cgcgaa.cgcggg.tgtcgg  55 + 9.44
+SRS019397_WU   4 cg.ttt.cttcggctctctt  21 + 8.79
+SRS019910_WU  58 cg.gcg.cttcgg.gctctt  74 + 11.2
+SRS015065_WU   4 cg.ttt.cttcggctctctt  21 + 8.79
+SRS015264_WU  10 cgcgct.cgttggcggtggc  28 + 13.1
+SRS016018_WU   4 cg.ttt.cttcggctgtttt  21 + 3.77
+SRS022137_WU 107 cg.gcatctttggtttccgt 125 + 13.1
+SRS016095_WU 124 agcggt.caccggcgcctgt 142 + 5.57
+SRS015663_WU  95 tg.gga.cggcgg.ggtcgg 111 + 12.1
+C2197865_VR1  19 ca.gtaactac.gttcgcgg  36 + 5.13
+gi345871758_  23 tg.gag.cgtcggcgggcgc  40 + 15.6
+SRS019787_WU  91 ca.gcggcatcggcttccgc 109 + 18.0
+SRS017307_Ba  11 tg.gcaatggc.g.gtcagg  27 + 2.69
+C4412323_VR1  91 ca.gcggcatcggcttccgc 109 + 18.0
+C2204788_VR1 121 cgcgag.catcggctgccgc 139 + 19.8
+
+                 cgcgcagcatcggctttcgc
+                 t   tga gg   tgcc  t
+                      t  t          g
+
+ a  c  g  t Del Ins Score
+ 4 92  4 92   0      132.
+                  0 -0.168
+37 19 136  0   0      153.
+                  0 -0.168
+ 0 100  0  3  89     -20.7
+                  0 -0.168
+10  0 167 15   0      241.
+                  0 -0.168
+37 75 26 54   0      8.55
+                  0 -0.168
+71 12 67 42   0      28.3
+                  0 -0.168
+18  5 25  5 139     -163.
+                  0 -0.168
+ 2 163  1 26   0      239.
+                  0 -0.168
+79 26 44 43   0      9.42
+                  0 -0.168
+21 13 44 114   0      75.3
+                  0 -0.168
+ 0 151 11 30   0      194.
+                  0 -0.168
+ 2  0 163  0  27      187.
+                  0 -0.168
+ 0  4 188  0   0      345.
+                  0 -0.168
+ 0 70  7 45  70     -104.
+                  0 -0.168
+ 1 16 80 95   0      110.
+                  0 -0.168
+ 1 43 34 114   0      101.
+                  0 -0.168
+ 0 65 35 92   0      87.1
+                  0 -0.168
+11 164 10  7   0      214.
+                  0 -0.168
+ 1  0 183  8   0      316.
+                  0 -0.168
+ 0 87 43 62   0      78.9
+
+Score: 2007.44  Columns: 20  Sequences: 195
+
+                 ******....**************
+SRS012273_Ba  11 cggcgcc...tggtggctgct.ct  30 + 13.1
+SRS052027_LA  37 gaacgcg...tacatcctgtt.cg  56 + 2.56
+gi254523226_  71 cagcga....cggcgggttcg.cg  89 + 15.2
+gi237721078_   6 cagcagt...tggtgcgtggg.ct  25 + 14.5
+SRS064645_LA   6 cagcagt...tggaacgtgta.ct  25 + 6.70
+SRS058770_LA   6 cagcagt...tggtacgtgta.ct  25 + 11.0
+SRS053214_LA  48 gtacagc...cgccagg.gcg.cg  66 + 2.44
+C2336306_VR1   4 cggcgt....ctgttggtcgg.cg  22 + 12.8
+C1673591_VR1   9 ggtcgg....cagttcc.gta.cg  26 + 9.25
+gi336402102_  42 aggcgg....tgtttcgtgtg.cg  60 + 17.4
+C3074383_VR1  41 gggcgg....tgtttcgtgtg.cg  59 + 20.7
+SRS013687_Ba  41 cagcgg....tctcgcttatg.cg  59 + 17.2
+SRS019030_Ba  41 cagcgg....tctcgcttgtg.cg  59 + 18.5
+SRS022609_Ba  89 tggcgt....tcgtcccgctt.tg 107 + 7.99
+gi189425132_  12 cagcaa....ccgtggctattccg  31 + 8.73
+SRS015663_WU  20 tagcag....tagtgcttacc.ct  38 + 6.71
+SRS015264_WU  41 tggcgg....cgtgtcgttcg.cg  59 + 13.7
+C3869178_VR1  37 ctttgg....tagtggcggct.tg  55 + 3.36
+gi345893474_  18 gggcga....cggctccactg.cg  36 + 12.7
+gi266622220_  35 ccacgg....cgcttcggact.ct  53 + 5.61
+gi332534155_  72 caactc....tcgcacgggtg.cg  90 + 10.1
+SRS016086_WU  43 cggtgg....cgttgcgtttt.cg  61 + 15.2
+SRS017307_Ba  32 gggcggc...tcgtacg.ata.cg  50 + 9.81
+SRS016203_WU  13 cagcgg....tctcgcctttg.cg  31 + 17.0
+SRS014459_WU  13 cagcgg....tctcgcttgtg.cg  31 + 18.5
+SRS013687_Ba  13 cagcgg....tctcgcttatg.cg  31 + 17.2
+gi253574968_  54 cgtcgt....ccggtcg.cct.cg  71 + 7.64
+SRS020869_Ba   1 cgtcggg...ccgtgcg.ctt.cg  19 + 13.1
+SRS012273_Ba   2 cgtcgca...ccgtgcg.gtt.cg  20 + 12.6
+SRS056519_LA   1 cgtcgat...ccgtgcg.gtt.cg  19 + 12.6
+SRS023604_Ba  46 tgacggc...tcgtacggcta.ct  65 + 7.39
+SRS014459_WU  31 ttacttc...tggttcgggtc.cg  50 + 6.37
+C2457943_VR1  20 ttacttc...tggttcgggtc.cg  39 + 6.37
+C2209444_VR1  25 cagcgca...tggctcgtcgg.ct  44 + 11.5
+SRS022609_Ba  78 cagcag....tagcagg.gtt.cg  95 + 8.09
+C3424173_VR1  95 cggcgt....ccgccccgctt.tg 113 + 8.11
+SRS077730_LA   2 tggtgg....ctccgct.ccg.tg  19 + 3.59
+C1505893_VR1   4 ctgctac...tggtggctccg.ct  23 + 8.53
+SRS016335_WU   2 cggcggtt..tcgctgcggtt.cg  22 + 12.1
+gi126659397_  82 ctacgg....ttttggg.ttg.cg  99 + 10.2
+gi126659397_  82 ctacga....ttttggg.ttg.cg  99 + 8.27
+gi186684985_  91 cagcac....tcttggt.ttt.cg 108 + 7.30
+SRS016335_WU   3 cgtctgaga.cggtggttctg.cg  24 + 9.00
+SRS017821_Ba  36 gtacgcg...tggtggt.ttg.cg  54 + 7.08
+SRS013951_WU  36 gtacga....ctgttggtttg.cg  54 + 9.52
+gi119509703_   2 ctgcgggg..cggttcctgggtcg  23 + 5.98
+gi355363092_   1 cgtctg....tcgcggcggttcct  20 + 6.60
+SRS018817_WU  48 cttcag....ctgcgtt.gtt.cg  65 + 2.03
+gi17230989_V  61 caacga....tagggcg.ggg.cg  78 + 7.19
+SRS015190_WU   6 cagcagt...tggaccgtgta.ct  25 + 5.63
+SRS043411_WU   6 cagcagt...tggagcgtggg.ct  25 + 10.1
+gi293372957_   6 cagcagt...tggatcgtgta.ct  25 + 9.04
+SRS023176_Ba  30 cggcgg....cagcgtctacg.cg  48 + 10.5
+gi160885942_   6 cagcagt...tggtacgtgta.ct  25 + 11.0
+SRS022137_WU  29 caacgtg...cgcgtcgtgta.ct  48 + 5.69
+SRS017521_Ba   2 cgtcgca...ccgtgcg.tac.cg  20 + 2.39
+SRS013951_WU  60 cggctgt...cggcacgtgtacct  80 + 7.32
+SRS023914_Ba  57 ttgcaa....cggtgct.acg.tt  74 + 5.30
+SRS056259_LA   1 cgtcgta...ccgtgcg.gtt.cg  19 + 13.0
+gi257440840_   2 cgtcgat...ccgtgcg.gtt.cg  20 + 12.6
+SRS015663_WU   1 cgtcgag...ccgtgcg.gtt.cg  19 + 12.6
+SRS063985_LA   2 cgtcggg...ccgtgcg.gtt.cg  20 + 14.5
+SRS014683_WU   1 cgtcgtt...ccgtgcg.gtt.cg  19 + 13.0
+SRS019030_Ba   1 cgtcgta...ccgtgcg.gtt.cg  19 + 13.0
+gi291561556_   2 cgtcggg...ccgggcg.ttc.cg  20 + 6.58
+SRS019161_WU  43 tatcggt...tcgcgcc.tcg.ct  61 + 7.25
+gi257094650_  19 cggcgtaccgcttcgcgtacg.cg  41 + 8.67
+gi345871758_  31 caacggg...cgccacctgcg.ct  50 + 8.08
+SRS019161_WU  41 gggcgg....tgtttcgtatg.cg  59 + 19.4
+SRS019161_WU   4 ggactc....tgctggcgacg.tg  22 + 4.62
+SRS023914_Ba  31 tggcggt...cgatgcg.gtt.ct  49 + 9.72
+SRS011306_Ba   8 tggcgcg...tgggtcgtggg.tg  27 + 9.60
+SRS011302_Ba  32 cgacgt....ttgttct.ctg.cg  49 + 11.3
+SRS052697_LA  92 cttcgg....tggcggc.ttt.cg 109 + 9.68
+SRS015190_WU  92 catcgg....tggcggc.ttt.cg 109 + 10.8
+gi355629964_  16 ccgcgg....cggtgcggccg.cg  34 + 14.4
+SRS078176_LA  45 cggctcc...tggtgccgcta.cg  64 + 10.6
+SRS015217_WU  22 cggcacc...cgtcccc.gct.cg  40 + 5.01
+C3236803_VR1  25 gtacaa....cggtgctgatg.cg  43 + 9.80
+gi338999650_  41 atgcgta...tctcggg.ctg.cg  59 + 5.85
+C1746428_VR1  31 cggcttgc..tcgtggg.ctg.cg  50 + 10.1
+SRS020328_Ba   6 gggtgg....ctgcgcg.ttg.tg  23 + 8.62
+SRS022137_WU  73 gggcac....tagcggctgcg.ct  91 + 9.63
+gi227485876_  67 tggcaa....cggcggc.gtt.cg  84 + 10.8
+SRS053398_LA  76 ctacggc...ctgcgcc.ccg.ct  94 + 6.52
+SRS015663_WU  70 ctgcgg....ccacgcc.ctg.cg  87 + 9.46
+SRS015065_WU  31 cggcgc....cgttggc.gcg.ct  48 + 12.2
+SRS011302_Ba  70 cggcga....cggcggc.ctg.cg  87 + 14.2
+SRS017433_Ba   1 gggcgtcg..cccttcg.gtt.cg  20 + 8.73
+gi323485151_  34 cagcaa....cgcttcgtact.ct  52 + 9.06
+SRS013687_Ba  31 gggcag....ccttggctatc.cg  49 + 10.3
+SRS077730_LA  18 ctgcgtgg..tgtggggtctg.cg  38 + 9.54
+SRS015133_WU  27 caacgg....ctccggttatg.cg  45 + 10.3
+SRS013951_WU  93 cggcga....cttcgcg.gcg.tg 110 + 11.3
+SRS057478_LA  12 cggcttatt.tcgctgttgtg.ct  33 + 7.27
+SRS022713_LA  60 cggctt....ctgttggtcgg.cg  78 + 10.3
+gi83309559_V   2 cggttc....cggctcg.gcg.tg  19 + 7.49
+SRS015217_WU  35 cagcgg....tggtgctggtg.cg  53 + 19.5
+SRS016095_WU  35 cggtgg....tggtgctggtg.cg  53 + 16.9
+SRS014459_WU  29 gagcaa....tggcggcaacg.ct  47 + 6.51
+SRS024435_LA  41 tggcgg....cgtgtcgtgcg.cg  59 + 15.8
+SRS018656_WU  41 tggcgg....cgtgtcgtacg.cg  59 + 14.5
+SRS016989_Ba  41 gggcgg....tgtttcgtatg.cg  59 + 19.4
+SRS015190_WU  41 gggcgg....tgtttcgtgtg.cg  59 + 20.7
+SRS017433_Ba  41 aggcgg....tgtttcgtgtg.cg  59 + 17.4
+SRS022524_Ba  41 gggcgg....tgtttcgtatg.cg  59 + 19.4
+SRS023583_Ba  41 gggcgg....tgtttcgtatg.cg  59 + 19.4
+SRS043411_WU  41 gggcgg....tgtttcgtgtg.cg  59 + 20.7
+SRS019910_WU  41 gggcgg....tgtttcgtttg.cg  59 + 18.7
+SRS011239_Ba  41 aggcgg....tgtttcgtctg.cg  59 + 16.0
+SRS012902_Ba  41 gggcgg....tgtttcgtgtg.cg  59 + 20.7
+SRS013687_Ba  34 cctcaa....catcggctacg.cg  52 + 2.43
+SRS015264_WU  98 caacgg....cacttcgtttg.cg 116 + 12.1
+SRS064276_LA  80 gggctg....ttctacgtgta.ct  98 + 7.09
+gi322688997_  63 ggacgg....cctctcggacg.cg  81 + 12.8
+SRS063985_LA   3 gtgcgg....tggttgc.tgg.cg  20 + 8.99
+gi239625916_ 106 tggtgtg...cggtgcgtgtg.tg 125 + 13.3
+gi160938970_ 106 tggtgtg...cggtgcgtgtg.tg 125 + 13.3
+gi27311204_V  30 gaacaa....tggctcgagcgccg  49 + 6.12
+gi154504579_ 104 tggcgc....tcgtggg.gcg.tg 121 + 12.3
+gi120599269_  29 cggcgt....cagcgccggcc.tt  47 + 6.48
+SRS019030_Ba  35 tggcgag...tactgcg.gtg.cg  53 + 11.1
+SRS016335_WU 116 tggttt....tcgttcc.gca.ct 133 + 3.19
+SRS047044_WU  22 ttttgt....ttttgcttcct.ct  40 + 1.90
+SRS011586_WU  37 tggcgt....tgatgcgggcg.cg  55 + 13.4
+SRS011271_WU 104 tggcgc....tcgtggg.gcg.tg 121 + 12.3
+SRS014235_WU  31 tggcgt....tcgcgccgggg.cg  49 + 14.0
+SRS042628_WU 106 tggcgtg...tggtgcgtctg.tg 125 + 16.1
+SRS023526_Ba 106 tggcgtg...tggtgcgtctg.tg 125 + 16.1
+SRS054956_LA 106 tggcgtg...tggtgcgtctg.tg 125 + 16.1
+SRS015794_Ba 106 tggtgtg...cggtgcgtgtg.tg 125 + 13.3
+gi291524999_ 106 tggtgtg...cggtgcgtgtg.tg 125 + 13.3
+SRS013951_WU 107 tggcgtg...tggtgcgtgtg.tg 126 + 17.4
+gi377806011_ 107 tggcgtg...tggtgcgtgtg.tg 126 + 17.4
+gi167758195_ 104 tggcgtc...tggtgcgtttg.tg 123 + 15.4
+C1905524_VR1  98 tggcgcg...cgcttcggctg.tg 117 + 10.0
+SRS018817_WU  48 cgacat....ccgcggt.gtt.cg  65 + 9.11
+SRS015133_WU  44 taacag....catcggt.gtt.cg  61 + 5.25
+SRS023829_Ba  41 gggcgg....tgtttcgtgtg.cg  59 + 20.7
+gi336413450_  42 gggcgg....tgtttcgtgtg.cg  60 + 20.7
+SRS014459_WU  41 aggcgg....tgtttcgtgtg.cg  59 + 17.4
+C1580692_VR1  12 gtgcgg....ctgcgct.ctg.cg  29 + 11.3
+C1764656_VR1  27 gggcag....cggcggcaatg.cg  45 + 12.2
+C1935518_VR1  22 caacac....cgatgggtctg.cg  40 + 8.75
+SRS052027_LA  41 cagcgg....tctcgcttggg.cg  59 + 15.4
+SRS043411_WU  41 cggcgg....tctcgcttatg.cg  59 + 18.3
+SRS043701_LA  41 tagcgg....tctcgcttatg.cg  59 + 16.0
+SRS047014_WU  41 cagcgg....tctcgcttatg.cg  59 + 17.2
+SRS023914_Ba  41 cagcgg....tctcgcttatg.cg  59 + 17.2
+SRS015190_WU  41 cggcgg....tctcgcttatg.cg  59 + 18.3
+SRS015065_WU  34 cagcgg....tctcgcttttg.cg  52 + 16.4
+SRS047044_WU  41 cagcgg....tctcgcttatg.cg  59 + 17.2
+gi41179367_V  38 cgtcgc....tctcgggttct.cg  56 + 10.8
+SRS022609_Ba  41 tggcgg....tctcgcgtact.cg  59 + 16.1
+gi113474819_  29 caacga....taggggt.ttt.cg  46 + 3.23
+C5177931_VR1  70 cggcag....cggctgggtta.ct  88 + 10.0
+SRS011134_Ba  59 gggcga....cggctct.gct.cg  76 + 11.5
+SRS019582_WU  89 tggcgt....tcgtcccgctt.tg 107 + 7.99
+SRS064276_LA  82 cagcag....cctcgccaacg.cg 100 + 10.6
+SRS015264_WU  16 gttcggt...tcttgcggcta.cg  35 + 8.64
+SRS014683_WU  12 gtgcgg....ctgcgct.ctg.cg  29 + 11.3
+SRS043411_WU  33 tggcgg....cggcgccgggg.tg  51 + 13.7
+SRS064276_LA  37 cggcga....cgctggg.gtg.tt  54 + 10.8
+SRS022137_WU  35 tggcgg....tctcgccgggg.ag  53 + 8.36
+SRS055982_Ba  35 tggcgg....tctcgccgggg.ag  53 + 8.36
+gi161789197_  28 caacgc....cggcttggggg.cg  46 + 6.60
+gi323486088_  28 gggcag....tggtgccagcg.ct  46 + 13.1
+SRS024132_Ba  51 gaacgcac..tggtggg.gct.cg  70 + 7.42
+gi146277368_  36 cggtgcct..cggcgggtgtg.tg  56 + 10.1
+C2383034_VR1  28 gtacgg....cggtgcgggcg.ct  46 + 13.8
+SRS013951_WU  28 gggcgg....cggtgcgaacg.ct  46 + 14.7
+gi260587208_  28 gaacgg....cggtgcgtacg.ct  46 + 15.2
+gi299145828_  32 caacagc...tggggcgtgta.ct  51 + 9.19
+SRS023346_LA  32 cggcagc...tggagcgtgag.ct  51 + 8.59
+SRS056259_LA  32 cggcagc...tggttcgtggg.ct  51 + 14.6
+SRS011586_WU  32 caacagc...tggtacgtgag.ct  51 + 6.56
+gi194337359_  33 gaacta....cggtgcc.gtg.cg  50 + 11.1
+gi332533803_  30 gaacta....tggctcgaacg.ct  48 + 5.93
+gi291621968_  30 gggcgc....tggctcgggcgccg  49 + 13.0
+gi71065017_V  30 gagcta....cggcgcgtatg.ct  48 + 13.2
+gi291546485_  29 tggcta....cggcgcgaacg.cg  47 + 11.4
+SRS019397_WU  12 cggctct...ctttgcctatg.tg  31 + 9.22
+SRS019910_WU  55 caacgg....cgcttcgggct.ct  73 + 10.8
+SRS015065_WU   1 cgtcgt....ttcttcg.gct.ct  18 + 6.83
+SRS015264_WU 106 tggcgtg...tggtgcgtctg.tg 125 + 16.1
+SRS016018_WU  67 gtactc....tggtggg.gtt.cg  84 + 8.45
+SRS022137_WU 104 catcggca..tctttggtttc.cg 124 + 6.52
+SRS016095_WU  15 tggcgg....ccgttggtacg.ag  33 + 10.5
+SRS015663_WU  37 cggcgg....cagtgcgtctt.tg  55 + 15.6
+C2197865_VR1  22 taacta....cgttcgcggtg.tg  40 + 2.87
+gi345871758_  31 cggcggg...cgcctcctgcg.ct  50 + 13.4
+SRS019787_WU  26 tggctcga..tggtgcctctg.cg  46 + 12.4
+SRS017307_Ba  59 tgttgg....tccttcctctg.ct  77 + 7.93
+C4412323_VR1  26 tggctcga..tggtgcctctg.cg  46 + 12.4
+C2204788_VR1  76 ccgcggg...ttgttct.atg.tg  94 + 5.69
+
+                 cggcgg    tggtgcgtgtgccg
+                 ta        cctctgcgact  t
+                 g                       
+
+ a  c  g  t Del Ins Score
+ 5 100 44 46   0      65.0
+                  0 -0.168
+52  4 114 25   0      94.3
+                  0 -0.168
+37  0 131 27   0      137.
+                  0 -0.168
+ 0 181  0 14   0      306.
+                  0 -0.168
+34  0 137 24   0      150.
+                  0 -0.168
+28 28 102 37   0      37.1
+                 89 -263.
+ 0 86  0 109   0      185.
+                  0 -0.168
+15 57 103 20   0      60.9
+                  0 -0.168
+ 4 19 117 55   0      105.
+                  0 -0.168
+ 6 69 11 109   0      108.
+                  0 -0.168
+12  6 119 58   0      114.
+                  0 -0.168
+ 0 143 49  3   0      199.
+                  0 -0.168
+ 0 48 114 33   0      108.
+                  0 -0.168
+ 9  0 32 96  58     -65.0
+                  0 -0.168
+39 37 95 24   0      27.6
+                  0 -0.168
+ 3 52 16 124   0      122.
+                  0 -0.168
+16  8 128 43   0      112.
+                  0 -0.168
+ 0  5  0  1 189     -47.9
+                  0 -0.168
+ 3 159  0 33   0      229.
+                  0 -0.168
+ 0  0 149 46   0      225.
+
