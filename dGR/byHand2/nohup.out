@@ -1,0 +1,5486 @@
+Error with opening mm/out.gtf-split-8
+Error with opening mm/out.gtf-split-9
+distance:	1986
+distance:	13089
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	5
+distance:	286
+gi|377805826|gb|JQ680351.1|	1
+distance:	655
+distance:	655
+distance:	655
+gi|377805855|gb|JQ680352.1|	3
+distance:	633
+distance:	633
+gi|377805862|gb|JQ680353.1|	2
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	633
+distance:	633
+gi|377805941|gb|JQ680356.1|	2
+distance:	627
+distance:	627
+gi|377806003|gb|JQ680358.1|	2
+distance:	771
+gi|377806015|gb|JQ680359.1|	1
+distance:	2072
+distance:	12141
+distance:	2072
+distance:	12141
+gi|377806345|gb|JQ680374.1|	4
+distance:	1949
+gi|377806374|gb|JQ680375.1|	1
+distance:	2051
+gi|377806399|gb|JQ680376.1|	1
+distance:	771
+gi|377805758|gb|JQ680349.1|	1
+distance:	644
+gi|377805785|gb|JQ680350.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	34447
+distance:	35233
+distance:	34786
+distance:	786
+gi|377806186|gb|JQ680367.1|	4
+distance:	2029
+distance:	16812
+gi|377806226|gb|JQ680368.1|	2
+distance:	583
+gi|377806260|gb|JQ680370.1|	1
+distance:	366
+gi|377806297|gb|JQ680372.1|	1
+distance:	13935
+distance:	660
+gi|377806301|gb|JQ680373.1|	2
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	654
+distance:	654
+gi|377806170|gb|JQ680366.1|	2
+rm: cannot remove `mm/out.gtf-split-8': No such file or directory
+rm: cannot remove `mm/out.gtf-split-9': No such file or directory
+group_1	.7931	.7586
+Error with opening mm/out.gtf-split-9
+Error with opening mm/out.gtf-split-8
+distance:	633
+gi|377805941|gb|JQ680356.1|	1
+distance:	627
+gi|377806003|gb|JQ680358.1|	1
+distance:	771
+gi|377806015|gb|JQ680359.1|	1
+distance:	654
+gi|377806170|gb|JQ680366.1|	1
+distance:	2029
+distance:	16812
+gi|377806226|gb|JQ680368.1|	2
+distance:	370
+gi|377806097|gb|JQ680363.1|	1
+distance:	228
+gi|377806107|gb|JQ680364.1|	1
+distance:	286
+gi|377805826|gb|JQ680351.1|	1
+distance:	633
+gi|377805862|gb|JQ680353.1|	1
+distance:	644
+gi|377805785|gb|JQ680350.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	1949
+gi|377806374|gb|JQ680375.1|	1
+distance:	24938
+distance:	11103
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	5
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	228
+gi|377806090|gb|JQ680362.1|	1
+distance:	583
+gi|377806260|gb|JQ680370.1|	1
+distance:	366
+gi|377806297|gb|JQ680372.1|	1
+distance:	2072
+distance:	12141
+distance:	12141
+distance:	10069
+gi|377806345|gb|JQ680374.1|	4
+rm: cannot remove `mm/out.gtf-split-8': No such file or directory
+rm: cannot remove `mm/out.gtf-split-9': No such file or directory
+group_2	.7931	.6551
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	633
+gi|377805941|gb|JQ680356.1|	1
+distance:	256
+gi|377805967|gb|JQ680357.1|	1
+distance:	771
+gi|377805758|gb|JQ680349.1|	1
+distance:	644
+gi|377805785|gb|JQ680350.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	627
+distance:	627
+gi|377806003|gb|JQ680358.1|	2
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	2051
+gi|377806399|gb|JQ680376.1|	1
+distance:	24938
+distance:	11103
+distance:	1986
+distance:	13089
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	7
+distance:	286
+gi|377805826|gb|JQ680351.1|	1
+distance:	228
+gi|377806090|gb|JQ680362.1|	1
+distance:	370
+gi|377806097|gb|JQ680363.1|	1
+distance:	228
+distance:	45
+distance:	30
+distance:	30
+distance:	45
+distance:	60
+distance:	75
+distance:	90
+distance:	105
+distance:	135
+distance:	120
+distance:	105
+distance:	90
+distance:	75
+distance:	60
+distance:	45
+distance:	30
+gi|377806107|gb|JQ680364.1|	17
+distance:	583
+gi|377806260|gb|JQ680370.1|	1
+distance:	370
+gi|377806292|gb|JQ680371.1|	1
+distance:	366
+gi|377806297|gb|JQ680372.1|	1
+distance:	655
+gi|377805855|gb|JQ680352.1|	1
+distance:	633
+gi|377805862|gb|JQ680353.1|	1
+distance:	869
+gi|377805877|gb|JQ680354.1|	1
+distance:	654
+gi|377806170|gb|JQ680366.1|	1
+distance:	22506
+distance:	34447
+distance:	35233
+distance:	786
+gi|377806186|gb|JQ680367.1|	4
+distance:	2029
+distance:	16812
+gi|377806226|gb|JQ680368.1|	2
+distance:	660
+distance:	5173
+gi|377806301|gb|JQ680373.1|	2
+distance:	2072
+distance:	12141
+distance:	12141
+distance:	10069
+gi|377806345|gb|JQ680374.1|	4
+distance:	1952
+gi|377806374|gb|JQ680375.1|	1
+group_3	.9310	.9310
+distance:	633
+gi|377805862|gb|JQ680353.1|	1
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	2029
+distance:	16812
+gi|377806226|gb|JQ680368.1|	2
+distance:	633
+gi|377805941|gb|JQ680356.1|	1
+distance:	627
+gi|377806003|gb|JQ680358.1|	1
+distance:	2051
+gi|377806399|gb|JQ680376.1|	1
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	3
+distance:	771
+distance:	771
+gi|377805758|gb|JQ680349.1|	2
+distance:	644
+gi|377805785|gb|JQ680350.1|	1
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	45
+distance:	60
+distance:	75
+distance:	90
+distance:	105
+distance:	120
+distance:	45
+distance:	45
+distance:	60
+distance:	75
+distance:	105
+distance:	90
+distance:	75
+distance:	60
+distance:	45
+gi|377806107|gb|JQ680364.1|	15
+distance:	366
+gi|377806297|gb|JQ680372.1|	1
+distance:	1952
+gi|377806374|gb|JQ680375.1|	1
+distance:	771
+distance:	771
+gi|377806015|gb|JQ680359.1|	2
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	2025
+gi|377806133|gb|JQ680365.1|	1
+distance:	654
+gi|377806170|gb|JQ680366.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	583
+gi|377806260|gb|JQ680370.1|	1
+group_4	.6551	.6551
+Error with opening mm/out.gtf-split-9
+distance:	633
+gi|377805941|gb|JQ680356.1|	1
+distance:	627
+gi|377806003|gb|JQ680358.1|	1
+distance:	771
+gi|377806015|gb|JQ680359.1|	2
+distance:	228
+gi|377806107|gb|JQ680364.1|	1
+distance:	2025
+gi|377806133|gb|JQ680365.1|	1
+distance:	654
+gi|377806170|gb|JQ680366.1|	1
+distance:	2072
+distance:	12141
+gi|377806345|gb|JQ680374.1|	2
+distance:	1952
+gi|377806374|gb|JQ680375.1|	1
+distance:	2051
+gi|377806399|gb|JQ680376.1|	1
+distance:	633
+gi|377805862|gb|JQ680353.1|	1
+distance:	869
+gi|377805877|gb|JQ680354.1|	1
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	3
+distance:	286
+gi|377805826|gb|JQ680351.1|	1
+distance:	655
+gi|377805855|gb|JQ680352.1|	1
+distance:	771
+distance:	771
+gi|377805758|gb|JQ680349.1|	2
+distance:	644
+gi|377805785|gb|JQ680350.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	583
+gi|377806260|gb|JQ680370.1|	1
+distance:	366
+gi|377806297|gb|JQ680372.1|	1
+distance:	13935
+distance:	660
+gi|377806301|gb|JQ680373.1|	2
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	228
+gi|377806090|gb|JQ680362.1|	1
+distance:	34447
+distance:	786
+distance:	41760
+distance:	41757
+distance:	41466
+distance:	40870
+distance:	40849
+distance:	40828
+distance:	40810
+distance:	40807
+distance:	40792
+distance:	40213
+distance:	39907
+distance:	38958
+distance:	38538
+distance:	36633
+distance:	35273
+distance:	35233
+distance:	35218
+distance:	34786
+distance:	32943
+distance:	29566
+distance:	29380
+distance:	28552
+distance:	28393
+distance:	26519
+distance:	23076
+distance:	22746
+distance:	21992
+distance:	21224
+distance:	18488
+distance:	17081
+distance:	13836
+distance:	13827
+distance:	13340
+distance:	13268
+distance:	8843
+distance:	8729
+distance:	8530
+distance:	8518
+distance:	8314
+distance:	8031
+distance:	7683
+distance:	6197
+distance:	6191
+distance:	4986
+distance:	4080
+distance:	4077
+distance:	3750
+distance:	2868
+distance:	2649
+distance:	1465
+distance:	1419
+distance:	1233
+distance:	826
+distance:	786
+distance:	771
+distance:	40
+distance:	2614
+distance:	2831
+distance:	3461
+distance:	3464
+distance:	3473
+distance:	3632
+distance:	3644
+distance:	5042
+distance:	7114
+distance:	5699
+distance:	2716
+distance:	49
+distance:	835
+distance:	2930
+distance:	2991
+distance:	3148
+distance:	3724
+distance:	5821
+distance:	6188
+distance:	6194
+distance:	6202
+distance:	6206
+distance:	6210
+distance:	6946
+distance:	6954
+distance:	8859
+distance:	8861
+distance:	11167
+distance:	11180
+distance:	12357
+distance:	13883
+distance:	15804
+distance:	16189
+distance:	16194
+distance:	17190
+distance:	18338
+distance:	19460
+distance:	19472
+distance:	22933
+distance:	24370
+distance:	24383
+distance:	28648
+distance:	28658
+distance:	30735
+distance:	34088
+distance:	34586
+distance:	34591
+distance:	34607
+distance:	35282
+distance:	35288
+distance:	36894
+distance:	38462
+distance:	38473
+distance:	38824
+distance:	38832
+distance:	40663
+gi|377806186|gb|JQ680367.1|	114
+distance:	2029
+distance:	16812
+gi|377806226|gb|JQ680368.1|	2
+rm: cannot remove `mm/out.gtf-split-9': No such file or directory
+group_5	.8965	.8965
+Error with opening mm/out.gtf-split-9
+Error with opening mm/out.gtf-split-8
+distance:	583
+gi|377806260|gb|JQ680370.1|	1
+distance:	370
+distance:	370
+gi|377806292|gb|JQ680371.1|	2
+distance:	366
+gi|377806297|gb|JQ680372.1|	1
+distance:	2029
+distance:	16812
+gi|377806226|gb|JQ680368.1|	2
+distance:	633
+gi|377805862|gb|JQ680353.1|	1
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	633
+gi|377805941|gb|JQ680356.1|	1
+distance:	771
+gi|377805758|gb|JQ680349.1|	1
+distance:	644
+gi|377805785|gb|JQ680350.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	627
+gi|377806003|gb|JQ680358.1|	1
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	2025
+gi|377806133|gb|JQ680365.1|	1
+distance:	654
+gi|377806170|gb|JQ680366.1|	1
+distance:	228
+gi|377806090|gb|JQ680362.1|	1
+distance:	370
+gi|377806097|gb|JQ680363.1|	1
+distance:	228
+distance:	45
+distance:	60
+distance:	75
+distance:	90
+distance:	105
+distance:	120
+distance:	135
+gi|377806107|gb|JQ680364.1|	8
+distance:	660
+gi|377806301|gb|JQ680373.1|	1
+distance:	2048
+gi|377806399|gb|JQ680376.1|	1
+distance:	286
+gi|377805826|gb|JQ680351.1|	1
+rm: cannot remove `mm/out.gtf-split-8': No such file or directory
+rm: cannot remove `mm/out.gtf-split-9': No such file or directory
+group_6	.7586	.7241
+Error with opening mm/out.gtf-split-8
+Error with opening mm/out.gtf-split-9
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	633
+gi|377805941|gb|JQ680356.1|	1
+distance:	627
+gi|377806003|gb|JQ680358.1|	1
+distance:	619
+gi|377806018|gb|JQ680360.1|	1
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	228
+gi|377806090|gb|JQ680362.1|	1
+distance:	34447
+distance:	35233
+distance:	34786
+distance:	34365
+distance:	32546
+distance:	28552
+distance:	13836
+distance:	1419
+distance:	786
+distance:	6187
+distance:	19469
+distance:	33127
+gi|377806186|gb|JQ680367.1|	12
+distance:	2029
+distance:	16812
+gi|377806226|gb|JQ680368.1|	2
+distance:	228
+gi|377806107|gb|JQ680364.1|	1
+distance:	654
+gi|377806170|gb|JQ680366.1|	1
+distance:	644
+gi|377805785|gb|JQ680350.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	583
+distance:	22426
+gi|377806260|gb|JQ680370.1|	2
+distance:	286
+gi|377805826|gb|JQ680351.1|	1
+distance:	655
+gi|377805855|gb|JQ680352.1|	1
+distance:	633
+gi|377805862|gb|JQ680353.1|	1
+distance:	1949
+gi|377806374|gb|JQ680375.1|	1
+distance:	2048
+distance:	2048
+gi|377806399|gb|JQ680376.1|	2
+distance:	11103
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	4
+distance:	366
+gi|377806297|gb|JQ680372.1|	1
+distance:	13935
+distance:	660
+gi|377806301|gb|JQ680373.1|	2
+distance:	2072
+distance:	12141
+distance:	12141
+distance:	10069
+gi|377806345|gb|JQ680374.1|	4
+rm: cannot remove `mm/out.gtf-split-8': No such file or directory
+rm: cannot remove `mm/out.gtf-split-9': No such file or directory
+group_7	.7931	.7586
+directory mm exists,it will be covered!
+Error with opening mm/out.gtf-split-8
+Error with opening mm/out.gtf-split-9
+distance:	654
+gi|377806170|gb|JQ680366.1|	1
+distance:	633
+gi|377805941|gb|JQ680356.1|	1
+distance:	627
+gi|377806003|gb|JQ680358.1|	1
+distance:	771
+gi|377806015|gb|JQ680359.1|	1
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	228
+gi|377806090|gb|JQ680362.1|	1
+distance:	771
+gi|377805758|gb|JQ680349.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	370
+gi|377806292|gb|JQ680371.1|	1
+distance:	1952
+gi|377806374|gb|JQ680375.1|	1
+distance:	2048
+gi|377806399|gb|JQ680376.1|	1
+distance:	633
+gi|377805862|gb|JQ680353.1|	1
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	370
+gi|377806097|gb|JQ680363.1|	1
+distance:	228
+gi|377806107|gb|JQ680364.1|	1
+distance:	2025
+gi|377806133|gb|JQ680365.1|	1
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	3
+distance:	286
+gi|377805826|gb|JQ680351.1|	1
+distance:	655
+gi|377805855|gb|JQ680352.1|	1
+rm: cannot remove `mm/out.gtf-split-8': No such file or directory
+rm: cannot remove `mm/out.gtf-split-9': No such file or directory
+group_8	.7586	.6896
+Error with opening mm/out.gtf-split-9
+distance:	627
+gi|377806003|gb|JQ680358.1|	1
+distance:	771
+gi|377806015|gb|JQ680359.1|	1
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	633
+gi|377805862|gb|JQ680353.1|	1
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	633
+gi|377805941|gb|JQ680356.1|	1
+distance:	771
+gi|377805758|gb|JQ680349.1|	1
+distance:	644
+gi|377805785|gb|JQ680350.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	228
+gi|377806107|gb|JQ680364.1|	1
+distance:	2025
+gi|377806133|gb|JQ680365.1|	1
+distance:	654
+gi|377806170|gb|JQ680366.1|	1
+distance:	342
+gi|377806060|gb|JQ680361.1|	1
+distance:	228
+gi|377806090|gb|JQ680362.1|	1
+distance:	370
+gi|377806097|gb|JQ680363.1|	1
+distance:	583
+gi|377806260|gb|JQ680370.1|	1
+distance:	370
+gi|377806292|gb|JQ680371.1|	1
+distance:	366
+gi|377806297|gb|JQ680372.1|	1
+distance:	16049
+distance:	7425
+distance:	13935
+distance:	660
+gi|377806301|gb|JQ680373.1|	4
+distance:	2072
+distance:	12141
+gi|377806345|gb|JQ680374.1|	2
+distance:	1949
+gi|377806374|gb|JQ680375.1|	1
+distance:	34447
+distance:	35233
+distance:	34786
+distance:	786
+gi|377806186|gb|JQ680367.1|	4
+distance:	2029
+distance:	16812
+gi|377806226|gb|JQ680368.1|	2
+distance:	2051
+gi|377806399|gb|JQ680376.1|	1
+distance:	24938
+distance:	1986
+distance:	11103
+distance:	1986
+distance:	13089
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	8
+distance:	286
+gi|377805826|gb|JQ680351.1|	1
+rm: cannot remove `mm/out.gtf-split-9': No such file or directory
+group_9	.8965	.8965
+Error with opening mm/out.gtf-split-8
+Error with opening mm/out.gtf-split-9
+distance:	27076
+gi|377805877|gb|JQ680354.1|	1
+distance:	2054
+gi|377805936|gb|JQ680355.1|	1
+distance:	633
+distance:	633
+gi|377805941|gb|JQ680356.1|	2
+distance:	256
+gi|377805967|gb|JQ680357.1|	1
+distance:	627
+gi|377806003|gb|JQ680358.1|	1
+distance:	33400
+distance:	619
+gi|377806018|gb|JQ680360.1|	2
+distance:	228
+gi|377806090|gb|JQ680362.1|	1
+distance:	228
+gi|377806107|gb|JQ680364.1|	1
+distance:	4945
+distance:	36
+distance:	759
+distance:	8204
+distance:	9374
+distance:	5719
+gi|377806133|gb|JQ680365.1|	6
+distance:	22093
+gi|377806186|gb|JQ680367.1|	1
+distance:	202
+gi|377806251|gb|JQ680369.1|	1
+distance:	2051
+gi|377806399|gb|JQ680376.1|	1
+distance:	22952
+distance:	1986
+distance:	13089
+gi|377806422|gb|JQ680377.1|	3
+distance:	13935
+distance:	660
+distance:	23478
+distance:	21624
+distance:	20263
+distance:	10408
+distance:	4206
+distance:	2612
+distance:	20602
+gi|377806301|gb|JQ680373.1|	9
+distance:	2072
+distance:	12141
+distance:	12141
+distance:	10069
+gi|377806345|gb|JQ680374.1|	4
+rm: cannot remove `mm/out.gtf-split-8': No such file or directory
+rm: cannot remove `mm/out.gtf-split-9': No such file or directory
+group_10	.7586	.5172
+group_2/
+group_2/classify/
+group_2/classify/classify_RT/
+group_2/classify/classify_RT/class1.fa
+group_2/classify/classify_RT/class4.txt
+group_2/classify/classify_RT/class3.txt
+group_2/classify/classify_RT/class2.txt
+group_2/classify/classify_RT/class3.fa
+group_2/classify/classify_RT/class2.fa
+group_2/classify/classify_RT/class4.fa
+group_2/classify/classify_RT/RT.mafft.tree
+group_2/classify/classify_RT/RT.mafft
+group_2/classify/classify_RT/class1.txt
+group_2/classify/classify_VR/
+group_2/classify/classify_VR/class1.fa
+group_2/classify/classify_VR/class4.txt
+group_2/classify/classify_VR/VR.mafft.tree
+group_2/classify/classify_VR/VR.mafft
+group_2/classify/classify_VR/class3.txt
+group_2/classify/classify_VR/class2.txt
+group_2/classify/classify_VR/class3.fa
+group_2/classify/classify_VR/class2.fa
+group_2/classify/classify_VR/class5.fa
+group_2/classify/classify_VR/class4.fa
+group_2/classify/classify_VR/class5.txt
+group_2/classify/classify_VR/class1.txt
+group_2/classify/classify_TR/
+group_2/classify/classify_TR/TR.mafft.tree
+group_2/classify/classify_TR/class1.fa
+group_2/classify/classify_TR/class4.txt
+group_2/classify/classify_TR/TR.mafft
+group_2/classify/classify_TR/class3.txt
+group_2/classify/classify_TR/class2.txt
+group_2/classify/classify_TR/class3.fa
+group_2/classify/classify_TR/class2.fa
+group_2/classify/classify_TR/class5.fa
+group_2/classify/classify_TR/class4.fa
+group_2/classify/classify_TR/class5.txt
+group_2/classify/classify_TR/class1.txt
+group_2/DGR_summary.txt
+group_2/TR.config
+group_2/simulation/
+group_2/simulation/VR-class4.sml
+group_2/simulation/TR-class4.sml
+group_2/simulation/VR-class1.sml
+group_2/simulation/RT-class2.sml
+group_2/simulation/TR-class5.sml
+group_2/simulation/TR-class2.sml
+group_2/simulation/RT-class4.sml
+group_2/simulation/RT-class3.sml
+group_2/simulation/VR-class3.sml
+group_2/simulation/VR-class2.sml
+group_2/simulation/TR-class1.sml
+group_2/simulation/TR-class3.sml
+group_2/simulation/VR-class5.sml
+group_2/simulation/RT-class1.sml
+group_2/VR.config
+group_2/arg.config
+group_2/train/
+group_2/train/TR.fa
+group_2/train/DGR.fa
+group_3/
+group_3/classify/
+group_3/classify/classify_RT/
+group_3/classify/classify_RT/class1.fa
+group_3/classify/classify_RT/class4.txt
+group_3/classify/classify_RT/class3.txt
+group_3/classify/classify_RT/class2.txt
+group_3/classify/classify_RT/class3.fa
+group_3/classify/classify_RT/class2.fa
+group_3/classify/classify_RT/class4.fa
+group_3/classify/classify_RT/RT.mafft.tree
+group_3/classify/classify_RT/RT.mafft
+group_3/classify/classify_RT/class1.txt
+group_3/classify/classify_VR/
+group_3/classify/classify_VR/class1.fa
+group_3/classify/classify_VR/class4.txt
+group_3/classify/classify_VR/VR.mafft.tree
+group_3/classify/classify_VR/VR.mafft
+group_3/classify/classify_VR/class3.txt
+group_3/classify/classify_VR/class2.txt
+group_3/classify/classify_VR/class3.fa
+group_3/classify/classify_VR/class2.fa
+group_3/classify/classify_VR/class5.fa
+group_3/classify/classify_VR/class4.fa
+group_3/classify/classify_VR/class5.txt
+group_3/classify/classify_VR/class1.txt
+group_3/classify/classify_TR/
+group_3/classify/classify_TR/TR.mafft.tree
+group_3/classify/classify_TR/class1.fa
+group_3/classify/classify_TR/class4.txt
+group_3/classify/classify_TR/TR.mafft
+group_3/classify/classify_TR/class3.txt
+group_3/classify/classify_TR/class2.txt
+group_3/classify/classify_TR/class3.fa
+group_3/classify/classify_TR/class2.fa
+group_3/classify/classify_TR/class5.fa
+group_3/classify/classify_TR/class4.fa
+group_3/classify/classify_TR/class5.txt
+group_3/classify/classify_TR/class1.txt
+group_3/DGR_summary.txt
+group_3/TR.config
+group_3/simulation/
+group_3/simulation/VR-class4.sml
+group_3/simulation/TR-class4.sml
+group_3/simulation/VR-class1.sml
+group_3/simulation/RT-class2.sml
+group_3/simulation/TR-class5.sml
+group_3/simulation/TR-class2.sml
+group_3/simulation/RT-class4.sml
+group_3/simulation/RT-class3.sml
+group_3/simulation/VR-class3.sml
+group_3/simulation/VR-class2.sml
+group_3/simulation/TR-class1.sml
+group_3/simulation/TR-class3.sml
+group_3/simulation/VR-class5.sml
+group_3/simulation/RT-class1.sml
+group_3/VR.config
+group_3/arg.config
+group_3/train/
+group_3/train/TR.fa
+group_3/train/DGR.fa
+group_4/
+group_4/classify/
+group_4/classify/classify_RT/
+group_4/classify/classify_RT/class1.fa
+group_4/classify/classify_RT/class4.txt
+group_4/classify/classify_RT/class3.txt
+group_4/classify/classify_RT/class2.txt
+group_4/classify/classify_RT/class3.fa
+group_4/classify/classify_RT/class2.fa
+group_4/classify/classify_RT/class4.fa
+group_4/classify/classify_RT/RT.mafft.tree
+group_4/classify/classify_RT/RT.mafft
+group_4/classify/classify_RT/class1.txt
+group_4/classify/classify_VR/
+group_4/classify/classify_VR/class1.fa
+group_4/classify/classify_VR/class4.txt
+group_4/classify/classify_VR/VR.mafft.tree
+group_4/classify/classify_VR/VR.mafft
+group_4/classify/classify_VR/class3.txt
+group_4/classify/classify_VR/class2.txt
+group_4/classify/classify_VR/class3.fa
+group_4/classify/classify_VR/class2.fa
+group_4/classify/classify_VR/class5.fa
+group_4/classify/classify_VR/class4.fa
+group_4/classify/classify_VR/class5.txt
+group_4/classify/classify_VR/class1.txt
+group_4/classify/classify_TR/
+group_4/classify/classify_TR/TR.mafft.tree
+group_4/classify/classify_TR/class1.fa
+group_4/classify/classify_TR/class4.txt
+group_4/classify/classify_TR/TR.mafft
+group_4/classify/classify_TR/class3.txt
+group_4/classify/classify_TR/class2.txt
+group_4/classify/classify_TR/class3.fa
+group_4/classify/classify_TR/class2.fa
+group_4/classify/classify_TR/class5.fa
+group_4/classify/classify_TR/class4.fa
+group_4/classify/classify_TR/class5.txt
+group_4/classify/classify_TR/class1.txt
+group_4/DGR_summary.txt
+group_4/TR.config
+group_4/simulation/
+group_4/simulation/VR-class4.sml
+group_4/simulation/TR-class4.sml
+group_4/simulation/VR-class1.sml
+group_4/simulation/RT-class2.sml
+group_4/simulation/TR-class5.sml
+group_4/simulation/TR-class2.sml
+group_4/simulation/RT-class4.sml
+group_4/simulation/RT-class3.sml
+group_4/simulation/VR-class3.sml
+group_4/simulation/VR-class2.sml
+group_4/simulation/TR-class1.sml
+group_4/simulation/TR-class3.sml
+group_4/simulation/VR-class5.sml
+group_4/simulation/RT-class1.sml
+group_4/VR.config
+group_4/arg.config
+group_4/train/
+group_4/train/TR.fa
+group_4/train/DGR.fa
+group_5/
+group_5/classify/
+group_5/classify/classify_RT/
+group_5/classify/classify_RT/class1.fa
+group_5/classify/classify_RT/class4.txt
+group_5/classify/classify_RT/class3.txt
+group_5/classify/classify_RT/class2.txt
+group_5/classify/classify_RT/class3.fa
+group_5/classify/classify_RT/class2.fa
+group_5/classify/classify_RT/class4.fa
+group_5/classify/classify_RT/RT.mafft.tree
+group_5/classify/classify_RT/RT.mafft
+group_5/classify/classify_RT/class1.txt
+group_5/classify/classify_VR/
+group_5/classify/classify_VR/class1.fa
+group_5/classify/classify_VR/class4.txt
+group_5/classify/classify_VR/VR.mafft.tree
+group_5/classify/classify_VR/VR.mafft
+group_5/classify/classify_VR/class3.txt
+group_5/classify/classify_VR/class2.txt
+group_5/classify/classify_VR/class3.fa
+group_5/classify/classify_VR/class2.fa
+group_5/classify/classify_VR/class5.fa
+group_5/classify/classify_VR/class4.fa
+group_5/classify/classify_VR/class5.txt
+group_5/classify/classify_VR/class1.txt
+group_5/classify/classify_TR/
+group_5/classify/classify_TR/TR.mafft.tree
+group_5/classify/classify_TR/class1.fa
+group_5/classify/classify_TR/class4.txt
+group_5/classify/classify_TR/TR.mafft
+group_5/classify/classify_TR/class3.txt
+group_5/classify/classify_TR/class2.txt
+group_5/classify/classify_TR/class3.fa
+group_5/classify/classify_TR/class2.fa
+group_5/classify/classify_TR/class5.fa
+group_5/classify/classify_TR/class4.fa
+group_5/classify/classify_TR/class5.txt
+group_5/classify/classify_TR/class1.txt
+group_5/DGR_summary.txt
+group_5/TR.config
+group_5/simulation/
+group_5/simulation/VR-class4.sml
+group_5/simulation/TR-class4.sml
+group_5/simulation/VR-class1.sml
+group_5/simulation/RT-class2.sml
+group_5/simulation/TR-class5.sml
+group_5/simulation/TR-class2.sml
+group_5/simulation/RT-class4.sml
+group_5/simulation/RT-class3.sml
+group_5/simulation/VR-class3.sml
+group_5/simulation/VR-class2.sml
+group_5/simulation/TR-class1.sml
+group_5/simulation/TR-class3.sml
+group_5/simulation/VR-class5.sml
+group_5/simulation/RT-class1.sml
+group_5/VR.config
+group_5/arg.config
+group_5/train/
+group_5/train/TR.fa
+group_5/train/DGR.fa
+group_6/
+group_6/classify/
+group_6/classify/classify_RT/
+group_6/classify/classify_RT/class1.fa
+group_6/classify/classify_RT/class4.txt
+group_6/classify/classify_RT/class3.txt
+group_6/classify/classify_RT/class2.txt
+group_6/classify/classify_RT/class3.fa
+group_6/classify/classify_RT/class2.fa
+group_6/classify/classify_RT/class4.fa
+group_6/classify/classify_RT/RT.mafft.tree
+group_6/classify/classify_RT/RT.mafft
+group_6/classify/classify_RT/class1.txt
+group_6/classify/classify_VR/
+group_6/classify/classify_VR/class1.fa
+group_6/classify/classify_VR/class4.txt
+group_6/classify/classify_VR/VR.mafft.tree
+group_6/classify/classify_VR/VR.mafft
+group_6/classify/classify_VR/class3.txt
+group_6/classify/classify_VR/class2.txt
+group_6/classify/classify_VR/class3.fa
+group_6/classify/classify_VR/class2.fa
+group_6/classify/classify_VR/class5.fa
+group_6/classify/classify_VR/class4.fa
+group_6/classify/classify_VR/class5.txt
+group_6/classify/classify_VR/class1.txt
+group_6/classify/classify_TR/
+group_6/classify/classify_TR/TR.mafft.tree
+group_6/classify/classify_TR/class1.fa
+group_6/classify/classify_TR/class4.txt
+group_6/classify/classify_TR/TR.mafft
+group_6/classify/classify_TR/class3.txt
+group_6/classify/classify_TR/class2.txt
+group_6/classify/classify_TR/class3.fa
+group_6/classify/classify_TR/class2.fa
+group_6/classify/classify_TR/class5.fa
+group_6/classify/classify_TR/class4.fa
+group_6/classify/classify_TR/class5.txt
+group_6/classify/classify_TR/class1.txt
+group_6/DGR_summary.txt
+group_6/TR.config
+group_6/simulation/
+group_6/simulation/VR-class4.sml
+group_6/simulation/TR-class4.sml
+group_6/simulation/VR-class1.sml
+group_6/simulation/RT-class2.sml
+group_6/simulation/TR-class5.sml
+group_6/simulation/TR-class2.sml
+group_6/simulation/RT-class4.sml
+group_6/simulation/RT-class3.sml
+group_6/simulation/VR-class3.sml
+group_6/simulation/VR-class2.sml
+group_6/simulation/TR-class1.sml
+group_6/simulation/TR-class3.sml
+group_6/simulation/VR-class5.sml
+group_6/simulation/RT-class1.sml
+group_6/VR.config
+group_6/arg.config
+group_6/train/
+group_6/train/TR.fa
+group_6/train/DGR.fa
+group_2/train/VR.fa
+group_2/train/RT.fa
+group_2/align/
+group_2/align/VR-class3.align
+group_2/align/TR-class2.align
+group_2/align/TR-class4.align
+group_2/align/VR-class2.align
+group_2/align/VR-class5.align
+group_2/align/RT-class2.align
+group_2/align/RT-class1.align
+group_2/align/VR-class4.align
+group_2/align/TR-class3.align
+group_2/align/VR-class1.align
+group_2/align/TR-class5.align
+group_2/align/RT-class3.align
+group_2/align/RT-class4.align
+group_2/align/TR-class1.align
+group_2/RT.config
+group_2/test/
+group_2/test/TR.fa
+group_2/test/DGR.fa
+group_7/
+group_7/classify/
+group_7/classify/classify_RT/
+group_7/classify/classify_RT/class1.fa
+group_7/classify/classify_RT/class4.txt
+group_7/classify/classify_RT/class3.txt
+group_7/classify/classify_RT/class2.txt
+group_7/classify/classify_RT/class3.fa
+group_7/classify/classify_RT/class2.fa
+group_7/classify/classify_RT/class4.fa
+group_7/classify/classify_RT/RT.mafft.tree
+group_7/classify/classify_RT/RT.mafft
+group_7/classify/classify_RT/class1.txt
+group_7/classify/classify_VR/
+group_7/classify/classify_VR/class1.fa
+group_7/classify/classify_VR/class4.txt
+group_7/classify/classify_VR/VR.mafft.tree
+group_7/classify/classify_VR/VR.mafft
+group_7/classify/classify_VR/class3.txt
+group_7/classify/classify_VR/class2.txt
+group_7/classify/classify_VR/class3.fa
+group_7/classify/classify_VR/class2.fa
+group_7/classify/classify_VR/class5.fa
+group_7/classify/classify_VR/class4.fa
+group_7/classify/classify_VR/class5.txt
+group_7/classify/classify_VR/class1.txt
+group_7/classify/classify_TR/
+group_7/classify/classify_TR/TR.mafft.tree
+group_7/classify/classify_TR/class1.fa
+group_7/classify/classify_TR/class4.txt
+group_7/classify/classify_TR/TR.mafft
+group_7/classify/classify_TR/class3.txt
+group_7/classify/classify_TR/class2.txt
+group_7/classify/classify_TR/class3.fa
+group_7/classify/classify_TR/class2.fa
+group_7/classify/classify_TR/class5.fa
+group_7/classify/classify_TR/class4.fa
+group_7/classify/classify_TR/class5.txt
+group_7/classify/classify_TR/class1.txt
+group_7/DGR_summary.txt
+group_7/TR.config
+group_7/simulation/
+group_7/simulation/VR-class4.sml
+group_7/simulation/TR-class4.sml
+group_7/simulation/VR-class1.sml
+group_7/simulation/RT-class2.sml
+group_7/simulation/TR-class5.sml
+group_7/simulation/TR-class2.sml
+group_7/simulation/RT-class4.sml
+group_7/simulation/RT-class3.sml
+group_7/simulation/VR-class3.sml
+group_7/simulation/VR-class2.sml
+group_7/simulation/TR-class1.sml
+group_7/simulation/TR-class3.sml
+group_7/simulation/VR-class5.sml
+group_7/simulation/RT-class1.sml
+group_7/VR.config
+group_7/arg.config
+group_7/train/
+group_7/train/TR.fa
+group_2/test/VR.fa
+group_2/test/RT.fa
+group_7/train/DGR.fa
+group_2/motif/
+group_2/motif/VR-class1/
+group_2/motif/VR-class1/logo9.png
+group_2/motif/VR-class1/logo_ssc4.png
+group_2/motif/VR-class1/logo_ssc2.png
+group_2/motif/VR-class1/logo_ssc5.png
+group_2/motif/VR-class1/logo2.eps
+group_2/motif/VR-class1/logo4.eps
+group_2/motif/VR-class1/glam2.meme
+group_2/motif/VR-class1/logo_ssc2.eps
+group_2/motif/VR-class1/logo_ssc10.eps
+group_2/motif/VR-class1/logo3.png
+group_2/motif/VR-class1/logo_ssc1.eps
+group_2/motif/VR-class1/logo6.eps
+group_2/motif/VR-class1/logo_ssc8.eps
+group_2/motif/VR-class1/logo6.png
+group_2/motif/VR-class1/logo_ssc7.png
+group_2/motif/VR-class1/logo_ssc3.png
+group_2/motif/VR-class1/glam2.txt
+group_2/motif/VR-class1/logo_ssc8.png
+group_2/motif/VR-class1/logo7.eps
+group_2/motif/VR-class1/glam2.html
+group_2/motif/VR-class1/logo8.eps
+group_2/motif/VR-class1/logo8.png
+group_2/motif/VR-class1/logo_ssc5.eps
+group_2/motif/VR-class1/logo1.png
+group_2/motif/VR-class1/logo10.eps
+group_2/motif/VR-class1/logo_ssc3.eps
+group_2/motif/VR-class1/logo_ssc9.png
+group_2/motif/VR-class1/logo_ssc6.png
+group_2/motif/VR-class1/logo_ssc6.eps
+group_2/motif/VR-class1/logo_ssc7.eps
+group_2/motif/VR-class1/logo9.eps
+group_2/motif/VR-class1/logo_ssc1.png
+group_2/motif/VR-class1/logo1.eps
+group_2/motif/VR-class1/logo4.png
+group_2/motif/VR-class1/logo2.png
+group_2/motif/VR-class1/logo_ssc4.eps
+group_2/motif/VR-class1/logo5.png
+group_2/motif/VR-class1/logo3.eps
+group_2/motif/VR-class1/logo5.eps
+group_2/motif/VR-class1/logo10.png
+group_2/motif/VR-class1/logo_ssc10.png
+group_2/motif/VR-class1/logo7.png
+group_2/motif/VR-class1/logo_ssc9.eps
+group_2/motif/VR-class4/
+group_2/motif/VR-class4/logo9.png
+group_2/motif/VR-class4/logo_ssc4.png
+group_2/motif/VR-class4/logo_ssc2.png
+group_2/motif/VR-class4/logo_ssc5.png
+group_2/motif/VR-class4/logo2.eps
+group_2/motif/VR-class4/logo4.eps
+group_2/motif/VR-class4/glam2.meme
+group_2/motif/VR-class4/logo_ssc2.eps
+group_2/motif/VR-class4/logo_ssc10.eps
+group_2/motif/VR-class4/logo3.png
+group_2/motif/VR-class4/logo_ssc1.eps
+group_2/motif/VR-class4/logo6.eps
+group_2/motif/VR-class4/logo_ssc8.eps
+group_2/motif/VR-class4/logo6.png
+group_2/motif/VR-class4/logo_ssc7.png
+group_2/motif/VR-class4/logo_ssc3.png
+group_2/motif/VR-class4/glam2.txt
+group_2/motif/VR-class4/logo_ssc8.png
+group_2/motif/VR-class4/logo7.eps
+group_2/motif/VR-class4/glam2.html
+group_2/motif/VR-class4/logo8.eps
+group_2/motif/VR-class4/logo8.png
+group_2/motif/VR-class4/logo_ssc5.eps
+group_2/motif/VR-class4/logo1.png
+group_2/motif/VR-class4/logo10.eps
+group_2/motif/VR-class4/logo_ssc3.eps
+group_2/motif/VR-class4/logo_ssc9.png
+group_2/motif/VR-class4/logo_ssc6.png
+group_2/motif/VR-class4/logo_ssc6.eps
+group_2/motif/VR-class4/logo_ssc7.eps
+group_2/motif/VR-class4/logo9.eps
+group_2/motif/VR-class4/logo_ssc1.png
+group_2/motif/VR-class4/logo1.eps
+group_2/motif/VR-class4/logo4.png
+group_2/motif/VR-class4/logo2.png
+group_2/motif/VR-class4/logo_ssc4.eps
+group_2/motif/VR-class4/logo5.png
+group_2/motif/VR-class4/logo3.eps
+group_2/motif/VR-class4/logo5.eps
+group_2/motif/VR-class4/logo10.png
+group_2/motif/VR-class4/logo_ssc10.png
+group_2/motif/VR-class4/logo7.png
+group_2/motif/VR-class4/logo_ssc9.eps
+group_2/motif/VR-class5/
+group_2/motif/VR-class5/logo9.png
+group_2/motif/VR-class5/logo_ssc4.png
+group_2/motif/VR-class5/logo_ssc2.png
+group_2/motif/VR-class5/logo_ssc5.png
+group_2/motif/VR-class5/logo2.eps
+group_2/motif/VR-class5/logo4.eps
+group_2/motif/VR-class5/glam2.meme
+group_2/motif/VR-class5/logo_ssc2.eps
+group_2/motif/VR-class5/logo_ssc10.eps
+group_2/motif/VR-class5/logo3.png
+group_2/motif/VR-class5/logo_ssc1.eps
+group_2/motif/VR-class5/logo6.eps
+group_2/motif/VR-class5/logo_ssc8.eps
+group_2/motif/VR-class5/logo6.png
+group_2/motif/VR-class5/logo_ssc7.png
+group_2/motif/VR-class5/logo_ssc3.png
+group_2/motif/VR-class5/glam2.txt
+group_2/motif/VR-class5/logo_ssc8.png
+group_2/motif/VR-class5/logo7.eps
+group_2/motif/VR-class5/glam2.html
+group_3/train/VR.fa
+group_2/motif/VR-class5/logo8.eps
+group_3/train/RT.fa
+group_2/motif/VR-class5/logo8.png
+group_2/motif/VR-class5/logo_ssc5.eps
+group_2/motif/VR-class5/logo1.png
+group_2/motif/VR-class5/logo10.eps
+group_2/motif/VR-class5/logo_ssc3.eps
+group_2/motif/VR-class5/logo_ssc9.png
+group_2/motif/VR-class5/logo_ssc6.png
+group_2/motif/VR-class5/logo_ssc6.eps
+group_2/motif/VR-class5/logo_ssc7.eps
+group_2/motif/VR-class5/logo9.eps
+group_2/motif/VR-class5/logo_ssc1.png
+group_2/motif/VR-class5/logo1.eps
+group_2/motif/VR-class5/logo4.png
+group_2/motif/VR-class5/logo2.png
+group_2/motif/VR-class5/logo_ssc4.eps
+group_2/motif/VR-class5/logo5.png
+group_2/motif/VR-class5/logo3.eps
+group_2/motif/VR-class5/logo5.eps
+group_2/motif/VR-class5/logo10.png
+group_2/motif/VR-class5/logo_ssc10.png
+group_2/motif/VR-class5/logo7.png
+group_2/motif/VR-class5/logo_ssc9.eps
+group_2/motif/TR-class1/
+group_2/motif/TR-class1/logo9.png
+group_2/motif/TR-class1/logo_ssc4.png
+group_2/motif/TR-class1/logo_ssc2.png
+group_2/motif/TR-class1/logo_ssc5.png
+group_2/motif/TR-class1/logo2.eps
+group_2/motif/TR-class1/logo4.eps
+group_2/motif/TR-class1/glam2.meme
+group_2/motif/TR-class1/logo_ssc2.eps
+group_2/motif/TR-class1/logo_ssc10.eps
+group_2/motif/TR-class1/logo3.png
+group_2/motif/TR-class1/logo_ssc1.eps
+group_2/motif/TR-class1/logo6.eps
+group_2/motif/TR-class1/logo_ssc8.eps
+group_2/motif/TR-class1/logo6.png
+group_2/motif/TR-class1/logo_ssc7.png
+group_2/motif/TR-class1/logo_ssc3.png
+group_2/motif/TR-class1/glam2.txt
+group_2/motif/TR-class1/logo_ssc8.png
+group_2/motif/TR-class1/logo7.eps
+group_2/motif/TR-class1/glam2.html
+group_2/motif/TR-class1/logo8.eps
+group_2/motif/TR-class1/logo8.png
+group_2/motif/TR-class1/logo_ssc5.eps
+group_2/motif/TR-class1/logo1.png
+group_2/motif/TR-class1/logo10.eps
+group_2/motif/TR-class1/logo_ssc3.eps
+group_2/motif/TR-class1/logo_ssc9.png
+group_2/motif/TR-class1/logo_ssc6.png
+group_2/motif/TR-class1/logo_ssc6.eps
+group_3/align/
+group_3/align/VR-class3.align
+group_2/motif/TR-class1/logo_ssc7.eps
+group_3/align/TR-class2.align
+group_3/align/TR-class4.align
+group_3/align/VR-class2.align
+group_2/motif/TR-class1/logo9.eps
+group_2/motif/TR-class1/logo_ssc1.png
+group_2/motif/TR-class1/logo1.eps
+group_3/align/VR-class5.align
+group_2/motif/TR-class1/logo4.png
+group_3/align/RT-class2.align
+group_2/motif/TR-class1/logo2.png
+group_2/motif/TR-class1/logo_ssc4.eps
+group_2/motif/TR-class1/logo5.png
+group_2/motif/TR-class1/logo3.eps
+group_2/motif/TR-class1/logo5.eps
+group_2/motif/TR-class1/logo10.png
+group_2/motif/TR-class1/logo_ssc10.png
+group_2/motif/TR-class1/logo7.png
+group_2/motif/TR-class1/logo_ssc9.eps
+group_2/motif/TR-class5/
+group_2/motif/TR-class5/logo9.png
+group_2/motif/TR-class5/logo_ssc4.png
+group_2/motif/TR-class5/logo_ssc2.png
+group_3/align/RT-class1.align
+group_2/motif/TR-class5/logo_ssc5.png
+group_2/motif/TR-class5/logo2.eps
+group_2/motif/TR-class5/logo4.eps
+group_2/motif/TR-class5/glam2.meme
+group_2/motif/TR-class5/logo_ssc2.eps
+group_2/motif/TR-class5/logo_ssc10.eps
+group_2/motif/TR-class5/logo3.png
+group_2/motif/TR-class5/logo_ssc1.eps
+group_2/motif/TR-class5/logo6.eps
+group_2/motif/TR-class5/logo_ssc8.eps
+group_2/motif/TR-class5/logo6.png
+group_2/motif/TR-class5/logo_ssc7.png
+group_2/motif/TR-class5/logo_ssc3.png
+group_2/motif/TR-class5/glam2.txt
+group_2/motif/TR-class5/logo_ssc8.png
+group_2/motif/TR-class5/logo7.eps
+group_2/motif/TR-class5/glam2.html
+group_3/align/VR-class4.align
+group_3/align/TR-class3.align
+group_3/align/VR-class1.align
+group_3/align/TR-class5.align
+group_3/align/RT-class3.align
+group_2/motif/TR-class5/logo8.eps
+group_2/motif/TR-class5/logo8.png
+group_2/motif/TR-class5/logo_ssc5.eps
+group_2/motif/TR-class5/logo1.png
+group_2/motif/TR-class5/logo10.eps
+group_2/motif/TR-class5/logo_ssc3.eps
+group_2/motif/TR-class5/logo_ssc9.png
+group_2/motif/TR-class5/logo_ssc6.png
+group_2/motif/TR-class5/logo_ssc6.eps
+group_2/motif/TR-class5/logo_ssc7.eps
+group_2/motif/TR-class5/logo9.eps
+group_2/motif/TR-class5/logo_ssc1.png
+group_2/motif/TR-class5/logo1.eps
+group_2/motif/TR-class5/logo4.png
+group_2/motif/TR-class5/logo2.png
+group_2/motif/TR-class5/logo_ssc4.eps
+group_2/motif/TR-class5/logo5.png
+group_2/motif/TR-class5/logo3.eps
+group_2/motif/TR-class5/logo5.eps
+group_2/motif/TR-class5/logo10.png
+group_2/motif/TR-class5/logo_ssc10.png
+group_2/motif/TR-class5/logo7.png
+group_2/motif/TR-class5/logo_ssc9.eps
+group_2/motif/TR-class4/
+group_2/motif/TR-class4/logo9.png
+group_2/motif/TR-class4/logo_ssc4.png
+group_3/align/RT-class4.align
+group_2/motif/TR-class4/logo_ssc2.png
+group_2/motif/TR-class4/logo_ssc5.png
+group_2/motif/TR-class4/logo2.eps
+group_2/motif/TR-class4/logo4.eps
+group_2/motif/TR-class4/glam2.meme
+group_2/motif/TR-class4/logo_ssc2.eps
+group_2/motif/TR-class4/logo_ssc10.eps
+group_2/motif/TR-class4/logo3.png
+group_2/motif/TR-class4/logo_ssc1.eps
+group_2/motif/TR-class4/logo6.eps
+group_2/motif/TR-class4/logo_ssc8.eps
+group_2/motif/TR-class4/logo6.png
+group_2/motif/TR-class4/logo_ssc7.png
+group_2/motif/TR-class4/logo_ssc3.png
+group_2/motif/TR-class4/glam2.txt
+group_3/align/TR-class1.align
+group_2/motif/TR-class4/logo_ssc8.png
+group_2/motif/TR-class4/logo7.eps
+group_2/motif/TR-class4/glam2.html
+group_3/RT.config
+group_3/test/
+group_3/test/TR.fa
+group_3/test/DGR.fa
+group_2/motif/TR-class4/logo8.eps
+group_2/motif/TR-class4/logo8.png
+group_2/motif/TR-class4/logo_ssc5.eps
+group_2/motif/TR-class4/logo1.png
+group_2/motif/TR-class4/logo10.eps
+group_2/motif/TR-class4/logo_ssc3.eps
+group_2/motif/TR-class4/logo_ssc9.png
+group_2/motif/TR-class4/logo_ssc6.png
+group_2/motif/TR-class4/logo_ssc6.eps
+group_2/motif/TR-class4/logo_ssc7.eps
+group_2/motif/TR-class4/logo9.eps
+group_2/motif/TR-class4/logo_ssc1.png
+group_2/motif/TR-class4/logo1.eps
+group_2/motif/TR-class4/logo4.png
+group_2/motif/TR-class4/logo2.png
+group_2/motif/TR-class4/logo_ssc4.eps
+group_2/motif/TR-class4/logo5.png
+group_2/motif/TR-class4/logo3.eps
+group_2/motif/TR-class4/logo5.eps
+group_2/motif/TR-class4/logo10.png
+group_2/motif/TR-class4/logo_ssc10.png
+group_2/motif/TR-class4/logo7.png
+group_2/motif/TR-class4/logo_ssc9.eps
+group_2/motif/TR-class2/
+group_2/motif/TR-class2/logo9.png
+group_2/motif/TR-class2/logo_ssc4.png
+group_2/motif/TR-class2/logo_ssc2.png
+group_2/motif/TR-class2/logo_ssc5.png
+group_2/motif/TR-class2/logo2.eps
+group_2/motif/TR-class2/logo4.eps
+group_2/motif/TR-class2/glam2.meme
+group_2/motif/TR-class2/logo_ssc2.eps
+group_2/motif/TR-class2/logo_ssc10.eps
+group_2/motif/TR-class2/logo3.png
+group_2/motif/TR-class2/logo_ssc1.eps
+group_2/motif/TR-class2/logo6.eps
+group_2/motif/TR-class2/logo_ssc8.eps
+group_2/motif/TR-class2/logo6.png
+group_2/motif/TR-class2/logo_ssc7.png
+group_2/motif/TR-class2/logo_ssc3.png
+group_2/motif/TR-class2/glam2.txt
+group_2/motif/TR-class2/logo_ssc8.png
+group_2/motif/TR-class2/logo7.eps
+group_2/motif/TR-class2/glam2.html
+group_2/motif/TR-class2/logo8.eps
+group_2/motif/TR-class2/logo8.png
+group_2/motif/TR-class2/logo_ssc5.eps
+group_2/motif/TR-class2/logo1.png
+group_2/motif/TR-class2/logo10.eps
+group_2/motif/TR-class2/logo_ssc3.eps
+group_2/motif/TR-class2/logo_ssc9.png
+group_2/motif/TR-class2/logo_ssc6.png
+group_2/motif/TR-class2/logo_ssc6.eps
+group_2/motif/TR-class2/logo_ssc7.eps
+group_2/motif/TR-class2/logo9.eps
+group_2/motif/TR-class2/logo_ssc1.png
+group_2/motif/TR-class2/logo1.eps
+group_2/motif/TR-class2/logo4.png
+group_2/motif/TR-class2/logo2.png
+group_2/motif/TR-class2/logo_ssc4.eps
+group_2/motif/TR-class2/logo5.png
+group_2/motif/TR-class2/logo3.eps
+group_2/motif/TR-class2/logo5.eps
+group_2/motif/TR-class2/logo10.png
+group_2/motif/TR-class2/logo_ssc10.png
+group_2/motif/TR-class2/logo7.png
+group_2/motif/TR-class2/logo_ssc9.eps
+group_2/motif/VR-class2/
+group_2/motif/VR-class2/logo9.png
+group_2/motif/VR-class2/logo_ssc4.png
+group_2/motif/VR-class2/logo_ssc2.png
+group_2/motif/VR-class2/logo_ssc5.png
+group_2/motif/VR-class2/logo2.eps
+group_2/motif/VR-class2/logo4.eps
+group_2/motif/VR-class2/glam2.meme
+group_2/motif/VR-class2/logo_ssc2.eps
+group_2/motif/VR-class2/logo_ssc10.eps
+group_2/motif/VR-class2/logo3.png
+group_2/motif/VR-class2/logo_ssc1.eps
+group_2/motif/VR-class2/logo6.eps
+group_2/motif/VR-class2/logo_ssc8.eps
+group_2/motif/VR-class2/logo6.png
+group_2/motif/VR-class2/logo_ssc7.png
+group_2/motif/VR-class2/logo_ssc3.png
+group_2/motif/VR-class2/glam2.txt
+group_2/motif/VR-class2/logo_ssc8.png
+group_2/motif/VR-class2/logo7.eps
+group_2/motif/VR-class2/glam2.html
+group_2/motif/VR-class2/logo8.eps
+group_2/motif/VR-class2/logo8.png
+group_2/motif/VR-class2/logo_ssc5.eps
+group_2/motif/VR-class2/logo1.png
+group_2/motif/VR-class2/logo10.eps
+group_2/motif/VR-class2/logo_ssc3.eps
+group_2/motif/VR-class2/logo_ssc9.png
+group_2/motif/VR-class2/logo_ssc6.png
+group_8/
+group_8/classify/
+group_8/classify/classify_RT/
+group_8/classify/classify_RT/class1.fa
+group_2/motif/VR-class2/logo_ssc6.eps
+group_2/motif/VR-class2/logo_ssc7.eps
+group_2/motif/VR-class2/logo9.eps
+group_2/motif/VR-class2/logo_ssc1.png
+group_2/motif/VR-class2/logo1.eps
+group_2/motif/VR-class2/logo4.png
+group_2/motif/VR-class2/logo2.png
+group_2/motif/VR-class2/logo_ssc4.eps
+group_2/motif/VR-class2/logo5.png
+group_2/motif/VR-class2/logo3.eps
+group_2/motif/VR-class2/logo5.eps
+group_2/motif/VR-class2/logo10.png
+group_2/motif/VR-class2/logo_ssc10.png
+group_2/motif/VR-class2/logo7.png
+group_2/motif/VR-class2/logo_ssc9.eps
+group_2/motif/VR-class3/
+group_2/motif/VR-class3/logo9.png
+group_2/motif/VR-class3/logo_ssc4.png
+group_2/motif/VR-class3/logo_ssc2.png
+group_2/motif/VR-class3/logo_ssc5.png
+group_2/motif/VR-class3/logo2.eps
+group_2/motif/VR-class3/logo4.eps
+group_2/motif/VR-class3/glam2.meme
+group_2/motif/VR-class3/logo_ssc2.eps
+group_2/motif/VR-class3/logo_ssc10.eps
+group_2/motif/VR-class3/logo3.png
+group_2/motif/VR-class3/logo_ssc1.eps
+group_2/motif/VR-class3/logo6.eps
+group_8/classify/classify_RT/class4.txt
+group_2/motif/VR-class3/logo_ssc8.eps
+group_2/motif/VR-class3/logo6.png
+group_2/motif/VR-class3/logo_ssc7.png
+group_2/motif/VR-class3/logo_ssc3.png
+group_2/motif/VR-class3/glam2.txt
+group_8/classify/classify_RT/class3.txt
+group_8/classify/classify_RT/class2.txt
+group_8/classify/classify_RT/class3.fa
+group_8/classify/classify_RT/class2.fa
+group_2/motif/VR-class3/logo_ssc8.png
+group_2/motif/VR-class3/logo7.eps
+group_2/motif/VR-class3/glam2.html
+group_8/classify/classify_RT/class4.fa
+group_2/motif/VR-class3/logo8.eps
+group_2/motif/VR-class3/logo8.png
+group_2/motif/VR-class3/logo_ssc5.eps
+group_2/motif/VR-class3/logo1.png
+group_2/motif/VR-class3/logo10.eps
+group_2/motif/VR-class3/logo_ssc3.eps
+group_2/motif/VR-class3/logo_ssc9.png
+group_2/motif/VR-class3/logo_ssc6.png
+group_2/motif/VR-class3/logo_ssc6.eps
+group_2/motif/VR-class3/logo_ssc7.eps
+group_2/motif/VR-class3/logo9.eps
+group_2/motif/VR-class3/logo_ssc1.png
+group_8/classify/classify_RT/RT.mafft.tree
+group_2/motif/VR-class3/logo1.eps
+group_2/motif/VR-class3/logo4.png
+group_2/motif/VR-class3/logo2.png
+group_8/classify/classify_RT/RT.mafft
+group_2/motif/VR-class3/logo_ssc4.eps
+group_2/motif/VR-class3/logo5.png
+group_2/motif/VR-class3/logo3.eps
+group_2/motif/VR-class3/logo5.eps
+group_2/motif/VR-class3/logo10.png
+group_2/motif/VR-class3/logo_ssc10.png
+group_2/motif/VR-class3/logo7.png
+group_2/motif/VR-class3/logo_ssc9.eps
+group_2/motif/TR-class3/
+group_2/motif/TR-class3/logo9.png
+group_2/motif/TR-class3/logo_ssc4.png
+group_2/motif/TR-class3/logo_ssc2.png
+group_2/motif/TR-class3/logo_ssc5.png
+group_2/motif/TR-class3/logo2.eps
+group_2/motif/TR-class3/logo4.eps
+group_2/motif/TR-class3/glam2.meme
+group_2/motif/TR-class3/logo_ssc2.eps
+group_2/motif/TR-class3/logo_ssc10.eps
+group_2/motif/TR-class3/logo3.png
+group_2/motif/TR-class3/logo_ssc1.eps
+group_2/motif/TR-class3/logo6.eps
+group_2/motif/TR-class3/logo_ssc8.eps
+group_2/motif/TR-class3/logo6.png
+group_2/motif/TR-class3/logo_ssc7.png
+group_2/motif/TR-class3/logo_ssc3.png
+group_2/motif/TR-class3/glam2.txt
+group_2/motif/TR-class3/logo_ssc8.png
+group_2/motif/TR-class3/logo7.eps
+group_2/motif/TR-class3/glam2.html
+group_2/motif/TR-class3/logo8.eps
+group_2/motif/TR-class3/logo8.png
+group_2/motif/TR-class3/logo_ssc5.eps
+group_2/motif/TR-class3/logo1.png
+group_2/motif/TR-class3/logo10.eps
+group_2/motif/TR-class3/logo_ssc3.eps
+group_2/motif/TR-class3/logo_ssc9.png
+group_2/motif/TR-class3/logo_ssc6.png
+group_2/motif/TR-class3/logo_ssc6.eps
+group_2/motif/TR-class3/logo_ssc7.eps
+group_2/motif/TR-class3/logo9.eps
+group_2/motif/TR-class3/logo_ssc1.png
+group_2/motif/TR-class3/logo1.eps
+group_2/motif/TR-class3/logo4.png
+group_2/motif/TR-class3/logo2.png
+group_2/motif/TR-class3/logo_ssc4.eps
+group_2/motif/TR-class3/logo5.png
+group_2/motif/TR-class3/logo3.eps
+group_2/motif/TR-class3/logo5.eps
+group_2/motif/TR-class3/logo10.png
+group_2/motif/TR-class3/logo_ssc10.png
+group_2/motif/TR-class3/logo7.png
+group_2/motif/TR-class3/logo_ssc9.eps
+group_2/reBuildDGR.pl
+group_2/evaluation.txt
+group_8/classify/classify_RT/class1.txt
+group_8/classify/classify_VR/
+group_8/classify/classify_VR/class1.fa
+group_8/classify/classify_VR/class4.txt
+group_8/classify/classify_VR/VR.mafft.tree
+group_3/test/VR.fa
+group_8/classify/classify_VR/VR.mafft
+group_3/test/RT.fa
+group_3/motif/
+group_3/motif/VR-class1/
+group_3/motif/VR-class1/logo9.png
+group_3/motif/VR-class1/logo_ssc4.png
+group_3/motif/VR-class1/logo_ssc2.png
+group_3/motif/VR-class1/logo_ssc5.png
+group_3/motif/VR-class1/logo2.eps
+group_8/classify/classify_VR/class3.txt
+group_8/classify/classify_VR/class2.txt
+group_3/motif/VR-class1/logo4.eps
+group_8/classify/classify_VR/class3.fa
+group_3/motif/VR-class1/glam2.meme
+group_3/motif/VR-class1/logo_ssc2.eps
+group_3/motif/VR-class1/logo_ssc10.eps
+group_3/motif/VR-class1/logo3.png
+group_3/motif/VR-class1/logo_ssc1.eps
+group_8/classify/classify_VR/class2.fa
+group_3/motif/VR-class1/logo6.eps
+group_3/motif/VR-class1/logo_ssc8.eps
+group_3/motif/VR-class1/logo6.png
+group_3/motif/VR-class1/logo_ssc7.png
+group_8/classify/classify_VR/class5.fa
+group_3/motif/VR-class1/logo_ssc3.png
+group_8/classify/classify_VR/class4.fa
+group_3/motif/VR-class1/glam2.txt
+group_8/classify/classify_VR/class5.txt
+group_8/classify/classify_VR/class1.txt
+group_8/classify/classify_TR/
+group_8/classify/classify_TR/TR.mafft.tree
+group_8/classify/classify_TR/class1.fa
+group_3/motif/VR-class1/logo_ssc8.png
+group_8/classify/classify_TR/class4.txt
+group_8/classify/classify_TR/TR.mafft
+group_3/motif/VR-class1/logo7.eps
+group_3/motif/VR-class1/glam2.html
+group_3/motif/VR-class1/logo8.eps
+group_3/motif/VR-class1/logo8.png
+group_3/motif/VR-class1/logo_ssc5.eps
+group_3/motif/VR-class1/logo1.png
+group_3/motif/VR-class1/logo10.eps
+group_8/classify/classify_TR/class3.txt
+group_8/classify/classify_TR/class2.txt
+group_3/motif/VR-class1/logo_ssc3.eps
+group_3/motif/VR-class1/logo_ssc9.png
+group_8/classify/classify_TR/class3.fa
+group_3/motif/VR-class1/logo_ssc6.png
+group_3/motif/VR-class1/logo_ssc6.eps
+group_3/motif/VR-class1/logo_ssc7.eps
+group_8/classify/classify_TR/class2.fa
+group_3/motif/VR-class1/logo9.eps
+group_3/motif/VR-class1/logo_ssc1.png
+group_3/motif/VR-class1/logo1.eps
+group_3/motif/VR-class1/logo4.png
+group_8/classify/classify_TR/class5.fa
+group_8/classify/classify_TR/class4.fa
+group_8/classify/classify_TR/class5.txt
+group_8/classify/classify_TR/class1.txt
+group_8/DGR_summary.txt
+group_8/TR.config
+group_8/simulation/
+group_8/simulation/VR-class4.sml
+group_8/simulation/TR-class4.sml
+group_3/motif/VR-class1/logo2.png
+group_8/simulation/VR-class1.sml
+group_8/simulation/RT-class2.sml
+group_8/simulation/TR-class5.sml
+group_8/simulation/TR-class2.sml
+group_3/motif/VR-class1/logo_ssc4.eps
+group_8/simulation/RT-class4.sml
+group_8/simulation/RT-class3.sml
+group_8/simulation/VR-class3.sml
+group_3/motif/VR-class1/logo5.png
+group_8/simulation/VR-class2.sml
+group_8/simulation/TR-class1.sml
+group_8/simulation/TR-class3.sml
+group_8/simulation/VR-class5.sml
+group_8/simulation/RT-class1.sml
+group_3/motif/VR-class1/logo3.eps
+group_3/motif/VR-class1/logo5.eps
+group_3/motif/VR-class1/logo10.png
+group_8/VR.config
+group_8/arg.config
+group_3/motif/VR-class1/logo_ssc10.png
+group_3/motif/VR-class1/logo7.png
+group_8/train/
+group_8/train/TR.fa
+group_3/motif/VR-class1/logo_ssc9.eps
+group_3/motif/VR-class4/
+group_3/motif/VR-class4/logo9.png
+group_8/train/DGR.fa
+group_3/motif/VR-class4/logo_ssc4.png
+group_3/motif/VR-class4/logo_ssc2.png
+group_3/motif/VR-class4/logo_ssc5.png
+group_3/motif/VR-class4/logo2.eps
+group_3/motif/VR-class4/logo4.eps
+group_3/motif/VR-class4/glam2.meme
+group_3/motif/VR-class4/logo_ssc2.eps
+group_3/motif/VR-class4/logo_ssc10.eps
+group_3/motif/VR-class4/logo3.png
+group_3/motif/VR-class4/logo_ssc1.eps
+group_3/motif/VR-class4/logo6.eps
+group_3/motif/VR-class4/logo_ssc8.eps
+group_3/motif/VR-class4/logo6.png
+group_3/motif/VR-class4/logo_ssc7.png
+group_3/motif/VR-class4/logo_ssc3.png
+group_3/motif/VR-class4/glam2.txt
+group_3/motif/VR-class4/logo_ssc8.png
+group_3/motif/VR-class4/logo7.eps
+group_3/motif/VR-class4/glam2.html
+group_3/motif/VR-class4/logo8.eps
+group_3/motif/VR-class4/logo8.png
+group_3/motif/VR-class4/logo_ssc5.eps
+group_3/motif/VR-class4/logo1.png
+group_3/motif/VR-class4/logo10.eps
+group_3/motif/VR-class4/logo_ssc3.eps
+group_3/motif/VR-class4/logo_ssc9.png
+group_3/motif/VR-class4/logo_ssc6.png
+group_3/motif/VR-class4/logo_ssc6.eps
+group_3/motif/VR-class4/logo_ssc7.eps
+group_3/motif/VR-class4/logo9.eps
+group_3/motif/VR-class4/logo_ssc1.png
+group_3/motif/VR-class4/logo1.eps
+group_3/motif/VR-class4/logo4.png
+group_3/motif/VR-class4/logo2.png
+group_3/motif/VR-class4/logo_ssc4.eps
+group_3/motif/VR-class4/logo5.png
+group_3/motif/VR-class4/logo3.eps
+group_3/motif/VR-class4/logo5.eps
+group_3/motif/VR-class4/logo10.png
+group_3/motif/VR-class4/logo_ssc10.png
+group_3/motif/VR-class4/logo7.png
+group_3/motif/VR-class4/logo_ssc9.eps
+group_3/motif/VR-class5/
+group_3/motif/VR-class5/logo9.png
+group_3/motif/VR-class5/logo_ssc4.png
+group_3/motif/VR-class5/logo_ssc2.png
+group_3/motif/VR-class5/logo_ssc5.png
+group_3/motif/VR-class5/logo2.eps
+group_3/motif/VR-class5/logo4.eps
+group_3/motif/VR-class5/glam2.meme
+group_3/motif/VR-class5/logo_ssc2.eps
+group_3/motif/VR-class5/logo_ssc10.eps
+group_3/motif/VR-class5/logo3.png
+group_3/motif/VR-class5/logo_ssc1.eps
+group_3/motif/VR-class5/logo6.eps
+group_3/motif/VR-class5/logo_ssc8.eps
+group_3/motif/VR-class5/logo6.png
+group_3/motif/VR-class5/logo_ssc7.png
+group_3/motif/VR-class5/logo_ssc3.png
+group_3/motif/VR-class5/glam2.txt
+group_3/motif/VR-class5/logo_ssc8.png
+group_3/motif/VR-class5/logo7.eps
+group_3/motif/VR-class5/glam2.html
+group_3/motif/VR-class5/logo8.eps
+group_3/motif/VR-class5/logo8.png
+group_3/motif/VR-class5/logo_ssc5.eps
+group_3/motif/VR-class5/logo1.png
+group_3/motif/VR-class5/logo10.eps
+group_3/motif/VR-class5/logo_ssc3.eps
+group_3/motif/VR-class5/logo_ssc9.png
+group_3/motif/VR-class5/logo_ssc6.png
+group_3/motif/VR-class5/logo_ssc6.eps
+group_3/motif/VR-class5/logo_ssc7.eps
+group_3/motif/VR-class5/logo9.eps
+group_3/motif/VR-class5/logo_ssc1.png
+group_3/motif/VR-class5/logo1.eps
+group_3/motif/VR-class5/logo4.png
+group_3/motif/VR-class5/logo2.png
+group_3/motif/VR-class5/logo_ssc4.eps
+group_3/motif/VR-class5/logo5.png
+group_3/motif/VR-class5/logo3.eps
+group_3/motif/VR-class5/logo5.eps
+group_3/motif/VR-class5/logo10.png
+group_3/motif/VR-class5/logo_ssc10.png
+group_3/motif/VR-class5/logo7.png
+group_3/motif/VR-class5/logo_ssc9.eps
+group_3/motif/TR-class1/
+group_3/motif/TR-class1/logo9.png
+group_3/motif/TR-class1/logo_ssc4.png
+group_3/motif/TR-class1/logo_ssc2.png
+group_3/motif/TR-class1/logo_ssc5.png
+group_3/motif/TR-class1/logo2.eps
+group_3/motif/TR-class1/logo4.eps
+group_3/motif/TR-class1/glam2.meme
+group_3/motif/TR-class1/logo_ssc2.eps
+group_3/motif/TR-class1/logo_ssc10.eps
+group_3/motif/TR-class1/logo3.png
+group_3/motif/TR-class1/logo_ssc1.eps
+group_3/motif/TR-class1/logo6.eps
+group_3/motif/TR-class1/logo_ssc8.eps
+group_3/motif/TR-class1/logo6.png
+group_3/motif/TR-class1/logo_ssc7.png
+group_3/motif/TR-class1/logo_ssc3.png
+group_3/motif/TR-class1/glam2.txt
+group_3/motif/TR-class1/logo_ssc8.png
+group_3/motif/TR-class1/logo7.eps
+group_3/motif/TR-class1/glam2.html
+group_3/motif/TR-class1/logo8.eps
+group_3/motif/TR-class1/logo8.png
+group_3/motif/TR-class1/logo_ssc5.eps
+group_3/motif/TR-class1/logo1.png
+group_3/motif/TR-class1/logo10.eps
+group_3/motif/TR-class1/logo_ssc3.eps
+group_3/motif/TR-class1/logo_ssc9.png
+group_3/motif/TR-class1/logo_ssc6.png
+group_3/motif/TR-class1/logo_ssc6.eps
+group_3/motif/TR-class1/logo_ssc7.eps
+group_3/motif/TR-class1/logo9.eps
+group_3/motif/TR-class1/logo_ssc1.png
+group_3/motif/TR-class1/logo1.eps
+group_3/motif/TR-class1/logo4.png
+group_3/motif/TR-class1/logo2.png
+group_3/motif/TR-class1/logo_ssc4.eps
+group_3/motif/TR-class1/logo5.png
+group_3/motif/TR-class1/logo3.eps
+group_3/motif/TR-class1/logo5.eps
+group_3/motif/TR-class1/logo10.png
+group_3/motif/TR-class1/logo_ssc10.png
+group_3/motif/TR-class1/logo7.png
+group_3/motif/TR-class1/logo_ssc9.eps
+group_3/motif/TR-class5/
+group_3/motif/TR-class5/logo9.png
+group_3/motif/TR-class5/logo_ssc4.png
+group_3/motif/TR-class5/logo_ssc2.png
+group_3/motif/TR-class5/logo_ssc5.png
+group_3/motif/TR-class5/logo2.eps
+group_3/motif/TR-class5/logo4.eps
+group_3/motif/TR-class5/glam2.meme
+group_3/motif/TR-class5/logo_ssc2.eps
+group_3/motif/TR-class5/logo_ssc10.eps
+group_3/motif/TR-class5/logo3.png
+group_3/motif/TR-class5/logo_ssc1.eps
+group_3/motif/TR-class5/logo6.eps
+group_3/motif/TR-class5/logo_ssc8.eps
+group_3/motif/TR-class5/logo6.png
+group_3/motif/TR-class5/logo_ssc7.png
+group_3/motif/TR-class5/logo_ssc3.png
+group_3/motif/TR-class5/glam2.txt
+group_3/motif/TR-class5/logo_ssc8.png
+group_3/motif/TR-class5/logo7.eps
+group_3/motif/TR-class5/glam2.html
+group_3/motif/TR-class5/logo8.eps
+group_3/motif/TR-class5/logo8.png
+group_3/motif/TR-class5/logo_ssc5.eps
+group_3/motif/TR-class5/logo1.png
+group_3/motif/TR-class5/logo10.eps
+group_3/motif/TR-class5/logo_ssc3.eps
+group_3/motif/TR-class5/logo_ssc9.png
+group_3/motif/TR-class5/logo_ssc6.png
+group_3/motif/TR-class5/logo_ssc6.eps
+group_3/motif/TR-class5/logo_ssc7.eps
+group_3/motif/TR-class5/logo9.eps
+group_3/motif/TR-class5/logo_ssc1.png
+group_3/motif/TR-class5/logo1.eps
+group_3/motif/TR-class5/logo4.png
+group_3/motif/TR-class5/logo2.png
+group_3/motif/TR-class5/logo_ssc4.eps
+group_3/motif/TR-class5/logo5.png
+group_3/motif/TR-class5/logo3.eps
+group_3/motif/TR-class5/logo5.eps
+group_3/motif/TR-class5/logo10.png
+group_3/motif/TR-class5/logo_ssc10.png
+group_3/motif/TR-class5/logo7.png
+group_3/motif/TR-class5/logo_ssc9.eps
+group_3/motif/TR-class4/
+group_3/motif/TR-class4/logo9.png
+group_3/motif/TR-class4/logo_ssc4.png
+group_3/motif/TR-class4/logo_ssc2.png
+group_3/motif/TR-class4/logo_ssc5.png
+group_3/motif/TR-class4/logo2.eps
+group_3/motif/TR-class4/logo4.eps
+group_3/motif/TR-class4/glam2.meme
+group_3/motif/TR-class4/logo_ssc2.eps
+group_3/motif/TR-class4/logo_ssc10.eps
+group_3/motif/TR-class4/logo3.png
+group_3/motif/TR-class4/logo_ssc1.eps
+group_3/motif/TR-class4/logo6.eps
+group_3/motif/TR-class4/logo_ssc8.eps
+group_3/motif/TR-class4/logo6.png
+group_3/motif/TR-class4/logo_ssc7.png
+group_3/motif/TR-class4/logo_ssc3.png
+group_3/motif/TR-class4/glam2.txt
+group_3/motif/TR-class4/logo_ssc8.png
+group_3/motif/TR-class4/logo7.eps
+group_3/motif/TR-class4/glam2.html
+group_3/motif/TR-class4/logo8.eps
+group_3/motif/TR-class4/logo8.png
+group_3/motif/TR-class4/logo_ssc5.eps
+group_3/motif/TR-class4/logo1.png
+group_3/motif/TR-class4/logo10.eps
+group_3/motif/TR-class4/logo_ssc3.eps
+group_3/motif/TR-class4/logo_ssc9.png
+group_3/motif/TR-class4/logo_ssc6.png
+group_3/motif/TR-class4/logo_ssc6.eps
+group_3/motif/TR-class4/logo_ssc7.eps
+group_3/motif/TR-class4/logo9.eps
+group_3/motif/TR-class4/logo_ssc1.png
+group_3/motif/TR-class4/logo1.eps
+group_3/motif/TR-class4/logo4.png
+group_3/motif/TR-class4/logo2.png
+group_3/motif/TR-class4/logo_ssc4.eps
+group_3/motif/TR-class4/logo5.png
+group_3/motif/TR-class4/logo3.eps
+group_3/motif/TR-class4/logo5.eps
+group_3/motif/TR-class4/logo10.png
+group_3/motif/TR-class4/logo_ssc10.png
+group_3/motif/TR-class4/logo7.png
+group_3/motif/TR-class4/logo_ssc9.eps
+group_3/motif/TR-class2/
+group_3/motif/TR-class2/logo9.png
+group_3/motif/TR-class2/logo_ssc4.png
+group_3/motif/TR-class2/logo_ssc2.png
+group_3/motif/TR-class2/logo_ssc5.png
+group_3/motif/TR-class2/logo2.eps
+group_3/motif/TR-class2/logo4.eps
+group_3/motif/TR-class2/glam2.meme
+group_3/motif/TR-class2/logo_ssc2.eps
+group_3/motif/TR-class2/logo_ssc10.eps
+group_3/motif/TR-class2/logo3.png
+group_3/motif/TR-class2/logo_ssc1.eps
+group_3/motif/TR-class2/logo6.eps
+group_3/motif/TR-class2/logo_ssc8.eps
+group_3/motif/TR-class2/logo6.png
+group_3/motif/TR-class2/logo_ssc7.png
+group_3/motif/TR-class2/logo_ssc3.png
+group_3/motif/TR-class2/glam2.txt
+group_3/motif/TR-class2/logo_ssc8.png
+group_3/motif/TR-class2/logo7.eps
+group_3/motif/TR-class2/glam2.html
+group_3/motif/TR-class2/logo8.eps
+group_3/motif/TR-class2/logo8.png
+group_3/motif/TR-class2/logo_ssc5.eps
+group_3/motif/TR-class2/logo1.png
+group_3/motif/TR-class2/logo10.eps
+group_3/motif/TR-class2/logo_ssc3.eps
+group_3/motif/TR-class2/logo_ssc9.png
+group_3/motif/TR-class2/logo_ssc6.png
+group_3/motif/TR-class2/logo_ssc6.eps
+group_3/motif/TR-class2/logo_ssc7.eps
+group_3/motif/TR-class2/logo9.eps
+group_3/motif/TR-class2/logo_ssc1.png
+group_3/motif/TR-class2/logo1.eps
+group_3/motif/TR-class2/logo4.png
+group_3/motif/TR-class2/logo2.png
+group_3/motif/TR-class2/logo_ssc4.eps
+group_3/motif/TR-class2/logo5.png
+group_3/motif/TR-class2/logo3.eps
+group_3/motif/TR-class2/logo5.eps
+group_3/motif/TR-class2/logo10.png
+group_3/motif/TR-class2/logo_ssc10.png
+group_3/motif/TR-class2/logo7.png
+group_3/motif/TR-class2/logo_ssc9.eps
+group_3/motif/VR-class2/
+group_3/motif/VR-class2/logo9.png
+group_3/motif/VR-class2/logo_ssc4.png
+group_3/motif/VR-class2/logo_ssc2.png
+group_3/motif/VR-class2/logo_ssc5.png
+group_3/motif/VR-class2/logo2.eps
+group_3/motif/VR-class2/logo4.eps
+group_3/motif/VR-class2/glam2.meme
+group_3/motif/VR-class2/logo_ssc2.eps
+group_3/motif/VR-class2/logo_ssc10.eps
+group_3/motif/VR-class2/logo3.png
+group_3/motif/VR-class2/logo_ssc1.eps
+group_3/motif/VR-class2/logo6.eps
+group_3/motif/VR-class2/logo_ssc8.eps
+group_3/motif/VR-class2/logo6.png
+group_3/motif/VR-class2/logo_ssc7.png
+group_3/motif/VR-class2/logo_ssc3.png
+group_3/motif/VR-class2/glam2.txt
+group_3/motif/VR-class2/logo_ssc8.png
+group_3/motif/VR-class2/logo7.eps
+group_3/motif/VR-class2/glam2.html
+group_3/motif/VR-class2/logo8.eps
+group_3/motif/VR-class2/logo8.png
+group_3/motif/VR-class2/logo_ssc5.eps
+group_3/motif/VR-class2/logo1.png
+group_3/motif/VR-class2/logo10.eps
+group_3/motif/VR-class2/logo_ssc3.eps
+group_3/motif/VR-class2/logo_ssc9.png
+group_3/motif/VR-class2/logo_ssc6.png
+group_3/motif/VR-class2/logo_ssc6.eps
+group_3/motif/VR-class2/logo_ssc7.eps
+group_3/motif/VR-class2/logo9.eps
+group_3/motif/VR-class2/logo_ssc1.png
+group_3/motif/VR-class2/logo1.eps
+group_3/motif/VR-class2/logo4.png
+group_3/motif/VR-class2/logo2.png
+group_3/motif/VR-class2/logo_ssc4.eps
+group_3/motif/VR-class2/logo5.png
+group_3/motif/VR-class2/logo3.eps
+group_3/motif/VR-class2/logo5.eps
+group_3/motif/VR-class2/logo10.png
+group_3/motif/VR-class2/logo_ssc10.png
+group_3/motif/VR-class2/logo7.png
+group_3/motif/VR-class2/logo_ssc9.eps
+group_3/motif/VR-class3/
+group_3/motif/VR-class3/logo9.png
+group_3/motif/VR-class3/logo_ssc4.png
+group_3/motif/VR-class3/logo_ssc2.png
+group_3/motif/VR-class3/logo_ssc5.png
+group_3/motif/VR-class3/logo2.eps
+group_3/motif/VR-class3/logo4.eps
+group_3/motif/VR-class3/glam2.meme
+group_3/motif/VR-class3/logo_ssc2.eps
+group_3/motif/VR-class3/logo_ssc10.eps
+group_3/motif/VR-class3/logo3.png
+group_3/motif/VR-class3/logo_ssc1.eps
+group_3/motif/VR-class3/logo6.eps
+group_3/motif/VR-class3/logo_ssc8.eps
+group_3/motif/VR-class3/logo6.png
+group_3/motif/VR-class3/logo_ssc7.png
+group_3/motif/VR-class3/logo_ssc3.png
+group_3/motif/VR-class3/glam2.txt
+group_4/train/VR.fa
+group_3/motif/VR-class3/logo_ssc8.png
+group_3/motif/VR-class3/logo7.eps
+group_3/motif/VR-class3/glam2.html
+group_4/train/RT.fa
+group_3/motif/VR-class3/logo8.eps
+group_3/motif/VR-class3/logo8.png
+group_3/motif/VR-class3/logo_ssc5.eps
+group_3/motif/VR-class3/logo1.png
+group_3/motif/VR-class3/logo10.eps
+group_3/motif/VR-class3/logo_ssc3.eps
+group_3/motif/VR-class3/logo_ssc9.png
+group_3/motif/VR-class3/logo_ssc6.png
+group_3/motif/VR-class3/logo_ssc6.eps
+group_3/motif/VR-class3/logo_ssc7.eps
+group_3/motif/VR-class3/logo9.eps
+group_3/motif/VR-class3/logo_ssc1.png
+group_3/motif/VR-class3/logo1.eps
+group_3/motif/VR-class3/logo4.png
+group_3/motif/VR-class3/logo2.png
+group_3/motif/VR-class3/logo_ssc4.eps
+group_3/motif/VR-class3/logo5.png
+group_3/motif/VR-class3/logo3.eps
+group_3/motif/VR-class3/logo5.eps
+group_3/motif/VR-class3/logo10.png
+group_3/motif/VR-class3/logo_ssc10.png
+group_3/motif/VR-class3/logo7.png
+group_3/motif/VR-class3/logo_ssc9.eps
+group_3/motif/TR-class3/
+group_3/motif/TR-class3/logo9.png
+group_3/motif/TR-class3/logo_ssc4.png
+group_3/motif/TR-class3/logo_ssc2.png
+group_3/motif/TR-class3/logo_ssc5.png
+group_3/motif/TR-class3/logo2.eps
+group_3/motif/TR-class3/logo4.eps
+group_3/motif/TR-class3/glam2.meme
+group_3/motif/TR-class3/logo_ssc2.eps
+group_3/motif/TR-class3/logo_ssc10.eps
+group_3/motif/TR-class3/logo3.png
+group_3/motif/TR-class3/logo_ssc1.eps
+group_3/motif/TR-class3/logo6.eps
+group_3/motif/TR-class3/logo_ssc8.eps
+group_3/motif/TR-class3/logo6.png
+group_3/motif/TR-class3/logo_ssc7.png
+group_3/motif/TR-class3/logo_ssc3.png
+group_3/motif/TR-class3/glam2.txt
+group_3/motif/TR-class3/logo_ssc8.png
+group_3/motif/TR-class3/logo7.eps
+group_3/motif/TR-class3/glam2.html
+group_3/motif/TR-class3/logo8.eps
+group_4/align/
+group_4/align/VR-class3.align
+group_4/align/TR-class2.align
+group_3/motif/TR-class3/logo8.png
+group_4/align/TR-class4.align
+group_3/motif/TR-class3/logo_ssc5.eps
+group_3/motif/TR-class3/logo1.png
+group_3/motif/TR-class3/logo10.eps
+group_3/motif/TR-class3/logo_ssc3.eps
+group_3/motif/TR-class3/logo_ssc9.png
+group_3/motif/TR-class3/logo_ssc6.png
+group_3/motif/TR-class3/logo_ssc6.eps
+group_4/align/VR-class2.align
+group_4/align/VR-class5.align
+group_3/motif/TR-class3/logo_ssc7.eps
+group_3/motif/TR-class3/logo9.eps
+group_3/motif/TR-class3/logo_ssc1.png
+group_3/motif/TR-class3/logo1.eps
+group_3/motif/TR-class3/logo4.png
+group_3/motif/TR-class3/logo2.png
+group_3/motif/TR-class3/logo_ssc4.eps
+group_4/align/RT-class2.align
+group_3/motif/TR-class3/logo5.png
+group_3/motif/TR-class3/logo3.eps
+group_3/motif/TR-class3/logo5.eps
+group_3/motif/TR-class3/logo10.png
+group_3/motif/TR-class3/logo_ssc10.png
+group_3/motif/TR-class3/logo7.png
+group_3/motif/TR-class3/logo_ssc9.eps
+group_3/reBuildDGR.pl
+group_3/evaluation.txt
+group_4/align/RT-class1.align
+group_4/align/VR-class4.align
+group_4/align/TR-class3.align
+group_4/align/VR-class1.align
+group_4/align/TR-class5.align
+group_4/align/RT-class3.align
+group_4/align/RT-class4.align
+group_4/align/TR-class1.align
+group_4/RT.config
+group_4/test/
+group_4/test/TR.fa
+group_4/test/DGR.fa
+group_9/
+group_9/classify/
+group_9/classify/classify_RT/
+group_9/classify/classify_RT/class1.fa
+group_9/classify/classify_RT/class4.txt
+group_9/classify/classify_RT/class3.txt
+group_9/classify/classify_RT/class2.txt
+group_9/classify/classify_RT/class3.fa
+group_9/classify/classify_RT/class2.fa
+group_9/classify/classify_RT/class4.fa
+group_9/classify/classify_RT/RT.mafft.tree
+group_9/classify/classify_RT/RT.mafft
+group_9/classify/classify_RT/class1.txt
+group_9/classify/classify_VR/
+group_9/classify/classify_VR/class1.fa
+group_9/classify/classify_VR/class4.txt
+group_9/classify/classify_VR/VR.mafft.tree
+group_9/classify/classify_VR/VR.mafft
+group_9/classify/classify_VR/class3.txt
+group_9/classify/classify_VR/class2.txt
+group_9/classify/classify_VR/class3.fa
+group_9/classify/classify_VR/class2.fa
+group_9/classify/classify_VR/class5.fa
+group_9/classify/classify_VR/class4.fa
+group_9/classify/classify_VR/class5.txt
+group_9/classify/classify_VR/class1.txt
+group_9/classify/classify_TR/
+group_9/classify/classify_TR/TR.mafft.tree
+group_9/classify/classify_TR/class1.fa
+group_9/classify/classify_TR/class4.txt
+group_9/classify/classify_TR/TR.mafft
+group_9/classify/classify_TR/class3.txt
+group_9/classify/classify_TR/class2.txt
+group_9/classify/classify_TR/class3.fa
+group_9/classify/classify_TR/class2.fa
+group_9/classify/classify_TR/class5.fa
+group_9/classify/classify_TR/class4.fa
+group_9/classify/classify_TR/class5.txt
+group_9/classify/classify_TR/class1.txt
+group_9/DGR_summary.txt
+group_9/TR.config
+group_9/simulation/
+group_9/simulation/VR-class4.sml
+group_9/simulation/TR-class4.sml
+group_9/simulation/VR-class1.sml
+group_9/simulation/RT-class2.sml
+group_9/simulation/TR-class5.sml
+group_9/simulation/TR-class2.sml
+group_9/simulation/RT-class4.sml
+group_9/simulation/RT-class3.sml
+group_9/simulation/VR-class3.sml
+group_9/simulation/VR-class2.sml
+group_9/simulation/TR-class1.sml
+group_9/simulation/TR-class3.sml
+group_9/simulation/VR-class5.sml
+group_9/simulation/RT-class1.sml
+group_9/VR.config
+group_9/arg.config
+group_9/train/
+group_9/train/TR.fa
+group_9/train/DGR.fa
+group_4/test/VR.fa
+group_4/test/RT.fa
+group_4/motif/
+group_4/motif/VR-class1/
+group_4/motif/VR-class1/logo9.png
+group_4/motif/VR-class1/logo_ssc4.png
+group_4/motif/VR-class1/logo_ssc2.png
+group_4/motif/VR-class1/logo_ssc5.png
+group_4/motif/VR-class1/logo2.eps
+group_4/motif/VR-class1/logo4.eps
+group_4/motif/VR-class1/glam2.meme
+group_4/motif/VR-class1/logo_ssc2.eps
+group_4/motif/VR-class1/logo_ssc10.eps
+group_4/motif/VR-class1/logo3.png
+group_4/motif/VR-class1/logo_ssc1.eps
+group_4/motif/VR-class1/logo6.eps
+group_4/motif/VR-class1/logo_ssc8.eps
+group_4/motif/VR-class1/logo6.png
+group_4/motif/VR-class1/logo_ssc7.png
+group_4/motif/VR-class1/logo_ssc3.png
+group_4/motif/VR-class1/glam2.txt
+group_4/motif/VR-class1/logo_ssc8.png
+group_4/motif/VR-class1/logo7.eps
+group_4/motif/VR-class1/glam2.html
+group_4/motif/VR-class1/logo8.eps
+group_4/motif/VR-class1/logo8.png
+group_4/motif/VR-class1/logo_ssc5.eps
+group_4/motif/VR-class1/logo1.png
+group_4/motif/VR-class1/logo10.eps
+group_4/motif/VR-class1/logo_ssc3.eps
+group_4/motif/VR-class1/logo_ssc9.png
+group_4/motif/VR-class1/logo_ssc6.png
+group_4/motif/VR-class1/logo_ssc6.eps
+group_4/motif/VR-class1/logo_ssc7.eps
+group_4/motif/VR-class1/logo9.eps
+group_4/motif/VR-class1/logo_ssc1.png
+group_4/motif/VR-class1/logo1.eps
+group_4/motif/VR-class1/logo4.png
+group_4/motif/VR-class1/logo2.png
+group_4/motif/VR-class1/logo_ssc4.eps
+group_4/motif/VR-class1/logo5.png
+group_4/motif/VR-class1/logo3.eps
+group_4/motif/VR-class1/logo5.eps
+group_4/motif/VR-class1/logo10.png
+group_4/motif/VR-class1/logo_ssc10.png
+group_4/motif/VR-class1/logo7.png
+group_4/motif/VR-class1/logo_ssc9.eps
+group_4/motif/VR-class4/
+group_4/motif/VR-class4/logo9.png
+group_4/motif/VR-class4/logo_ssc4.png
+group_4/motif/VR-class4/logo_ssc2.png
+group_4/motif/VR-class4/logo_ssc5.png
+group_4/motif/VR-class4/logo2.eps
+group_5/train/VR.fa
+group_4/motif/VR-class4/logo4.eps
+group_4/motif/VR-class4/glam2.meme
+group_4/motif/VR-class4/logo_ssc2.eps
+group_4/motif/VR-class4/logo_ssc10.eps
+group_4/motif/VR-class4/logo3.png
+group_4/motif/VR-class4/logo_ssc1.eps
+group_4/motif/VR-class4/logo6.eps
+group_4/motif/VR-class4/logo_ssc8.eps
+group_4/motif/VR-class4/logo6.png
+group_4/motif/VR-class4/logo_ssc7.png
+group_4/motif/VR-class4/logo_ssc3.png
+group_4/motif/VR-class4/glam2.txt
+group_5/train/RT.fa
+group_4/motif/VR-class4/logo_ssc8.png
+group_4/motif/VR-class4/logo7.eps
+group_4/motif/VR-class4/glam2.html
+group_4/motif/VR-class4/logo8.eps
+group_4/motif/VR-class4/logo8.png
+group_4/motif/VR-class4/logo_ssc5.eps
+group_4/motif/VR-class4/logo1.png
+group_4/motif/VR-class4/logo10.eps
+group_4/motif/VR-class4/logo_ssc3.eps
+group_4/motif/VR-class4/logo_ssc9.png
+group_4/motif/VR-class4/logo_ssc6.png
+group_4/motif/VR-class4/logo_ssc6.eps
+group_4/motif/VR-class4/logo_ssc7.eps
+group_4/motif/VR-class4/logo9.eps
+group_4/motif/VR-class4/logo_ssc1.png
+group_4/motif/VR-class4/logo1.eps
+group_4/motif/VR-class4/logo4.png
+group_4/motif/VR-class4/logo2.png
+group_4/motif/VR-class4/logo_ssc4.eps
+group_4/motif/VR-class4/logo5.png
+group_4/motif/VR-class4/logo3.eps
+group_4/motif/VR-class4/logo5.eps
+group_4/motif/VR-class4/logo10.png
+group_4/motif/VR-class4/logo_ssc10.png
+group_4/motif/VR-class4/logo7.png
+group_4/motif/VR-class4/logo_ssc9.eps
+group_4/motif/VR-class5/
+group_4/motif/VR-class5/logo9.png
+group_4/motif/VR-class5/logo_ssc4.png
+group_4/motif/VR-class5/logo_ssc2.png
+group_4/motif/VR-class5/logo_ssc5.png
+group_4/motif/VR-class5/logo2.eps
+group_4/motif/VR-class5/logo4.eps
+group_4/motif/VR-class5/glam2.meme
+group_4/motif/VR-class5/logo_ssc2.eps
+group_4/motif/VR-class5/logo_ssc10.eps
+group_4/motif/VR-class5/logo3.png
+group_4/motif/VR-class5/logo_ssc1.eps
+group_4/motif/VR-class5/logo6.eps
+group_4/motif/VR-class5/logo_ssc8.eps
+group_4/motif/VR-class5/logo6.png
+group_4/motif/VR-class5/logo_ssc7.png
+group_4/motif/VR-class5/logo_ssc3.png
+group_4/motif/VR-class5/glam2.txt
+group_4/motif/VR-class5/logo_ssc8.png
+group_4/motif/VR-class5/logo7.eps
+group_4/motif/VR-class5/glam2.html
+group_4/motif/VR-class5/logo8.eps
+group_4/motif/VR-class5/logo8.png
+group_4/motif/VR-class5/logo_ssc5.eps
+group_4/motif/VR-class5/logo1.png
+group_4/motif/VR-class5/logo10.eps
+group_4/motif/VR-class5/logo_ssc3.eps
+group_4/motif/VR-class5/logo_ssc9.png
+group_4/motif/VR-class5/logo_ssc6.png
+group_4/motif/VR-class5/logo_ssc6.eps
+group_4/motif/VR-class5/logo_ssc7.eps
+group_4/motif/VR-class5/logo9.eps
+group_4/motif/VR-class5/logo_ssc1.png
+group_4/motif/VR-class5/logo1.eps
+group_4/motif/VR-class5/logo4.png
+group_4/motif/VR-class5/logo2.png
+group_4/motif/VR-class5/logo_ssc4.eps
+group_4/motif/VR-class5/logo5.png
+group_4/motif/VR-class5/logo3.eps
+group_4/motif/VR-class5/logo5.eps
+group_4/motif/VR-class5/logo10.png
+group_4/motif/VR-class5/logo_ssc10.png
+group_4/motif/VR-class5/logo7.png
+group_4/motif/VR-class5/logo_ssc9.eps
+group_4/motif/TR-class1/
+group_4/motif/TR-class1/logo9.png
+group_4/motif/TR-class1/logo_ssc4.png
+group_4/motif/TR-class1/logo_ssc2.png
+group_4/motif/TR-class1/logo_ssc5.png
+group_4/motif/TR-class1/logo2.eps
+group_4/motif/TR-class1/logo4.eps
+group_4/motif/TR-class1/glam2.meme
+group_4/motif/TR-class1/logo_ssc2.eps
+group_4/motif/TR-class1/logo_ssc10.eps
+group_4/motif/TR-class1/logo3.png
+group_4/motif/TR-class1/logo_ssc1.eps
+group_4/motif/TR-class1/logo6.eps
+group_4/motif/TR-class1/logo_ssc8.eps
+group_4/motif/TR-class1/logo6.png
+group_4/motif/TR-class1/logo_ssc7.png
+group_4/motif/TR-class1/logo_ssc3.png
+group_4/motif/TR-class1/glam2.txt
+group_4/motif/TR-class1/logo_ssc8.png
+group_4/motif/TR-class1/logo7.eps
+group_5/align/
+group_5/align/VR-class3.align
+group_5/align/TR-class2.align
+group_5/align/TR-class4.align
+group_5/align/VR-class2.align
+group_5/align/VR-class5.align
+group_5/align/RT-class2.align
+group_4/motif/TR-class1/glam2.html
+group_5/align/RT-class1.align
+group_4/motif/TR-class1/logo8.eps
+group_4/motif/TR-class1/logo8.png
+group_4/motif/TR-class1/logo_ssc5.eps
+group_4/motif/TR-class1/logo1.png
+group_4/motif/TR-class1/logo10.eps
+group_4/motif/TR-class1/logo_ssc3.eps
+group_4/motif/TR-class1/logo_ssc9.png
+group_4/motif/TR-class1/logo_ssc6.png
+group_4/motif/TR-class1/logo_ssc6.eps
+group_4/motif/TR-class1/logo_ssc7.eps
+group_4/motif/TR-class1/logo9.eps
+group_4/motif/TR-class1/logo_ssc1.png
+group_4/motif/TR-class1/logo1.eps
+group_4/motif/TR-class1/logo4.png
+group_4/motif/TR-class1/logo2.png
+group_4/motif/TR-class1/logo_ssc4.eps
+group_4/motif/TR-class1/logo5.png
+group_4/motif/TR-class1/logo3.eps
+group_4/motif/TR-class1/logo5.eps
+group_4/motif/TR-class1/logo10.png
+group_4/motif/TR-class1/logo_ssc10.png
+group_4/motif/TR-class1/logo7.png
+group_4/motif/TR-class1/logo_ssc9.eps
+group_4/motif/TR-class5/
+group_4/motif/TR-class5/logo9.png
+group_4/motif/TR-class5/logo_ssc4.png
+group_5/align/VR-class4.align
+group_5/align/TR-class3.align
+group_5/align/VR-class1.align
+group_5/align/TR-class5.align
+group_4/motif/TR-class5/logo_ssc2.png
+group_5/align/RT-class3.align
+group_4/motif/TR-class5/logo_ssc5.png
+group_4/motif/TR-class5/logo2.eps
+group_4/motif/TR-class5/logo4.eps
+group_4/motif/TR-class5/glam2.meme
+group_4/motif/TR-class5/logo_ssc2.eps
+group_4/motif/TR-class5/logo_ssc10.eps
+group_4/motif/TR-class5/logo3.png
+group_4/motif/TR-class5/logo_ssc1.eps
+group_4/motif/TR-class5/logo6.eps
+group_4/motif/TR-class5/logo_ssc8.eps
+group_4/motif/TR-class5/logo6.png
+group_4/motif/TR-class5/logo_ssc7.png
+group_4/motif/TR-class5/logo_ssc3.png
+group_4/motif/TR-class5/glam2.txt
+group_4/motif/TR-class5/logo_ssc8.png
+group_4/motif/TR-class5/logo7.eps
+group_4/motif/TR-class5/glam2.html
+group_5/align/RT-class4.align
+group_4/motif/TR-class5/logo8.eps
+group_4/motif/TR-class5/logo8.png
+group_4/motif/TR-class5/logo_ssc5.eps
+group_4/motif/TR-class5/logo1.png
+group_4/motif/TR-class5/logo10.eps
+group_4/motif/TR-class5/logo_ssc3.eps
+group_4/motif/TR-class5/logo_ssc9.png
+group_4/motif/TR-class5/logo_ssc6.png
+group_4/motif/TR-class5/logo_ssc6.eps
+group_4/motif/TR-class5/logo_ssc7.eps
+group_4/motif/TR-class5/logo9.eps
+group_4/motif/TR-class5/logo_ssc1.png
+group_4/motif/TR-class5/logo1.eps
+group_4/motif/TR-class5/logo4.png
+group_4/motif/TR-class5/logo2.png
+group_4/motif/TR-class5/logo_ssc4.eps
+group_4/motif/TR-class5/logo5.png
+group_4/motif/TR-class5/logo3.eps
+group_5/align/TR-class1.align
+group_4/motif/TR-class5/logo5.eps
+group_5/RT.config
+group_4/motif/TR-class5/logo10.png
+group_4/motif/TR-class5/logo_ssc10.png
+group_4/motif/TR-class5/logo7.png
+group_4/motif/TR-class5/logo_ssc9.eps
+group_4/motif/TR-class4/
+group_4/motif/TR-class4/logo9.png
+group_4/motif/TR-class4/logo_ssc4.png
+group_4/motif/TR-class4/logo_ssc2.png
+group_4/motif/TR-class4/logo_ssc5.png
+group_4/motif/TR-class4/logo2.eps
+group_4/motif/TR-class4/logo4.eps
+group_5/test/
+group_5/test/TR.fa
+group_5/test/DGR.fa
+group_4/motif/TR-class4/glam2.meme
+group_4/motif/TR-class4/logo_ssc2.eps
+group_4/motif/TR-class4/logo_ssc10.eps
+group_4/motif/TR-class4/logo3.png
+group_4/motif/TR-class4/logo_ssc1.eps
+group_4/motif/TR-class4/logo6.eps
+group_4/motif/TR-class4/logo_ssc8.eps
+group_4/motif/TR-class4/logo6.png
+group_4/motif/TR-class4/logo_ssc7.png
+group_4/motif/TR-class4/logo_ssc3.png
+group_4/motif/TR-class4/glam2.txt
+group_4/motif/TR-class4/logo_ssc8.png
+group_4/motif/TR-class4/logo7.eps
+group_4/motif/TR-class4/glam2.html
+group_4/motif/TR-class4/logo8.eps
+group_4/motif/TR-class4/logo8.png
+group_4/motif/TR-class4/logo_ssc5.eps
+group_4/motif/TR-class4/logo1.png
+group_4/motif/TR-class4/logo10.eps
+group_4/motif/TR-class4/logo_ssc3.eps
+group_4/motif/TR-class4/logo_ssc9.png
+group_4/motif/TR-class4/logo_ssc6.png
+group_4/motif/TR-class4/logo_ssc6.eps
+group_4/motif/TR-class4/logo_ssc7.eps
+group_4/motif/TR-class4/logo9.eps
+group_4/motif/TR-class4/logo_ssc1.png
+group_4/motif/TR-class4/logo1.eps
+group_4/motif/TR-class4/logo4.png
+group_4/motif/TR-class4/logo2.png
+group_4/motif/TR-class4/logo_ssc4.eps
+group_4/motif/TR-class4/logo5.png
+group_4/motif/TR-class4/logo3.eps
+group_4/motif/TR-class4/logo5.eps
+group_4/motif/TR-class4/logo10.png
+group_4/motif/TR-class4/logo_ssc10.png
+group_4/motif/TR-class4/logo7.png
+group_4/motif/TR-class4/logo_ssc9.eps
+group_4/motif/TR-class2/
+group_4/motif/TR-class2/logo9.png
+group_4/motif/TR-class2/logo_ssc4.png
+group_4/motif/TR-class2/logo_ssc2.png
+group_4/motif/TR-class2/logo_ssc5.png
+group_4/motif/TR-class2/logo2.eps
+group_4/motif/TR-class2/logo4.eps
+group_4/motif/TR-class2/glam2.meme
+group_4/motif/TR-class2/logo_ssc2.eps
+group_4/motif/TR-class2/logo_ssc10.eps
+group_4/motif/TR-class2/logo3.png
+group_4/motif/TR-class2/logo_ssc1.eps
+group_4/motif/TR-class2/logo6.eps
+group_4/motif/TR-class2/logo_ssc8.eps
+group_4/motif/TR-class2/logo6.png
+group_4/motif/TR-class2/logo_ssc7.png
+group_4/motif/TR-class2/logo_ssc3.png
+group_4/motif/TR-class2/glam2.txt
+group_4/motif/TR-class2/logo_ssc8.png
+group_4/motif/TR-class2/logo7.eps
+group_4/motif/TR-class2/glam2.html
+group_4/motif/TR-class2/logo8.eps
+group_4/motif/TR-class2/logo8.png
+group_4/motif/TR-class2/logo_ssc5.eps
+group_4/motif/TR-class2/logo1.png
+group_4/motif/TR-class2/logo10.eps
+group_4/motif/TR-class2/logo_ssc3.eps
+group_4/motif/TR-class2/logo_ssc9.png
+group_4/motif/TR-class2/logo_ssc6.png
+group_4/motif/TR-class2/logo_ssc6.eps
+group_4/motif/TR-class2/logo_ssc7.eps
+group_4/motif/TR-class2/logo9.eps
+group_4/motif/TR-class2/logo_ssc1.png
+group_4/motif/TR-class2/logo1.eps
+group_4/motif/TR-class2/logo4.png
+group_4/motif/TR-class2/logo2.png
+group_4/motif/TR-class2/logo_ssc4.eps
+group_4/motif/TR-class2/logo5.png
+group_4/motif/TR-class2/logo3.eps
+group_4/motif/TR-class2/logo5.eps
+group_4/motif/TR-class2/logo10.png
+group_4/motif/TR-class2/logo_ssc10.png
+group_4/motif/TR-class2/logo7.png
+group_4/motif/TR-class2/logo_ssc9.eps
+group_4/motif/VR-class2/
+group_4/motif/VR-class2/logo9.png
+group_4/motif/VR-class2/logo_ssc4.png
+group_4/motif/VR-class2/logo_ssc2.png
+group_4/motif/VR-class2/logo_ssc5.png
+group_4/motif/VR-class2/logo2.eps
+group_4/motif/VR-class2/logo4.eps
+group_4/motif/VR-class2/glam2.meme
+group_4/motif/VR-class2/logo_ssc2.eps
+group_4/motif/VR-class2/logo_ssc10.eps
+group_4/motif/VR-class2/logo3.png
+group_4/motif/VR-class2/logo_ssc1.eps
+group_4/motif/VR-class2/logo6.eps
+group_4/motif/VR-class2/logo_ssc8.eps
+group_4/motif/VR-class2/logo6.png
+group_4/motif/VR-class2/logo_ssc7.png
+group_4/motif/VR-class2/logo_ssc3.png
+group_4/motif/VR-class2/glam2.txt
+group_4/motif/VR-class2/logo_ssc8.png
+group_4/motif/VR-class2/logo7.eps
+group_4/motif/VR-class2/glam2.html
+group_4/motif/VR-class2/logo8.eps
+group_4/motif/VR-class2/logo8.png
+group_4/motif/VR-class2/logo_ssc5.eps
+group_4/motif/VR-class2/logo1.png
+group_4/motif/VR-class2/logo10.eps
+group_4/motif/VR-class2/logo_ssc3.eps
+group_4/motif/VR-class2/logo_ssc9.png
+group_4/motif/VR-class2/logo_ssc6.png
+group_4/motif/VR-class2/logo_ssc6.eps
+group_4/motif/VR-class2/logo_ssc7.eps
+group_4/motif/VR-class2/logo9.eps
+group_4/motif/VR-class2/logo_ssc1.png
+group_4/motif/VR-class2/logo1.eps
+group_4/motif/VR-class2/logo4.png
+group_4/motif/VR-class2/logo2.png
+group_4/motif/VR-class2/logo_ssc4.eps
+group_4/motif/VR-class2/logo5.png
+group_4/motif/VR-class2/logo3.eps
+group_4/motif/VR-class2/logo5.eps
+group_4/motif/VR-class2/logo10.png
+group_4/motif/VR-class2/logo_ssc10.png
+group_4/motif/VR-class2/logo7.png
+group_4/motif/VR-class2/logo_ssc9.eps
+group_4/motif/VR-class3/
+group_4/motif/VR-class3/logo9.png
+group_4/motif/VR-class3/logo_ssc4.png
+group_4/motif/VR-class3/logo_ssc2.png
+group_4/motif/VR-class3/logo_ssc5.png
+group_4/motif/VR-class3/logo2.eps
+group_4/motif/VR-class3/logo4.eps
+group_4/motif/VR-class3/glam2.meme
+group_4/motif/VR-class3/logo_ssc2.eps
+group_4/motif/VR-class3/logo_ssc10.eps
+group_4/motif/VR-class3/logo3.png
+group_4/motif/VR-class3/logo_ssc1.eps
+group_4/motif/VR-class3/logo6.eps
+group_4/motif/VR-class3/logo_ssc8.eps
+group_4/motif/VR-class3/logo6.png
+group_4/motif/VR-class3/logo_ssc7.png
+group_4/motif/VR-class3/logo_ssc3.png
+group_4/motif/VR-class3/glam2.txt
+group_4/motif/VR-class3/logo_ssc8.png
+group_4/motif/VR-class3/logo7.eps
+group_4/motif/VR-class3/glam2.html
+group_4/motif/VR-class3/logo8.eps
+group_4/motif/VR-class3/logo8.png
+group_4/motif/VR-class3/logo_ssc5.eps
+group_4/motif/VR-class3/logo1.png
+group_4/motif/VR-class3/logo10.eps
+group_4/motif/VR-class3/logo_ssc3.eps
+group_4/motif/VR-class3/logo_ssc9.png
+group_4/motif/VR-class3/logo_ssc6.png
+group_4/motif/VR-class3/logo_ssc6.eps
+group_4/motif/VR-class3/logo_ssc7.eps
+group_4/motif/VR-class3/logo9.eps
+group_4/motif/VR-class3/logo_ssc1.png
+group_4/motif/VR-class3/logo1.eps
+group_4/motif/VR-class3/logo4.png
+group_4/motif/VR-class3/logo2.png
+group_4/motif/VR-class3/logo_ssc4.eps
+group_4/motif/VR-class3/logo5.png
+group_4/motif/VR-class3/logo3.eps
+group_4/motif/VR-class3/logo5.eps
+group_4/motif/VR-class3/logo10.png
+group_4/motif/VR-class3/logo_ssc10.png
+group_4/motif/VR-class3/logo7.png
+group_4/motif/VR-class3/logo_ssc9.eps
+group_4/motif/TR-class3/
+group_4/motif/TR-class3/logo9.png
+group_4/motif/TR-class3/logo_ssc4.png
+group_4/motif/TR-class3/logo_ssc2.png
+group_4/motif/TR-class3/logo_ssc5.png
+group_4/motif/TR-class3/logo2.eps
+group_4/motif/TR-class3/logo4.eps
+group_4/motif/TR-class3/glam2.meme
+group_4/motif/TR-class3/logo_ssc2.eps
+group_4/motif/TR-class3/logo_ssc10.eps
+group_4/motif/TR-class3/logo3.png
+group_4/motif/TR-class3/logo_ssc1.eps
+group_4/motif/TR-class3/logo6.eps
+group_4/motif/TR-class3/logo_ssc8.eps
+group_4/motif/TR-class3/logo6.png
+group_4/motif/TR-class3/logo_ssc7.png
+group_4/motif/TR-class3/logo_ssc3.png
+group_4/motif/TR-class3/glam2.txt
+group_4/motif/TR-class3/logo_ssc8.png
+group_4/motif/TR-class3/logo7.eps
+group_4/motif/TR-class3/glam2.html
+group_4/motif/TR-class3/logo8.eps
+group_4/motif/TR-class3/logo8.png
+group_4/motif/TR-class3/logo_ssc5.eps
+group_4/motif/TR-class3/logo1.png
+group_4/motif/TR-class3/logo10.eps
+group_4/motif/TR-class3/logo_ssc3.eps
+group_4/motif/TR-class3/logo_ssc9.png
+group_4/motif/TR-class3/logo_ssc6.png
+group_4/motif/TR-class3/logo_ssc6.eps
+group_4/motif/TR-class3/logo_ssc7.eps
+group_4/motif/TR-class3/logo9.eps
+group_4/motif/TR-class3/logo_ssc1.png
+group_4/motif/TR-class3/logo1.eps
+group_4/motif/TR-class3/logo4.png
+group_4/motif/TR-class3/logo2.png
+group_4/motif/TR-class3/logo_ssc4.eps
+group_4/motif/TR-class3/logo5.png
+group_4/motif/TR-class3/logo3.eps
+group_4/motif/TR-class3/logo5.eps
+group_4/motif/TR-class3/logo10.png
+group_4/motif/TR-class3/logo_ssc10.png
+group_4/motif/TR-class3/logo7.png
+group_4/motif/TR-class3/logo_ssc9.eps
+group_4/reBuildDGR.pl
+group_4/evaluation.txt
+group_10/
+group_10/classify/
+group_10/classify/classify_RT/
+group_10/classify/classify_RT/class1.fa
+group_5/test/VR.fa
+group_5/test/RT.fa
+group_10/classify/classify_RT/class4.txt
+group_5/motif/
+group_5/motif/VR-class1/
+group_5/motif/VR-class1/logo9.png
+group_10/classify/classify_RT/class3.txt
+group_5/motif/VR-class1/logo_ssc4.png
+group_5/motif/VR-class1/logo_ssc2.png
+group_5/motif/VR-class1/logo_ssc5.png
+group_5/motif/VR-class1/logo2.eps
+group_10/classify/classify_RT/class2.txt
+group_5/motif/VR-class1/logo4.eps
+group_5/motif/VR-class1/glam2.meme
+group_5/motif/VR-class1/logo_ssc2.eps
+group_5/motif/VR-class1/logo_ssc10.eps
+group_10/classify/classify_RT/class3.fa
+group_5/motif/VR-class1/logo3.png
+group_5/motif/VR-class1/logo_ssc1.eps
+group_5/motif/VR-class1/logo6.eps
+group_5/motif/VR-class1/logo_ssc8.eps
+group_5/motif/VR-class1/logo6.png
+group_5/motif/VR-class1/logo_ssc7.png
+group_5/motif/VR-class1/logo_ssc3.png
+group_5/motif/VR-class1/glam2.txt
+group_10/classify/classify_RT/class2.fa
+group_5/motif/VR-class1/logo_ssc8.png
+group_5/motif/VR-class1/logo7.eps
+group_5/motif/VR-class1/glam2.html
+group_5/motif/VR-class1/logo8.eps
+group_5/motif/VR-class1/logo8.png
+group_5/motif/VR-class1/logo_ssc5.eps
+group_5/motif/VR-class1/logo1.png
+group_5/motif/VR-class1/logo10.eps
+group_5/motif/VR-class1/logo_ssc3.eps
+group_5/motif/VR-class1/logo_ssc9.png
+group_5/motif/VR-class1/logo_ssc6.png
+group_5/motif/VR-class1/logo_ssc6.eps
+group_5/motif/VR-class1/logo_ssc7.eps
+group_5/motif/VR-class1/logo9.eps
+group_5/motif/VR-class1/logo_ssc1.png
+group_5/motif/VR-class1/logo1.eps
+group_10/classify/classify_RT/class4.fa
+group_5/motif/VR-class1/logo4.png
+group_5/motif/VR-class1/logo2.png
+group_5/motif/VR-class1/logo_ssc4.eps
+group_5/motif/VR-class1/logo5.png
+group_5/motif/VR-class1/logo3.eps
+group_5/motif/VR-class1/logo5.eps
+group_5/motif/VR-class1/logo10.png
+group_5/motif/VR-class1/logo_ssc10.png
+group_5/motif/VR-class1/logo7.png
+group_5/motif/VR-class1/logo_ssc9.eps
+group_5/motif/VR-class4/
+group_5/motif/VR-class4/logo9.png
+group_5/motif/VR-class4/logo_ssc4.png
+group_5/motif/VR-class4/logo_ssc2.png
+group_5/motif/VR-class4/logo_ssc5.png
+group_5/motif/VR-class4/logo2.eps
+group_5/motif/VR-class4/logo4.eps
+group_5/motif/VR-class4/glam2.meme
+group_5/motif/VR-class4/logo_ssc2.eps
+group_5/motif/VR-class4/logo_ssc10.eps
+group_5/motif/VR-class4/logo3.png
+group_5/motif/VR-class4/logo_ssc1.eps
+group_5/motif/VR-class4/logo6.eps
+group_5/motif/VR-class4/logo_ssc8.eps
+group_5/motif/VR-class4/logo6.png
+group_5/motif/VR-class4/logo_ssc7.png
+group_5/motif/VR-class4/logo_ssc3.png
+group_5/motif/VR-class4/glam2.txt
+group_5/motif/VR-class4/logo_ssc8.png
+group_10/classify/classify_RT/RT.mafft.tree
+group_5/motif/VR-class4/logo7.eps
+group_5/motif/VR-class4/glam2.html
+group_10/classify/classify_RT/RT.mafft
+group_5/motif/VR-class4/logo8.eps
+group_5/motif/VR-class4/logo8.png
+group_5/motif/VR-class4/logo_ssc5.eps
+group_5/motif/VR-class4/logo1.png
+group_5/motif/VR-class4/logo10.eps
+group_5/motif/VR-class4/logo_ssc3.eps
+group_5/motif/VR-class4/logo_ssc9.png
+group_5/motif/VR-class4/logo_ssc6.png
+group_5/motif/VR-class4/logo_ssc6.eps
+group_5/motif/VR-class4/logo_ssc7.eps
+group_5/motif/VR-class4/logo9.eps
+group_5/motif/VR-class4/logo_ssc1.png
+group_5/motif/VR-class4/logo1.eps
+group_5/motif/VR-class4/logo4.png
+group_5/motif/VR-class4/logo2.png
+group_5/motif/VR-class4/logo_ssc4.eps
+group_5/motif/VR-class4/logo5.png
+group_5/motif/VR-class4/logo3.eps
+group_5/motif/VR-class4/logo5.eps
+group_5/motif/VR-class4/logo10.png
+group_5/motif/VR-class4/logo_ssc10.png
+group_5/motif/VR-class4/logo7.png
+group_5/motif/VR-class4/logo_ssc9.eps
+group_5/motif/VR-class5/
+group_5/motif/VR-class5/logo9.png
+group_5/motif/VR-class5/logo_ssc4.png
+group_5/motif/VR-class5/logo_ssc2.png
+group_5/motif/VR-class5/logo_ssc5.png
+group_5/motif/VR-class5/logo2.eps
+group_5/motif/VR-class5/logo4.eps
+group_5/motif/VR-class5/glam2.meme
+group_5/motif/VR-class5/logo_ssc2.eps
+group_5/motif/VR-class5/logo_ssc10.eps
+group_5/motif/VR-class5/logo3.png
+group_5/motif/VR-class5/logo_ssc1.eps
+group_5/motif/VR-class5/logo6.eps
+group_5/motif/VR-class5/logo_ssc8.eps
+group_5/motif/VR-class5/logo6.png
+group_5/motif/VR-class5/logo_ssc7.png
+group_5/motif/VR-class5/logo_ssc3.png
+group_5/motif/VR-class5/glam2.txt
+group_5/motif/VR-class5/logo_ssc8.png
+group_5/motif/VR-class5/logo7.eps
+group_5/motif/VR-class5/glam2.html
+group_5/motif/VR-class5/logo8.eps
+group_5/motif/VR-class5/logo8.png
+group_5/motif/VR-class5/logo_ssc5.eps
+group_5/motif/VR-class5/logo1.png
+group_5/motif/VR-class5/logo10.eps
+group_5/motif/VR-class5/logo_ssc3.eps
+group_5/motif/VR-class5/logo_ssc9.png
+group_5/motif/VR-class5/logo_ssc6.png
+group_5/motif/VR-class5/logo_ssc6.eps
+group_5/motif/VR-class5/logo_ssc7.eps
+group_5/motif/VR-class5/logo9.eps
+group_5/motif/VR-class5/logo_ssc1.png
+group_5/motif/VR-class5/logo1.eps
+group_5/motif/VR-class5/logo4.png
+group_5/motif/VR-class5/logo2.png
+group_5/motif/VR-class5/logo_ssc4.eps
+group_5/motif/VR-class5/logo5.png
+group_5/motif/VR-class5/logo3.eps
+group_5/motif/VR-class5/logo5.eps
+group_5/motif/VR-class5/logo10.png
+group_5/motif/VR-class5/logo_ssc10.png
+group_5/motif/VR-class5/logo7.png
+group_5/motif/VR-class5/logo_ssc9.eps
+group_5/motif/TR-class1/
+group_5/motif/TR-class1/logo9.png
+group_5/motif/TR-class1/logo_ssc4.png
+group_5/motif/TR-class1/logo_ssc2.png
+group_5/motif/TR-class1/logo_ssc5.png
+group_5/motif/TR-class1/logo2.eps
+group_5/motif/TR-class1/logo4.eps
+group_5/motif/TR-class1/glam2.meme
+group_5/motif/TR-class1/logo_ssc2.eps
+group_5/motif/TR-class1/logo_ssc10.eps
+group_5/motif/TR-class1/logo3.png
+group_5/motif/TR-class1/logo_ssc1.eps
+group_5/motif/TR-class1/logo6.eps
+group_5/motif/TR-class1/logo_ssc8.eps
+group_5/motif/TR-class1/logo6.png
+group_5/motif/TR-class1/logo_ssc7.png
+group_5/motif/TR-class1/logo_ssc3.png
+group_5/motif/TR-class1/glam2.txt
+group_5/motif/TR-class1/logo_ssc8.png
+group_5/motif/TR-class1/logo7.eps
+group_5/motif/TR-class1/glam2.html
+group_5/motif/TR-class1/logo8.eps
+group_5/motif/TR-class1/logo8.png
+group_5/motif/TR-class1/logo_ssc5.eps
+group_5/motif/TR-class1/logo1.png
+group_5/motif/TR-class1/logo10.eps
+group_5/motif/TR-class1/logo_ssc3.eps
+group_5/motif/TR-class1/logo_ssc9.png
+group_5/motif/TR-class1/logo_ssc6.png
+group_5/motif/TR-class1/logo_ssc6.eps
+group_5/motif/TR-class1/logo_ssc7.eps
+group_5/motif/TR-class1/logo9.eps
+group_5/motif/TR-class1/logo_ssc1.png
+group_5/motif/TR-class1/logo1.eps
+group_5/motif/TR-class1/logo4.png
+group_5/motif/TR-class1/logo2.png
+group_5/motif/TR-class1/logo_ssc4.eps
+group_5/motif/TR-class1/logo5.png
+group_5/motif/TR-class1/logo3.eps
+group_5/motif/TR-class1/logo5.eps
+group_5/motif/TR-class1/logo10.png
+group_5/motif/TR-class1/logo_ssc10.png
+group_5/motif/TR-class1/logo7.png
+group_5/motif/TR-class1/logo_ssc9.eps
+group_5/motif/TR-class5/
+group_5/motif/TR-class5/logo9.png
+group_5/motif/TR-class5/logo_ssc4.png
+group_5/motif/TR-class5/logo_ssc2.png
+group_5/motif/TR-class5/logo_ssc5.png
+group_5/motif/TR-class5/logo2.eps
+group_5/motif/TR-class5/logo4.eps
+group_5/motif/TR-class5/glam2.meme
+group_5/motif/TR-class5/logo_ssc2.eps
+group_5/motif/TR-class5/logo_ssc10.eps
+group_5/motif/TR-class5/logo3.png
+group_5/motif/TR-class5/logo_ssc1.eps
+group_5/motif/TR-class5/logo6.eps
+group_5/motif/TR-class5/logo_ssc8.eps
+group_5/motif/TR-class5/logo6.png
+group_5/motif/TR-class5/logo_ssc7.png
+group_5/motif/TR-class5/logo_ssc3.png
+group_5/motif/TR-class5/glam2.txt
+group_5/motif/TR-class5/logo_ssc8.png
+group_5/motif/TR-class5/logo7.eps
+group_5/motif/TR-class5/glam2.html
+group_10/classify/classify_RT/class1.txt
+group_5/motif/TR-class5/logo8.eps
+group_5/motif/TR-class5/logo8.png
+group_5/motif/TR-class5/logo_ssc5.eps
+group_5/motif/TR-class5/logo1.png
+group_10/classify/classify_VR/
+group_10/classify/classify_VR/class1.fa
+group_5/motif/TR-class5/logo10.eps
+group_5/motif/TR-class5/logo_ssc3.eps
+group_5/motif/TR-class5/logo_ssc9.png
+group_5/motif/TR-class5/logo_ssc6.png
+group_5/motif/TR-class5/logo_ssc6.eps
+group_5/motif/TR-class5/logo_ssc7.eps
+group_5/motif/TR-class5/logo9.eps
+group_5/motif/TR-class5/logo_ssc1.png
+group_5/motif/TR-class5/logo1.eps
+group_10/classify/classify_VR/class4.txt
+group_5/motif/TR-class5/logo4.png
+group_5/motif/TR-class5/logo2.png
+group_5/motif/TR-class5/logo_ssc4.eps
+group_5/motif/TR-class5/logo5.png
+group_5/motif/TR-class5/logo3.eps
+group_5/motif/TR-class5/logo5.eps
+group_5/motif/TR-class5/logo10.png
+group_5/motif/TR-class5/logo_ssc10.png
+group_5/motif/TR-class5/logo7.png
+group_10/classify/classify_VR/VR.mafft.tree
+group_10/classify/classify_VR/VR.mafft
+group_5/motif/TR-class5/logo_ssc9.eps
+group_5/motif/TR-class4/
+group_5/motif/TR-class4/logo9.png
+group_5/motif/TR-class4/logo_ssc4.png
+group_5/motif/TR-class4/logo_ssc2.png
+group_5/motif/TR-class4/logo_ssc5.png
+group_5/motif/TR-class4/logo2.eps
+group_5/motif/TR-class4/logo4.eps
+group_5/motif/TR-class4/glam2.meme
+group_5/motif/TR-class4/logo_ssc2.eps
+group_5/motif/TR-class4/logo_ssc10.eps
+group_5/motif/TR-class4/logo3.png
+group_5/motif/TR-class4/logo_ssc1.eps
+group_5/motif/TR-class4/logo6.eps
+group_5/motif/TR-class4/logo_ssc8.eps
+group_5/motif/TR-class4/logo6.png
+group_5/motif/TR-class4/logo_ssc7.png
+group_5/motif/TR-class4/logo_ssc3.png
+group_5/motif/TR-class4/glam2.txt
+group_5/motif/TR-class4/logo_ssc8.png
+group_5/motif/TR-class4/logo7.eps
+group_5/motif/TR-class4/glam2.html
+group_5/motif/TR-class4/logo8.eps
+group_5/motif/TR-class4/logo8.png
+group_5/motif/TR-class4/logo_ssc5.eps
+group_5/motif/TR-class4/logo1.png
+group_5/motif/TR-class4/logo10.eps
+group_5/motif/TR-class4/logo_ssc3.eps
+group_5/motif/TR-class4/logo_ssc9.png
+group_5/motif/TR-class4/logo_ssc6.png
+group_5/motif/TR-class4/logo_ssc6.eps
+group_5/motif/TR-class4/logo_ssc7.eps
+group_5/motif/TR-class4/logo9.eps
+group_5/motif/TR-class4/logo_ssc1.png
+group_5/motif/TR-class4/logo1.eps
+group_5/motif/TR-class4/logo4.png
+group_5/motif/TR-class4/logo2.png
+group_5/motif/TR-class4/logo_ssc4.eps
+group_5/motif/TR-class4/logo5.png
+group_5/motif/TR-class4/logo3.eps
+group_5/motif/TR-class4/logo5.eps
+group_5/motif/TR-class4/logo10.png
+group_5/motif/TR-class4/logo_ssc10.png
+group_5/motif/TR-class4/logo7.png
+group_5/motif/TR-class4/logo_ssc9.eps
+group_10/classify/classify_VR/class3.txt
+group_5/motif/TR-class2/
+group_5/motif/TR-class2/logo9.png
+group_5/motif/TR-class2/logo_ssc4.png
+group_5/motif/TR-class2/logo_ssc2.png
+group_5/motif/TR-class2/logo_ssc5.png
+group_5/motif/TR-class2/logo2.eps
+group_5/motif/TR-class2/logo4.eps
+group_5/motif/TR-class2/glam2.meme
+group_5/motif/TR-class2/logo_ssc2.eps
+group_10/classify/classify_VR/class2.txt
+group_5/motif/TR-class2/logo_ssc10.eps
+group_5/motif/TR-class2/logo3.png
+group_5/motif/TR-class2/logo_ssc1.eps
+group_5/motif/TR-class2/logo6.eps
+group_5/motif/TR-class2/logo_ssc8.eps
+group_5/motif/TR-class2/logo6.png
+group_5/motif/TR-class2/logo_ssc7.png
+group_10/classify/classify_VR/class3.fa
+group_5/motif/TR-class2/logo_ssc3.png
+group_5/motif/TR-class2/glam2.txt
+group_10/classify/classify_VR/class2.fa
+group_10/classify/classify_VR/class5.fa
+group_10/classify/classify_VR/class4.fa
+group_10/classify/classify_VR/class5.txt
+group_5/motif/TR-class2/logo_ssc8.png
+group_5/motif/TR-class2/logo7.eps
+group_5/motif/TR-class2/glam2.html
+group_10/classify/classify_VR/class1.txt
+group_10/classify/classify_TR/
+group_10/classify/classify_TR/TR.mafft.tree
+group_10/classify/classify_TR/class1.fa
+group_10/classify/classify_TR/class4.txt
+group_10/classify/classify_TR/TR.mafft
+group_5/motif/TR-class2/logo8.eps
+group_5/motif/TR-class2/logo8.png
+group_5/motif/TR-class2/logo_ssc5.eps
+group_5/motif/TR-class2/logo1.png
+group_5/motif/TR-class2/logo10.eps
+group_5/motif/TR-class2/logo_ssc3.eps
+group_5/motif/TR-class2/logo_ssc9.png
+group_5/motif/TR-class2/logo_ssc6.png
+group_5/motif/TR-class2/logo_ssc6.eps
+group_5/motif/TR-class2/logo_ssc7.eps
+group_5/motif/TR-class2/logo9.eps
+group_5/motif/TR-class2/logo_ssc1.png
+group_5/motif/TR-class2/logo1.eps
+group_5/motif/TR-class2/logo4.png
+group_5/motif/TR-class2/logo2.png
+group_5/motif/TR-class2/logo_ssc4.eps
+group_5/motif/TR-class2/logo5.png
+group_5/motif/TR-class2/logo3.eps
+group_5/motif/TR-class2/logo5.eps
+group_5/motif/TR-class2/logo10.png
+group_5/motif/TR-class2/logo_ssc10.png
+group_5/motif/TR-class2/logo7.png
+group_5/motif/TR-class2/logo_ssc9.eps
+group_5/motif/VR-class2/
+group_5/motif/VR-class2/logo9.png
+group_5/motif/VR-class2/logo_ssc4.png
+group_5/motif/VR-class2/logo_ssc2.png
+group_5/motif/VR-class2/logo_ssc5.png
+group_5/motif/VR-class2/logo2.eps
+group_5/motif/VR-class2/logo4.eps
+group_5/motif/VR-class2/glam2.meme
+group_5/motif/VR-class2/logo_ssc2.eps
+group_5/motif/VR-class2/logo_ssc10.eps
+group_5/motif/VR-class2/logo3.png
+group_5/motif/VR-class2/logo_ssc1.eps
+group_5/motif/VR-class2/logo6.eps
+group_5/motif/VR-class2/logo_ssc8.eps
+group_5/motif/VR-class2/logo6.png
+group_5/motif/VR-class2/logo_ssc7.png
+group_5/motif/VR-class2/logo_ssc3.png
+group_5/motif/VR-class2/glam2.txt
+group_10/classify/classify_TR/class3.txt
+group_10/classify/classify_TR/class2.txt
+group_10/classify/classify_TR/class3.fa
+group_10/classify/classify_TR/class2.fa
+group_5/motif/VR-class2/logo_ssc8.png
+group_5/motif/VR-class2/logo7.eps
+group_10/classify/classify_TR/class5.fa
+group_5/motif/VR-class2/glam2.html
+group_10/classify/classify_TR/class4.fa
+group_10/classify/classify_TR/class5.txt
+group_5/motif/VR-class2/logo8.eps
+group_5/motif/VR-class2/logo8.png
+group_5/motif/VR-class2/logo_ssc5.eps
+group_10/classify/classify_TR/class1.txt
+group_10/DGR_summary.txt
+group_5/motif/VR-class2/logo1.png
+group_5/motif/VR-class2/logo10.eps
+group_5/motif/VR-class2/logo_ssc3.eps
+group_5/motif/VR-class2/logo_ssc9.png
+group_5/motif/VR-class2/logo_ssc6.png
+group_6/train/VR.fa
+group_5/motif/VR-class2/logo_ssc6.eps
+group_5/motif/VR-class2/logo_ssc7.eps
+group_5/motif/VR-class2/logo9.eps
+group_5/motif/VR-class2/logo_ssc1.png
+group_5/motif/VR-class2/logo1.eps
+group_5/motif/VR-class2/logo4.png
+group_5/motif/VR-class2/logo2.png
+group_5/motif/VR-class2/logo_ssc4.eps
+group_5/motif/VR-class2/logo5.png
+group_5/motif/VR-class2/logo3.eps
+group_5/motif/VR-class2/logo5.eps
+group_10/TR.config
+group_10/simulation/
+group_10/simulation/VR-class4.sml
+group_5/motif/VR-class2/logo10.png
+group_5/motif/VR-class2/logo_ssc10.png
+group_5/motif/VR-class2/logo7.png
+group_5/motif/VR-class2/logo_ssc9.eps
+group_5/motif/VR-class3/
+group_5/motif/VR-class3/logo9.png
+group_5/motif/VR-class3/logo_ssc4.png
+group_5/motif/VR-class3/logo_ssc2.png
+group_10/simulation/TR-class4.sml
+group_5/motif/VR-class3/logo_ssc5.png
+group_10/simulation/VR-class1.sml
+group_5/motif/VR-class3/logo2.eps
+group_5/motif/VR-class3/logo4.eps
+group_5/motif/VR-class3/glam2.meme
+group_5/motif/VR-class3/logo_ssc2.eps
+group_5/motif/VR-class3/logo_ssc10.eps
+group_5/motif/VR-class3/logo3.png
+group_5/motif/VR-class3/logo_ssc1.eps
+group_5/motif/VR-class3/logo6.eps
+group_5/motif/VR-class3/logo_ssc8.eps
+group_5/motif/VR-class3/logo6.png
+group_5/motif/VR-class3/logo_ssc7.png
+group_5/motif/VR-class3/logo_ssc3.png
+group_5/motif/VR-class3/glam2.txt
+group_10/simulation/RT-class2.sml
+group_10/simulation/TR-class5.sml
+group_5/motif/VR-class3/logo_ssc8.png
+group_5/motif/VR-class3/logo7.eps
+group_5/motif/VR-class3/glam2.html
+group_10/simulation/TR-class2.sml
+group_10/simulation/RT-class4.sml
+group_6/train/RT.fa
+group_10/simulation/RT-class3.sml
+group_10/simulation/VR-class3.sml
+group_10/simulation/VR-class2.sml
+group_10/simulation/TR-class1.sml
+group_5/motif/VR-class3/logo8.eps
+group_5/motif/VR-class3/logo8.png
+group_5/motif/VR-class3/logo_ssc5.eps
+group_5/motif/VR-class3/logo1.png
+group_5/motif/VR-class3/logo10.eps
+group_5/motif/VR-class3/logo_ssc3.eps
+group_5/motif/VR-class3/logo_ssc9.png
+group_5/motif/VR-class3/logo_ssc6.png
+group_10/simulation/TR-class3.sml
+group_10/simulation/VR-class5.sml
+group_10/simulation/RT-class1.sml
+group_10/VR.config
+group_5/motif/VR-class3/logo_ssc6.eps
+group_5/motif/VR-class3/logo_ssc7.eps
+group_5/motif/VR-class3/logo9.eps
+group_5/motif/VR-class3/logo_ssc1.png
+group_5/motif/VR-class3/logo1.eps
+group_5/motif/VR-class3/logo4.png
+group_5/motif/VR-class3/logo2.png
+group_5/motif/VR-class3/logo_ssc4.eps
+group_5/motif/VR-class3/logo5.png
+group_5/motif/VR-class3/logo3.eps
+group_10/arg.config
+group_5/motif/VR-class3/logo5.eps
+group_5/motif/VR-class3/logo10.png
+group_5/motif/VR-class3/logo_ssc10.png
+group_5/motif/VR-class3/logo7.png
+group_5/motif/VR-class3/logo_ssc9.eps
+group_5/motif/TR-class3/
+group_5/motif/TR-class3/logo9.png
+group_10/train/
+group_10/train/TR.fa
+group_5/motif/TR-class3/logo_ssc4.png
+group_5/motif/TR-class3/logo_ssc2.png
+group_5/motif/TR-class3/logo_ssc5.png
+group_5/motif/TR-class3/logo2.eps
+group_5/motif/TR-class3/logo4.eps
+group_5/motif/TR-class3/glam2.meme
+group_5/motif/TR-class3/logo_ssc2.eps
+group_5/motif/TR-class3/logo_ssc10.eps
+group_5/motif/TR-class3/logo3.png
+group_5/motif/TR-class3/logo_ssc1.eps
+group_5/motif/TR-class3/logo6.eps
+group_5/motif/TR-class3/logo_ssc8.eps
+group_5/motif/TR-class3/logo6.png
+group_5/motif/TR-class3/logo_ssc7.png
+group_5/motif/TR-class3/logo_ssc3.png
+group_5/motif/TR-class3/glam2.txt
+group_5/motif/TR-class3/logo_ssc8.png
+group_10/train/DGR.fa
+group_5/motif/TR-class3/logo7.eps
+group_5/motif/TR-class3/glam2.html
+group_5/motif/TR-class3/logo8.eps
+group_5/motif/TR-class3/logo8.png
+group_5/motif/TR-class3/logo_ssc5.eps
+group_5/motif/TR-class3/logo1.png
+group_5/motif/TR-class3/logo10.eps
+group_5/motif/TR-class3/logo_ssc3.eps
+group_5/motif/TR-class3/logo_ssc9.png
+group_5/motif/TR-class3/logo_ssc6.png
+group_5/motif/TR-class3/logo_ssc6.eps
+group_5/motif/TR-class3/logo_ssc7.eps
+group_5/motif/TR-class3/logo9.eps
+group_5/motif/TR-class3/logo_ssc1.png
+group_5/motif/TR-class3/logo1.eps
+group_5/motif/TR-class3/logo4.png
+group_5/motif/TR-class3/logo2.png
+group_5/motif/TR-class3/logo_ssc4.eps
+group_5/motif/TR-class3/logo5.png
+group_5/motif/TR-class3/logo3.eps
+group_5/motif/TR-class3/logo5.eps
+group_5/motif/TR-class3/logo10.png
+group_5/motif/TR-class3/logo_ssc10.png
+group_5/motif/TR-class3/logo7.png
+group_5/motif/TR-class3/logo_ssc9.eps
+group_5/reBuildDGR.pl
+group_5/evaluation.txt
+group_6/align/
+group_6/align/VR-class3.align
+group_6/align/TR-class2.align
+group_6/align/TR-class4.align
+group_6/align/VR-class2.align
+group_6/align/VR-class5.align
+group_6/align/RT-class2.align
+group_6/align/RT-class1.align
+group_6/align/VR-class4.align
+group_6/align/TR-class3.align
+group_6/align/VR-class1.align
+group_6/align/TR-class5.align
+group_6/align/RT-class3.align
+group_6/align/RT-class4.align
+group_6/align/TR-class1.align
+group_6/RT.config
+group_6/test/
+group_6/test/TR.fa
+group_6/test/DGR.fa
+group_6/test/VR.fa
+group_6/test/RT.fa
+group_6/motif/
+group_6/motif/VR-class1/
+group_6/motif/VR-class1/logo9.png
+group_6/motif/VR-class1/logo_ssc4.png
+group_6/motif/VR-class1/logo_ssc2.png
+group_6/motif/VR-class1/logo_ssc5.png
+group_6/motif/VR-class1/logo2.eps
+group_6/motif/VR-class1/logo4.eps
+group_6/motif/VR-class1/glam2.meme
+group_6/motif/VR-class1/logo_ssc2.eps
+group_6/motif/VR-class1/logo_ssc10.eps
+group_6/motif/VR-class1/logo3.png
+group_6/motif/VR-class1/logo_ssc1.eps
+group_6/motif/VR-class1/logo6.eps
+group_6/motif/VR-class1/logo_ssc8.eps
+group_6/motif/VR-class1/logo6.png
+group_6/motif/VR-class1/logo_ssc7.png
+group_6/motif/VR-class1/logo_ssc3.png
+group_6/motif/VR-class1/glam2.txt
+group_6/motif/VR-class1/logo_ssc8.png
+group_6/motif/VR-class1/logo7.eps
+group_6/motif/VR-class1/glam2.html
+group_6/motif/VR-class1/logo8.eps
+group_6/motif/VR-class1/logo8.png
+group_6/motif/VR-class1/logo_ssc5.eps
+group_6/motif/VR-class1/logo1.png
+group_6/motif/VR-class1/logo10.eps
+group_6/motif/VR-class1/logo_ssc3.eps
+group_6/motif/VR-class1/logo_ssc9.png
+group_6/motif/VR-class1/logo_ssc6.png
+group_6/motif/VR-class1/logo_ssc6.eps
+group_6/motif/VR-class1/logo_ssc7.eps
+group_6/motif/VR-class1/logo9.eps
+group_6/motif/VR-class1/logo_ssc1.png
+group_6/motif/VR-class1/logo1.eps
+group_6/motif/VR-class1/logo4.png
+group_6/motif/VR-class1/logo2.png
+group_6/motif/VR-class1/logo_ssc4.eps
+group_6/motif/VR-class1/logo5.png
+group_6/motif/VR-class1/logo3.eps
+group_6/motif/VR-class1/logo5.eps
+group_6/motif/VR-class1/logo10.png
+group_6/motif/VR-class1/logo_ssc10.png
+group_6/motif/VR-class1/logo7.png
+group_6/motif/VR-class1/logo_ssc9.eps
+group_6/motif/VR-class4/
+group_6/motif/VR-class4/logo9.png
+group_6/motif/VR-class4/logo_ssc4.png
+group_6/motif/VR-class4/logo_ssc2.png
+group_6/motif/VR-class4/logo_ssc5.png
+group_6/motif/VR-class4/logo2.eps
+group_6/motif/VR-class4/logo4.eps
+group_6/motif/VR-class4/glam2.meme
+group_6/motif/VR-class4/logo_ssc2.eps
+group_6/motif/VR-class4/logo_ssc10.eps
+group_6/motif/VR-class4/logo3.png
+group_6/motif/VR-class4/logo_ssc1.eps
+group_6/motif/VR-class4/logo6.eps
+group_6/motif/VR-class4/logo_ssc8.eps
+group_6/motif/VR-class4/logo6.png
+group_6/motif/VR-class4/logo_ssc7.png
+group_6/motif/VR-class4/logo_ssc3.png
+group_6/motif/VR-class4/glam2.txt
+group_6/motif/VR-class4/logo_ssc8.png
+group_6/motif/VR-class4/logo7.eps
+group_6/motif/VR-class4/glam2.html
+group_6/motif/VR-class4/logo8.eps
+group_6/motif/VR-class4/logo8.png
+group_6/motif/VR-class4/logo_ssc5.eps
+group_6/motif/VR-class4/logo1.png
+group_6/motif/VR-class4/logo10.eps
+group_6/motif/VR-class4/logo_ssc3.eps
+group_6/motif/VR-class4/logo_ssc9.png
+group_6/motif/VR-class4/logo_ssc6.png
+group_6/motif/VR-class4/logo_ssc6.eps
+group_6/motif/VR-class4/logo_ssc7.eps
+group_6/motif/VR-class4/logo9.eps
+group_6/motif/VR-class4/logo_ssc1.png
+group_6/motif/VR-class4/logo1.eps
+group_6/motif/VR-class4/logo4.png
+group_6/motif/VR-class4/logo2.png
+group_6/motif/VR-class4/logo_ssc4.eps
+group_6/motif/VR-class4/logo5.png
+group_6/motif/VR-class4/logo3.eps
+group_6/motif/VR-class4/logo5.eps
+group_6/motif/VR-class4/logo10.png
+group_6/motif/VR-class4/logo_ssc10.png
+group_6/motif/VR-class4/logo7.png
+group_6/motif/VR-class4/logo_ssc9.eps
+group_6/motif/VR-class5/
+group_6/motif/VR-class5/logo9.png
+group_6/motif/VR-class5/logo_ssc4.png
+group_6/motif/VR-class5/logo_ssc2.png
+group_6/motif/VR-class5/logo_ssc5.png
+group_6/motif/VR-class5/logo2.eps
+group_6/motif/VR-class5/logo4.eps
+group_6/motif/VR-class5/glam2.meme
+group_6/motif/VR-class5/logo_ssc2.eps
+group_6/motif/VR-class5/logo_ssc10.eps
+group_6/motif/VR-class5/logo3.png
+group_6/motif/VR-class5/logo_ssc1.eps
+group_6/motif/VR-class5/logo6.eps
+group_6/motif/VR-class5/logo_ssc8.eps
+group_6/motif/VR-class5/logo6.png
+group_6/motif/VR-class5/logo_ssc7.png
+group_6/motif/VR-class5/logo_ssc3.png
+group_6/motif/VR-class5/glam2.txt
+group_6/motif/VR-class5/logo_ssc8.png
+group_6/motif/VR-class5/logo7.eps
+group_6/motif/VR-class5/glam2.html
+group_6/motif/VR-class5/logo8.eps
+group_6/motif/VR-class5/logo8.png
+group_6/motif/VR-class5/logo_ssc5.eps
+group_6/motif/VR-class5/logo1.png
+group_6/motif/VR-class5/logo10.eps
+group_6/motif/VR-class5/logo_ssc3.eps
+group_6/motif/VR-class5/logo_ssc9.png
+group_6/motif/VR-class5/logo_ssc6.png
+group_6/motif/VR-class5/logo_ssc6.eps
+group_6/motif/VR-class5/logo_ssc7.eps
+group_6/motif/VR-class5/logo9.eps
+group_6/motif/VR-class5/logo_ssc1.png
+group_6/motif/VR-class5/logo1.eps
+group_6/motif/VR-class5/logo4.png
+group_6/motif/VR-class5/logo2.png
+group_6/motif/VR-class5/logo_ssc4.eps
+group_6/motif/VR-class5/logo5.png
+group_6/motif/VR-class5/logo3.eps
+group_6/motif/VR-class5/logo5.eps
+group_6/motif/VR-class5/logo10.png
+group_6/motif/VR-class5/logo_ssc10.png
+group_6/motif/VR-class5/logo7.png
+group_6/motif/VR-class5/logo_ssc9.eps
+group_6/motif/TR-class1/
+group_6/motif/TR-class1/logo9.png
+group_6/motif/TR-class1/logo_ssc4.png
+group_6/motif/TR-class1/logo_ssc2.png
+group_6/motif/TR-class1/logo_ssc5.png
+group_6/motif/TR-class1/logo2.eps
+group_6/motif/TR-class1/logo4.eps
+group_6/motif/TR-class1/glam2.meme
+group_6/motif/TR-class1/logo_ssc2.eps
+group_6/motif/TR-class1/logo_ssc10.eps
+group_6/motif/TR-class1/logo3.png
+group_6/motif/TR-class1/logo_ssc1.eps
+group_6/motif/TR-class1/logo6.eps
+group_6/motif/TR-class1/logo_ssc8.eps
+group_6/motif/TR-class1/logo6.png
+group_6/motif/TR-class1/logo_ssc7.png
+group_6/motif/TR-class1/logo_ssc3.png
+group_6/motif/TR-class1/glam2.txt
+group_6/motif/TR-class1/logo_ssc8.png
+group_6/motif/TR-class1/logo7.eps
+group_6/motif/TR-class1/glam2.html
+group_6/motif/TR-class1/logo8.eps
+group_6/motif/TR-class1/logo8.png
+group_6/motif/TR-class1/logo_ssc5.eps
+group_6/motif/TR-class1/logo1.png
+group_6/motif/TR-class1/logo10.eps
+group_6/motif/TR-class1/logo_ssc3.eps
+group_6/motif/TR-class1/logo_ssc9.png
+group_6/motif/TR-class1/logo_ssc6.png
+group_6/motif/TR-class1/logo_ssc6.eps
+group_6/motif/TR-class1/logo_ssc7.eps
+group_6/motif/TR-class1/logo9.eps
+group_6/motif/TR-class1/logo_ssc1.png
+group_6/motif/TR-class1/logo1.eps
+group_6/motif/TR-class1/logo4.png
+group_6/motif/TR-class1/logo2.png
+group_6/motif/TR-class1/logo_ssc4.eps
+group_6/motif/TR-class1/logo5.png
+group_6/motif/TR-class1/logo3.eps
+group_6/motif/TR-class1/logo5.eps
+group_6/motif/TR-class1/logo10.png
+group_6/motif/TR-class1/logo_ssc10.png
+group_6/motif/TR-class1/logo7.png
+group_6/motif/TR-class1/logo_ssc9.eps
+group_6/motif/TR-class5/
+group_6/motif/TR-class5/logo9.png
+group_6/motif/TR-class5/logo_ssc4.png
+group_6/motif/TR-class5/logo_ssc2.png
+group_6/motif/TR-class5/logo_ssc5.png
+group_6/motif/TR-class5/logo2.eps
+group_6/motif/TR-class5/logo4.eps
+group_6/motif/TR-class5/glam2.meme
+group_6/motif/TR-class5/logo_ssc2.eps
+group_6/motif/TR-class5/logo_ssc10.eps
+group_6/motif/TR-class5/logo3.png
+group_6/motif/TR-class5/logo_ssc1.eps
+group_6/motif/TR-class5/logo6.eps
+group_6/motif/TR-class5/logo_ssc8.eps
+group_6/motif/TR-class5/logo6.png
+group_6/motif/TR-class5/logo_ssc7.png
+group_6/motif/TR-class5/logo_ssc3.png
+group_6/motif/TR-class5/glam2.txt
+group_6/motif/TR-class5/logo_ssc8.png
+group_6/motif/TR-class5/logo7.eps
+group_6/motif/TR-class5/glam2.html
+group_6/motif/TR-class5/logo8.eps
+group_6/motif/TR-class5/logo8.png
+group_6/motif/TR-class5/logo_ssc5.eps
+group_6/motif/TR-class5/logo1.png
+group_6/motif/TR-class5/logo10.eps
+group_6/motif/TR-class5/logo_ssc3.eps
+group_6/motif/TR-class5/logo_ssc9.png
+group_6/motif/TR-class5/logo_ssc6.png
+group_6/motif/TR-class5/logo_ssc6.eps
+group_6/motif/TR-class5/logo_ssc7.eps
+group_6/motif/TR-class5/logo9.eps
+group_6/motif/TR-class5/logo_ssc1.png
+group_6/motif/TR-class5/logo1.eps
+group_6/motif/TR-class5/logo4.png
+group_6/motif/TR-class5/logo2.png
+group_6/motif/TR-class5/logo_ssc4.eps
+group_6/motif/TR-class5/logo5.png
+group_6/motif/TR-class5/logo3.eps
+group_6/motif/TR-class5/logo5.eps
+group_6/motif/TR-class5/logo10.png
+group_6/motif/TR-class5/logo_ssc10.png
+group_6/motif/TR-class5/logo7.png
+group_6/motif/TR-class5/logo_ssc9.eps
+group_6/motif/TR-class4/
+group_6/motif/TR-class4/logo9.png
+group_6/motif/TR-class4/logo_ssc4.png
+group_6/motif/TR-class4/logo_ssc2.png
+group_6/motif/TR-class4/logo_ssc5.png
+group_6/motif/TR-class4/logo2.eps
+group_6/motif/TR-class4/logo4.eps
+group_6/motif/TR-class4/glam2.meme
+group_6/motif/TR-class4/logo_ssc2.eps
+group_6/motif/TR-class4/logo_ssc10.eps
+group_6/motif/TR-class4/logo3.png
+group_6/motif/TR-class4/logo_ssc1.eps
+group_6/motif/TR-class4/logo6.eps
+group_6/motif/TR-class4/logo_ssc8.eps
+group_6/motif/TR-class4/logo6.png
+group_6/motif/TR-class4/logo_ssc7.png
+group_6/motif/TR-class4/logo_ssc3.png
+group_6/motif/TR-class4/glam2.txt
+group_6/motif/TR-class4/logo_ssc8.png
+group_6/motif/TR-class4/logo7.eps
+group_6/motif/TR-class4/glam2.html
+group_6/motif/TR-class4/logo8.eps
+group_6/motif/TR-class4/logo8.png
+group_6/motif/TR-class4/logo_ssc5.eps
+group_6/motif/TR-class4/logo1.png
+group_6/motif/TR-class4/logo10.eps
+group_6/motif/TR-class4/logo_ssc3.eps
+group_6/motif/TR-class4/logo_ssc9.png
+group_6/motif/TR-class4/logo_ssc6.png
+group_6/motif/TR-class4/logo_ssc6.eps
+group_6/motif/TR-class4/logo_ssc7.eps
+group_6/motif/TR-class4/logo9.eps
+group_6/motif/TR-class4/logo_ssc1.png
+group_6/motif/TR-class4/logo1.eps
+group_6/motif/TR-class4/logo4.png
+group_6/motif/TR-class4/logo2.png
+group_6/motif/TR-class4/logo_ssc4.eps
+group_6/motif/TR-class4/logo5.png
+group_6/motif/TR-class4/logo3.eps
+group_6/motif/TR-class4/logo5.eps
+group_6/motif/TR-class4/logo10.png
+group_6/motif/TR-class4/logo_ssc10.png
+group_6/motif/TR-class4/logo7.png
+group_6/motif/TR-class4/logo_ssc9.eps
+group_6/motif/TR-class2/
+group_6/motif/TR-class2/logo9.png
+group_6/motif/TR-class2/logo_ssc4.png
+group_6/motif/TR-class2/logo_ssc2.png
+group_6/motif/TR-class2/logo_ssc5.png
+group_6/motif/TR-class2/logo2.eps
+group_6/motif/TR-class2/logo4.eps
+group_6/motif/TR-class2/glam2.meme
+group_6/motif/TR-class2/logo_ssc2.eps
+group_6/motif/TR-class2/logo_ssc10.eps
+group_6/motif/TR-class2/logo3.png
+group_6/motif/TR-class2/logo_ssc1.eps
+group_6/motif/TR-class2/logo6.eps
+group_6/motif/TR-class2/logo_ssc8.eps
+group_6/motif/TR-class2/logo6.png
+group_6/motif/TR-class2/logo_ssc7.png
+group_6/motif/TR-class2/logo_ssc3.png
+group_6/motif/TR-class2/glam2.txt
+group_6/motif/TR-class2/logo_ssc8.png
+group_6/motif/TR-class2/logo7.eps
+group_6/motif/TR-class2/glam2.html
+group_6/motif/TR-class2/logo8.eps
+group_6/motif/TR-class2/logo8.png
+group_6/motif/TR-class2/logo_ssc5.eps
+group_6/motif/TR-class2/logo1.png
+group_6/motif/TR-class2/logo10.eps
+group_6/motif/TR-class2/logo_ssc3.eps
+group_6/motif/TR-class2/logo_ssc9.png
+group_6/motif/TR-class2/logo_ssc6.png
+group_6/motif/TR-class2/logo_ssc6.eps
+group_6/motif/TR-class2/logo_ssc7.eps
+group_6/motif/TR-class2/logo9.eps
+group_6/motif/TR-class2/logo_ssc1.png
+group_6/motif/TR-class2/logo1.eps
+group_6/motif/TR-class2/logo4.png
+group_6/motif/TR-class2/logo2.png
+group_6/motif/TR-class2/logo_ssc4.eps
+group_6/motif/TR-class2/logo5.png
+group_6/motif/TR-class2/logo3.eps
+group_6/motif/TR-class2/logo5.eps
+group_6/motif/TR-class2/logo10.png
+group_6/motif/TR-class2/logo_ssc10.png
+group_6/motif/TR-class2/logo7.png
+group_6/motif/TR-class2/logo_ssc9.eps
+group_6/motif/VR-class2/
+group_6/motif/VR-class2/logo9.png
+group_6/motif/VR-class2/logo_ssc4.png
+group_6/motif/VR-class2/logo_ssc2.png
+group_6/motif/VR-class2/logo_ssc5.png
+group_6/motif/VR-class2/logo2.eps
+group_6/motif/VR-class2/logo4.eps
+group_6/motif/VR-class2/glam2.meme
+group_6/motif/VR-class2/logo_ssc2.eps
+group_6/motif/VR-class2/logo_ssc10.eps
+group_6/motif/VR-class2/logo3.png
+group_6/motif/VR-class2/logo_ssc1.eps
+group_6/motif/VR-class2/logo6.eps
+group_6/motif/VR-class2/logo_ssc8.eps
+group_6/motif/VR-class2/logo6.png
+group_6/motif/VR-class2/logo_ssc7.png
+group_6/motif/VR-class2/logo_ssc3.png
+group_6/motif/VR-class2/glam2.txt
+group_6/motif/VR-class2/logo_ssc8.png
+group_6/motif/VR-class2/logo7.eps
+group_6/motif/VR-class2/glam2.html
+group_6/motif/VR-class2/logo8.eps
+group_6/motif/VR-class2/logo8.png
+group_6/motif/VR-class2/logo_ssc5.eps
+group_6/motif/VR-class2/logo1.png
+group_6/motif/VR-class2/logo10.eps
+group_6/motif/VR-class2/logo_ssc3.eps
+group_6/motif/VR-class2/logo_ssc9.png
+group_6/motif/VR-class2/logo_ssc6.png
+group_6/motif/VR-class2/logo_ssc6.eps
+group_6/motif/VR-class2/logo_ssc7.eps
+group_6/motif/VR-class2/logo9.eps
+group_6/motif/VR-class2/logo_ssc1.png
+group_6/motif/VR-class2/logo1.eps
+group_6/motif/VR-class2/logo4.png
+group_6/motif/VR-class2/logo2.png
+group_6/motif/VR-class2/logo_ssc4.eps
+group_6/motif/VR-class2/logo5.png
+group_6/motif/VR-class2/logo3.eps
+group_6/motif/VR-class2/logo5.eps
+group_6/motif/VR-class2/logo10.png
+group_6/motif/VR-class2/logo_ssc10.png
+group_6/motif/VR-class2/logo7.png
+group_6/motif/VR-class2/logo_ssc9.eps
+group_6/motif/VR-class3/
+group_6/motif/VR-class3/logo9.png
+group_6/motif/VR-class3/logo_ssc4.png
+group_6/motif/VR-class3/logo_ssc2.png
+group_6/motif/VR-class3/logo_ssc5.png
+group_6/motif/VR-class3/logo2.eps
+group_6/motif/VR-class3/logo4.eps
+group_6/motif/VR-class3/glam2.meme
+group_6/motif/VR-class3/logo_ssc2.eps
+group_6/motif/VR-class3/logo_ssc10.eps
+group_6/motif/VR-class3/logo3.png
+group_6/motif/VR-class3/logo_ssc1.eps
+group_6/motif/VR-class3/logo6.eps
+group_6/motif/VR-class3/logo_ssc8.eps
+group_6/motif/VR-class3/logo6.png
+group_6/motif/VR-class3/logo_ssc7.png
+group_6/motif/VR-class3/logo_ssc3.png
+group_6/motif/VR-class3/glam2.txt
+group_6/motif/VR-class3/logo_ssc8.png
+group_6/motif/VR-class3/logo7.eps
+group_6/motif/VR-class3/glam2.html
+group_6/motif/VR-class3/logo8.eps
+group_6/motif/VR-class3/logo8.png
+group_6/motif/VR-class3/logo_ssc5.eps
+group_6/motif/VR-class3/logo1.png
+group_6/motif/VR-class3/logo10.eps
+group_6/motif/VR-class3/logo_ssc3.eps
+group_6/motif/VR-class3/logo_ssc9.png
+group_6/motif/VR-class3/logo_ssc6.png
+group_6/motif/VR-class3/logo_ssc6.eps
+group_6/motif/VR-class3/logo_ssc7.eps
+group_6/motif/VR-class3/logo9.eps
+group_6/motif/VR-class3/logo_ssc1.png
+group_6/motif/VR-class3/logo1.eps
+group_6/motif/VR-class3/logo4.png
+group_6/motif/VR-class3/logo2.png
+group_6/motif/VR-class3/logo_ssc4.eps
+group_6/motif/VR-class3/logo5.png
+group_6/motif/VR-class3/logo3.eps
+group_6/motif/VR-class3/logo5.eps
+group_6/motif/VR-class3/logo10.png
+group_6/motif/VR-class3/logo_ssc10.png
+group_6/motif/VR-class3/logo7.png
+group_6/motif/VR-class3/logo_ssc9.eps
+group_6/motif/TR-class3/
+group_6/motif/TR-class3/logo9.png
+group_6/motif/TR-class3/logo_ssc4.png
+group_6/motif/TR-class3/logo_ssc2.png
+group_6/motif/TR-class3/logo_ssc5.png
+group_6/motif/TR-class3/logo2.eps
+group_6/motif/TR-class3/logo4.eps
+group_6/motif/TR-class3/glam2.meme
+group_6/motif/TR-class3/logo_ssc2.eps
+group_6/motif/TR-class3/logo_ssc10.eps
+group_6/motif/TR-class3/logo3.png
+group_6/motif/TR-class3/logo_ssc1.eps
+group_6/motif/TR-class3/logo6.eps
+group_6/motif/TR-class3/logo_ssc8.eps
+group_6/motif/TR-class3/logo6.png
+group_6/motif/TR-class3/logo_ssc7.png
+group_6/motif/TR-class3/logo_ssc3.png
+group_6/motif/TR-class3/glam2.txt
+group_6/motif/TR-class3/logo_ssc8.png
+group_6/motif/TR-class3/logo7.eps
+group_6/motif/TR-class3/glam2.html
+group_6/motif/TR-class3/logo8.eps
+group_6/motif/TR-class3/logo8.png
+group_6/motif/TR-class3/logo_ssc5.eps
+group_6/motif/TR-class3/logo1.png
+group_6/motif/TR-class3/logo10.eps
+group_6/motif/TR-class3/logo_ssc3.eps
+group_6/motif/TR-class3/logo_ssc9.png
+group_6/motif/TR-class3/logo_ssc6.png
+group_6/motif/TR-class3/logo_ssc6.eps
+group_6/motif/TR-class3/logo_ssc7.eps
+group_6/motif/TR-class3/logo9.eps
+group_6/motif/TR-class3/logo_ssc1.png
+group_6/motif/TR-class3/logo1.eps
+group_6/motif/TR-class3/logo4.png
+group_6/motif/TR-class3/logo2.png
+group_6/motif/TR-class3/logo_ssc4.eps
+group_6/motif/TR-class3/logo5.png
+group_6/motif/TR-class3/logo3.eps
+group_6/motif/TR-class3/logo5.eps
+group_6/motif/TR-class3/logo10.png
+group_6/motif/TR-class3/logo_ssc10.png
+group_6/motif/TR-class3/logo7.png
+group_6/motif/TR-class3/logo_ssc9.eps
+group_6/reBuildDGR.pl
+group_6/evaluation.txt
+group_7/train/VR.fa
+group_7/train/RT.fa
+group_7/align/
+group_7/align/VR-class3.align
+group_7/align/TR-class2.align
+group_7/align/TR-class4.align
+group_7/align/VR-class2.align
+group_7/align/VR-class5.align
+group_7/align/RT-class2.align
+group_7/align/RT-class1.align
+group_7/align/VR-class4.align
+group_7/align/TR-class3.align
+group_7/align/VR-class1.align
+group_7/align/TR-class5.align
+group_7/align/RT-class3.align
+group_7/align/RT-class4.align
+group_7/align/TR-class1.align
+group_7/RT.config
+group_7/test/
+group_7/test/TR.fa
+group_7/test/DGR.fa
+group_7/test/VR.fa
+group_7/test/RT.fa
+group_7/motif/
+group_7/motif/VR-class1/
+group_7/motif/VR-class1/logo9.png
+group_7/motif/VR-class1/logo_ssc4.png
+group_7/motif/VR-class1/logo_ssc2.png
+group_7/motif/VR-class1/logo_ssc5.png
+group_7/motif/VR-class1/logo2.eps
+group_7/motif/VR-class1/logo4.eps
+group_7/motif/VR-class1/glam2.meme
+group_7/motif/VR-class1/logo_ssc2.eps
+group_7/motif/VR-class1/logo_ssc10.eps
+group_7/motif/VR-class1/logo3.png
+group_7/motif/VR-class1/logo_ssc1.eps
+group_7/motif/VR-class1/logo6.eps
+group_7/motif/VR-class1/logo_ssc8.eps
+group_7/motif/VR-class1/logo6.png
+group_7/motif/VR-class1/logo_ssc7.png
+group_7/motif/VR-class1/logo_ssc3.png
+group_7/motif/VR-class1/glam2.txt
+group_7/motif/VR-class1/logo_ssc8.png
+group_7/motif/VR-class1/logo7.eps
+group_7/motif/VR-class1/glam2.html
+group_7/motif/VR-class1/logo8.eps
+group_7/motif/VR-class1/logo8.png
+group_7/motif/VR-class1/logo_ssc5.eps
+group_7/motif/VR-class1/logo1.png
+group_7/motif/VR-class1/logo10.eps
+group_7/motif/VR-class1/logo_ssc3.eps
+group_7/motif/VR-class1/logo_ssc9.png
+group_7/motif/VR-class1/logo_ssc6.png
+group_7/motif/VR-class1/logo_ssc6.eps
+group_7/motif/VR-class1/logo_ssc7.eps
+group_7/motif/VR-class1/logo9.eps
+group_7/motif/VR-class1/logo_ssc1.png
+group_7/motif/VR-class1/logo1.eps
+group_7/motif/VR-class1/logo4.png
+group_7/motif/VR-class1/logo2.png
+group_7/motif/VR-class1/logo_ssc4.eps
+group_7/motif/VR-class1/logo5.png
+group_7/motif/VR-class1/logo3.eps
+group_7/motif/VR-class1/logo5.eps
+group_7/motif/VR-class1/logo10.png
+group_7/motif/VR-class1/logo_ssc10.png
+group_7/motif/VR-class1/logo7.png
+group_7/motif/VR-class1/logo_ssc9.eps
+group_7/motif/VR-class4/
+group_7/motif/VR-class4/logo9.png
+group_7/motif/VR-class4/logo_ssc4.png
+group_7/motif/VR-class4/logo_ssc2.png
+group_7/motif/VR-class4/logo_ssc5.png
+group_7/motif/VR-class4/logo2.eps
+group_7/motif/VR-class4/logo4.eps
+group_7/motif/VR-class4/glam2.meme
+group_7/motif/VR-class4/logo_ssc2.eps
+group_7/motif/VR-class4/logo_ssc10.eps
+group_7/motif/VR-class4/logo3.png
+group_7/motif/VR-class4/logo_ssc1.eps
+group_7/motif/VR-class4/logo6.eps
+group_7/motif/VR-class4/logo_ssc8.eps
+group_7/motif/VR-class4/logo6.png
+group_7/motif/VR-class4/logo_ssc7.png
+group_7/motif/VR-class4/logo_ssc3.png
+group_7/motif/VR-class4/glam2.txt
+group_7/motif/VR-class4/logo_ssc8.png
+group_7/motif/VR-class4/logo7.eps
+group_7/motif/VR-class4/glam2.html
+group_7/motif/VR-class4/logo8.eps
+group_7/motif/VR-class4/logo8.png
+group_7/motif/VR-class4/logo_ssc5.eps
+group_7/motif/VR-class4/logo1.png
+group_7/motif/VR-class4/logo10.eps
+group_7/motif/VR-class4/logo_ssc3.eps
+group_7/motif/VR-class4/logo_ssc9.png
+group_7/motif/VR-class4/logo_ssc6.png
+group_7/motif/VR-class4/logo_ssc6.eps
+group_7/motif/VR-class4/logo_ssc7.eps
+group_7/motif/VR-class4/logo9.eps
+group_7/motif/VR-class4/logo_ssc1.png
+group_7/motif/VR-class4/logo1.eps
+group_7/motif/VR-class4/logo4.png
+group_7/motif/VR-class4/logo2.png
+group_7/motif/VR-class4/logo_ssc4.eps
+group_7/motif/VR-class4/logo5.png
+group_7/motif/VR-class4/logo3.eps
+group_7/motif/VR-class4/logo5.eps
+group_7/motif/VR-class4/logo10.png
+group_7/motif/VR-class4/logo_ssc10.png
+group_7/motif/VR-class4/logo7.png
+group_7/motif/VR-class4/logo_ssc9.eps
+group_7/motif/VR-class5/
+group_7/motif/VR-class5/logo9.png
+group_7/motif/VR-class5/logo_ssc4.png
+group_7/motif/VR-class5/logo_ssc2.png
+group_7/motif/VR-class5/logo_ssc5.png
+group_7/motif/VR-class5/logo2.eps
+group_7/motif/VR-class5/logo4.eps
+group_7/motif/VR-class5/glam2.meme
+group_7/motif/VR-class5/logo_ssc2.eps
+group_7/motif/VR-class5/logo_ssc10.eps
+group_7/motif/VR-class5/logo3.png
+group_7/motif/VR-class5/logo_ssc1.eps
+group_7/motif/VR-class5/logo6.eps
+group_7/motif/VR-class5/logo_ssc8.eps
+group_7/motif/VR-class5/logo6.png
+group_7/motif/VR-class5/logo_ssc7.png
+group_7/motif/VR-class5/logo_ssc3.png
+group_7/motif/VR-class5/glam2.txt
+group_7/motif/VR-class5/logo_ssc8.png
+group_7/motif/VR-class5/logo7.eps
+group_7/motif/VR-class5/glam2.html
+group_7/motif/VR-class5/logo8.eps
+group_7/motif/VR-class5/logo8.png
+group_7/motif/VR-class5/logo_ssc5.eps
+group_7/motif/VR-class5/logo1.png
+group_7/motif/VR-class5/logo10.eps
+group_7/motif/VR-class5/logo_ssc3.eps
+group_7/motif/VR-class5/logo_ssc9.png
+group_7/motif/VR-class5/logo_ssc6.png
+group_7/motif/VR-class5/logo_ssc6.eps
+group_7/motif/VR-class5/logo_ssc7.eps
+group_7/motif/VR-class5/logo9.eps
+group_7/motif/VR-class5/logo_ssc1.png
+group_7/motif/VR-class5/logo1.eps
+group_7/motif/VR-class5/logo4.png
+group_7/motif/VR-class5/logo2.png
+group_7/motif/VR-class5/logo_ssc4.eps
+group_7/motif/VR-class5/logo5.png
+group_7/motif/VR-class5/logo3.eps
+group_7/motif/VR-class5/logo5.eps
+group_7/motif/VR-class5/logo10.png
+group_7/motif/VR-class5/logo_ssc10.png
+group_7/motif/VR-class5/logo7.png
+group_7/motif/VR-class5/logo_ssc9.eps
+group_7/motif/TR-class1/
+group_7/motif/TR-class1/logo9.png
+group_7/motif/TR-class1/logo_ssc4.png
+group_7/motif/TR-class1/logo_ssc2.png
+group_7/motif/TR-class1/logo_ssc5.png
+group_7/motif/TR-class1/logo2.eps
+group_7/motif/TR-class1/logo4.eps
+group_7/motif/TR-class1/glam2.meme
+group_7/motif/TR-class1/logo_ssc2.eps
+group_7/motif/TR-class1/logo_ssc10.eps
+group_7/motif/TR-class1/logo3.png
+group_7/motif/TR-class1/logo_ssc1.eps
+group_7/motif/TR-class1/logo6.eps
+group_7/motif/TR-class1/logo_ssc8.eps
+group_7/motif/TR-class1/logo6.png
+group_7/motif/TR-class1/logo_ssc7.png
+group_7/motif/TR-class1/logo_ssc3.png
+group_7/motif/TR-class1/glam2.txt
+group_7/motif/TR-class1/logo_ssc8.png
+group_7/motif/TR-class1/logo7.eps
+group_7/motif/TR-class1/glam2.html
+group_7/motif/TR-class1/logo8.eps
+group_7/motif/TR-class1/logo8.png
+group_7/motif/TR-class1/logo_ssc5.eps
+group_7/motif/TR-class1/logo1.png
+group_7/motif/TR-class1/logo10.eps
+group_7/motif/TR-class1/logo_ssc3.eps
+group_7/motif/TR-class1/logo_ssc9.png
+group_7/motif/TR-class1/logo_ssc6.png
+group_7/motif/TR-class1/logo_ssc6.eps
+group_7/motif/TR-class1/logo_ssc7.eps
+group_7/motif/TR-class1/logo9.eps
+group_7/motif/TR-class1/logo_ssc1.png
+group_7/motif/TR-class1/logo1.eps
+group_7/motif/TR-class1/logo4.png
+group_7/motif/TR-class1/logo2.png
+group_7/motif/TR-class1/logo_ssc4.eps
+group_7/motif/TR-class1/logo5.png
+group_7/motif/TR-class1/logo3.eps
+group_7/motif/TR-class1/logo5.eps
+group_7/motif/TR-class1/logo10.png
+group_7/motif/TR-class1/logo_ssc10.png
+group_7/motif/TR-class1/logo7.png
+group_7/motif/TR-class1/logo_ssc9.eps
+group_7/motif/TR-class5/
+group_7/motif/TR-class5/logo9.png
+group_7/motif/TR-class5/logo_ssc4.png
+group_7/motif/TR-class5/logo_ssc2.png
+group_7/motif/TR-class5/logo_ssc5.png
+group_7/motif/TR-class5/logo2.eps
+group_7/motif/TR-class5/logo4.eps
+group_7/motif/TR-class5/glam2.meme
+group_7/motif/TR-class5/logo_ssc2.eps
+group_7/motif/TR-class5/logo_ssc10.eps
+group_7/motif/TR-class5/logo3.png
+group_7/motif/TR-class5/logo_ssc1.eps
+group_7/motif/TR-class5/logo6.eps
+group_7/motif/TR-class5/logo_ssc8.eps
+group_7/motif/TR-class5/logo6.png
+group_7/motif/TR-class5/logo_ssc7.png
+group_7/motif/TR-class5/logo_ssc3.png
+group_7/motif/TR-class5/glam2.txt
+group_7/motif/TR-class5/logo_ssc8.png
+group_7/motif/TR-class5/logo7.eps
+group_7/motif/TR-class5/glam2.html
+group_7/motif/TR-class5/logo8.eps
+group_7/motif/TR-class5/logo8.png
+group_7/motif/TR-class5/logo_ssc5.eps
+group_7/motif/TR-class5/logo1.png
+group_7/motif/TR-class5/logo10.eps
+group_7/motif/TR-class5/logo_ssc3.eps
+group_7/motif/TR-class5/logo_ssc9.png
+group_7/motif/TR-class5/logo_ssc6.png
+group_7/motif/TR-class5/logo_ssc6.eps
+group_7/motif/TR-class5/logo_ssc7.eps
+group_7/motif/TR-class5/logo9.eps
+group_7/motif/TR-class5/logo_ssc1.png
+group_7/motif/TR-class5/logo1.eps
+group_7/motif/TR-class5/logo4.png
+group_7/motif/TR-class5/logo2.png
+group_7/motif/TR-class5/logo_ssc4.eps
+group_7/motif/TR-class5/logo5.png
+group_7/motif/TR-class5/logo3.eps
+group_7/motif/TR-class5/logo5.eps
+group_7/motif/TR-class5/logo10.png
+group_7/motif/TR-class5/logo_ssc10.png
+group_7/motif/TR-class5/logo7.png
+group_7/motif/TR-class5/logo_ssc9.eps
+group_7/motif/TR-class4/
+group_7/motif/TR-class4/logo9.png
+group_7/motif/TR-class4/logo_ssc4.png
+group_7/motif/TR-class4/logo_ssc2.png
+group_7/motif/TR-class4/logo_ssc5.png
+group_7/motif/TR-class4/logo2.eps
+group_7/motif/TR-class4/logo4.eps
+group_7/motif/TR-class4/glam2.meme
+group_7/motif/TR-class4/logo_ssc2.eps
+group_7/motif/TR-class4/logo_ssc10.eps
+group_7/motif/TR-class4/logo3.png
+group_7/motif/TR-class4/logo_ssc1.eps
+group_7/motif/TR-class4/logo6.eps
+group_7/motif/TR-class4/logo_ssc8.eps
+group_7/motif/TR-class4/logo6.png
+group_7/motif/TR-class4/logo_ssc7.png
+group_7/motif/TR-class4/logo_ssc3.png
+group_7/motif/TR-class4/glam2.txt
+group_7/motif/TR-class4/logo_ssc8.png
+group_7/motif/TR-class4/logo7.eps
+group_7/motif/TR-class4/glam2.html
+group_7/motif/TR-class4/logo8.eps
+group_7/motif/TR-class4/logo8.png
+group_7/motif/TR-class4/logo_ssc5.eps
+group_7/motif/TR-class4/logo1.png
+group_7/motif/TR-class4/logo10.eps
+group_7/motif/TR-class4/logo_ssc3.eps
+group_7/motif/TR-class4/logo_ssc9.png
+group_7/motif/TR-class4/logo_ssc6.png
+group_7/motif/TR-class4/logo_ssc6.eps
+group_7/motif/TR-class4/logo_ssc7.eps
+group_7/motif/TR-class4/logo9.eps
+group_7/motif/TR-class4/logo_ssc1.png
+group_7/motif/TR-class4/logo1.eps
+group_7/motif/TR-class4/logo4.png
+group_7/motif/TR-class4/logo2.png
+group_7/motif/TR-class4/logo_ssc4.eps
+group_7/motif/TR-class4/logo5.png
+group_7/motif/TR-class4/logo3.eps
+group_7/motif/TR-class4/logo5.eps
+group_7/motif/TR-class4/logo10.png
+group_7/motif/TR-class4/logo_ssc10.png
+group_7/motif/TR-class4/logo7.png
+group_7/motif/TR-class4/logo_ssc9.eps
+group_7/motif/TR-class2/
+group_7/motif/TR-class2/logo9.png
+group_7/motif/TR-class2/logo_ssc4.png
+group_7/motif/TR-class2/logo_ssc2.png
+group_7/motif/TR-class2/logo_ssc5.png
+group_7/motif/TR-class2/logo2.eps
+group_7/motif/TR-class2/logo4.eps
+group_7/motif/TR-class2/glam2.meme
+group_7/motif/TR-class2/logo_ssc2.eps
+group_7/motif/TR-class2/logo_ssc10.eps
+group_7/motif/TR-class2/logo3.png
+group_7/motif/TR-class2/logo_ssc1.eps
+group_7/motif/TR-class2/logo6.eps
+group_7/motif/TR-class2/logo_ssc8.eps
+group_7/motif/TR-class2/logo6.png
+group_7/motif/TR-class2/logo_ssc7.png
+group_7/motif/TR-class2/logo_ssc3.png
+group_7/motif/TR-class2/glam2.txt
+group_7/motif/TR-class2/logo_ssc8.png
+group_7/motif/TR-class2/logo7.eps
+group_7/motif/TR-class2/glam2.html
+group_7/motif/TR-class2/logo8.eps
+group_7/motif/TR-class2/logo8.png
+group_7/motif/TR-class2/logo_ssc5.eps
+group_7/motif/TR-class2/logo1.png
+group_7/motif/TR-class2/logo10.eps
+group_7/motif/TR-class2/logo_ssc3.eps
+group_7/motif/TR-class2/logo_ssc9.png
+group_7/motif/TR-class2/logo_ssc6.png
+group_7/motif/TR-class2/logo_ssc6.eps
+group_7/motif/TR-class2/logo_ssc7.eps
+group_7/motif/TR-class2/logo9.eps
+group_7/motif/TR-class2/logo_ssc1.png
+group_7/motif/TR-class2/logo1.eps
+group_7/motif/TR-class2/logo4.png
+group_7/motif/TR-class2/logo2.png
+group_7/motif/TR-class2/logo_ssc4.eps
+group_7/motif/TR-class2/logo5.png
+group_7/motif/TR-class2/logo3.eps
+group_7/motif/TR-class2/logo5.eps
+group_7/motif/TR-class2/logo10.png
+group_7/motif/TR-class2/logo_ssc10.png
+group_7/motif/TR-class2/logo7.png
+group_7/motif/TR-class2/logo_ssc9.eps
+group_7/motif/VR-class2/
+group_7/motif/VR-class2/logo9.png
+group_7/motif/VR-class2/logo_ssc4.png
+group_7/motif/VR-class2/logo_ssc2.png
+group_7/motif/VR-class2/logo_ssc5.png
+group_7/motif/VR-class2/logo2.eps
+group_7/motif/VR-class2/logo4.eps
+group_7/motif/VR-class2/glam2.meme
+group_7/motif/VR-class2/logo_ssc2.eps
+group_7/motif/VR-class2/logo_ssc10.eps
+group_7/motif/VR-class2/logo3.png
+group_7/motif/VR-class2/logo_ssc1.eps
+group_7/motif/VR-class2/logo6.eps
+group_7/motif/VR-class2/logo_ssc8.eps
+group_7/motif/VR-class2/logo6.png
+group_7/motif/VR-class2/logo_ssc7.png
+group_7/motif/VR-class2/logo_ssc3.png
+group_7/motif/VR-class2/glam2.txt
+group_7/motif/VR-class2/logo_ssc8.png
+group_7/motif/VR-class2/logo7.eps
+group_7/motif/VR-class2/glam2.html
+group_7/motif/VR-class2/logo8.eps
+group_7/motif/VR-class2/logo8.png
+group_7/motif/VR-class2/logo_ssc5.eps
+group_8/train/VR.fa
+group_7/motif/VR-class2/logo1.png
+group_7/motif/VR-class2/logo10.eps
+group_7/motif/VR-class2/logo_ssc3.eps
+group_7/motif/VR-class2/logo_ssc9.png
+group_7/motif/VR-class2/logo_ssc6.png
+group_8/train/RT.fa
+group_7/motif/VR-class2/logo_ssc6.eps
+group_7/motif/VR-class2/logo_ssc7.eps
+group_7/motif/VR-class2/logo9.eps
+group_7/motif/VR-class2/logo_ssc1.png
+group_7/motif/VR-class2/logo1.eps
+group_7/motif/VR-class2/logo4.png
+group_7/motif/VR-class2/logo2.png
+group_7/motif/VR-class2/logo_ssc4.eps
+group_7/motif/VR-class2/logo5.png
+group_7/motif/VR-class2/logo3.eps
+group_7/motif/VR-class2/logo5.eps
+group_7/motif/VR-class2/logo10.png
+group_7/motif/VR-class2/logo_ssc10.png
+group_7/motif/VR-class2/logo7.png
+group_7/motif/VR-class2/logo_ssc9.eps
+group_7/motif/VR-class3/
+group_7/motif/VR-class3/logo9.png
+group_7/motif/VR-class3/logo_ssc4.png
+group_7/motif/VR-class3/logo_ssc2.png
+group_7/motif/VR-class3/logo_ssc5.png
+group_7/motif/VR-class3/logo2.eps
+group_7/motif/VR-class3/logo4.eps
+group_7/motif/VR-class3/glam2.meme
+group_7/motif/VR-class3/logo_ssc2.eps
+group_7/motif/VR-class3/logo_ssc10.eps
+group_7/motif/VR-class3/logo3.png
+group_7/motif/VR-class3/logo_ssc1.eps
+group_7/motif/VR-class3/logo6.eps
+group_7/motif/VR-class3/logo_ssc8.eps
+group_7/motif/VR-class3/logo6.png
+group_7/motif/VR-class3/logo_ssc7.png
+group_7/motif/VR-class3/logo_ssc3.png
+group_7/motif/VR-class3/glam2.txt
+group_7/motif/VR-class3/logo_ssc8.png
+group_7/motif/VR-class3/logo7.eps
+group_7/motif/VR-class3/glam2.html
+group_7/motif/VR-class3/logo8.eps
+group_7/motif/VR-class3/logo8.png
+group_7/motif/VR-class3/logo_ssc5.eps
+group_7/motif/VR-class3/logo1.png
+group_7/motif/VR-class3/logo10.eps
+group_8/align/
+group_8/align/VR-class3.align
+group_8/align/TR-class2.align
+group_8/align/TR-class4.align
+group_7/motif/VR-class3/logo_ssc3.eps
+group_7/motif/VR-class3/logo_ssc9.png
+group_7/motif/VR-class3/logo_ssc6.png
+group_7/motif/VR-class3/logo_ssc6.eps
+group_7/motif/VR-class3/logo_ssc7.eps
+group_7/motif/VR-class3/logo9.eps
+group_7/motif/VR-class3/logo_ssc1.png
+group_7/motif/VR-class3/logo1.eps
+group_8/align/VR-class2.align
+group_8/align/VR-class5.align
+group_7/motif/VR-class3/logo4.png
+group_7/motif/VR-class3/logo2.png
+group_7/motif/VR-class3/logo_ssc4.eps
+group_7/motif/VR-class3/logo5.png
+group_7/motif/VR-class3/logo3.eps
+group_8/align/RT-class2.align
+group_7/motif/VR-class3/logo5.eps
+group_7/motif/VR-class3/logo10.png
+group_7/motif/VR-class3/logo_ssc10.png
+group_7/motif/VR-class3/logo7.png
+group_7/motif/VR-class3/logo_ssc9.eps
+group_7/motif/TR-class3/
+group_7/motif/TR-class3/logo9.png
+group_7/motif/TR-class3/logo_ssc4.png
+group_7/motif/TR-class3/logo_ssc2.png
+group_7/motif/TR-class3/logo_ssc5.png
+group_7/motif/TR-class3/logo2.eps
+group_7/motif/TR-class3/logo4.eps
+group_7/motif/TR-class3/glam2.meme
+group_7/motif/TR-class3/logo_ssc2.eps
+group_7/motif/TR-class3/logo_ssc10.eps
+group_7/motif/TR-class3/logo3.png
+group_7/motif/TR-class3/logo_ssc1.eps
+group_7/motif/TR-class3/logo6.eps
+group_7/motif/TR-class3/logo_ssc8.eps
+group_7/motif/TR-class3/logo6.png
+group_7/motif/TR-class3/logo_ssc7.png
+group_7/motif/TR-class3/logo_ssc3.png
+group_7/motif/TR-class3/glam2.txt
+group_8/align/RT-class1.align
+group_7/motif/TR-class3/logo_ssc8.png
+group_7/motif/TR-class3/logo7.eps
+group_7/motif/TR-class3/glam2.html
+group_8/align/VR-class4.align
+group_8/align/TR-class3.align
+group_8/align/VR-class1.align
+group_8/align/TR-class5.align
+group_8/align/RT-class3.align
+group_7/motif/TR-class3/logo8.eps
+group_7/motif/TR-class3/logo8.png
+group_7/motif/TR-class3/logo_ssc5.eps
+group_7/motif/TR-class3/logo1.png
+group_7/motif/TR-class3/logo10.eps
+group_7/motif/TR-class3/logo_ssc3.eps
+group_7/motif/TR-class3/logo_ssc9.png
+group_7/motif/TR-class3/logo_ssc6.png
+group_7/motif/TR-class3/logo_ssc6.eps
+group_7/motif/TR-class3/logo_ssc7.eps
+group_7/motif/TR-class3/logo9.eps
+group_7/motif/TR-class3/logo_ssc1.png
+group_7/motif/TR-class3/logo1.eps
+group_7/motif/TR-class3/logo4.png
+group_7/motif/TR-class3/logo2.png
+group_7/motif/TR-class3/logo_ssc4.eps
+group_7/motif/TR-class3/logo5.png
+group_7/motif/TR-class3/logo3.eps
+group_7/motif/TR-class3/logo5.eps
+group_7/motif/TR-class3/logo10.png
+group_7/motif/TR-class3/logo_ssc10.png
+group_7/motif/TR-class3/logo7.png
+group_7/motif/TR-class3/logo_ssc9.eps
+group_7/reBuildDGR.pl
+group_7/evaluation.txt
+group_8/align/RT-class4.align
+group_8/align/TR-class1.align
+group_8/RT.config
+group_8/test/
+group_8/test/TR.fa
+group_8/test/DGR.fa
+group_9/train/VR.fa
+group_9/train/RT.fa
+group_8/test/VR.fa
+group_8/test/RT.fa
+group_8/motif/
+group_8/motif/VR-class1/
+group_8/motif/VR-class1/logo9.png
+group_8/motif/VR-class1/logo_ssc4.png
+group_8/motif/VR-class1/logo_ssc2.png
+group_8/motif/VR-class1/logo_ssc5.png
+group_8/motif/VR-class1/logo2.eps
+group_8/motif/VR-class1/logo4.eps
+group_8/motif/VR-class1/glam2.meme
+group_8/motif/VR-class1/logo_ssc2.eps
+group_8/motif/VR-class1/logo_ssc10.eps
+group_8/motif/VR-class1/logo3.png
+group_8/motif/VR-class1/logo_ssc1.eps
+group_8/motif/VR-class1/logo6.eps
+group_8/motif/VR-class1/logo_ssc8.eps
+group_8/motif/VR-class1/logo6.png
+group_8/motif/VR-class1/logo_ssc7.png
+group_8/motif/VR-class1/logo_ssc3.png
+group_8/motif/VR-class1/glam2.txt
+group_8/motif/VR-class1/logo_ssc8.png
+group_8/motif/VR-class1/logo7.eps
+group_8/motif/VR-class1/glam2.html
+group_8/motif/VR-class1/logo8.eps
+group_8/motif/VR-class1/logo8.png
+group_8/motif/VR-class1/logo_ssc5.eps
+group_8/motif/VR-class1/logo1.png
+group_8/motif/VR-class1/logo10.eps
+group_8/motif/VR-class1/logo_ssc3.eps
+group_8/motif/VR-class1/logo_ssc9.png
+group_8/motif/VR-class1/logo_ssc6.png
+group_8/motif/VR-class1/logo_ssc6.eps
+group_8/motif/VR-class1/logo_ssc7.eps
+group_8/motif/VR-class1/logo9.eps
+group_8/motif/VR-class1/logo_ssc1.png
+group_8/motif/VR-class1/logo1.eps
+group_8/motif/VR-class1/logo4.png
+group_8/motif/VR-class1/logo2.png
+group_8/motif/VR-class1/logo_ssc4.eps
+group_8/motif/VR-class1/logo5.png
+group_8/motif/VR-class1/logo3.eps
+group_8/motif/VR-class1/logo5.eps
+group_8/motif/VR-class1/logo10.png
+group_8/motif/VR-class1/logo_ssc10.png
+group_8/motif/VR-class1/logo7.png
+group_8/motif/VR-class1/logo_ssc9.eps
+group_8/motif/VR-class4/
+group_8/motif/VR-class4/logo9.png
+group_8/motif/VR-class4/logo_ssc4.png
+group_8/motif/VR-class4/logo_ssc2.png
+group_8/motif/VR-class4/logo_ssc5.png
+group_8/motif/VR-class4/logo2.eps
+group_8/motif/VR-class4/logo4.eps
+group_8/motif/VR-class4/glam2.meme
+group_8/motif/VR-class4/logo_ssc2.eps
+group_8/motif/VR-class4/logo_ssc10.eps
+group_8/motif/VR-class4/logo3.png
+group_8/motif/VR-class4/logo_ssc1.eps
+group_8/motif/VR-class4/logo6.eps
+group_8/motif/VR-class4/logo_ssc8.eps
+group_8/motif/VR-class4/logo6.png
+group_8/motif/VR-class4/logo_ssc7.png
+group_8/motif/VR-class4/logo_ssc3.png
+group_8/motif/VR-class4/glam2.txt
+group_8/motif/VR-class4/logo_ssc8.png
+group_8/motif/VR-class4/logo7.eps
+group_8/motif/VR-class4/glam2.html
+group_8/motif/VR-class4/logo8.eps
+group_8/motif/VR-class4/logo8.png
+group_8/motif/VR-class4/logo_ssc5.eps
+group_8/motif/VR-class4/logo1.png
+group_8/motif/VR-class4/logo10.eps
+group_8/motif/VR-class4/logo_ssc3.eps
+group_8/motif/VR-class4/logo_ssc9.png
+group_8/motif/VR-class4/logo_ssc6.png
+group_8/motif/VR-class4/logo_ssc6.eps
+group_8/motif/VR-class4/logo_ssc7.eps
+group_8/motif/VR-class4/logo9.eps
+group_8/motif/VR-class4/logo_ssc1.png
+group_8/motif/VR-class4/logo1.eps
+group_8/motif/VR-class4/logo4.png
+group_8/motif/VR-class4/logo2.png
+group_8/motif/VR-class4/logo_ssc4.eps
+group_8/motif/VR-class4/logo5.png
+group_8/motif/VR-class4/logo3.eps
+group_8/motif/VR-class4/logo5.eps
+group_8/motif/VR-class4/logo10.png
+group_8/motif/VR-class4/logo_ssc10.png
+group_8/motif/VR-class4/logo7.png
+group_8/motif/VR-class4/logo_ssc9.eps
+group_8/motif/VR-class5/
+group_8/motif/VR-class5/logo9.png
+group_8/motif/VR-class5/logo_ssc4.png
+group_8/motif/VR-class5/logo_ssc2.png
+group_8/motif/VR-class5/logo_ssc5.png
+group_8/motif/VR-class5/logo2.eps
+group_8/motif/VR-class5/logo4.eps
+group_8/motif/VR-class5/glam2.meme
+group_8/motif/VR-class5/logo_ssc2.eps
+group_8/motif/VR-class5/logo_ssc10.eps
+group_8/motif/VR-class5/logo3.png
+group_8/motif/VR-class5/logo_ssc1.eps
+group_8/motif/VR-class5/logo6.eps
+group_8/motif/VR-class5/logo_ssc8.eps
+group_8/motif/VR-class5/logo6.png
+group_8/motif/VR-class5/logo_ssc7.png
+group_8/motif/VR-class5/logo_ssc3.png
+group_8/motif/VR-class5/glam2.txt
+group_9/align/
+group_9/align/VR-class3.align
+group_9/align/TR-class2.align
+group_8/motif/VR-class5/logo_ssc8.png
+group_8/motif/VR-class5/logo7.eps
+group_9/align/TR-class4.align
+group_9/align/VR-class2.align
+group_9/align/VR-class5.align
+group_8/motif/VR-class5/glam2.html
+group_9/align/RT-class2.align
+group_8/motif/VR-class5/logo8.eps
+group_8/motif/VR-class5/logo8.png
+group_8/motif/VR-class5/logo_ssc5.eps
+group_8/motif/VR-class5/logo1.png
+group_8/motif/VR-class5/logo10.eps
+group_8/motif/VR-class5/logo_ssc3.eps
+group_8/motif/VR-class5/logo_ssc9.png
+group_8/motif/VR-class5/logo_ssc6.png
+group_8/motif/VR-class5/logo_ssc6.eps
+group_8/motif/VR-class5/logo_ssc7.eps
+group_8/motif/VR-class5/logo9.eps
+group_8/motif/VR-class5/logo_ssc1.png
+group_8/motif/VR-class5/logo1.eps
+group_8/motif/VR-class5/logo4.png
+group_8/motif/VR-class5/logo2.png
+group_8/motif/VR-class5/logo_ssc4.eps
+group_9/align/RT-class1.align
+group_8/motif/VR-class5/logo5.png
+group_8/motif/VR-class5/logo3.eps
+group_8/motif/VR-class5/logo5.eps
+group_8/motif/VR-class5/logo10.png
+group_8/motif/VR-class5/logo_ssc10.png
+group_8/motif/VR-class5/logo7.png
+group_8/motif/VR-class5/logo_ssc9.eps
+group_8/motif/TR-class1/
+group_8/motif/TR-class1/logo9.png
+group_8/motif/TR-class1/logo_ssc4.png
+group_8/motif/TR-class1/logo_ssc2.png
+group_8/motif/TR-class1/logo_ssc5.png
+group_8/motif/TR-class1/logo2.eps
+group_8/motif/TR-class1/logo4.eps
+group_8/motif/TR-class1/glam2.meme
+group_8/motif/TR-class1/logo_ssc2.eps
+group_8/motif/TR-class1/logo_ssc10.eps
+group_8/motif/TR-class1/logo3.png
+group_8/motif/TR-class1/logo_ssc1.eps
+group_8/motif/TR-class1/logo6.eps
+group_8/motif/TR-class1/logo_ssc8.eps
+group_8/motif/TR-class1/logo6.png
+group_8/motif/TR-class1/logo_ssc7.png
+group_8/motif/TR-class1/logo_ssc3.png
+group_8/motif/TR-class1/glam2.txt
+group_8/motif/TR-class1/logo_ssc8.png
+group_8/motif/TR-class1/logo7.eps
+group_8/motif/TR-class1/glam2.html
+group_9/align/VR-class4.align
+group_9/align/TR-class3.align
+group_8/motif/TR-class1/logo8.eps
+group_8/motif/TR-class1/logo8.png
+group_8/motif/TR-class1/logo_ssc5.eps
+group_8/motif/TR-class1/logo1.png
+group_8/motif/TR-class1/logo10.eps
+group_9/align/VR-class1.align
+group_9/align/TR-class5.align
+group_9/align/RT-class3.align
+group_8/motif/TR-class1/logo_ssc3.eps
+group_8/motif/TR-class1/logo_ssc9.png
+group_8/motif/TR-class1/logo_ssc6.png
+group_8/motif/TR-class1/logo_ssc6.eps
+group_8/motif/TR-class1/logo_ssc7.eps
+group_8/motif/TR-class1/logo9.eps
+group_8/motif/TR-class1/logo_ssc1.png
+group_8/motif/TR-class1/logo1.eps
+group_8/motif/TR-class1/logo4.png
+group_8/motif/TR-class1/logo2.png
+group_8/motif/TR-class1/logo_ssc4.eps
+group_8/motif/TR-class1/logo5.png
+group_8/motif/TR-class1/logo3.eps
+group_8/motif/TR-class1/logo5.eps
+group_8/motif/TR-class1/logo10.png
+group_8/motif/TR-class1/logo_ssc10.png
+group_8/motif/TR-class1/logo7.png
+group_8/motif/TR-class1/logo_ssc9.eps
+group_8/motif/TR-class5/
+group_8/motif/TR-class5/logo9.png
+group_9/align/RT-class4.align
+group_8/motif/TR-class5/logo_ssc4.png
+group_8/motif/TR-class5/logo_ssc2.png
+group_8/motif/TR-class5/logo_ssc5.png
+group_9/align/TR-class1.align
+group_9/RT.config
+group_8/motif/TR-class5/logo2.eps
+group_8/motif/TR-class5/logo4.eps
+group_8/motif/TR-class5/glam2.meme
+group_8/motif/TR-class5/logo_ssc2.eps
+group_8/motif/TR-class5/logo_ssc10.eps
+group_8/motif/TR-class5/logo3.png
+group_8/motif/TR-class5/logo_ssc1.eps
+group_9/test/
+group_9/test/TR.fa
+group_8/motif/TR-class5/logo6.eps
+group_8/motif/TR-class5/logo_ssc8.eps
+group_8/motif/TR-class5/logo6.png
+group_8/motif/TR-class5/logo_ssc7.png
+group_8/motif/TR-class5/logo_ssc3.png
+group_8/motif/TR-class5/glam2.txt
+group_9/test/DGR.fa
+group_8/motif/TR-class5/logo_ssc8.png
+group_8/motif/TR-class5/logo7.eps
+group_8/motif/TR-class5/glam2.html
+group_8/motif/TR-class5/logo8.eps
+group_8/motif/TR-class5/logo8.png
+group_8/motif/TR-class5/logo_ssc5.eps
+group_8/motif/TR-class5/logo1.png
+group_8/motif/TR-class5/logo10.eps
+group_8/motif/TR-class5/logo_ssc3.eps
+group_8/motif/TR-class5/logo_ssc9.png
+group_8/motif/TR-class5/logo_ssc6.png
+group_8/motif/TR-class5/logo_ssc6.eps
+group_8/motif/TR-class5/logo_ssc7.eps
+group_8/motif/TR-class5/logo9.eps
+group_8/motif/TR-class5/logo_ssc1.png
+group_8/motif/TR-class5/logo1.eps
+group_8/motif/TR-class5/logo4.png
+group_8/motif/TR-class5/logo2.png
+group_8/motif/TR-class5/logo_ssc4.eps
+group_8/motif/TR-class5/logo5.png
+group_8/motif/TR-class5/logo3.eps
+group_8/motif/TR-class5/logo5.eps
+group_8/motif/TR-class5/logo10.png
+group_8/motif/TR-class5/logo_ssc10.png
+group_8/motif/TR-class5/logo7.png
+group_8/motif/TR-class5/logo_ssc9.eps
+group_8/motif/TR-class4/
+group_8/motif/TR-class4/logo9.png
+group_8/motif/TR-class4/logo_ssc4.png
+group_8/motif/TR-class4/logo_ssc2.png
+group_8/motif/TR-class4/logo_ssc5.png
+group_8/motif/TR-class4/logo2.eps
+group_8/motif/TR-class4/logo4.eps
+group_8/motif/TR-class4/glam2.meme
+group_8/motif/TR-class4/logo_ssc2.eps
+group_8/motif/TR-class4/logo_ssc10.eps
+group_8/motif/TR-class4/logo3.png
+group_8/motif/TR-class4/logo_ssc1.eps
+group_8/motif/TR-class4/logo6.eps
+group_8/motif/TR-class4/logo_ssc8.eps
+group_8/motif/TR-class4/logo6.png
+group_8/motif/TR-class4/logo_ssc7.png
+group_8/motif/TR-class4/logo_ssc3.png
+group_8/motif/TR-class4/glam2.txt
+group_8/motif/TR-class4/logo_ssc8.png
+group_8/motif/TR-class4/logo7.eps
+group_8/motif/TR-class4/glam2.html
+group_8/motif/TR-class4/logo8.eps
+group_8/motif/TR-class4/logo8.png
+group_8/motif/TR-class4/logo_ssc5.eps
+group_8/motif/TR-class4/logo1.png
+group_8/motif/TR-class4/logo10.eps
+group_8/motif/TR-class4/logo_ssc3.eps
+group_8/motif/TR-class4/logo_ssc9.png
+group_8/motif/TR-class4/logo_ssc6.png
+group_8/motif/TR-class4/logo_ssc6.eps
+group_8/motif/TR-class4/logo_ssc7.eps
+group_8/motif/TR-class4/logo9.eps
+group_8/motif/TR-class4/logo_ssc1.png
+group_8/motif/TR-class4/logo1.eps
+group_8/motif/TR-class4/logo4.png
+group_8/motif/TR-class4/logo2.png
+group_8/motif/TR-class4/logo_ssc4.eps
+group_8/motif/TR-class4/logo5.png
+group_8/motif/TR-class4/logo3.eps
+group_8/motif/TR-class4/logo5.eps
+group_8/motif/TR-class4/logo10.png
+group_8/motif/TR-class4/logo_ssc10.png
+group_8/motif/TR-class4/logo7.png
+group_8/motif/TR-class4/logo_ssc9.eps
+group_8/motif/TR-class2/
+group_8/motif/TR-class2/logo9.png
+group_8/motif/TR-class2/logo_ssc4.png
+group_8/motif/TR-class2/logo_ssc2.png
+group_8/motif/TR-class2/logo_ssc5.png
+group_8/motif/TR-class2/logo2.eps
+group_8/motif/TR-class2/logo4.eps
+group_8/motif/TR-class2/glam2.meme
+group_8/motif/TR-class2/logo_ssc2.eps
+group_8/motif/TR-class2/logo_ssc10.eps
+group_8/motif/TR-class2/logo3.png
+group_8/motif/TR-class2/logo_ssc1.eps
+group_8/motif/TR-class2/logo6.eps
+group_8/motif/TR-class2/logo_ssc8.eps
+group_8/motif/TR-class2/logo6.png
+group_8/motif/TR-class2/logo_ssc7.png
+group_8/motif/TR-class2/logo_ssc3.png
+group_8/motif/TR-class2/glam2.txt
+group_8/motif/TR-class2/logo_ssc8.png
+group_8/motif/TR-class2/logo7.eps
+group_8/motif/TR-class2/glam2.html
+group_8/motif/TR-class2/logo8.eps
+group_8/motif/TR-class2/logo8.png
+group_8/motif/TR-class2/logo_ssc5.eps
+group_8/motif/TR-class2/logo1.png
+group_8/motif/TR-class2/logo10.eps
+group_8/motif/TR-class2/logo_ssc3.eps
+group_8/motif/TR-class2/logo_ssc9.png
+group_8/motif/TR-class2/logo_ssc6.png
+group_8/motif/TR-class2/logo_ssc6.eps
+group_8/motif/TR-class2/logo_ssc7.eps
+group_8/motif/TR-class2/logo9.eps
+group_8/motif/TR-class2/logo_ssc1.png
+group_8/motif/TR-class2/logo1.eps
+group_8/motif/TR-class2/logo4.png
+group_8/motif/TR-class2/logo2.png
+group_8/motif/TR-class2/logo_ssc4.eps
+group_8/motif/TR-class2/logo5.png
+group_8/motif/TR-class2/logo3.eps
+group_8/motif/TR-class2/logo5.eps
+group_8/motif/TR-class2/logo10.png
+group_8/motif/TR-class2/logo_ssc10.png
+group_8/motif/TR-class2/logo7.png
+group_8/motif/TR-class2/logo_ssc9.eps
+group_8/motif/VR-class2/
+group_8/motif/VR-class2/logo9.png
+group_8/motif/VR-class2/logo_ssc4.png
+group_8/motif/VR-class2/logo_ssc2.png
+group_8/motif/VR-class2/logo_ssc5.png
+group_8/motif/VR-class2/logo2.eps
+group_8/motif/VR-class2/logo4.eps
+group_8/motif/VR-class2/glam2.meme
+group_8/motif/VR-class2/logo_ssc2.eps
+group_8/motif/VR-class2/logo_ssc10.eps
+group_8/motif/VR-class2/logo3.png
+group_8/motif/VR-class2/logo_ssc1.eps
+group_8/motif/VR-class2/logo6.eps
+group_8/motif/VR-class2/logo_ssc8.eps
+group_8/motif/VR-class2/logo6.png
+group_8/motif/VR-class2/logo_ssc7.png
+group_8/motif/VR-class2/logo_ssc3.png
+group_8/motif/VR-class2/glam2.txt
+group_8/motif/VR-class2/logo_ssc8.png
+group_8/motif/VR-class2/logo7.eps
+group_8/motif/VR-class2/glam2.html
+group_8/motif/VR-class2/logo8.eps
+group_8/motif/VR-class2/logo8.png
+group_8/motif/VR-class2/logo_ssc5.eps
+group_8/motif/VR-class2/logo1.png
+group_8/motif/VR-class2/logo10.eps
+group_8/motif/VR-class2/logo_ssc3.eps
+group_8/motif/VR-class2/logo_ssc9.png
+group_8/motif/VR-class2/logo_ssc6.png
+group_8/motif/VR-class2/logo_ssc6.eps
+group_8/motif/VR-class2/logo_ssc7.eps
+group_8/motif/VR-class2/logo9.eps
+group_8/motif/VR-class2/logo_ssc1.png
+group_8/motif/VR-class2/logo1.eps
+group_8/motif/VR-class2/logo4.png
+group_8/motif/VR-class2/logo2.png
+group_8/motif/VR-class2/logo_ssc4.eps
+group_8/motif/VR-class2/logo5.png
+group_8/motif/VR-class2/logo3.eps
+group_8/motif/VR-class2/logo5.eps
+group_8/motif/VR-class2/logo10.png
+group_8/motif/VR-class2/logo_ssc10.png
+group_8/motif/VR-class2/logo7.png
+group_8/motif/VR-class2/logo_ssc9.eps
+group_8/motif/VR-class3/
+group_8/motif/VR-class3/logo9.png
+group_8/motif/VR-class3/logo_ssc4.png
+group_8/motif/VR-class3/logo_ssc2.png
+group_8/motif/VR-class3/logo_ssc5.png
+group_8/motif/VR-class3/logo2.eps
+group_8/motif/VR-class3/logo4.eps
+group_8/motif/VR-class3/glam2.meme
+group_8/motif/VR-class3/logo_ssc2.eps
+group_8/motif/VR-class3/logo_ssc10.eps
+group_8/motif/VR-class3/logo3.png
+group_8/motif/VR-class3/logo_ssc1.eps
+group_8/motif/VR-class3/logo6.eps
+group_8/motif/VR-class3/logo_ssc8.eps
+group_8/motif/VR-class3/logo6.png
+group_8/motif/VR-class3/logo_ssc7.png
+group_8/motif/VR-class3/logo_ssc3.png
+group_8/motif/VR-class3/glam2.txt
+group_8/motif/VR-class3/logo_ssc8.png
+group_8/motif/VR-class3/logo7.eps
+group_8/motif/VR-class3/glam2.html
+group_8/motif/VR-class3/logo8.eps
+group_8/motif/VR-class3/logo8.png
+group_8/motif/VR-class3/logo_ssc5.eps
+group_8/motif/VR-class3/logo1.png
+group_8/motif/VR-class3/logo10.eps
+group_8/motif/VR-class3/logo_ssc3.eps
+group_8/motif/VR-class3/logo_ssc9.png
+group_8/motif/VR-class3/logo_ssc6.png
+group_8/motif/VR-class3/logo_ssc6.eps
+group_8/motif/VR-class3/logo_ssc7.eps
+group_8/motif/VR-class3/logo9.eps
+group_8/motif/VR-class3/logo_ssc1.png
+group_8/motif/VR-class3/logo1.eps
+group_8/motif/VR-class3/logo4.png
+group_8/motif/VR-class3/logo2.png
+group_8/motif/VR-class3/logo_ssc4.eps
+group_8/motif/VR-class3/logo5.png
+group_8/motif/VR-class3/logo3.eps
+group_8/motif/VR-class3/logo5.eps
+group_8/motif/VR-class3/logo10.png
+group_8/motif/VR-class3/logo_ssc10.png
+group_8/motif/VR-class3/logo7.png
+group_8/motif/VR-class3/logo_ssc9.eps
+group_8/motif/TR-class3/
+group_8/motif/TR-class3/logo9.png
+group_8/motif/TR-class3/logo_ssc4.png
+group_8/motif/TR-class3/logo_ssc2.png
+group_8/motif/TR-class3/logo_ssc5.png
+group_8/motif/TR-class3/logo2.eps
+group_8/motif/TR-class3/logo4.eps
+group_8/motif/TR-class3/glam2.meme
+group_8/motif/TR-class3/logo_ssc2.eps
+group_8/motif/TR-class3/logo_ssc10.eps
+group_8/motif/TR-class3/logo3.png
+group_8/motif/TR-class3/logo_ssc1.eps
+group_8/motif/TR-class3/logo6.eps
+group_8/motif/TR-class3/logo_ssc8.eps
+group_8/motif/TR-class3/logo6.png
+group_8/motif/TR-class3/logo_ssc7.png
+group_8/motif/TR-class3/logo_ssc3.png
+group_8/motif/TR-class3/glam2.txt
+group_8/motif/TR-class3/logo_ssc8.png
+group_8/motif/TR-class3/logo7.eps
+group_8/motif/TR-class3/glam2.html
+group_8/motif/TR-class3/logo8.eps
+group_8/motif/TR-class3/logo8.png
+group_8/motif/TR-class3/logo_ssc5.eps
+group_8/motif/TR-class3/logo1.png
+group_8/motif/TR-class3/logo10.eps
+group_8/motif/TR-class3/logo_ssc3.eps
+group_8/motif/TR-class3/logo_ssc9.png
+group_8/motif/TR-class3/logo_ssc6.png
+group_8/motif/TR-class3/logo_ssc6.eps
+group_8/motif/TR-class3/logo_ssc7.eps
+group_8/motif/TR-class3/logo9.eps
+group_8/motif/TR-class3/logo_ssc1.png
+group_8/motif/TR-class3/logo1.eps
+group_8/motif/TR-class3/logo4.png
+group_8/motif/TR-class3/logo2.png
+group_8/motif/TR-class3/logo_ssc4.eps
+group_8/motif/TR-class3/logo5.png
+group_8/motif/TR-class3/logo3.eps
+group_8/motif/TR-class3/logo5.eps
+group_8/motif/TR-class3/logo10.png
+group_8/motif/TR-class3/logo_ssc10.png
+group_8/motif/TR-class3/logo7.png
+group_8/motif/TR-class3/logo_ssc9.eps
+group_8/reBuildDGR.pl
+group_8/evaluation.txt
+group_9/test/VR.fa
+group_9/test/RT.fa
+group_9/motif/
+group_9/motif/VR-class1/
+group_9/motif/VR-class1/logo9.png
+group_9/motif/VR-class1/logo_ssc4.png
+group_9/motif/VR-class1/logo_ssc2.png
+group_9/motif/VR-class1/logo_ssc5.png
+group_9/motif/VR-class1/logo2.eps
+group_9/motif/VR-class1/logo4.eps
+group_9/motif/VR-class1/glam2.meme
+group_9/motif/VR-class1/logo_ssc2.eps
+group_9/motif/VR-class1/logo_ssc10.eps
+group_9/motif/VR-class1/logo3.png
+group_9/motif/VR-class1/logo_ssc1.eps
+group_9/motif/VR-class1/logo6.eps
+group_9/motif/VR-class1/logo_ssc8.eps
+group_9/motif/VR-class1/logo6.png
+group_9/motif/VR-class1/logo_ssc7.png
+group_9/motif/VR-class1/logo_ssc3.png
+group_9/motif/VR-class1/glam2.txt
+group_9/motif/VR-class1/logo_ssc8.png
+group_9/motif/VR-class1/logo7.eps
+group_9/motif/VR-class1/glam2.html
+group_9/motif/VR-class1/logo8.eps
+group_9/motif/VR-class1/logo8.png
+group_9/motif/VR-class1/logo_ssc5.eps
+group_9/motif/VR-class1/logo1.png
+group_9/motif/VR-class1/logo10.eps
+group_9/motif/VR-class1/logo_ssc3.eps
+group_9/motif/VR-class1/logo_ssc9.png
+group_9/motif/VR-class1/logo_ssc6.png
+group_9/motif/VR-class1/logo_ssc6.eps
+group_9/motif/VR-class1/logo_ssc7.eps
+group_9/motif/VR-class1/logo9.eps
+group_9/motif/VR-class1/logo_ssc1.png
+group_9/motif/VR-class1/logo1.eps
+group_9/motif/VR-class1/logo4.png
+group_9/motif/VR-class1/logo2.png
+group_9/motif/VR-class1/logo_ssc4.eps
+group_9/motif/VR-class1/logo5.png
+group_9/motif/VR-class1/logo3.eps
+group_9/motif/VR-class1/logo5.eps
+group_9/motif/VR-class1/logo10.png
+group_9/motif/VR-class1/logo_ssc10.png
+group_9/motif/VR-class1/logo7.png
+group_9/motif/VR-class1/logo_ssc9.eps
+group_9/motif/VR-class4/
+group_9/motif/VR-class4/logo9.png
+group_9/motif/VR-class4/logo_ssc4.png
+group_9/motif/VR-class4/logo_ssc2.png
+group_9/motif/VR-class4/logo_ssc5.png
+group_9/motif/VR-class4/logo2.eps
+group_9/motif/VR-class4/logo4.eps
+group_9/motif/VR-class4/glam2.meme
+group_9/motif/VR-class4/logo_ssc2.eps
+group_9/motif/VR-class4/logo_ssc10.eps
+group_9/motif/VR-class4/logo3.png
+group_9/motif/VR-class4/logo_ssc1.eps
+group_9/motif/VR-class4/logo6.eps
+group_9/motif/VR-class4/logo_ssc8.eps
+group_9/motif/VR-class4/logo6.png
+group_9/motif/VR-class4/logo_ssc7.png
+group_9/motif/VR-class4/logo_ssc3.png
+group_9/motif/VR-class4/glam2.txt
+group_9/motif/VR-class4/logo_ssc8.png
+group_9/motif/VR-class4/logo7.eps
+group_9/motif/VR-class4/glam2.html
+group_9/motif/VR-class4/logo8.eps
+group_9/motif/VR-class4/logo8.png
+group_9/motif/VR-class4/logo_ssc5.eps
+group_9/motif/VR-class4/logo1.png
+group_9/motif/VR-class4/logo10.eps
+group_9/motif/VR-class4/logo_ssc3.eps
+group_9/motif/VR-class4/logo_ssc9.png
+group_9/motif/VR-class4/logo_ssc6.png
+group_9/motif/VR-class4/logo_ssc6.eps
+group_9/motif/VR-class4/logo_ssc7.eps
+group_9/motif/VR-class4/logo9.eps
+group_9/motif/VR-class4/logo_ssc1.png
+group_9/motif/VR-class4/logo1.eps
+group_9/motif/VR-class4/logo4.png
+group_9/motif/VR-class4/logo2.png
+group_9/motif/VR-class4/logo_ssc4.eps
+group_9/motif/VR-class4/logo5.png
+group_9/motif/VR-class4/logo3.eps
+group_9/motif/VR-class4/logo5.eps
+group_9/motif/VR-class4/logo10.png
+group_9/motif/VR-class4/logo_ssc10.png
+group_9/motif/VR-class4/logo7.png
+group_9/motif/VR-class4/logo_ssc9.eps
+group_9/motif/VR-class5/
+group_9/motif/VR-class5/logo9.png
+group_9/motif/VR-class5/logo_ssc4.png
+group_9/motif/VR-class5/logo_ssc2.png
+group_9/motif/VR-class5/logo_ssc5.png
+group_9/motif/VR-class5/logo2.eps
+group_9/motif/VR-class5/logo4.eps
+group_9/motif/VR-class5/glam2.meme
+group_9/motif/VR-class5/logo_ssc2.eps
+group_9/motif/VR-class5/logo_ssc10.eps
+group_9/motif/VR-class5/logo3.png
+group_9/motif/VR-class5/logo_ssc1.eps
+group_9/motif/VR-class5/logo6.eps
+group_9/motif/VR-class5/logo_ssc8.eps
+group_9/motif/VR-class5/logo6.png
+group_9/motif/VR-class5/logo_ssc7.png
+group_9/motif/VR-class5/logo_ssc3.png
+group_9/motif/VR-class5/glam2.txt
+group_9/motif/VR-class5/logo_ssc8.png
+group_9/motif/VR-class5/logo7.eps
+group_9/motif/VR-class5/glam2.html
+group_9/motif/VR-class5/logo8.eps
+group_9/motif/VR-class5/logo8.png
+group_9/motif/VR-class5/logo_ssc5.eps
+group_9/motif/VR-class5/logo1.png
+group_9/motif/VR-class5/logo10.eps
+group_9/motif/VR-class5/logo_ssc3.eps
+group_9/motif/VR-class5/logo_ssc9.png
+group_9/motif/VR-class5/logo_ssc6.png
+group_9/motif/VR-class5/logo_ssc6.eps
+group_9/motif/VR-class5/logo_ssc7.eps
+group_9/motif/VR-class5/logo9.eps
+group_9/motif/VR-class5/logo_ssc1.png
+group_9/motif/VR-class5/logo1.eps
+group_9/motif/VR-class5/logo4.png
+group_9/motif/VR-class5/logo2.png
+group_9/motif/VR-class5/logo_ssc4.eps
+group_9/motif/VR-class5/logo5.png
+group_9/motif/VR-class5/logo3.eps
+group_9/motif/VR-class5/logo5.eps
+group_9/motif/VR-class5/logo10.png
+group_9/motif/VR-class5/logo_ssc10.png
+group_9/motif/VR-class5/logo7.png
+group_9/motif/VR-class5/logo_ssc9.eps
+group_9/motif/TR-class1/
+group_9/motif/TR-class1/logo9.png
+group_9/motif/TR-class1/logo_ssc4.png
+group_9/motif/TR-class1/logo_ssc2.png
+group_9/motif/TR-class1/logo_ssc5.png
+group_9/motif/TR-class1/logo2.eps
+group_9/motif/TR-class1/logo4.eps
+group_9/motif/TR-class1/glam2.meme
+group_9/motif/TR-class1/logo_ssc2.eps
+group_9/motif/TR-class1/logo_ssc10.eps
+group_9/motif/TR-class1/logo3.png
+group_9/motif/TR-class1/logo_ssc1.eps
+group_9/motif/TR-class1/logo6.eps
+group_9/motif/TR-class1/logo_ssc8.eps
+group_9/motif/TR-class1/logo6.png
+group_9/motif/TR-class1/logo_ssc7.png
+group_9/motif/TR-class1/logo_ssc3.png
+group_9/motif/TR-class1/glam2.txt
+group_9/motif/TR-class1/logo_ssc8.png
+group_9/motif/TR-class1/logo7.eps
+group_9/motif/TR-class1/glam2.html
+group_9/motif/TR-class1/logo8.eps
+group_9/motif/TR-class1/logo8.png
+group_9/motif/TR-class1/logo_ssc5.eps
+group_9/motif/TR-class1/logo1.png
+group_9/motif/TR-class1/logo10.eps
+group_9/motif/TR-class1/logo_ssc3.eps
+group_9/motif/TR-class1/logo_ssc9.png
+group_9/motif/TR-class1/logo_ssc6.png
+group_9/motif/TR-class1/logo_ssc6.eps
+group_9/motif/TR-class1/logo_ssc7.eps
+group_9/motif/TR-class1/logo9.eps
+group_9/motif/TR-class1/logo_ssc1.png
+group_9/motif/TR-class1/logo1.eps
+group_9/motif/TR-class1/logo4.png
+group_9/motif/TR-class1/logo2.png
+group_9/motif/TR-class1/logo_ssc4.eps
+group_9/motif/TR-class1/logo5.png
+group_9/motif/TR-class1/logo3.eps
+group_9/motif/TR-class1/logo5.eps
+group_9/motif/TR-class1/logo10.png
+group_9/motif/TR-class1/logo_ssc10.png
+group_9/motif/TR-class1/logo7.png
+group_9/motif/TR-class1/logo_ssc9.eps
+group_9/motif/TR-class5/
+group_9/motif/TR-class5/logo9.png
+group_9/motif/TR-class5/logo_ssc4.png
+group_9/motif/TR-class5/logo_ssc2.png
+group_9/motif/TR-class5/logo_ssc5.png
+group_9/motif/TR-class5/logo2.eps
+group_9/motif/TR-class5/logo4.eps
+group_9/motif/TR-class5/glam2.meme
+group_9/motif/TR-class5/logo_ssc2.eps
+group_9/motif/TR-class5/logo_ssc10.eps
+group_9/motif/TR-class5/logo3.png
+group_9/motif/TR-class5/logo_ssc1.eps
+group_9/motif/TR-class5/logo6.eps
+group_9/motif/TR-class5/logo_ssc8.eps
+group_9/motif/TR-class5/logo6.png
+group_9/motif/TR-class5/logo_ssc7.png
+group_9/motif/TR-class5/logo_ssc3.png
+group_9/motif/TR-class5/glam2.txt
+group_9/motif/TR-class5/logo_ssc8.png
+group_9/motif/TR-class5/logo7.eps
+group_9/motif/TR-class5/glam2.html
+group_9/motif/TR-class5/logo8.eps
+group_9/motif/TR-class5/logo8.png
+group_9/motif/TR-class5/logo_ssc5.eps
+group_9/motif/TR-class5/logo1.png
+group_9/motif/TR-class5/logo10.eps
+group_9/motif/TR-class5/logo_ssc3.eps
+group_9/motif/TR-class5/logo_ssc9.png
+group_9/motif/TR-class5/logo_ssc6.png
+group_9/motif/TR-class5/logo_ssc6.eps
+group_9/motif/TR-class5/logo_ssc7.eps
+group_9/motif/TR-class5/logo9.eps
+group_9/motif/TR-class5/logo_ssc1.png
+group_9/motif/TR-class5/logo1.eps
+group_9/motif/TR-class5/logo4.png
+group_9/motif/TR-class5/logo2.png
+group_9/motif/TR-class5/logo_ssc4.eps
+group_9/motif/TR-class5/logo5.png
+group_9/motif/TR-class5/logo3.eps
+group_9/motif/TR-class5/logo5.eps
+group_9/motif/TR-class5/logo10.png
+group_9/motif/TR-class5/logo_ssc10.png
+group_9/motif/TR-class5/logo7.png
+group_9/motif/TR-class5/logo_ssc9.eps
+group_9/motif/TR-class4/
+group_9/motif/TR-class4/logo9.png
+group_9/motif/TR-class4/logo_ssc4.png
+group_9/motif/TR-class4/logo_ssc2.png
+group_9/motif/TR-class4/logo_ssc5.png
+group_9/motif/TR-class4/logo2.eps
+group_9/motif/TR-class4/logo4.eps
+group_9/motif/TR-class4/glam2.meme
+group_9/motif/TR-class4/logo_ssc2.eps
+group_9/motif/TR-class4/logo_ssc10.eps
+group_9/motif/TR-class4/logo3.png
+group_9/motif/TR-class4/logo_ssc1.eps
+group_9/motif/TR-class4/logo6.eps
+group_9/motif/TR-class4/logo_ssc8.eps
+group_9/motif/TR-class4/logo6.png
+group_9/motif/TR-class4/logo_ssc7.png
+group_9/motif/TR-class4/logo_ssc3.png
+group_9/motif/TR-class4/glam2.txt
+group_9/motif/TR-class4/logo_ssc8.png
+group_9/motif/TR-class4/logo7.eps
+group_9/motif/TR-class4/glam2.html
+group_9/motif/TR-class4/logo8.eps
+group_9/motif/TR-class4/logo8.png
+group_9/motif/TR-class4/logo_ssc5.eps
+group_9/motif/TR-class4/logo1.png
+group_9/motif/TR-class4/logo10.eps
+group_9/motif/TR-class4/logo_ssc3.eps
+group_9/motif/TR-class4/logo_ssc9.png
+group_9/motif/TR-class4/logo_ssc6.png
+group_9/motif/TR-class4/logo_ssc6.eps
+group_9/motif/TR-class4/logo_ssc7.eps
+group_9/motif/TR-class4/logo9.eps
+group_9/motif/TR-class4/logo_ssc1.png
+group_9/motif/TR-class4/logo1.eps
+group_9/motif/TR-class4/logo4.png
+group_9/motif/TR-class4/logo2.png
+group_9/motif/TR-class4/logo_ssc4.eps
+group_9/motif/TR-class4/logo5.png
+group_9/motif/TR-class4/logo3.eps
+group_9/motif/TR-class4/logo5.eps
+group_9/motif/TR-class4/logo10.png
+group_9/motif/TR-class4/logo_ssc10.png
+group_9/motif/TR-class4/logo7.png
+group_9/motif/TR-class4/logo_ssc9.eps
+group_9/motif/TR-class2/
+group_9/motif/TR-class2/logo9.png
+group_9/motif/TR-class2/logo_ssc4.png
+group_9/motif/TR-class2/logo_ssc2.png
+group_9/motif/TR-class2/logo_ssc5.png
+group_9/motif/TR-class2/logo2.eps
+group_9/motif/TR-class2/logo4.eps
+group_9/motif/TR-class2/glam2.meme
+group_9/motif/TR-class2/logo_ssc2.eps
+group_9/motif/TR-class2/logo_ssc10.eps
+group_9/motif/TR-class2/logo3.png
+group_9/motif/TR-class2/logo_ssc1.eps
+group_9/motif/TR-class2/logo6.eps
+group_9/motif/TR-class2/logo_ssc8.eps
+group_9/motif/TR-class2/logo6.png
+group_9/motif/TR-class2/logo_ssc7.png
+group_9/motif/TR-class2/logo_ssc3.png
+group_9/motif/TR-class2/glam2.txt
+group_9/motif/TR-class2/logo_ssc8.png
+group_9/motif/TR-class2/logo7.eps
+group_9/motif/TR-class2/glam2.html
+group_9/motif/TR-class2/logo8.eps
+group_9/motif/TR-class2/logo8.png
+group_9/motif/TR-class2/logo_ssc5.eps
+group_9/motif/TR-class2/logo1.png
+group_9/motif/TR-class2/logo10.eps
+group_9/motif/TR-class2/logo_ssc3.eps
+group_9/motif/TR-class2/logo_ssc9.png
+group_9/motif/TR-class2/logo_ssc6.png
+group_9/motif/TR-class2/logo_ssc6.eps
+group_9/motif/TR-class2/logo_ssc7.eps
+group_9/motif/TR-class2/logo9.eps
+group_9/motif/TR-class2/logo_ssc1.png
+group_9/motif/TR-class2/logo1.eps
+group_9/motif/TR-class2/logo4.png
+group_9/motif/TR-class2/logo2.png
+group_9/motif/TR-class2/logo_ssc4.eps
+group_9/motif/TR-class2/logo5.png
+group_9/motif/TR-class2/logo3.eps
+group_9/motif/TR-class2/logo5.eps
+group_9/motif/TR-class2/logo10.png
+group_9/motif/TR-class2/logo_ssc10.png
+group_9/motif/TR-class2/logo7.png
+group_9/motif/TR-class2/logo_ssc9.eps
+group_9/motif/VR-class2/
+group_9/motif/VR-class2/logo9.png
+group_9/motif/VR-class2/logo_ssc4.png
+group_9/motif/VR-class2/logo_ssc2.png
+group_9/motif/VR-class2/logo_ssc5.png
+group_9/motif/VR-class2/logo2.eps
+group_9/motif/VR-class2/logo4.eps
+group_9/motif/VR-class2/glam2.meme
+group_9/motif/VR-class2/logo_ssc2.eps
+group_9/motif/VR-class2/logo_ssc10.eps
+group_9/motif/VR-class2/logo3.png
+group_9/motif/VR-class2/logo_ssc1.eps
+group_9/motif/VR-class2/logo6.eps
+group_9/motif/VR-class2/logo_ssc8.eps
+group_9/motif/VR-class2/logo6.png
+group_9/motif/VR-class2/logo_ssc7.png
+group_9/motif/VR-class2/logo_ssc3.png
+group_9/motif/VR-class2/glam2.txt
+group_9/motif/VR-class2/logo_ssc8.png
+group_9/motif/VR-class2/logo7.eps
+group_9/motif/VR-class2/glam2.html
+group_9/motif/VR-class2/logo8.eps
+group_9/motif/VR-class2/logo8.png
+group_9/motif/VR-class2/logo_ssc5.eps
+group_9/motif/VR-class2/logo1.png
+group_9/motif/VR-class2/logo10.eps
+group_9/motif/VR-class2/logo_ssc3.eps
+group_9/motif/VR-class2/logo_ssc9.png
+group_9/motif/VR-class2/logo_ssc6.png
+group_9/motif/VR-class2/logo_ssc6.eps
+group_9/motif/VR-class2/logo_ssc7.eps
+group_9/motif/VR-class2/logo9.eps
+group_9/motif/VR-class2/logo_ssc1.png
+group_9/motif/VR-class2/logo1.eps
+group_9/motif/VR-class2/logo4.png
+group_9/motif/VR-class2/logo2.png
+group_9/motif/VR-class2/logo_ssc4.eps
+group_9/motif/VR-class2/logo5.png
+group_9/motif/VR-class2/logo3.eps
+group_9/motif/VR-class2/logo5.eps
+group_9/motif/VR-class2/logo10.png
+group_9/motif/VR-class2/logo_ssc10.png
+group_9/motif/VR-class2/logo7.png
+group_9/motif/VR-class2/logo_ssc9.eps
+group_9/motif/VR-class3/
+group_9/motif/VR-class3/logo9.png
+group_9/motif/VR-class3/logo_ssc4.png
+group_9/motif/VR-class3/logo_ssc2.png
+group_9/motif/VR-class3/logo_ssc5.png
+group_9/motif/VR-class3/logo2.eps
+group_9/motif/VR-class3/logo4.eps
+group_9/motif/VR-class3/glam2.meme
+group_9/motif/VR-class3/logo_ssc2.eps
+group_9/motif/VR-class3/logo_ssc10.eps
+group_9/motif/VR-class3/logo3.png
+group_9/motif/VR-class3/logo_ssc1.eps
+group_9/motif/VR-class3/logo6.eps
+group_9/motif/VR-class3/logo_ssc8.eps
+group_9/motif/VR-class3/logo6.png
+group_9/motif/VR-class3/logo_ssc7.png
+group_9/motif/VR-class3/logo_ssc3.png
+group_9/motif/VR-class3/glam2.txt
+group_9/motif/VR-class3/logo_ssc8.png
+group_9/motif/VR-class3/logo7.eps
+group_9/motif/VR-class3/glam2.html
+group_9/motif/VR-class3/logo8.eps
+group_9/motif/VR-class3/logo8.png
+group_9/motif/VR-class3/logo_ssc5.eps
+group_9/motif/VR-class3/logo1.png
+group_9/motif/VR-class3/logo10.eps
+group_9/motif/VR-class3/logo_ssc3.eps
+group_9/motif/VR-class3/logo_ssc9.png
+group_9/motif/VR-class3/logo_ssc6.png
+group_9/motif/VR-class3/logo_ssc6.eps
+group_9/motif/VR-class3/logo_ssc7.eps
+group_9/motif/VR-class3/logo9.eps
+group_9/motif/VR-class3/logo_ssc1.png
+group_9/motif/VR-class3/logo1.eps
+group_9/motif/VR-class3/logo4.png
+group_9/motif/VR-class3/logo2.png
+group_9/motif/VR-class3/logo_ssc4.eps
+group_9/motif/VR-class3/logo5.png
+group_9/motif/VR-class3/logo3.eps
+group_9/motif/VR-class3/logo5.eps
+group_9/motif/VR-class3/logo10.png
+group_9/motif/VR-class3/logo_ssc10.png
+group_9/motif/VR-class3/logo7.png
+group_9/motif/VR-class3/logo_ssc9.eps
+group_9/motif/TR-class3/
+group_9/motif/TR-class3/logo9.png
+group_9/motif/TR-class3/logo_ssc4.png
+group_9/motif/TR-class3/logo_ssc2.png
+group_9/motif/TR-class3/logo_ssc5.png
+group_9/motif/TR-class3/logo2.eps
+group_9/motif/TR-class3/logo4.eps
+group_9/motif/TR-class3/glam2.meme
+group_9/motif/TR-class3/logo_ssc2.eps
+group_9/motif/TR-class3/logo_ssc10.eps
+group_9/motif/TR-class3/logo3.png
+group_9/motif/TR-class3/logo_ssc1.eps
+group_9/motif/TR-class3/logo6.eps
+group_9/motif/TR-class3/logo_ssc8.eps
+group_9/motif/TR-class3/logo6.png
+group_9/motif/TR-class3/logo_ssc7.png
+group_9/motif/TR-class3/logo_ssc3.png
+group_9/motif/TR-class3/glam2.txt
+group_9/motif/TR-class3/logo_ssc8.png
+group_9/motif/TR-class3/logo7.eps
+group_9/motif/TR-class3/glam2.html
+group_9/motif/TR-class3/logo8.eps
+group_9/motif/TR-class3/logo8.png
+group_9/motif/TR-class3/logo_ssc5.eps
+group_9/motif/TR-class3/logo1.png
+group_9/motif/TR-class3/logo10.eps
+group_9/motif/TR-class3/logo_ssc3.eps
+group_9/motif/TR-class3/logo_ssc9.png
+group_9/motif/TR-class3/logo_ssc6.png
+group_9/motif/TR-class3/logo_ssc6.eps
+group_9/motif/TR-class3/logo_ssc7.eps
+group_9/motif/TR-class3/logo9.eps
+group_9/motif/TR-class3/logo_ssc1.png
+group_9/motif/TR-class3/logo1.eps
+group_9/motif/TR-class3/logo4.png
+group_9/motif/TR-class3/logo2.png
+group_9/motif/TR-class3/logo_ssc4.eps
+group_9/motif/TR-class3/logo5.png
+group_9/motif/TR-class3/logo3.eps
+group_9/motif/TR-class3/logo5.eps
+group_9/motif/TR-class3/logo10.png
+group_9/motif/TR-class3/logo_ssc10.png
+group_9/motif/TR-class3/logo7.png
+group_9/motif/TR-class3/logo_ssc9.eps
+group_9/reBuildDGR.pl
+group_9/evaluation.txt
+group_10/train/VR.fa
+group_10/train/RT.fa
+group_10/align/
+group_10/align/VR-class3.align
+group_10/align/TR-class2.align
+group_10/align/TR-class4.align
+group_10/align/VR-class2.align
+group_10/align/VR-class5.align
+group_10/align/RT-class2.align
+group_10/align/RT-class1.align
+group_10/align/VR-class4.align
+group_10/align/TR-class3.align
+group_10/align/VR-class1.align
+group_10/align/TR-class5.align
+group_10/align/RT-class3.align
+group_10/align/RT-class4.align
+group_10/align/TR-class1.align
+group_10/RT.config
+group_10/test/
+group_10/test/TR.fa
+group_10/test/DGR.fa
+group_10/test/VR.fa
+group_10/test/RT.fa
+group_10/motif/
+group_10/motif/VR-class1/
+group_10/motif/VR-class1/logo9.png
+group_10/motif/VR-class1/logo_ssc4.png
+group_10/motif/VR-class1/logo_ssc2.png
+group_10/motif/VR-class1/logo_ssc5.png
+group_10/motif/VR-class1/logo2.eps
+group_10/motif/VR-class1/logo4.eps
+group_10/motif/VR-class1/glam2.meme
+group_10/motif/VR-class1/logo_ssc2.eps
+group_10/motif/VR-class1/logo_ssc10.eps
+group_10/motif/VR-class1/logo3.png
+group_10/motif/VR-class1/logo_ssc1.eps
+group_10/motif/VR-class1/logo6.eps
+group_10/motif/VR-class1/logo_ssc8.eps
+group_10/motif/VR-class1/logo6.png
+group_10/motif/VR-class1/logo_ssc7.png
+group_10/motif/VR-class1/logo_ssc3.png
+group_10/motif/VR-class1/glam2.txt
+group_10/motif/VR-class1/logo_ssc8.png
+group_10/motif/VR-class1/logo7.eps
+group_10/motif/VR-class1/glam2.html
+group_10/motif/VR-class1/logo8.eps
+group_10/motif/VR-class1/logo8.png
+group_10/motif/VR-class1/logo_ssc5.eps
+group_10/motif/VR-class1/logo1.png
+group_10/motif/VR-class1/logo10.eps
+group_10/motif/VR-class1/logo_ssc3.eps
+group_10/motif/VR-class1/logo_ssc9.png
+group_10/motif/VR-class1/logo_ssc6.png
+group_10/motif/VR-class1/logo_ssc6.eps
+group_10/motif/VR-class1/logo_ssc7.eps
+group_10/motif/VR-class1/logo9.eps
+group_10/motif/VR-class1/logo_ssc1.png
+group_10/motif/VR-class1/logo1.eps
+group_10/motif/VR-class1/logo4.png
+group_10/motif/VR-class1/logo2.png
+group_10/motif/VR-class1/logo_ssc4.eps
+group_10/motif/VR-class1/logo5.png
+group_10/motif/VR-class1/logo3.eps
+group_10/motif/VR-class1/logo5.eps
+group_10/motif/VR-class1/logo10.png
+group_10/motif/VR-class1/logo_ssc10.png
+group_10/motif/VR-class1/logo7.png
+group_10/motif/VR-class1/logo_ssc9.eps
+group_10/motif/VR-class4/
+group_10/motif/VR-class4/logo9.png
+group_10/motif/VR-class4/logo_ssc4.png
+group_10/motif/VR-class4/logo_ssc2.png
+group_10/motif/VR-class4/logo_ssc5.png
+group_10/motif/VR-class4/logo2.eps
+group_10/motif/VR-class4/logo4.eps
+group_10/motif/VR-class4/glam2.meme
+group_10/motif/VR-class4/logo_ssc2.eps
+group_10/motif/VR-class4/logo_ssc10.eps
+group_10/motif/VR-class4/logo3.png
+group_10/motif/VR-class4/logo_ssc1.eps
+group_10/motif/VR-class4/logo6.eps
+group_10/motif/VR-class4/logo_ssc8.eps
+group_10/motif/VR-class4/logo6.png
+group_10/motif/VR-class4/logo_ssc7.png
+group_10/motif/VR-class4/logo_ssc3.png
+group_10/motif/VR-class4/glam2.txt
+group_10/motif/VR-class4/logo_ssc8.png
+group_10/motif/VR-class4/logo7.eps
+group_10/motif/VR-class4/glam2.html
+group_10/motif/VR-class4/logo8.eps
+group_10/motif/VR-class4/logo8.png
+group_10/motif/VR-class4/logo_ssc5.eps
+group_10/motif/VR-class4/logo1.png
+group_10/motif/VR-class4/logo10.eps
+group_10/motif/VR-class4/logo_ssc3.eps
+group_10/motif/VR-class4/logo_ssc9.png
+group_10/motif/VR-class4/logo_ssc6.png
+group_10/motif/VR-class4/logo_ssc6.eps
+group_10/motif/VR-class4/logo_ssc7.eps
+group_10/motif/VR-class4/logo9.eps
+group_10/motif/VR-class4/logo_ssc1.png
+group_10/motif/VR-class4/logo1.eps
+group_10/motif/VR-class4/logo4.png
+group_10/motif/VR-class4/logo2.png
+group_10/motif/VR-class4/logo_ssc4.eps
+group_10/motif/VR-class4/logo5.png
+group_10/motif/VR-class4/logo3.eps
+group_10/motif/VR-class4/logo5.eps
+group_10/motif/VR-class4/logo10.png
+group_10/motif/VR-class4/logo_ssc10.png
+group_10/motif/VR-class4/logo7.png
+group_10/motif/VR-class4/logo_ssc9.eps
+group_10/motif/VR-class5/
+group_10/motif/VR-class5/logo9.png
+group_10/motif/VR-class5/logo_ssc4.png
+group_10/motif/VR-class5/logo_ssc2.png
+group_10/motif/VR-class5/logo_ssc5.png
+group_10/motif/VR-class5/logo2.eps
+group_10/motif/VR-class5/logo4.eps
+group_10/motif/VR-class5/glam2.meme
+group_10/motif/VR-class5/logo_ssc2.eps
+group_10/motif/VR-class5/logo_ssc10.eps
+group_10/motif/VR-class5/logo3.png
+group_10/motif/VR-class5/logo_ssc1.eps
+group_10/motif/VR-class5/logo6.eps
+group_10/motif/VR-class5/logo_ssc8.eps
+group_10/motif/VR-class5/logo6.png
+group_10/motif/VR-class5/logo_ssc7.png
+group_10/motif/VR-class5/logo_ssc3.png
+group_10/motif/VR-class5/glam2.txt
+group_10/motif/VR-class5/logo_ssc8.png
+group_10/motif/VR-class5/logo7.eps
+group_10/motif/VR-class5/glam2.html
+group_10/motif/VR-class5/logo8.eps
+group_10/motif/VR-class5/logo8.png
+group_10/motif/VR-class5/logo_ssc5.eps
+group_10/motif/VR-class5/logo1.png
+group_10/motif/VR-class5/logo10.eps
+group_10/motif/VR-class5/logo_ssc3.eps
+group_10/motif/VR-class5/logo_ssc9.png
+group_10/motif/VR-class5/logo_ssc6.png
+group_10/motif/VR-class5/logo_ssc6.eps
+group_10/motif/VR-class5/logo_ssc7.eps
+group_10/motif/VR-class5/logo9.eps
+group_10/motif/VR-class5/logo_ssc1.png
+group_10/motif/VR-class5/logo1.eps
+group_10/motif/VR-class5/logo4.png
+group_10/motif/VR-class5/logo2.png
+group_10/motif/VR-class5/logo_ssc4.eps
+group_10/motif/VR-class5/logo5.png
+group_10/motif/VR-class5/logo3.eps
+group_10/motif/VR-class5/logo5.eps
+group_10/motif/VR-class5/logo10.png
+group_10/motif/VR-class5/logo_ssc10.png
+group_10/motif/VR-class5/logo7.png
+group_10/motif/VR-class5/logo_ssc9.eps
+group_10/motif/TR-class1/
+group_10/motif/TR-class1/logo9.png
+group_10/motif/TR-class1/logo_ssc4.png
+group_10/motif/TR-class1/logo_ssc2.png
+group_10/motif/TR-class1/logo_ssc5.png
+group_10/motif/TR-class1/logo2.eps
+group_10/motif/TR-class1/logo4.eps
+group_10/motif/TR-class1/glam2.meme
+group_10/motif/TR-class1/logo_ssc2.eps
+group_10/motif/TR-class1/logo_ssc10.eps
+group_10/motif/TR-class1/logo3.png
+group_10/motif/TR-class1/logo_ssc1.eps
+group_10/motif/TR-class1/logo6.eps
+group_10/motif/TR-class1/logo_ssc8.eps
+group_10/motif/TR-class1/logo6.png
+group_10/motif/TR-class1/logo_ssc7.png
+group_10/motif/TR-class1/logo_ssc3.png
+group_10/motif/TR-class1/glam2.txt
+group_10/motif/TR-class1/logo_ssc8.png
+group_10/motif/TR-class1/logo7.eps
+group_10/motif/TR-class1/glam2.html
+group_10/motif/TR-class1/logo8.eps
+group_10/motif/TR-class1/logo8.png
+group_10/motif/TR-class1/logo_ssc5.eps
+group_10/motif/TR-class1/logo1.png
+group_10/motif/TR-class1/logo10.eps
+group_10/motif/TR-class1/logo_ssc3.eps
+group_10/motif/TR-class1/logo_ssc9.png
+group_10/motif/TR-class1/logo_ssc6.png
+group_10/motif/TR-class1/logo_ssc6.eps
+group_10/motif/TR-class1/logo_ssc7.eps
+group_10/motif/TR-class1/logo9.eps
+group_10/motif/TR-class1/logo_ssc1.png
+group_10/motif/TR-class1/logo1.eps
+group_10/motif/TR-class1/logo4.png
+group_10/motif/TR-class1/logo2.png
+group_10/motif/TR-class1/logo_ssc4.eps
+group_10/motif/TR-class1/logo5.png
+group_10/motif/TR-class1/logo3.eps
+group_10/motif/TR-class1/logo5.eps
+group_10/motif/TR-class1/logo10.png
+group_10/motif/TR-class1/logo_ssc10.png
+group_10/motif/TR-class1/logo7.png
+group_10/motif/TR-class1/logo_ssc9.eps
+group_10/motif/TR-class5/
+group_10/motif/TR-class5/logo9.png
+group_10/motif/TR-class5/logo_ssc4.png
+group_10/motif/TR-class5/logo_ssc2.png
+group_10/motif/TR-class5/logo_ssc5.png
+group_10/motif/TR-class5/logo2.eps
+group_10/motif/TR-class5/logo4.eps
+group_10/motif/TR-class5/glam2.meme
+group_10/motif/TR-class5/logo_ssc2.eps
+group_10/motif/TR-class5/logo_ssc10.eps
+group_10/motif/TR-class5/logo3.png
+group_10/motif/TR-class5/logo_ssc1.eps
+group_10/motif/TR-class5/logo6.eps
+group_10/motif/TR-class5/logo_ssc8.eps
+group_10/motif/TR-class5/logo6.png
+group_10/motif/TR-class5/logo_ssc7.png
+group_10/motif/TR-class5/logo_ssc3.png
+group_10/motif/TR-class5/glam2.txt
+group_10/motif/TR-class5/logo_ssc8.png
+group_10/motif/TR-class5/logo7.eps
+group_10/motif/TR-class5/glam2.html
+group_10/motif/TR-class5/logo8.eps
+group_10/motif/TR-class5/logo8.png
+group_10/motif/TR-class5/logo_ssc5.eps
+group_10/motif/TR-class5/logo1.png
+group_10/motif/TR-class5/logo10.eps
+group_10/motif/TR-class5/logo_ssc3.eps
+group_10/motif/TR-class5/logo_ssc9.png
+group_10/motif/TR-class5/logo_ssc6.png
+group_10/motif/TR-class5/logo_ssc6.eps
+group_10/motif/TR-class5/logo_ssc7.eps
+group_10/motif/TR-class5/logo9.eps
+group_10/motif/TR-class5/logo_ssc1.png
+group_10/motif/TR-class5/logo1.eps
+group_10/motif/TR-class5/logo4.png
+group_10/motif/TR-class5/logo2.png
+group_10/motif/TR-class5/logo_ssc4.eps
+group_10/motif/TR-class5/logo5.png
+group_10/motif/TR-class5/logo3.eps
+group_10/motif/TR-class5/logo5.eps
+group_10/motif/TR-class5/logo10.png
+group_10/motif/TR-class5/logo_ssc10.png
+group_10/motif/TR-class5/logo7.png
+group_10/motif/TR-class5/logo_ssc9.eps
+group_10/motif/TR-class4/
+group_10/motif/TR-class4/logo9.png
+group_10/motif/TR-class4/logo_ssc4.png
+group_10/motif/TR-class4/logo_ssc2.png
+group_10/motif/TR-class4/logo_ssc5.png
+group_10/motif/TR-class4/logo2.eps
+group_10/motif/TR-class4/logo4.eps
+group_10/motif/TR-class4/glam2.meme
+group_10/motif/TR-class4/logo_ssc2.eps
+group_10/motif/TR-class4/logo_ssc10.eps
+group_10/motif/TR-class4/logo3.png
+group_10/motif/TR-class4/logo_ssc1.eps
+group_10/motif/TR-class4/logo6.eps
+group_10/motif/TR-class4/logo_ssc8.eps
+group_10/motif/TR-class4/logo6.png
+group_10/motif/TR-class4/logo_ssc7.png
+group_10/motif/TR-class4/logo_ssc3.png
+group_10/motif/TR-class4/glam2.txt
+group_10/motif/TR-class4/logo_ssc8.png
+group_10/motif/TR-class4/logo7.eps
+group_10/motif/TR-class4/glam2.html
+group_10/motif/TR-class4/logo8.eps
+group_10/motif/TR-class4/logo8.png
+group_10/motif/TR-class4/logo_ssc5.eps
+group_10/motif/TR-class4/logo1.png
+group_10/motif/TR-class4/logo10.eps
+group_10/motif/TR-class4/logo_ssc3.eps
+group_10/motif/TR-class4/logo_ssc9.png
+group_10/motif/TR-class4/logo_ssc6.png
+group_10/motif/TR-class4/logo_ssc6.eps
+group_10/motif/TR-class4/logo_ssc7.eps
+group_10/motif/TR-class4/logo9.eps
+group_10/motif/TR-class4/logo_ssc1.png
+group_10/motif/TR-class4/logo1.eps
+group_10/motif/TR-class4/logo4.png
+group_10/motif/TR-class4/logo2.png
+group_10/motif/TR-class4/logo_ssc4.eps
+group_10/motif/TR-class4/logo5.png
+group_10/motif/TR-class4/logo3.eps
+group_10/motif/TR-class4/logo5.eps
+group_10/motif/TR-class4/logo10.png
+group_10/motif/TR-class4/logo_ssc10.png
+group_10/motif/TR-class4/logo7.png
+group_10/motif/TR-class4/logo_ssc9.eps
+group_10/motif/TR-class2/
+group_10/motif/TR-class2/logo9.png
+group_10/motif/TR-class2/logo_ssc4.png
+group_10/motif/TR-class2/logo_ssc2.png
+group_10/motif/TR-class2/logo_ssc5.png
+group_10/motif/TR-class2/logo2.eps
+group_10/motif/TR-class2/logo4.eps
+group_10/motif/TR-class2/glam2.meme
+group_10/motif/TR-class2/logo_ssc2.eps
+group_10/motif/TR-class2/logo_ssc10.eps
+group_10/motif/TR-class2/logo3.png
+group_10/motif/TR-class2/logo_ssc1.eps
+group_10/motif/TR-class2/logo6.eps
+group_10/motif/TR-class2/logo_ssc8.eps
+group_10/motif/TR-class2/logo6.png
+group_10/motif/TR-class2/logo_ssc7.png
+group_10/motif/TR-class2/logo_ssc3.png
+group_10/motif/TR-class2/glam2.txt
+group_10/motif/TR-class2/logo_ssc8.png
+group_10/motif/TR-class2/logo7.eps
+group_10/motif/TR-class2/glam2.html
+group_10/motif/TR-class2/logo8.eps
+group_10/motif/TR-class2/logo8.png
+group_10/motif/TR-class2/logo_ssc5.eps
+group_10/motif/TR-class2/logo1.png
+group_10/motif/TR-class2/logo10.eps
+group_10/motif/TR-class2/logo_ssc3.eps
+group_10/motif/TR-class2/logo_ssc9.png
+group_10/motif/TR-class2/logo_ssc6.png
+group_10/motif/TR-class2/logo_ssc6.eps
+group_10/motif/TR-class2/logo_ssc7.eps
+group_10/motif/TR-class2/logo9.eps
+group_10/motif/TR-class2/logo_ssc1.png
+group_10/motif/TR-class2/logo1.eps
+group_10/motif/TR-class2/logo4.png
+group_10/motif/TR-class2/logo2.png
+group_10/motif/TR-class2/logo_ssc4.eps
+group_10/motif/TR-class2/logo5.png
+group_10/motif/TR-class2/logo3.eps
+group_10/motif/TR-class2/logo5.eps
+group_10/motif/TR-class2/logo10.png
+group_10/motif/TR-class2/logo_ssc10.png
+group_10/motif/TR-class2/logo7.png
+group_10/motif/TR-class2/logo_ssc9.eps
+group_10/motif/VR-class2/
+group_10/motif/VR-class2/logo9.png
+group_10/motif/VR-class2/logo_ssc4.png
+group_10/motif/VR-class2/logo_ssc2.png
+group_10/motif/VR-class2/logo_ssc5.png
+group_10/motif/VR-class2/logo2.eps
+group_10/motif/VR-class2/logo4.eps
+group_10/motif/VR-class2/glam2.meme
+group_10/motif/VR-class2/logo_ssc2.eps
+group_10/motif/VR-class2/logo_ssc10.eps
+group_10/motif/VR-class2/logo3.png
+group_10/motif/VR-class2/logo_ssc1.eps
+group_10/motif/VR-class2/logo6.eps
+group_10/motif/VR-class2/logo_ssc8.eps
+group_10/motif/VR-class2/logo6.png
+group_10/motif/VR-class2/logo_ssc7.png
+group_10/motif/VR-class2/logo_ssc3.png
+group_10/motif/VR-class2/glam2.txt
+group_10/motif/VR-class2/logo_ssc8.png
+group_10/motif/VR-class2/logo7.eps
+group_10/motif/VR-class2/glam2.html
+group_10/motif/VR-class2/logo8.eps
+group_10/motif/VR-class2/logo8.png
+group_10/motif/VR-class2/logo_ssc5.eps
+group_10/motif/VR-class2/logo1.png
+group_10/motif/VR-class2/logo10.eps
+group_10/motif/VR-class2/logo_ssc3.eps
+group_10/motif/VR-class2/logo_ssc9.png
+group_10/motif/VR-class2/logo_ssc6.png
+group_10/motif/VR-class2/logo_ssc6.eps
+group_10/motif/VR-class2/logo_ssc7.eps
+group_10/motif/VR-class2/logo9.eps
+group_10/motif/VR-class2/logo_ssc1.png
+group_10/motif/VR-class2/logo1.eps
+group_10/motif/VR-class2/logo4.png
+group_10/motif/VR-class2/logo2.png
+group_10/motif/VR-class2/logo_ssc4.eps
+group_10/motif/VR-class2/logo5.png
+group_10/motif/VR-class2/logo3.eps
+group_10/motif/VR-class2/logo5.eps
+group_10/motif/VR-class2/logo10.png
+group_10/motif/VR-class2/logo_ssc10.png
+group_10/motif/VR-class2/logo7.png
+group_10/motif/VR-class2/logo_ssc9.eps
+group_10/motif/VR-class3/
+group_10/motif/VR-class3/logo9.png
+group_10/motif/VR-class3/logo_ssc4.png
+group_10/motif/VR-class3/logo_ssc2.png
+group_10/motif/VR-class3/logo_ssc5.png
+group_10/motif/VR-class3/logo2.eps
+group_10/motif/VR-class3/logo4.eps
+group_10/motif/VR-class3/glam2.meme
+group_10/motif/VR-class3/logo_ssc2.eps
+group_10/motif/VR-class3/logo_ssc10.eps
+group_10/motif/VR-class3/logo3.png
+group_10/motif/VR-class3/logo_ssc1.eps
+group_10/motif/VR-class3/logo6.eps
+group_10/motif/VR-class3/logo_ssc8.eps
+group_10/motif/VR-class3/logo6.png
+group_10/motif/VR-class3/logo_ssc7.png
+group_10/motif/VR-class3/logo_ssc3.png
+group_10/motif/VR-class3/glam2.txt
+group_10/motif/VR-class3/logo_ssc8.png
+group_10/motif/VR-class3/logo7.eps
+group_10/motif/VR-class3/glam2.html
+group_10/motif/VR-class3/logo8.eps
+group_10/motif/VR-class3/logo8.png
+group_10/motif/VR-class3/logo_ssc5.eps
+group_10/motif/VR-class3/logo1.png
+group_10/motif/VR-class3/logo10.eps
+group_10/motif/VR-class3/logo_ssc3.eps
+group_10/motif/VR-class3/logo_ssc9.png
+group_10/motif/VR-class3/logo_ssc6.png
+group_10/motif/VR-class3/logo_ssc6.eps
+group_10/motif/VR-class3/logo_ssc7.eps
+group_10/motif/VR-class3/logo9.eps
+group_10/motif/VR-class3/logo_ssc1.png
+group_10/motif/VR-class3/logo1.eps
+group_10/motif/VR-class3/logo4.png
+group_10/motif/VR-class3/logo2.png
+group_10/motif/VR-class3/logo_ssc4.eps
+group_10/motif/VR-class3/logo5.png
+group_10/motif/VR-class3/logo3.eps
+group_10/motif/VR-class3/logo5.eps
+group_10/motif/VR-class3/logo10.png
+group_10/motif/VR-class3/logo_ssc10.png
+group_10/motif/VR-class3/logo7.png
+group_10/motif/VR-class3/logo_ssc9.eps
+group_10/motif/TR-class3/
+group_10/motif/TR-class3/logo9.png
+group_10/motif/TR-class3/logo_ssc4.png
+group_10/motif/TR-class3/logo_ssc2.png
+group_10/motif/TR-class3/logo_ssc5.png
+group_10/motif/TR-class3/logo2.eps
+group_10/motif/TR-class3/logo4.eps
+group_10/motif/TR-class3/glam2.meme
+group_10/motif/TR-class3/logo_ssc2.eps
+group_10/motif/TR-class3/logo_ssc10.eps
+group_10/motif/TR-class3/logo3.png
+group_10/motif/TR-class3/logo_ssc1.eps
+group_10/motif/TR-class3/logo6.eps
+group_10/motif/TR-class3/logo_ssc8.eps
+group_10/motif/TR-class3/logo6.png
+group_10/motif/TR-class3/logo_ssc7.png
+group_10/motif/TR-class3/logo_ssc3.png
+group_10/motif/TR-class3/glam2.txt
+group_10/motif/TR-class3/logo_ssc8.png
+group_10/motif/TR-class3/logo7.eps
+group_10/motif/TR-class3/glam2.html
+group_10/motif/TR-class3/logo8.eps
+group_10/motif/TR-class3/logo8.png
+group_10/motif/TR-class3/logo_ssc5.eps
+group_10/motif/TR-class3/logo1.png
+group_10/motif/TR-class3/logo10.eps
+group_10/motif/TR-class3/logo_ssc3.eps
+group_10/motif/TR-class3/logo_ssc9.png
+group_10/motif/TR-class3/logo_ssc6.png
+group_10/motif/TR-class3/logo_ssc6.eps
+group_10/motif/TR-class3/logo_ssc7.eps
+group_10/motif/TR-class3/logo9.eps
+group_10/motif/TR-class3/logo_ssc1.png
+group_10/motif/TR-class3/logo1.eps
+group_10/motif/TR-class3/logo4.png
+group_10/motif/TR-class3/logo2.png
+group_10/motif/TR-class3/logo_ssc4.eps
+group_10/motif/TR-class3/logo5.png
+group_10/motif/TR-class3/logo3.eps
+group_10/motif/TR-class3/logo5.eps
+group_10/motif/TR-class3/logo10.png
+group_10/motif/TR-class3/logo_ssc10.png
+group_10/motif/TR-class3/logo7.png
+group_10/motif/TR-class3/logo_ssc9.eps
+group_10/reBuildDGR.pl
+group_10/evaluation.txt
