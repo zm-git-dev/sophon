@@ -1,0 +1,7 @@
+##Group information:byHand2 group_7
+	#evaluation:
+	Type	TP_train	TP_test	FPR
+	TR	.8586		.8733		.0016
+	VR	.3856		.4253		.0033
+	RT	.9031		.9234		.0001
+	DGR	.8388		.7659		.8803	.8133	.0001	0
