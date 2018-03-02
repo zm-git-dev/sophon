@@ -1,0 +1,8 @@
+##merged datasets:
+	 DiGReF.gtf + DGRscan_HMASM.gtf
+##DGR containing sequences:
+      DGRscan_*.DGR.fa + DiGReF.DGR.fa = all.fa
+      DGRscan_*.gtf + DiGReF.gtf = all.gtf
+##real DGR systems in fasta format:
+       DGRsystems_known.fa
+       
