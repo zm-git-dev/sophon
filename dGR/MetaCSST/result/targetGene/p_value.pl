@@ -8,7 +8,8 @@ open(IN,$in)||die("error\n");
 open(GOA,$goa)||die("error\n");
 #open(OUT,">$out")||die("Error\n");
 
-my ($N,$n) = (68050,257);
+#my ($N,$n) = (68050,257);
+my ($N,$n) = (65963,272);
 # $N --> the number of background genes with GO annotation;                                                                       
 # $n --> the number of target genes with GO annotation;
 
@@ -30,9 +31,6 @@ while(<IN>){
     if(exists($ontology{$term})){
 	my ($NameSpace,$Description) = split(/\|/,$ontology{$term});
 	print "$term\t$M\t$m\t$p_value\t$NameSpace\t$Description\n";
-    }
-    else{
-	print "NO:$term\n";
     }
 }
 
