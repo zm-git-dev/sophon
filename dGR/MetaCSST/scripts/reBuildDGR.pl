@@ -168,6 +168,9 @@ close FILE;
 sub searchVR{
     my ($TR,$start,$end,$seq,$miss,$string,$id)=@_;
 
+    $TR = toUperCase($TR);
+    $seq = toUperCase($seq);
+
     my $start_init = $start; #init start position of TR
     my $end_init = $end; #intit end position of TR
 
@@ -428,6 +431,31 @@ sub myReverse{
 	}
     }
     return $new;
+}
+
+sub toUperCase{
+    my ($seq) = @_;
+    my $result = "";
+    my $len = length($seq);
+    for(my $i=0;$i<$len;$i++){
+	my $char = substr($seq,$i,1);
+	if($char eq 'a'){
+	    $result .= 'A';
+	}
+	elsif($char eq 't'){
+            $result .= 'T';
+        }
+	elsif($char eq 'c'){
+            $result .= 'C';
+        }
+	elsif($char eq 'g'){
+            $result .= 'G';
+        }
+	else{
+	    $result .= $char;
+	}
+    }
+    return $result;
 }
 
 close OUT;close REF;
