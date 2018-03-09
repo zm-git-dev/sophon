@@ -33,10 +33,10 @@ while(<FILE>){
 		    my $mut = 0;
 		    my $yes = 1;
 		    for(my $i=0;$i<length($TR);$i++){
-			if(substr($TR,$i,1) eq $base && substr($VR,$i,1) ne substr($TR,$i,1)){
+			if(toUperCase(substr($TR,$i,1)) eq $base && toUperCase(substr($VR,$i,1)) ne toUperCase(substr($TR,$i,1))){
 			    $mut += 1;
 			}
-			elsif(substr($TR,$i,1) ne $base && substr($VR,$i,1) ne substr($TR,$i,1)){
+			elsif(toUperCase(substr($TR,$i,1)) ne $base && toUperCase(substr($VR,$i,1)) ne toUperCase(substr($TR,$i,1))){
 			    $yes = 0;
 			    last;
 			}
@@ -82,10 +82,10 @@ while(<FILE>){
 	    my $mut = 0;
 	    my $yes = 1;
 	    for(my $i=0;$i<length($TR);$i++){
-		if(substr($TR,$i,1) eq $base && substr($VR,$i,1) ne substr($TR,$i,1)){
+		if(toUperCase(substr($TR,$i,1)) eq $base && toUperCase(substr($VR,$i,1)) ne toUperCase(substr($TR,$i,1))){
 		    $mut += 1;
 		}
-		elsif(substr($TR,$i,1) ne $base && substr($VR,$i,1) ne substr($TR,$i,1)){
+		elsif(toUperCase(substr($TR,$i,1)) ne $base && toUperCase(substr($VR,$i,1)) ne toUperCase(substr($TR,$i,1))){
 		    $yes = 0;
 		    last;
 		}
@@ -97,6 +97,25 @@ while(<FILE>){
 	}
 
 	close BLAST;
+    }
+}
+
+sub toUperCase{
+    my ($base) = @_;
+    if($base eq 'a'){
+	return 'A';
+    }
+    elsif($base eq 't'){
+        return 'T';
+    }
+    elsif($base eq 'c'){
+        return 'C';
+    }
+    elsif($base eq 'g'){
+        return 'G';
+    }
+    else{
+	return $base;
     }
 }
 
