@@ -20,9 +20,9 @@ while(<FILE>){
 	open(TMP,">db/$id.fa")||die("error\n");
 	print TMP ">$id\n$seq\n";
 	close TMP;
-
-	#system("makeblastdb -in db/$id.fa -dbtype nucl");
-	#system("blastn -task blastn -query db/$id.fa -db db/$id.fa -out blast/$id.blastn -evalue 1e-3 -ungapped -word_size 9");
+	
+	system("makeblastdb -in db/$id.fa -dbtype nucl");
+	system("blastn -task blastn -query db/$id.fa -db db/$id.fa -out blast/$id.blastn -evalue 1e-3 -ungapped -word_size 9");
 
 	open(BLAST,"blast/$id.blastn")||die("error\n");
 	my ($index,$TR,$VR,$TR_start,$TR_end,$VR_start,$VR_end) = (0,"","",-1,-1,-1,-1);
@@ -95,8 +95,10 @@ while(<FILE>){
 		print OUT "$id\tVR\t$VR_start\t$VR_end\t$mut\t$VR\n";
 	    }
 	}
-
+	
 	close BLAST;
+	system("rm db/$id.fa*");
+        system("rm blast/$id.blastn");
     }
 }
 
