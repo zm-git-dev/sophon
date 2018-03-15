@@ -21,36 +21,28 @@ foreach my $key(@keys){
 }
 
 my $sum = 0;
-my $id = "";
 while(<GENOME>){
     chomp();
-    if($_ =~ />([^\s]+)/){
-	$id = $1;
-    }
     if($_ !~ />/){
 	my $seq = $_;
 	my $len = length($seq);
 	for(my $i=0;$i<$len-$kmer+1;$i++){
 	    my $base = toUperCase(substr($seq,$i,$kmer));
+
 	    if(exists($hash{$base})){
 		$hash{$base} += 1;
 		$sum += 1;
 	    }
 	}
-	if($sum > 0){
-	    print "$id\t";
-	    foreach my $key(@keys){
-		$hash{$key} = sprintf("%0.2f",$hash{$key}/$sum);
-		print "$hash{$key}\t";
-	    }
-	    print "\n";
-	}
-	foreach my $key(@keys){
-	    $hash{$key} = 0;
-	}
-	$sum = 0;
     }
 }
+
+print "$genome\t";
+foreach my $key(@keys){
+    $hash{$key} = sprintf("%0.4f",$hash{$key}/$sum);
+    print "$hash{$key}\t";
+}
+print "\n";
 
 sub generateKmer{
     my ($order,@previous) = @_;
