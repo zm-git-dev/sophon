@@ -10,7 +10,7 @@ open(OUT,">$out")||die("error\n");
 my %hash = ();
 my $id = "";
 while(<FA>){
-    chomp;
+    chomp();
     if($_ =~ />([^\s]+)/){
 	$id = $1;
     }
