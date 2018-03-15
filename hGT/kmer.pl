@@ -18,47 +18,37 @@ my @keys = ();
 @keys = generateKmer($kmer,@keys);
 foreach my $key(@keys){
     $hash{$key} = 0;
-    print "$key\t$hash{$key}\n";
 }
 
-=pod
-my ($genomeA,$genomeT,$genomeC,$genomeG) = (0,0,0,0);
+my $sum = 0;
 while(<GENOME>){
     chomp();
     if($_ !~ />/){
 	my $seq = $_;
 	my $len = length($seq);
-	for(my $i=0;$i<$len;$i++){
-	    my $base = substr($seq,$i,1);
-	    if($base eq 'A' || $base eq 'a'){
-		$genomeA += 1;
-	    }
-	    elsif($base eq 'T' || $base eq 't'){
-		$genomeT += 1;
-	    }
-	    elsif($base eq 'C' || $base eq 'c'){
-		$genomeC += 1;
-	    }
-	    elsif($base eq 'G' || $base eq 'g'){
-		$genomeG += 1;
+	for(my $i=0;$i<$len-$kmer+1;$i++){
+	    my $base = toUperCase(substr($seq,$i,$kmer));
+
+	    if(exists($hash{$base})){
+		$hash{$base} += 1;
+		$sum += 1;
 	    }
 	}
     }
 }
 
-my $all = $genomeA+$genomeT+$genomeC+$genomeG;
-$genomeA = sprintf("%0.4f",$genomeA/$all);
-$genomeT = sprintf("%0.4f",$genomeT/$all);
-$genomeC = sprintf("%0.4f",$genomeC/$all);
-$genomeG = sprintf("%0.4f",$genomeG/$all);
-print "$genome\t$genomeA\t$genomeT\t$genomeC\t$genomeG\n";
-=cut
+print "$genome\t";
+foreach my $key(@keys){
+    $hash{$key} = sprintf("%0.4f",$hash{$key}/$sum);
+    print "$hash{$key}\t";
+}
+print "\n";
 
 sub generateKmer{
     my ($order,@previous) = @_;
     my @append = ();
 
-    if(@previous eq ()){
+    if(@previous == 0){
 	@append = ('A','T','C','G');
     }
     else{
@@ -105,6 +95,31 @@ sub GCpercentage{
     $C = sprintf("%0.2f",$C/$all);
     $G = sprintf("%0.2f",$G/$all);
     return ($A,$T,$C,$G);
+}
+
+sub toUperCase{
+    my ($seq) = @_;
+    my $result = "";
+    my $len = length($seq);
+    for(my $i=0;$i<$len;$i++){
+	my $char = substr($seq,$i,1);
+        if($char eq 'a'){
+            $result .= 'A';
+	}
+        elsif($char eq 't'){
+            $result .= 'T';
+        }
+        elsif($char eq 'c'){
+            $result .= 'C';
+	}
+        elsif($char eq 'g'){
+            $result .= 'G';
+        }
+        else{
+            $result .= $char;
+        }
+    }
+    return $result;
 }
 
 close GENOME;
