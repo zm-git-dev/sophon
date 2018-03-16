@@ -31,7 +31,8 @@ while(<GENOME>){
 	my $seq = $_;
 	my $len = length($seq);
 	for(my $i=0;$i<$len-$kmer+1;$i++){
-	    my $base = toUperCase(substr($seq,$i,$kmer));
+	    my $base = substr($seq,$i,$kmer);
+	    #my $base = toUperCase(substr($seq,$i,$kmer));
 	    if(exists($hash{$base})){
 		$hash{$base} += 1;
 		$sum += 1;
@@ -40,7 +41,7 @@ while(<GENOME>){
 	if($sum > 0){
 	    print "$id\t";
 	    foreach my $key(@keys){
-		$hash{$key} = sprintf("%0.2f",$hash{$key}/$sum);
+		$hash{$key} = sprintf("%0.4f",$hash{$key}/$sum);
 		print "$hash{$key}\t";
 	    }
 	    print "\n";

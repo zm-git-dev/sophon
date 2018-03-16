@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-k=4
+k=6
 
 if [ 1 == 2 ]
 then
@@ -13,17 +13,28 @@ then
 #calculate k-mer frequencies (k=1,2,3,4)
 for ((i=1; i<=$k; i ++))
 do
-./kmer.pl hg19-seg1k-step100k.txt $i > hg19-seg1k-step100k-"$i"mer.txt
-./kmer.pl iden40len20-hgt.fa $i >iden40len20-hgt-"$i"mer.txt
-./kmerGenome.pl data/hg19/hg19-UCSC-upercase.fa $i >kmer/hg19-"$i"mer.txt
+./kmer.pl hg19-seg1k-step100k.txt $i > kmer/hg19-seg1k-step100k-"$i"mer.txt
+./kmer.pl iden40len20-hgt.fa $i > kmer/iden40len20-hgt-"$i"mer.txt
+nohup ./kmerGenome.pl data/hg19/hg19-UCSC-upercase.fa $i >kmer/hg19-"$i"mer.txt &
 done
-
-fi
 
 #compare HGT regions and segments, based on kmer frequencies
 for ((i=1; i<=$k; i ++))
 do
     ./compare.pl kmer/iden40len20-hgt-"$i"mer.txt kmer/hg19-seg1k-step100k-"$i"mer.txt kmer/hg19-"$i"mer.txt distance-"$i"mer.txt
 done
-exit
+
+fi
+
+#choose k-mer
+num=(1570 628 314 157)
+for ((i=1; i<=$k; i ++))
+do
+    for j in ${num[@]}
+    do
+	threshold=$(grep "SEG" distance-"$i"mer.txt |sort -rnk 2 |head -$j |tail -n 1 |awk '{print $2}')
+	pass=$(grep "HGT" distance-"$i"mer.txt |awk '{if($2>'$threshold'){print $0}}' |wc -l)
+	echo -e "$i\t$j\t$pass"
+    done
+done
 
