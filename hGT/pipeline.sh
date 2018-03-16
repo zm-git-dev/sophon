@@ -46,5 +46,8 @@ awk '{if($2>0.00825590999999999){print $0}}' distance-hg19-seg1k-step500bp-4mer.
 fi
 
 # segments from hg19, covering the whole genome, with len=1kbp and step=1kbp
-./segment.pl data/hg19/hg19-UCSC-upercase.fa 1000 1000 hg19-seg1k-step1k.txt
-./kmer.pl hg19-seg1k-step1k.txt 4 > kmer/hg19-seg1k-step1k-4mer.txt
+#./segment.pl data/hg19/hg19-UCSC-upercase.fa 1000 1000 hg19-seg1k-step1k.txt
+#./kmer.pl hg19-seg1k-step1k.txt 4 > kmer/hg19-seg1k-step1k-4mer.txt
+./compare.pl kmer/iden40len20-hgt-4mer.txt kmer/hg19-seg1k-step1k-4mer.txt kmer/hg19-4mer.txt distance-hg19-seg1k-step1k-4mer.txt
+awk '{if($2>0.00825590999999999){print $0}}' distance-hg19-seg1k-step1k-4mer.txt |awk '{print $1}' |awk -F '[|-]' '{print $1"\t"$2"\t"$3}' |sort -k1,1 -k2n,2 -k 3n,3 |less >distance-hg19-seg1k-step1k-4mer-pass.info
+./biodiff.pl distance-hg19-seg1k-step1k-4mer-pass.info iden40len20-hgt.info |wc -l
