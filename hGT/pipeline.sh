@@ -30,8 +30,8 @@ for ((i=1; i<=$k; i ++))
 do
     for j in ${num[@]}
     do
-	threshold=$(grep "SEG" distance-"$i"mer.txt |sort -rnk 2 |head -$j |tail -n 1 |awk '{print $2}')
-	pass=$(grep "HGT" distance-"$i"mer.txt |awk '{if($2>'$threshold'){print $0}}' |wc -l)
+	threshold=$(grep "SEG" kmer/distance-"$i"mer.txt |sort -rnk 2 |head -$j |tail -n 1 |awk '{print $2}')
+	pass=$(grep "HGT" kmer/distance-"$i"mer.txt |awk '{if($2>'$threshold'){print $0}}' |wc -l)
 	echo -e "$i\t$j\t$pass"
     done
 done
@@ -42,8 +42,6 @@ done
 ./compare.pl kmer/iden40len20-hgt-4mer.txt kmer/hg19-seg1k-step500bp-4mer.txt kmer/hg19-4mer.txt distance-hg19-seg1k-step500bp-4mer.txt
 awk '{if($2>0.00825590999999999){print $0}}' distance-hg19-seg1k-step500bp-4mer.txt |grep -v "HGT" |awk '{print $1}' |awk -F '[|-]' '{print $1"\t"$2"\t"$3}' |sort -k1,1 -k2n,2 -k 3n,3 |less >distance-hg19-seg1k-step500bp-4mer-pass.info
 ./biodiff.pl distance-hg19-seg1k-step500bp-4mer-pass.info iden40len20-hgt.info |wc -l
-
-fi
 
 # segments from hg19, covering the whole genome, with len=1kbp and step=1kbp
 #./segment.pl data/hg19/hg19-UCSC-upercase.fa 1000 1000 hg19-seg1k-step1k.txt
@@ -56,3 +54,26 @@ awk '{if($2>0.00825590999999999){print $0}}' distance-hg19-seg1k-step1k-4mer.txt
 awk '{print $1"|"$2"-"$3}' distance-hg19-seg1k-step1k-4mer-pass.info >mm
 filterFa hg19-seg1k-step1k.fa mm distance-hg19-seg1k-step1k-4mer-pass.fa
 rm mm
+
+fi
+
+for ((i=1; i<=6; i ++))
+do
+    echo "$i..."
+    echo -e "region\tscore\ttype" >>markov/pro-markov-$i.txt
+    ./compareMarkov.pl markov/hg19-markov-$i.txt iden40len20-hgt.fa $i |awk '{print $1"\t"$2"\tHGT"}' >>markov/pro-markov-$i.txt
+    ./compareMarkov.pl markov/hg19-markov-$i.txt hg19-seg1k-step100k.fa $i |awk '{print $1"\t"$2"\tSEG"}' >>markov/pro-markov-$i.txt
+done
+
+num=(1570 628 314 157)
+for ((i=1; i<=$k; i ++))
+do
+    for j in ${num[@]}
+    do
+        threshold=$(grep "SEG" markov/pro-markov-$i.txt |sort -nk 2 |head -$j |tail -n 1 |awk '{print $2}')
+        pass=$(grep "HGT" markov/pro-markov-$i.txt |awk '{if($2<'$threshold'){print $0}}' |wc -l)
+        echo -e "$i\t$j\t$pass"
+    done
+done
+
+

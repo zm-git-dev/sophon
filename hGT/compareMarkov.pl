@@ -26,11 +26,13 @@ while(<MODEL>){
     }
 }
 
+=pod
 foreach my $key1(keys %markov){
     foreach my $key2(keys %{$markov{$key1}}){
 	print "$key1 => $key2 : ${$markov{$key1}}{$key2}\n";
     }
 }
+=cut
 
 my ($kmer,$id) = ($K+1,"","");
 while(<FA>){
@@ -50,11 +52,10 @@ while(<FA>){
 		$score += log(${$markov{$key1}}{$key2});
 	    }
 	}
-	my $score = sprintf("%0.4f",$score);
+	$score = sprintf("%0.4f",$score/($len-$K));
 	print "$id\t$score\n";
     }
 }
-
 
 close MODEL;close FA;
 exit;
