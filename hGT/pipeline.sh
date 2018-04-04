@@ -79,13 +79,13 @@ do
     ./hitBlast.pl $file $file.out
 done
 
+fi
+
 for i in `cat data/53genome/info.txt |grep non_mammal |awk '{print $2}'`
 do
     pre=${i%.fna.gz}
     awk '{if($7>=500 && $10>0.4){print $0}}' blast/$pre-seg30M.blastn.out >blast/non_mammal/$pre-seg30M.blastn.filtered.out
 done
-
-fi
 
 for i in `cat data/53genome/info.txt |grep -v non_mammal |awk '{print $2}'`
 do
