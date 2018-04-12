@@ -14,15 +14,6 @@ while(<FILE>){
     chomp();
     if($_ =~ />([^\s]+)/){
 	$id = $1;
-    }
-    else{
-	$seq = $_;
-	open(TMP,">db/$id.fa")||die("error\n");
-	print TMP ">$id\n$seq\n";
-	close TMP;
-	
-	system("makeblastdb -in db/$id.fa -dbtype nucl");
-	system("blastn -task blastn -query db/$id.fa -db db/$id.fa -out blast/$id.blastn -evalue 1e-3 -ungapped -word_size 9");
 
 	open(BLAST,"blast/$id.blastn")||die("error\n");
 	my ($index,$TR,$VR,$TR_start,$TR_end,$VR_start,$VR_end) = (0,"","",-1,-1,-1,-1);
