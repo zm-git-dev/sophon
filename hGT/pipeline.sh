@@ -79,8 +79,6 @@ do
     ./hitBlast.pl $file $file.out
 done
 
-fi
-
 for i in `cat data/53genome/info.txt |grep non_mammal |awk '{print $2}'`
 do
     pre=${i%.fna.gz}
@@ -92,3 +90,18 @@ do
     pre=${i%.fna.gz}
     awk '{if($10>0.4){print $0}}' blast/$pre-seg30M.blastn.out >blast/mammal/$pre-seg30M.blastn.filtered.out
 done
+
+fi
+
+#blastn -task blastn -query hg19-seg1k-step1k-4mer-pass.fa -db db/GCF_000146605.2_Turkey_5.0_genomic.fna -out seg30M-GCF_000146605.2_Turkey_5.0_genomic.fna.blastn -evalue 1e-1 -word_size 7 -outfmt 7 -num_threads 30
+
+for i in blast/mammal/GC*-cov.txt
+do
+    pre=${i#blast/mammal/}
+    id=${pre%-cov.txt}
+    nohup ./merge-mammal-cov.pl $i blast/mammal/$id-cov-merged.txt &
+done
+exit
+
+./screen-hgt.pl region-non-mammal.out screen-hgt.out blast/mammal/*merged.txt
+awk '{if($4<=8){print $0}}' screen-hgt.out |awk -F '[\t|]' '{print $1"\t"$3"\t"$4}' |sort -k1,1 -k2n,2 >screen-hgt-8mammals.info

@@ -11,7 +11,6 @@ my %total = ();
 for my $file(@files){
     open(FILE,$file)||die("error\n");
     my %hash = ();
-    print "$file\n";
     while(<FILE>){
 	my @arr = split(/\s+/,$_);
 	my ($seq,$start,$end) = ($arr[0],$arr[6],$arr[7]);

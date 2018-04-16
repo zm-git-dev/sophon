@@ -2,7 +2,7 @@
 use strict;
 
 my ($file,$out)= @ARGV;
-die "Error with arguments!\nusage: $0 <Cov segments of BLAST hit to mammal genomes> \n" if (@ARGV<2);
+die "Error with arguments!\nusage: $0 <Cov segments of BLAST hit to mammal genomes> <OUT File>\n" if (@ARGV<2);
 
 open(FILE,$file)||die("error\n");
 open(OUT,">$out")||die("error\n");
@@ -42,6 +42,20 @@ while(<FILE>){
 	}
     }
 }
+
+my $start_now = $start[0];
+my $end_now = $end[0];
+for(my $i=1;$i<@start;$i++){
+    if($start[$i] <= $end_now){
+	$end_now = $end[$i];
+    }
+    else{
+	print OUT "$start_now-$end_now,";
+	$start_now = $start[$i];
+	$end_now = $end[$i];
+    }
+}
+print OUT "$start_now-$end_now\n";
 
 close FILE;close OUT;
 exit;
