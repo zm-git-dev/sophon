@@ -51,10 +51,10 @@ while(<FUSION>){
 	$seq1 = reverseSeq($seq1_tmp);
     }
     if($string2 eq "+"){
-        $seq2 = substr($genome_hash{$chr2},$pos2-999,1000);
+        $seq2 = substr($genome_hash{$chr2},$pos2,1000);
     }
     else{
-        my $seq2_tmp = substr($genome_hash{$chr2},$pos2,1000);
+        my $seq2_tmp = substr($genome_hash{$chr2},$pos2-999,1000);
         $seq2 = reverseSeq($seq2_tmp);
     }
     my $fusion_seq = $seq1.$seq2;
