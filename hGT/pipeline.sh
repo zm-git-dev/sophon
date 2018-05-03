@@ -74,34 +74,27 @@ do
     done
 done
 
-for file in /share/home/user/fzyan/hGT/blast/*.blastn
-do
-    ./hitBlast.pl $file $file.out
-done
-
-for i in `cat data/53genome/info.txt |grep non_mammal |awk '{print $2}'`
-do
-    pre=${i%.fna.gz}
-    awk '{if($7>=500 && $10>0.4){print $0}}' blast/$pre-seg30M.blastn.out >blast/non_mammal/$pre-seg30M.blastn.filtered.out
-done
-
-for i in `cat data/53genome/info.txt |grep -v non_mammal |awk '{print $2}'`
-do
-    pre=${i%.fna.gz}
-    awk '{if($10>0.4){print $0}}' blast/$pre-seg30M.blastn.out >blast/mammal/$pre-seg30M.blastn.filtered.out
-done
-
-fi
-
+###run BLAST, example:
 #blastn -task blastn -query hg19-seg1k-step1k-4mer-pass.fa -db db/GCF_000146605.2_Turkey_5.0_genomic.fna -out seg30M-GCF_000146605.2_Turkey_5.0_genomic.fna.blastn -evalue 1e-1 -word_size 7 -outfmt 7 -num_threads 30
 
+#get regions conserved in non-mammal genomes (or mammal genomes)
+cd /share/home/user/fzyan/hGT/blast
+sh run.sh
+
+## get the common conserved regions in non-mammal genomes, species >=2 and length >=500bp
+cd /share/home/user/fzyan/hGT
+./region-non-mammal.pl blast/non-mammal/* >region-non-mammal.out
+
+## get the regions covered by mammal genomes
 for i in blast/mammal/GC*-cov.txt
 do
     pre=${i#blast/mammal/}
     id=${pre%-cov.txt}
     nohup ./merge-mammal-cov.pl $i blast/mammal/$id-cov-merged.txt &
 done
-exit
 
+## screen out the regions more conserved in non-mammal genomes
 ./screen-hgt.pl region-non-mammal.out screen-hgt.out blast/mammal/*merged.txt
 awk '{if($4<=8){print $0}}' screen-hgt.out |awk -F '[\t|]' '{print $1"\t"$3"\t"$4}' |sort -k1,1 -k2n,2 >screen-hgt-8mammals.info
+
+fi
