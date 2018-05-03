@@ -4,7 +4,7 @@ use strict;
 #used to get the overlapped regions
 
 my ($seg,$hgt)= @ARGV;
-die "Error with arguments!\nusage: $0 <SEG.info> <HGT.info>\n" if (@ARGV<2);
+die "Error with arguments!\nusage: $0 <SEG.info (index reference)> <HGT.info (target)>\n" if (@ARGV<2);
 #file format: chr start end  (the file is previously sorted)
 
 open(SEG,$seg)||die("error\n");
@@ -22,6 +22,18 @@ while(<SEG>){
     next;
 }
 
+while(<HGT>){
+    chomp();
+    my ($chr,$start,$end) = split(/\s+/,$_);
+    for(my $i=0;$i<$num;$i++){
+        if($chr eq $data[$i][0] && !($end <= $data[$i][1] || $start >= $data[$i][2])){
+            print "$_ ;;; $data[$i][0]\t$data[$i][1]\t$data[$i][2]\n";
+            last;
+        }
+    }
+}
+
+=pod
 my $index = 0;
 while(<HGT>){
     chomp();
@@ -41,5 +53,6 @@ while(<HGT>){
 	}
     }
 }
+=cut
 
 exit;
