@@ -83,7 +83,7 @@ sh run.sh
 
 ## get the common conserved regions in non-mammal genomes, species >=2 and length >=500bp
 cd /share/home/user/fzyan/hGT
-./region-non-mammal.pl blast/non-mammal/* >region-non-mammal.out
+./region-non-mammal.pl hg19-seg1k-step1k-4mer-pass.fa blast/non-mammal/* >region-non-mammal.out
 
 ## get the regions covered by mammal genomes
 for i in blast/mammal/GC*-cov.txt
@@ -94,7 +94,7 @@ do
 done
 
 ## screen out the regions more conserved in non-mammal genomes
-./screen-hgt.pl region-non-mammal.out screen-hgt.out blast/mammal/*merged.txt
-awk '{if($4<=8){print $0}}' screen-hgt.out |awk -F '[\t|]' '{print $1"\t"$3"\t"$4}' |sort -k1,1 -k2n,2 >screen-hgt-8mammals.info
+./screen-hgt.pl region-non-mammal.out screen-hgt-0.4.out 0.4 blast/mammal/*merged.txt
+awk '{if($4<=8){print $0}}' screen-hgt-0.4.out |awk -F '[\t|]' '{print $1"\t"$3"\t"$4}' |sort -k1,1 -k2n,2 >screen-hgt-0.4-8mammals.info
 
 fi
