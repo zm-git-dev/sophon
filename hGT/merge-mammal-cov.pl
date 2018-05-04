@@ -26,7 +26,9 @@ while(<FILE>){
 	    my $start_now = $start[0];my $end_now = $end[0];
 	    for(my $i=1;$i<@start;$i++){
 		if($start[$i] <= $end_now){
-		    $end_now = $end[$i];
+		    if($end[$i] > $end_now){
+			$end_now = $end[$i];
+		    }
 		}
 		else{
 		    print OUT "$start_now-$end_now,";
