@@ -8,7 +8,7 @@ done
 
 for obj in `cat mammal.id`
 do
-    nohup cat seg30M-$obj* | grep -v "#" |awk '{if($8>$7) print $1"\t"$7"\t"$8; else print $1"\t"$8"\t"$7}' |sort -k1,1 -k2n,2 -k3n,3 |uniq >mammal/$obj-cov.txt &
+    nohup cat seg30M-$obj* | grep -v "#" |awk '{if($8>$7) print $1"\t"$7"\t"$8; else print $1"\t"$8"\t"$7}' |sort -k1,1 -k2n,2 |uniq >mammal/$obj-cov.txt &
 done
 
 exit
