@@ -10,14 +10,13 @@ open(OUT,">$out")||die("error\n");
 my %hash = ();
 while(<HIT>){
     chomp();
-    #my @arr = split(/\s+/,$_);
-    my $key = $_;#$arr[0]."~".$arr[1]."~".$arr[2];
+    my $key = $_;
+    #my @mammal = ();
+    #$hash{$key} = \@mammal;
     $hash{$key} = 0;
 }
 
 foreach my $file(@files){
-    print "$file\n";
-
     open(FILE,$file)||die("error with opening $file\n");
     my %hashCov = ();
     while(<FILE>){
@@ -47,6 +46,7 @@ foreach my $file(@files){
 		}
 	    }
 	    if($covLen >= $cov_cuttof*($end-$start+1)){
+		#push(@{$hash{$key}},$file);
 		$hash{$key} += 1;
 	    }
 	}
@@ -55,6 +55,13 @@ foreach my $file(@files){
 
 foreach my $key(keys %hash){
     print OUT "$key\t$hash{$key}\n";
+=pod
+    print OUT "$key\t";
+    foreach my $i(@{$hash{$key}}){
+	print OUT "$i\t";
+    }
+    print OUT "\n";
+=cut
 }
 
 close HIT;close OUT;

@@ -24,7 +24,7 @@ my %total = ();
 
 my $seq_length = 0;
 for my $file(@files){
-    open(FILE,$file)||die("error\n");
+    open(FILE,$file)||die("error with opening $file\n");
     my %hash = ();
     while(<FILE>){
 	my @arr = split(/\s+/,$_);
@@ -40,18 +40,19 @@ for my $file(@files){
 	    for(my $i=0;$i<$seq_length;$i++){
 		push(@cov,0);
 	    }
-	    for(my $i=$start-1;$i<$end;$i++){
+	    for(my $i=$start-1;$i<=$end-1;$i++){
 		$cov[$i] = 1;
 	    }
 	    $hash{$seq} = \@cov;
 	}
 	else{
-	    for(my $i=$start-1;$i<$end;$i++){
+	    for(my $i=$start-1;$i<=$end-1;$i++){
 		${hash{$seq}}[$i] = 1;
 	    }
 	}
     }
     close FILE;
+    
     foreach my $key(keys %hash){
 	if(not exists $total{$key}){
 	    $total{$key} = $hash{$key};

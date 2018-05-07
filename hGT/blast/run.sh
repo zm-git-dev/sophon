@@ -3,7 +3,7 @@
 for obj in `cat non-mammal.id`
 do
     echo $obj
-    #grep -v "#" seg30M-$obj.blastn |awk '{if($8-$7>=499 ||$8-$7<=-499 ){print $0}}' >non-mammal/$obj-500bp.out
+    grep -v "#" seg30M-$obj.blastn |awk '{if($8-$7>=499 ||$8-$7<=-499 ){print $0}}' >non-mammal/$obj-500bp.out
 done
 
 for obj in `cat mammal.id`

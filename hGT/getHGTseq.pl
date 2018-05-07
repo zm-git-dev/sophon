@@ -26,9 +26,6 @@ while(<BED>){
 	my $HGT = substr($hash{$chr},$start-1,$end-$start+1);
 	print OUT ">$chr|$start-$end\n$HGT\n";
     }
-    else{
-	die("error with chr\n");
-    }
 }
 
 close FA;close BED;close OUT;

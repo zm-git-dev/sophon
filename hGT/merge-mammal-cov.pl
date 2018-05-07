@@ -4,8 +4,8 @@ use strict;
 my ($file,$out)= @ARGV;
 die "Error with arguments!\nusage: $0 <Cov segments of BLAST hit to mammal genomes> <OUT File>\n" if (@ARGV<2);
 
-open(FILE,$file)||die("error\n");
-open(OUT,">$out")||die("error\n");
+open(FILE,$file)||die("error with opening $file\n");
+open(OUT,">$out")||die("error with writing to $out\n");
 
 my @start = ();my @end = ();my $id = "";
 
