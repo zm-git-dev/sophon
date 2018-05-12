@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 use strict;
 
-#get regions conserved in non-mammal genomes, overlapped sequences >= 500bp && at least two non-mammal species sharing this region
+#get regions conserved in non-mammal genomes, overlapped sequences >= 1kbp && at least two non-mammal species sharing this region
 
 my ($index,$chr,$out,@files)= @ARGV;
 die "Error with arguments!\nusage: $0 <Reference chr_len.txt> <chromosome> <OUT File> <non-mammal bed files> \n" if (@ARGV<4);
@@ -18,7 +18,7 @@ while(<INDEX>){
     my ($seq_name,$seq_length) = split(/\s+/,$_);
     if($seq_name eq $chr){
 	$chr_length = $seq_length;
-	print "chr length: $chr_length\n";
+	print "$chr length: $chr_length\n";
 	my @cov = ();
 	for(my $i=0;$i<$seq_length;$i++){
 	    push(@cov,0);
@@ -45,23 +45,28 @@ foreach my $file(@files){
 }
 print "construct conserved regions...\n";
 
-foreach my $key(keys %hash){
-    my @start = ();
-    my @end = ();
-    for(my $i=0;$i<$chr_length;$i++){
-	if(${hash{$key}}[$i] >= 2 && ($i ==0 || ${hash{$key}}[$i-1] < 2)){
+#foreach my $key(keys %hash){
+my @start = ();
+my @end = ();
+for(my $i=0;$i<$chr_length;$i++){
+    my $index = ${hash{$chr}}[$i];
+    if(${hash{$chr}}[$i] >= 2 && ($i ==0 || ${hash{$chr}}[$i-1] < 2)){
+	if(${hash{$chr}}[$i+1] >= 2){
 	    push(@start,$i);
 	}
-	elsif(${hash{$key}}[$i] >= 2 && ($i == $chr_length-1 || ${hash{$key}}[$i+1] < 2)){
-	    push(@end,$i);
-	}
     }
-    for(my $i=0;$i<@start;$i++){
-	if($end[$i]-$start[$i] >= 499){
-	    print OUT "$key\t$start[$i]\t$end[$i]\n";
-	}
+    elsif(${hash{$chr}}[$i] >= 2 && ($i == $chr_length-1 || ${hash{$chr}}[$i+1] < 2)){
+	push(@end,$i);
     }
 }
+
+for(my $i=0;$i<@start;$i++){
+    if($end[$i]-$start[$i] >= 999){  ##len >= 1kbp 
+	print OUT "$chr\t$start[$i]\t$end[$i]\n";
+    }
+}
+
+#}
 print "construct conserved regions complete!\n";
 
 close OUT;
