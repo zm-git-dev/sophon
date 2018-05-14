@@ -1,0 +1,36 @@
+data source:
+     https://www.kaggle.com/skihikingkevin/pubg-match-deaths
+
+aggregate.zip => agg_match_stats_*.csv       (67,369,236 records)
+deaths.zip => kill_match_stats_final_*.csv   (65,370,480 records)
+
+agg_match_stats_*.csv:
+     date
+     game_size
+     match_id
+     match_mode
+     party_size
+     player_assists
+     player_dbno
+     player_dist_ride
+     player_dist_walk
+     player_dmg
+     player_kills
+     player_name
+     player_survive_time
+     team_id
+     team_placement
+
+kill_match_stats_final_*.csv:
+     killed_by
+     killer_name
+     killer_placement
+     killer_position_x
+     killer_position_y
+     map
+     match_id
+     time
+     victim_name
+     victim_placement
+     victim_position_x
+     victim_position_y
