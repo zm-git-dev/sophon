@@ -28,14 +28,6 @@ done
 cat tmp-* |sort -k1,1 -k2n,2 >iden60/nonmammal/merge-cov2-1kbp.bed
 rm tmp-*
 
-for i in ${chr[@]}
-do
-    echo $i
-    nohup ./merge-nonmammal.pl chr_len.txt $i tmp-$i iden60/nonmammal/*bed &
-done
-cat tmp-* |sort -k1,1 -k2n,2 >iden60/nonmammal/merge-cov2-1kbp.bed
-rm tmp-*
-
 for id in `cat 41mammal.id`
 do
     ./../src/merge-mammal.pl iden60/$id.bed iden60/mammal/$id-merged.txt
