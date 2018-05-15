@@ -1,17 +1,12 @@
 #!/usr/bin/perl -w
 use strict;
 
-## compare the A,T,C,G percentage of the genome and putative HGT sequences
+## compute kmers of input FASTA file, foreach line
 
-my ($genome,$kmer)= @ARGV;
-die "Error with arguments!\nusage: $0 <Genome.fa> <K-mer>\n" if (@ARGV<2);
+my ($fa,$kmer)= @ARGV;
+die "Error with arguments!\nusage: $0 <Input fasta> <K-mer>\n" if (@ARGV<2);
 
-if($genome =~ /\.gz/){
-    open(GENOME,"gzip -dc $genome|")||die("error");
-}
-else{
-    open(GENOME,$genome)||die("error\n");
-}
+open(FA,$fa)||die("error\n");
 
 my %hash = ();
 my @keys = ();
@@ -22,7 +17,7 @@ foreach my $key(@keys){
 
 my $sum = 0;
 my $id = "";
-while(<GENOME>){
+while(<FA>){
     chomp();
     if($_ =~ />([^\s]+)/){
 	$id = $1;
@@ -131,5 +126,5 @@ sub toUperCase{
     return $result;
 }
 
-close GENOME;
+close FA;
 exit;

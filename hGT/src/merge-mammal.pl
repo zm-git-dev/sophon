@@ -45,6 +45,7 @@ while(<FILE>){
     }
 }
 
+print OUT "$id\t";
 my $start_now = $start[0];
 my $end_now = $end[0];
 for(my $i=1;$i<@start;$i++){

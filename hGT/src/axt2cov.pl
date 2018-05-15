@@ -5,7 +5,8 @@ my ($out,@files)= @ARGV;
 die "usage: $0 <OUT Cov Files> <axt_format_files by BLASTZ (one target)>" if @ARGV<2;
 
 open(OUT, ">$out")||die("error with writing to $out\n");
-print OUT "chr\tstart\tend\tidentity\ttarget_chr\tstart\tend\tstrand\tscore\n";
+#print OUT "chr\tstart\tend\tidentity\ttarget_chr\tstart\tend\tstrand\tscore\n";
+
 foreach my $file(@files){
     open(FILE,$file)||die("open $file error!\n");
     my ($chr1,$start1,$end1,$chr2,$start2,$end2,$strand2,$score,$query,$target,$identity) = ("","","","","","","","","","","");
@@ -38,8 +39,9 @@ foreach my $file(@files){
 	    $index += 1;
 	}
     }
+    close FILE;
 }
 
-close FILE;close OUT;
+close OUT;
 
 exit;
