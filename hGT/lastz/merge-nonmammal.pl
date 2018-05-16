@@ -3,8 +3,8 @@ use strict;
 
 #get regions conserved in non-mammal genomes, overlapped sequences >= 1kbp && at least two non-mammal species sharing this region
 
-my ($index,$chr,$out,@files)= @ARGV;
-die "Error with arguments!\nusage: $0 <Reference chr_len.txt> <chromosome> <OUT File> <non-mammal bed files> \n" if (@ARGV<4);
+my ($index,$chr,$out,$len_cuttof,@files)= @ARGV;
+die "Error with arguments!\nusage: $0 <Reference chr_len.txt> <chromosome> <OUT File> <length cuttof> <non-mammal bed files> \n" if (@ARGV<4);
 
 open(INDEX,$index)||die("error with opening $index\n");
 open(OUT,">$out")||die("error eith writing to $out\n");
@@ -61,7 +61,7 @@ for(my $i=0;$i<$chr_length;$i++){
 }
 
 for(my $i=0;$i<@start;$i++){
-    if($end[$i]-$start[$i] >= 999){  ##len >= 1kbp 
+    if($end[$i]-$start[$i] >= $len_cuttof-1){  ##len >= 1kbp 
 	print OUT "$chr\t$start[$i]\t$end[$i]\n";
     }
 }
