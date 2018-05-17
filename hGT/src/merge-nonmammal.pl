@@ -3,84 +3,64 @@ use strict;
 
 #get regions conserved in non-mammal genomes, overlapped sequences >= 500bp && at least two non-mammal species sharing this region
 
-my ($fa,@files)= @ARGV;
-die "Error with arguments!\nusage: $0 <Reference fasta file> <Filtered out files of non-mammal genomes> \n" if (@ARGV<2);
+my ($fa,$len_cuttof,$out,@files)= @ARGV;
+die "Error with arguments!\nusage: $0 <Reference fasta file> <Length cuttof> <OUT file> <Non-mammal bed files (sorted, merged)> \n" if (@ARGV<4);
 
 open(FA,$fa)||die("error with opening $fa\n");
+open(OUT,">$out")||die("error with writing to $out\n");
 
-my %len = ();
 my $seq_name = "";
+my %coverage = ();  ## coverage depth for this sequence
+my %len = ();  ## length
 while(<FA>){
     chomp();
     if($_ =~ />([^\s]+)/){
 	$seq_name = $1;
     }
     else{
-	$len{$seq_name} = length($_);
+	my $len_this = length($_);
+	my @cov = ();
+        for(my $i=0;$i<$len_this;$i++){
+            push(@cov,0);
+        }
+	$len{$seq_name} =  $len_this;
+        $coverage{$seq_name} = \@cov;
     }
+    
 }
 
-my %total = ();
-
-my $seq_length = 0;
-for my $file(@files){
+foreach my $file(@files){
     open(FILE,$file)||die("error with opening $file\n");
-    my %hash = ();
     while(<FILE>){
 	my @arr = split(/\s+/,$_);
-	my ($seq,$start,$end) = ($arr[0],$arr[6],$arr[7]);
-	if($end < $start){
-	    my $tmp = $start;
-	    $start = $end;
-	    $end = $tmp;
-	}
-	if(not exists($hash{$seq})){
-	    my @cov = ();
-	    $seq_length = $len{$seq};
-	    for(my $i=0;$i<$seq_length;$i++){
-		push(@cov,0);
-	    }
+	my ($seq,$start,$end) = ($arr[0],$arr[1],$arr[2]);
+	if(exists($coverage{$seq})){
 	    for(my $i=$start-1;$i<=$end-1;$i++){
-		$cov[$i] = 1;
-	    }
-	    $hash{$seq} = \@cov;
-	}
-	else{
-	    for(my $i=$start-1;$i<=$end-1;$i++){
-		${hash{$seq}}[$i] = 1;
+		${coverage{$seq}}[$i] += 1;
 	    }
 	}
     }
     close FILE;
-    
-    foreach my $key(keys %hash){
-	if(not exists $total{$key}){
-	    $total{$key} = $hash{$key};
-	}
-	else{
-	    $seq_length = $len{$key};
-	    for(my $i=0;$i<$seq_length;$i++){
-		${total{$key}}[$i] = ${total{$key}}[$i] + $hash{$key}[$i];
-	    }
-	}
-    }
 }
 
-foreach my $key(keys %total){
+foreach my $key(keys %coverage){
     my @start = ();
     my @end = ();
-    $seq_length = $len{$key};
+    my $seq_length = $len{$key};
     for(my $i=0;$i<$seq_length;$i++){
-	if(${total{$key}}[$i] >= 2 && ($i ==0 || ${total{$key}}[$i-1] < 2)){
-	    push(@start,$i);
+	if(${coverage{$key}}[$i] >= 2 && ($i ==0 || ${coverage{$key}}[$i-1] < 2)){
+	    if(${coverage{$key}}[$i+1] >= 2){
+		push(@start,$i+1);  ## start position, count from 1
+	    }
 	}
-	elsif(${total{$key}}[$i] >= 2 && ($i == $seq_length-1 || ${total{$key}}[$i+1] < 2)){
-	    push(@end,$i);
+	elsif(${coverage{$key}}[$i] >= 2 && ($i == $seq_length-1 || ${coverage{$key}}[$i+1] < 2)){
+	    push(@end,$i+1);  ##end position, count from 1
 	}
     }
+    
     for(my $i=0;$i<@start;$i++){
-	if($end[$i] - $start[$i] >= 500){
-	    print "$key\t$start[$i]\t$end[$i]\n";
+	if($end[$i]-$start[$i] >= $len_cuttof-1){
+	    print OUT "$key\t$start[$i]\t$end[$i]\n";
 	}
     }
 }

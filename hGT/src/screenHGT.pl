@@ -2,17 +2,15 @@
 use strict;
 
 my ($hit,$out,$cov_cuttof,@files)= @ARGV;
-die "Error with arguments!\nusage: $0 <segment hits of BLAST2nonMammal> <OUT File> <coverage cuttof> <BLAST2mammal segments cover FILES>\n" if (@ARGV<4);
+die "Error with arguments!\nusage: $0 <Nonmammal conserved regions (bed)> <OUT File> <length coverage cuttof> <Merged mammal files>\n" if (@ARGV<4);
 
-open(HIT,$hit)||die("error\n");
-open(OUT,">$out")||die("error\n");
+open(HIT,$hit)||die("error\n with opening $hit");
+open(OUT,">$out")||die("error with writing to $out\n");
 
 my %hash = ();
 while(<HIT>){
     chomp();
     my $key = $_;
-    #my @mammal = ();
-    #$hash{$key} = \@mammal;
     $hash{$key} = 0;
 }
 
@@ -55,13 +53,6 @@ foreach my $file(@files){
 
 foreach my $key(keys %hash){
     print OUT "$key\t$hash{$key}\n";
-=pod
-    print OUT "$key\t";
-    foreach my $i(@{$hash{$key}}){
-	print OUT "$i\t";
-    }
-    print OUT "\n";
-=cut
 }
 
 close HIT;close OUT;

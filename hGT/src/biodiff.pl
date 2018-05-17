@@ -15,7 +15,7 @@ my $num = 0;
 while(<SEG>){
     chomp();
     my @arr = split(/\s+/,$_);
-    for(my $j=0;$j<=2;$j++){
+    for(my $j=0;$j<@arr;$j++){
 	$data[$num][$j] = $arr[$j];
     }
     $num += 1;
@@ -27,7 +27,8 @@ while(<HGT>){
     my ($chr,$start,$end) = split(/\s+/,$_);
     for(my $i=0;$i<$num;$i++){
         if($chr eq $data[$i][0] && !($end <= $data[$i][1] || $start >= $data[$i][2])){
-            print "$_ ;;; $data[$i][0]\t$data[$i][1]\t$data[$i][2]\n";
+	    print "$data[$i][0]\t$data[$i][1]\t$data[$i][2]\t$data[$i][3]\n";
+            #print "$_ ;;; $data[$i][0]\t$data[$i][1]\t$data[$i][2]\n";
             #last;
         }
     }

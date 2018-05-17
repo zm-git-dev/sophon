@@ -26,8 +26,7 @@ while(<FA>){
 	my $seq = $_;
 	my $len = length($seq);
 	for(my $i=0;$i<$len-$kmer+1;$i++){
-	    my $base = substr($seq,$i,$kmer);
-	    #my $base = toUperCase(substr($seq,$i,$kmer));
+	    my $base = uc(substr($seq,$i,$kmer));
 	    if(exists($hash{$base})){
 		$hash{$base} += 1;
 		$sum += 1;

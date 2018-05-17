@@ -2,7 +2,7 @@
 use strict;
 
 my ($file,$out)= @ARGV;
-die "Error with arguments!\nusage: $0 <Cov segments of BLAST hit to mammal genomes> <OUT File>\n" if (@ARGV<2);
+die "Error with arguments!\nusage: $0 <Mammal bed file> <OUT File>\n" if (@ARGV<2);
 
 open(FILE,$file)||die("error with opening $file\n");
 open(OUT,">$out")||die("error with writing to $out\n");
