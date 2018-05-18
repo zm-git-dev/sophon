@@ -83,3 +83,13 @@ fi    ###code annotation end
 
 
 blastn -query screenHGT-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 7
+
+./../blast/filterHits.pl screenHGT-8mammals-hg19.blastn
+
+for i in hit/*.txt
+do
+    pre=${i%.txt}
+    cat $i |sort -k1,1 -k2n,2 >$pre.sort.txt
+    ~/hGT/compare2lastz/mergeBed.pl $pre.sort.txt $pre.merge.txt
+    rm $pre.sort.txt
+done
