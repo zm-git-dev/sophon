@@ -27,5 +27,15 @@ awk '{if($4<=8){print $0}}' screenHGT-len0.4.out |awk -F '[\t|-]' '{print $1"\t"
 
 fi    ###code annotation end
 
-nohup blastn -query screenHGT-len0.4-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-len0.4-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 7 &
+blastn -query screenHGT-len0.4-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-len0.4-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 7
+
+./filterHits.pl screenHGT-len0.4-8mammals-hg19.blastn
+
+for i in hit/*.txt
+do
+    pre=${i%.txt}
+    cat $i |sort -k1,1 -k2n,2 >$pre.sort.txt
+    ~/hGT/compare2lastz/mergeBed.pl $pre.sort.txt $pre.merge.txt
+    rm $pre.sort.txt
+done
 
