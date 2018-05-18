@@ -82,5 +82,4 @@ awk '{if($4<=8){print $0}}' iden40/nonmammal/screenHGT.out |sort -k1,1 -k2n,2 >i
 fi    ###code annotation end
 
 
-
-
+blastn -query screenHGT-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 7
