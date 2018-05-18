@@ -16,8 +16,6 @@ do
 done
 ~/hGT/src/merge-nonmammal.pl ~/hGT/segment/hg19-seg1k-step1k-4mer-pass.fa 500 mergeBed/nonmammal/merge-cov2-500bp.bed mergeBed/nonmammal/GC*bed
 
-fi    ###code annotation end
-
 for i in `cat 39mammal.id`
 do
     nohup ~/hGT/compare2lastz/mergeBed.pl bed/$i.bed mergeBed/$i.bed &
@@ -25,4 +23,9 @@ do
 done
 
 ~/hGT/src/screenHGT.pl mergeBed/nonmammal/merge-cov2-500bp.bed screenHGT-len0.4.out 0.4 mergeBed/mammal/*merged.txt
-awk '{if($4<=8){print $0}}' screenHGT-len0.4.out |awk -F '[\t|-]' '{print $1"\t"$2+$4"\t"$3+$5}' |tr 'A-Z' 'a-z' >screenHGT-len0.4-8mammals.bed
+awk '{if($4<=8){print $0}}' screenHGT-len0.4.out |awk -F '[\t|-]' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |tr 'A-Z' 'a-z' |tr 'x' 'X' |tr 'y' 'Y' |screenHGT-len0.4-8mammals.bed
+
+fi    ###code annotation end
+
+nohup blastn -query screenHGT-len0.4-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-len0.4-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 7 &
+
