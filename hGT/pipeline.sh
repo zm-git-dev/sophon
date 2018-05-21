@@ -1,9 +1,8 @@
 #!/usr/bin/bash
 
-k=6
-
-if [ 1 == 2 ]
+if [ 1 == 2 ] ###code annotation start
 then
+k=6
 
 # Get HGT sequences according to the genome and HGT annotation in bed format
 ./getHGTseq.pl data/hg19/GRCh37.primary_assembly.genome.fa data/HGT-in-Human-Genome/material/data/iden40len20.bed iden40len20-hgt.fa
@@ -96,4 +95,31 @@ done
 ## screen out the regions more conserved in non-mammal genomes
 ./screen-hgt.pl region-non-mammal.out screen-hgt-0.4.out 0.4 blast/mammal/*merged.txt
 awk '{if($4<=8){print $0}}' screen-hgt-0.4.out |awk -F '[\t|-]' '{print $1"\t"$2+$4"\t"$3+$5}' >screen-hgt-0.4-8mammals.info
-fi
+
+#blastn: hg19-chr21 to GCF_000090745.1_AnoCar2.0_genomic (Lizard)
+#blastn -task blastn -query data/hg19/chromFa/chr21.fa -db db/GCF_000090745.1_AnoCar2.0_genomic.fna -out chr21-GCF_000090745.1_AnoCar2.0_genomic.blastn -max_target_seqs 1 -outfmt 7 -num_threads 32
+
+#blastn -task blastn -query data/hg19/chromFa/chr21.fa -db db/GCF_000090745.1_AnoCar2.0_genomic.fna -out chr21-GCF_000090745.1_AnoCar2.0_genomic-evalue-1-word9.blastn -max_target_seqs 1 -outfmt 7 -num_threads 32 -evalue 1e-1 -word_size 9
+
+blastn -task blastn -query fa/iden40len20.fa -db db/GCF_000146605.2_Turkey_5.0_genomic.fna -out iden40len20-GCF_000146605.2_Turkey_5.0_genomic.fna.blastn -evalue 1e-1 -outfmt 7 -num_threads 32 -perc_identity 40
+
+fi   ###code annotation end
+
+#./src/getHGTseq.pl data/hg19/hg19-UCSC.fa lastz/iden40/nonmammal/screenHGT-8mammal.bed fa/584hgt.fa
+
+
+#./src/segment.pl data/hg19/hg19-UCSC.fa 2000 20000 segment/hg19-seg2k-step20k.fa
+for ((i=1; i<=6; i ++))
+do
+    ./src/kmer.pl segment/hg19-seg2k-step20k.fa $i > kmer/hg19-seg2k-step20k-"$i"mer.txt
+    ./src/kmer.pl fa/584hgt.fa $i > kmer/584hgt-"$i"mer.txt
+    ./src/compareKmer.pl kmer/584hgt-"$i"mer.txt kmer/hg19-seg2k-step20k-"$i"mer.txt kmer/hg19-"$i"mer.txt kmer/distance2-"$i"mer.txt
+
+    threshold=$(grep "SEG" kmer/distance2-"$i"mer.txt |sort -rnk 2 |head -1569 |tail -n 1 |awk '{print $2}')
+    pass=$(grep "HGT" kmer/distance2-"$i"mer.txt |awk '{if($2>'$threshold'){print $0}}' |wc -l)
+    echo -e "$i\t$pass" >>pipeline.out
+done
+
+
+grep -v ">" segment/hg19-seg1k-step1k-4mer-pass.fa |tr -d '\n' >segment/seg30M.fa
+./src/30Mposition.pl segment/hg19-seg1k-step1k-4mer-pass.fa segment/seg30M.info

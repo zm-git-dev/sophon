@@ -31,6 +31,7 @@ while(<FA>){
 
 foreach my $file(@files){
     open(FILE,$file)||die("error with opening $file\n");
+    print "$file\n";
     while(<FILE>){
 	my @arr = split(/\s+/,$_);
 	my ($seq,$start,$end) = ($arr[0],$arr[1],$arr[2]);
