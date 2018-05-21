@@ -121,5 +121,5 @@ do
 done
 
 
-grep -v ">" segment/hg19-seg1k-step1k-4mer-pass.fa |tr -d '\n' >segment/seg30M.fa
-./src/30Mposition.pl segment/hg19-seg1k-step1k-4mer-pass.fa segment/seg30M.info
+#run lastz:
+#lastz seg30M.fa[multiple] data/53genome/$id.fna --format=axt --output=lastz/$id.axt
