@@ -26,7 +26,7 @@ while(<BED>){
     my ($chr,$start,$end) = ($arr[0],$arr[1],$arr[2]);
     #if(exists($hash{$chr})){
 	my $HGT = substr($hash{$chr},$start-1,$end-$start+1);
-	print OUT ">$chr|$start-$end\n$HGT\n";
+	print OUT ">$chr-$start-$end\n$HGT\n";
     #}
 }
 
