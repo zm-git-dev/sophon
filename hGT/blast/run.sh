@@ -23,9 +23,11 @@ do
 done
 
 ~/hGT/src/screenHGT.pl mergeBed/nonmammal/merge-cov2-500bp.bed screenHGT-len0.4.out 0.4 mergeBed/mammal/*merged.txt
-awk '{if($4<=8){print $0}}' screenHGT-len0.4.out |awk -F '[\t|-]' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |tr 'A-Z' 'a-z' |tr 'x' 'X' |tr 'y' 'Y' |screenHGT-len0.4-8mammals.bed
+./getName.pl screenHGT-len0.4.out ~/hGT/data/53genome/info.txt mm
 
-fi    ###code annotation end
+### replace: CHR -> chr; chrUN -> chrUn
+mv mm screenHGT-len0.4.out
+awk '{if($4<=8){print $0}}' screenHGT-len0.4.out |awk -F '[\t|-]' '{print $1"\t"$2+$4-1"\t"$2+$5-1"\t"$6"\t"$7}' screenHGT-len0.4.out >screenHGT-len0.4-8mammals.bed
 
 blastn -query screenHGT-len0.4-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-len0.4-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 7
 
@@ -39,3 +41,16 @@ do
     rm $pre.sort.txt
 done
 
+fi    ###code annotation end
+
+for id in `grep ">" screenHGT-len0.4-8mammals.fa |tr -d ">"`
+do
+    num=$(cat hit/$id.txt |wc -l)
+    avg_len=$(awk '{print $3-$2+1}' hit/$id.txt |awk '{sum+=$1} END {print "",sum/NR}')
+    avg_iden=$(awk '{print $4}' hit/$id.txt |awk '{sum+=$1} END {print "",sum/NR}')
+    merge_num=$(cat hit/$id.merge.txt |wc -l)
+    cov_len=$(awk '{print $3-$2+1}' hit/$id.merge.txt |awk '{sum+=$1} END {print "",sum}')
+    echo -e "$id\t$num\t$avg_len\t$avg_iden\t$merge_num\t$cov_len"
+done
+
+blastn -query chr19\|16179003-16179857.hit.fa -db chr19\|16179003-16179857.fa -out chr19\|16179003-16179857.blastn  -evalue 1e-3 -num_threads 32 -word_size 7 -num_descriptions 1
