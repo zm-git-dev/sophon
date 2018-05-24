@@ -33,11 +33,13 @@ while(<BED2>){
     my ($chr,$start,$end) = ($arr[0],$arr[1],$arr[2]);
     for(my $i=$index;$i<$num;$i++){
 	if($chr lt $data[$i][0] || ($chr eq $data[$i][0] && $end <= $data[$i][1])){
-	    $index = $i;
+	    if($index_update == 0){
+		$index = $i;
+	    }
 	    last;
 	}
 	elsif($chr eq $data[$i][0] && (!($start >= $data[$i][2]))){ #overlap
-	    print OUT "$_ ;;; ";
+	    print OUT "$_ ; ";
 	    for(my $j=0;$j<$size;$j++){
 		if($j==$size-1){
 		    print OUT "$data[$i][$j]\n";
@@ -52,6 +54,7 @@ while(<BED2>){
 	    }
 	}
     }
+    print "$index\n";
 }
 
 close BED1;close BED2;close OUT;
