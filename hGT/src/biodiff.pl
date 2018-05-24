@@ -1,18 +1,18 @@
 #!/usr/bin/perl -w
 use strict;
 
-#used to get the overlapped regions
+#compare two bed files, used to get the overlapped regions (the files should be sorted accoridng to the col0 and col1)
 
-my ($seg,$hgt)= @ARGV;
-die "Error with arguments!\nusage: $0 <SEG.info (index reference)> <HGT.info (target)>\n" if (@ARGV<2);
-#file format: chr start end  (the file is previously sorted)
+my ($bed1,$bed2)= @ARGV;
+die "Error with arguments!\nusage: $0 <BED File 1 (search database)> <BED File1 (target)>\n" if (@ARGV<2);
+#file format: chr start end [other infomation] (the files were previously sorted)
 
-open(SEG,$seg)||die("error\n");
-open(HGT,$hgt)||die("error\n");
+open(BED1,$bed1)||die("error with opeing $bed1\n");
+open(BED2,$bed2)||die("error with opening $bed2\n");
 
 my @data = ();
 my $num = 0;
-while(<SEG>){
+while(<BED1>){
     chomp();
     my @arr = split(/\s+/,$_);
     for(my $j=0;$j<@arr;$j++){
@@ -22,38 +22,27 @@ while(<SEG>){
     next;
 }
 
-while(<HGT>){
-    chomp();
-    my ($chr,$start,$end) = split(/\s+/,$_);
-    for(my $i=0;$i<$num;$i++){
-        if($chr eq $data[$i][0] && !($end <= $data[$i][1] || $start >= $data[$i][2])){
-	    print "$data[$i][0]\t$data[$i][1]\t$data[$i][2]\t$data[$i][3]\n";
-            #print "$_ ;;; $data[$i][0]\t$data[$i][1]\t$data[$i][2]\n";
-            #last;
-        }
-    }
-}
-
-=pod
 my $index = 0;
-while(<HGT>){
+while(<BED2>){
     chomp();
-    my ($chr,$start,$end) = split(/\s+/,$_);
+    my @arr = split(/\s+/,$_);
+    my $index_update = 0; ## whether the index is updated after this record;
+    my ($chr,$start,$end) = ($arr[0],$arr[1],$arr[2]);
     for(my $i=$index;$i<$num;$i++){
 	if($chr lt $data[$i][0] || ($chr eq $data[$i][0] && $end <= $data[$i][1])){
 	    $index = $i;
 	    last;
 	}
-	elsif($chr gt $data[$i][0] || $start >= $data[$i][2]){
-	    ;
-	}
-	else{ ##overlapped
+	elsif($chr eq $data[$i][0] && (!($start >= $data[$i][2]))){
+	    ##overlapped with this record
 	    print "$_ ;;; $data[$i][0]\t$data[$i][1]\t$data[$i][2]\n";
-	    $index = $i;
-	    last;
+	    if($index_update == 0){
+		$index = $i;
+		$index_update = 1; #update the index position
+	    }
 	}
     }
 }
-=cut
 
+close BED1;close BED2;
 exit;
