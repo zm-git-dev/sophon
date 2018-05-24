@@ -24,10 +24,10 @@ done
 
 ~/hGT/src/screenHGT.pl mergeBed/nonmammal/merge-cov2-500bp.bed screenHGT-len0.4.out 0.4 mergeBed/mammal/*merged.txt
 ./getName.pl screenHGT-len0.4.out ~/hGT/data/53genome/info.txt mm
-
-### replace: CHR -> chr; chrUN -> chrUn; GL -> gl
 mv mm screenHGT-len0.4.out
-awk '{if($4<=8){print $0}}' screenHGT-len0.4.out |awk -F '[\t|-]' '{print $1"\t"$2+$4-1"\t"$2+$5-1"\t"$6"\t"$7}' screenHGT-len0.4.out >screenHGT-len0.4-8mammals.bed
+### replace: CHR -> chr; chrUN -> chrUn; GL -> gl
+
+awk '{if($4<=8){print $0}}' screenHGT-len0.4.out |awk -F '[\t|-]' '{print $1"\t"$2+$4-1"\t"$2+$5-1"\t"$6"\t"$7}' |sort -k1,1 -k2n,2 >screenHGT-len0.4-8mammals.bed
 ~/hGT/src/getHGTseq.pl ~/hGT/data/hg19/hg19-UCSC.fa screenHGT-len0.4-8mammals.bed screenHGT-len0.4-8mammals.fa
 blastn -task blastn -query screenHGT-len0.4-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-len0.4-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 9
 

@@ -15,7 +15,7 @@ while(<HIT>){
 	    close OUT;
 	}
 	$out = $1;
-	if($out =~ /\|(\d+)-(\d+)/){
+	if($out =~ /-(\d+)-(\d+)/){
 	    ($query_start,$query_end) = ($1,$2);
 	}
 	open(OUT,">hit/$out.txt")||die("error with writing to $out\n");
