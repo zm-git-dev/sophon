@@ -37,12 +37,17 @@ blastn -task blastn -query screenHGT-len0.4-8mammals.fa -db ~/hGT/db/hg19 -out s
 for i in hit/*.txt
 do
     pre=${i%.txt}
+    suf=${pre#hit/}
+    awk '{if($4>=90) print $0}' $i >hit-iden90/$suf.txt
+
     cat $i |sort -k1,1 -k2n,2 >$pre.sort.txt
     ~/hGT/compare2lastz/mergeBed.pl $pre.sort.txt $pre.merge.txt
     rm $pre.sort.txt
+    
+    cat hit-iden90/$suf.txt |sort -k1,1 -k2n,2 >hit-iden90/$suf.sort.txt
+    ~/hGT/compare2lastz/mergeBed.pl hit-iden90/$suf.sort.txt hit-iden90/$suf.merge.txt
+    rm hit-iden90/$suf.sort.txt
 done
-
-fi    ###code annotation end
 
 for id in `grep ">" screenHGT-len0.4-8mammals.fa |tr -d ">"`
 do
@@ -51,14 +56,33 @@ do
     avg_iden=$(awk '{print $4}' hit/$id.txt |awk '{sum+=$1} END {print "",sum/NR}')
     merge_num=$(cat hit/$id.merge.txt |wc -l)
     cov_len=$(awk '{print $3-$2+1}' hit/$id.merge.txt |awk '{sum+=$1} END {print "",sum}')
-    echo -e "$id\t$num\t$avg_len\t$avg_iden\t$merge_num\t$cov_len" mm
+    echo -e "$id\t$num\t$avg_len\t$avg_iden\t$merge_num\t$cov_len" >>summaryHit-tmp.txt
+
+    num=$(cat hit-iden90/$id.txt |wc -l)
+    avg_len=$(awk '{print $3-$2+1}' hit-iden90/$id.txt |awk '{sum+=$1} END {print "",sum/NR}')
+    avg_iden=$(awk '{print $4}' hit-iden90/$id.txt |awk '{sum+=$1} END {print "",sum/NR}')
+    merge_num=$(cat hit-iden90/$id.merge.txt |wc -l)
+    cov_len=$(awk '{print $3-$2+1}' hit-iden90/$id.merge.txt |awk '{sum+=$1} END {print "",sum}')
+    echo -e "$id\t$num\t$avg_len\t$avg_iden\t$merge_num\t$cov_len" >>summaryHit-iden90-tmp.txt
 done
 
-#header: id hit_num avg_len avg_identity merge_hit_num cov_len
-cat mm |grep -v awk |awk '{if($2!=0) print $0}' >summaryHits.txt
+echo -e "id\thit_num\tavg_len\tavg_iden\tmerge_hit_num\tcov_len" >>summaryHit.txt
+echo -e "id\thit_num\tavg_len\tavg_iden\tmerge_hit_num\tcov_len" >>summaryHit-iden90.txt
+
+awk '{if($2==0) print $1"\t0\t0\t0\t0\t0"; else print $0}' summaryHit-tmp.txt | sort -rnk 2 >>summaryHit.txt
+awk '{if($2==0) print $1"\t0\t0\t0\t0\t0"; else print $0}' summaryHit-iden90-tmp.txt | sort -rnk 2 >>summaryHit-iden90.txt
+rm summaryHit-tmp.txt summaryHit-iden90-tmp.txt
+
+
+fi    ###code annotation end
+
 
 # multi-alignment
 muscle -in screenHGT-len0.4-8mammals.fa -out screenHGT-len0.4-8mammals.fa.mucle
 # build the phylogenetic tree
 FastTreeMP -nt screenHGT-len0.4-8mammals.fa.mucle >screenHGT-len0.4-8mammals.fa.mucle.tree
+
+~/hGT/src/biodiff.pl ~/hGT/data/hg19/gencode.v19.geneinfo.bed screenHGT-len0.4-8mammals.bed 474hgt2gene.txt
+~/hGT/src/biodiff.pl ~/hGT/data/hg19/rmsk.bed screenHGT-len0.4-8mammals.bed 474hgt2repeat.txt
+
 
