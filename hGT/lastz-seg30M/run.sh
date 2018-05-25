@@ -29,11 +29,11 @@ fi             ###code annotation end
 
 ~/hGT/src/screenHGT.pl iden60/nonmammal/merge-cov2-500bp.bed screenHGT-len0.4.out 0.4 iden60/mammal/*merge.txt
 # delete "iden60/mammal/" and "_genomic-merge.txt" in the file, then get the real name
-./../blast/getName.pl screenHGT-len0.4.out ~/hGT/data/53genome/info.txt mm
-mv mm screenHGT-len0.4.out
+./../blast/getName.pl screenHGT.out ~/hGT/data/53genome/info.txt mm
+mv mm screenHGT.out
 
 ## filter : <= 8 mammals
 ## replace: CHR -> chr; UN -> Un; GL -> gl
-awk '{if($4<=8) print $1"-"$2"-"$3}' screenHGT-len0.4.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 >screenHGT-len0.4-8mammals.bed
+awk '{if($4<=8) print $1"-"$2"-"$3}' screenHGT.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 >screenHGT-8mammals.bed
 ## merge the HGTs if overlap
-~/hGT/src/mergeBed.pl screenHGT-len0.4-8mammals.bed screenHGT-len0.4-8mammals-merge.bed
+~/hGT/src/mergeBed.pl screenHGT-8mammals.bed screenHGT-8mammals-merge.bed
