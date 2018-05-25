@@ -87,4 +87,5 @@ FastTreeMP -nt screenHGT-8mammals.fa.mucle >screenHGT-8mammals.fa.mucle.tree
 ~/hGT/src/biodiff.pl ~/hGT/data/hg19/rmsk-merge.bed screenHGT-8mammals.bed 474hgt2repeat.txt
 
  ./repeatDistribution.pl summaryHit-iden90.txt 474hgt2repeat.txt plot1.txt
-grep -v region plot1.txt |awk '{print $1}' |uniq >level.txt
+grep -v region plot1.txt |grep -v "\s0.000$"  |awk '{print $1}' |uniq |head
+
