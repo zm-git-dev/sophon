@@ -22,17 +22,18 @@ do
     ~/hGT/src/merge-mammal.pl mergeBed/$i.bed mergeBed/mammal/$i-merged.txt
 done
 
-~/hGT/src/screenHGT.pl mergeBed/nonmammal/merge-cov2-500bp.bed screenHGT-len0.4.out 0.4 mergeBed/mammal/*merged.txt
-./getName.pl screenHGT-len0.4.out ~/hGT/data/53genome/info.txt mm
-mv mm screenHGT-len0.4.out
+~/hGT/src/screenHGT.pl mergeBed/nonmammal/merge-cov2-500bp.bed screenHGT.out 0.4 mergeBed/mammal/*merged.txt
+./getName.pl screenHGT.out ~/hGT/data/53genome/info.txt mm
+mv mm screenHGT.out
 ### replace: CHR -> chr; chrUN -> chrUn; GL -> gl
 
-awk '{if($4<=8){print $0}}' screenHGT-len0.4.out |awk -F '[\t|-]' '{print $1"\t"$2+$4-1"\t"$2+$5-1"\t"$6"\t"$7}' |sort -k1,1 -k2n,2 >screenHGT-len0.4-8mammals.bed
-~/hGT/src/getHGTseq.pl ~/hGT/data/hg19/hg19-UCSC.fa screenHGT-len0.4-8mammals.bed screenHGT-len0.4-8mammals.fa
-blastn -task blastn -query screenHGT-len0.4-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-len0.4-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 9
+awk '{if($4<=8){print $0}}' screenHGT.out |awk -F '[\t|-]' '{print $1"\t"$2+$4-1"\t"$2+$5-1"\t"$6"\t"$7}' |sort -k1,1 -k2n,2 >screenHGT-8mammals.bed
+~/hGT/src/getHGTseq.pl ~/hGT/data/hg19/hg19-UCSC.fa screenHGT-8mammals.bed screenHGT-8mammals.fa
+
+blastn -task blastn -query screenHGT-8mammals.fa -db ~/hGT/db/hg19 -out screenHGT-8mammals-hg19.blastn -evalue 1e-3 -num_threads 20 -outfmt 7 -word_size 9
 
 ### split the hits according to the query sequence, to different files
-./filterHits.pl screenHGT-len0.4-8mammals-hg19.blastn
+./filterHits.pl screenHGT-8mammals-hg19.blastn
 
 for i in hit/*.txt
 do
@@ -49,7 +50,7 @@ do
     rm hit-iden90/$suf.sort.txt
 done
 
-for id in `grep ">" screenHGT-len0.4-8mammals.fa |tr -d ">"`
+for id in `grep ">" screenHGT-8mammals.fa |tr -d ">"`
 do
     num=$(cat hit/$id.txt |wc -l)
     avg_len=$(awk '{print $3-$2+1}' hit/$id.txt |awk '{sum+=$1} END {print "",sum/NR}')
@@ -78,11 +79,13 @@ fi    ###code annotation end
 
 
 # multi-alignment
-muscle -in screenHGT-len0.4-8mammals.fa -out screenHGT-len0.4-8mammals.fa.mucle
+muscle -in screenHGT-8mammals.fa -out screenHGT-8mammals.fa.mucle
 # build the phylogenetic tree
-FastTreeMP -nt screenHGT-len0.4-8mammals.fa.mucle >screenHGT-len0.4-8mammals.fa.mucle.tree
+FastTreeMP -nt screenHGT-8mammals.fa.mucle >screenHGT-8mammals.fa.mucle.tree
 
-~/hGT/src/biodiff.pl ~/hGT/data/hg19/gencode.v19.geneinfo.bed screenHGT-len0.4-8mammals.bed 474hgt2gene.txt
-~/hGT/src/biodiff.pl ~/hGT/data/hg19/rmsk.bed screenHGT-len0.4-8mammals.bed 474hgt2repeat.txt
+~/hGT/src/biodiff.pl ~/hGT/data/hg19/gencode.v19.geneinfo.bed screenHGT-8mammals.bed 474hgt2gene.txt
+~/hGT/src/biodiff.pl ~/hGT/data/hg19/rmsk.bed screenHGT-8mammals.bed 474hgt2repeat.txt
 
 
+ ./repeatDistribution.pl summaryHit-iden90.txt 474hgt2repeat.txt plot1.txt
+grep -v region plot1.txt |awk '{print $1}' |uniq >level.txt
