@@ -41,5 +41,5 @@ do
     nohup ./../src/screenHGT.pl iden60/nonmammal/merge-cov2-500bp.bed tmp-$id 0.4 iden60/mammal/$id-merged.txt &
 done
 
-./summaryMammal.pl iden60/nonmammal/merge-cov2-500bp.bed  iden60/nonmammal/screenHGT.out tmp-*
+./summaryMammal.pl iden60/nonmammal/merge-cov2-500bp.bed  screenHGT.out tmp-*
 rm tmp* 
