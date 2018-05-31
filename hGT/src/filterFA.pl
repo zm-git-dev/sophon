@@ -34,8 +34,8 @@ while(<SEQ>){
 	    $index = 0;
 	}
     }
-    #elsif($index == 1){ #putout the sequence matchs
-    elsif($index == 0){ #putout the sequence not matchs
+    elsif($index == 1){ #putout the sequence matchs
+    #elsif($index == 0){ #putout the sequence not matchs
 	print OUT ">$id\n$_\n";
     }
     next;

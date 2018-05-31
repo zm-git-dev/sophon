@@ -20,7 +20,7 @@ while(<FA>){
 	for(my $i=0;$i<$length-$len;){
 	    my $seq = substr($_,$i,$len);
 	    my ($start,$end) = ($i+1,$i+$len);
-	    print OUT ">$id|$start-$end\n$seq\n";
+	    print OUT ">$id-$start-$end\n$seq\n";
 	    $i += $step
 	}
     }

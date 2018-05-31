@@ -54,7 +54,6 @@ while(<BED2>){
 	    }
 	}
     }
-    print "$index\n";
 }
 
 close BED1;close BED2;close OUT;
