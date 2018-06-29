@@ -26,10 +26,9 @@ done
 
 ~/hGT/src/merge-nonmammal.pl ~/hGT/segment/hg19-seg1k-step1k-4mer-pass.fa 500 iden60/nonmammal/merge-cov2-500bp.bed iden60/nonmammal/*bed
 
-~/hGT/src/screenHGT.pl iden60/nonmammal/merge-cov2-500bp.bed screenHGT.out 0.4 iden60/mammal/*merge.txt
-# delete "iden60/mammal/" and "_genomic-merge.txt" in the file, then get the real name
-./../blast/getName.pl screenHGT.out ~/hGT/data/53genome/info.txt mm
-mv mm screenHGT.out
+~/hGT/src/screenHGT.pl iden60/nonmammal/merge-cov2-500bp.bed mm 0.4 iden60/mammal/*merge.txt
+# delete "iden60/mammal/" and "-merge.txt" in the file, then get the real name
+./../blast/getName.pl mm ~/hGT/data/53genome/info.txt screenHGT.out
 
 ## filter : <= 8 mammals
 ## replace: CHR -> chr; UN -> Un; GL -> gl; COX_HAP2 -> cox_hap2
