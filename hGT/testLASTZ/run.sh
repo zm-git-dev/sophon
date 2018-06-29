@@ -43,15 +43,26 @@ for tar in ${target[@]}
 do
     ~/hGT/src/merge-nonmammal.pl $tar.fa 500 iden60/nonmammal/$tar-merge-cov2-500bp.bed iden60/nonmammal/$tar-*bed
     ~/hGT/src/screenHGT.pl iden60/nonmammal/$tar-merge-cov2-500bp.bed mm-$tar 0.4 iden60/mammal/$tar-*merge.txt
-     delete "iden60/mammal/350seg-", "iden60/mammal/chr22-" and "-merge.txt" in the file, then get the real name
-    #~/hGT/src/getName.pl mm-$tar ~/hGT/data/53genome/info.txt screenHGT-$tar.out
+    #delete "iden60/mammal/350seg-", "iden60/mammal/chr22-" and "-merge.txt" in the file, then get the real name
+    ~/hGT/src/getName.pl mm-$tar ~/hGT/data/53genome/info.txt screenHGT-$tar.out
     rm mm-*
+done
+
+awk '{if($4<=2) print $1"-"$2"-"$3}' screenHGT-350seg.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 |uniq >screenHGT-2mammals-350seg.bed
+~/hGT/src/mergeBed.pl screenHGT-2mammals-350seg.bed screenHGT-2mammals-350seg-merge.bed
+awk '{if($4<=2) print $1"-"$2"-"$3}' screenHGT-chr22.out |awk -F '-' '{print $1"\t"$2"\t"$3}' |sort -k1,1 -k2n,2 >screenHGT-2mammals-chr22.bed
+
+~/hGT/src/getHGTseq.pl ~/hGT/data/hg19/hg19-UCSC-uc.fa screenHGT-2mammals-chr22.bed screenHGT-2mammals-chr22.fa
+~/hGT/src/getHGTseq.pl ~/hGT/data/hg19/hg19-UCSC-uc.fa screenHGT-2mammals-350seg-merge.bed screenHGT-2mammals-350seg-merge.fa
+
+
+arr=(screenHGT-2mammals-350seg-merge screenHGT-2mammals-chr22)
+for id in ${cov[@]}
+do
+    blastn -task blastn -query $id.fa -db ~/hGT/db/hg19 -out $id-hg19.blastn -evalue 1e-3 -num_threads 16 -outfmt 7 -word_size 9
 done
 
 fi   ###code annotation end
 
-awk '{if($4<=2) print $1"-"$2"-"$3}' screenHGT-350seg.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 |uniq >screenHGT-2mammals-350seg.bed
-~/hGT/src/mergeBed.pl screenHGT-2mammals-350seg.bed screenHGT-2mammals-350seg-merge.bed
-
-awk '{if($4<=2) print $1"-"$2"-"$3}' screenHGT-chr22.out |awk -F '-' '{print $1"\t"$2"\t"$3}' |sort -k1,1 -k2n,2 >screenHGT-2mammals-chr22.bed
-
+nohup ~/hGT/src/biodiff.pl ~/hGT/data/hg19/rmsk-merge.bed screenHGT-2mammals-chr22.bed 68hgt2repeat.txt &
+nohup ~/hGT/src/biodiff.pl ~/hGT/data/hg19/rmsk-merge.bed screenHGT-2mammals-350seg-merge.bed 32hgt2repeat.txt &
