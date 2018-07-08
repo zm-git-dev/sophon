@@ -86,7 +86,7 @@ do
     done
 done
 
-fi   ###code annotation end
+
 
 for id in `grep ">" screenHGT-2mammals-350seg-merge.fa |tr -d ">"`
 do
@@ -113,3 +113,20 @@ done
 echo -e "id\thit_num\tavg_len\tcov_len" >>summaryHit-iden90-chr22.txt
 awk '{if($5==0) print $1"\t0\t0\t0\t0"; else print $1"\t"$2"\t"$3"\t"$4}' mm | sort -rnk 2 >>summaryHit-iden90-chr22.txt
 rm mm
+
+~/hGT/src/repeatDistribution.pl summaryHit-iden90-350seg.txt 32hgt2repeat.txt plot1.txt
+~/hGT/src/repeatDistribution.pl summaryHit-iden90-chr22.txt 68hgt2repeat.txt plot2.txt
+grep -v id summaryHit-iden90-350seg.txt |awk '{print $1}' >level1.txt
+grep -v id summaryHit-iden90-chr22.txt |awk '{print $1}' >level2.txt
+
+
+mkdir blastn-22species blastn-22species/chr22-17038962-17042074 blastn-22species/chr22-18878930-18879701
+for id in `cat 22species.id`
+do
+    nohup blastn -task blastn -query screenHGT-2mammals-chr22.fa -db ~/hGT/db/$id.fna -out blastn-22species/$id.blastn -evalue 1e-3 -num_threads 1 -outfmt 7 -word_size 9 &
+    nohup blastn -task blastn -query chr22-17038962-17042074.fa -db ~/hGT/db/$id.fna -out blastn-22species/chr22-17038962-17042074/$id.blastn -evalue 1e-3 -num_threads 1 -outfmt 7 -word_size 9 &
+    nohup blastn -task blastn -query chr22-18878930-18879701.fa -db ~/hGT/db/$id.fna -out blastn-22species/chr22-18878930-18879701/$id.blastn -evalue 1e-3 -num_threads 1 -outfmt 7 -word_size 9 &
+done
+
+fi   ###code annotation end
+
