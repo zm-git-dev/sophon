@@ -6,7 +6,7 @@
 
 
 
-#segments : seg=2k, step=1k
+#segments : seg=1kbp, step=800kbp
 ~/hGT/src/segment.pl fa/hg38.fa 1000 800 segment/hg38-seg1k-step0.8k.fa
 
 #screen : k=4, genome cuttof = top 1%
