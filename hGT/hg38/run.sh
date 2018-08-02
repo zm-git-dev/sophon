@@ -25,7 +25,7 @@ awk -F '-' '{print $1"\t"$2"\t"$3}' segment/hg38-seg1k-step0.8k-4mer-distance-pa
 
 #################################################################
 # screened segments : 38M.fa                                    #
-# Removing sequences overlapped with Simple_repeat.bed : 16M.fa #
+# Removing sequences overlapped with Simple_repeat.bed : 20M.fa #
 #################################################################
 cp segment/hg38-seg1k-step0.8k-4mer-distance-pass.fa fa/38M.fa
 cp segment/hg38-seg1k-step0.8k-4mer-distance-pass-masked.fa fa/20M.fa
