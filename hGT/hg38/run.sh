@@ -31,4 +31,8 @@ cp segment/hg38-seg1k-step0.8k-4mer-distance-pass.fa fa/38M.fa
 cp segment/hg38-seg1k-step0.8k-4mer-distance-pass-masked.fa fa/20M.fa
 
 
+##################################################
+# jobs in HPC: LASTZ & axt2cov & filter_identity #
+##################################################
+# sh job.sh (lastz.slurm  ;  filter_identity.slurm)
 
