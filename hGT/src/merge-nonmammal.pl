@@ -3,8 +3,8 @@ use strict;
 
 #get regions conserved in non-mammal genomes, overlapped sequences >= 500bp && at least two non-mammal species sharing this region
 
-my ($fa,$len_cuttof,$out,@files)= @ARGV;
-die "Error with arguments!\nusage: $0 <Reference fasta file> <Length cuttof> <OUT file> <Non-mammal bed files (sorted, merged)> \n" if (@ARGV<4);
+my ($fa,$len_cuttof,$cov_cuttof,$out,@files)= @ARGV;
+die "Error with arguments!\nusage: $0 <Reference fasta file> <Length cuttof> <Cov species cuttof> <OUT file> <Non-mammal bed files (sorted, merged)> \n" if (@ARGV<5);
 
 open(FA,$fa)||die("error with opening $fa\n");
 open(OUT,">$out")||die("error with writing to $out\n");
@@ -49,12 +49,12 @@ foreach my $key(keys %coverage){
     my @end = ();
     my $seq_length = $len{$key};
     for(my $i=0;$i<$seq_length;$i++){
-	if(${coverage{$key}}[$i] >= 2 && ($i ==0 || ${coverage{$key}}[$i-1] < 2)){
-	    if(${coverage{$key}}[$i+1] >= 2){
+	if(${coverage{$key}}[$i] >= $cov_cuttof && ($i ==0 || ${coverage{$key}}[$i-1] < $cov_cuttof)){
+	    if(${coverage{$key}}[$i+1] >= $cov_cuttof){
 		push(@start,$i+1);  ## start position, count from 1
 	    }
 	}
-	elsif(${coverage{$key}}[$i] >= 2 && ($i == $seq_length-1 || ${coverage{$key}}[$i+1] < 2)){
+	elsif(${coverage{$key}}[$i] >= $cov_cuttof && ($i == $seq_length-1 || ${coverage{$key}}[$i+1] < $cov_cuttof)){
 	    push(@end,$i+1);  ##end position, count from 1
 	}
     }
