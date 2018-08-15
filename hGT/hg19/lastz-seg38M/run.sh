@@ -39,12 +39,6 @@ do
     ~/hGT/src/mergeBed.pl screenHGT-$tar.bed screenHGT-$tar-merge.bed
     ~/hGT/src/getHGTseq.pl ~/hGT/data/hg19/hg19-UCSC-uc.fa screenHGT-$tar-merge.bed screenHGT-$tar-merge.fa
     RepeatMasker screenHGT-$tar-merge.fa
-
-    ~/hGT/src/getName.pl mm-$tar ~/hGT/data/53genome/info.txt screenHGT-$tar.out
-    awk '{if($4<=8) print $1"-"$2"-"$3}' screenHGT-$tar.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 |uniq >screenHGT-$tar.bed
-    ~/hGT/src/mergeBed.pl screenHGT-$tar.bed screenHGT-$tar-merge.bed
-    ~/hGT/src/getHGTseq.pl ~/hGT/data/hg19/hg19-UCSC-uc.fa screenHGT-$tar-merge.bed screenHGT-$tar-merge.fa
-    RepeatMasker screenHGT-$tar-merge.fa
 done
 
 fi
@@ -59,10 +53,12 @@ fi
 #  iden/len/non-mammals/mammals #
 #################################
 
-iden=(40 50 60 70 80 90)
-
 if [ 1 == 2 ]   # code annotation start
 then
+
+iden=(40 50 60 70 80 90)
+cov=(1 2 3 4 5 6 7 8 9 10 11 12)
+len=(100 200 500 800 1000)
 
 for i in ${iden[@]}
 do
@@ -86,10 +82,6 @@ find iden*0 |grep tmp |xargs rm  # delete *.tmp
 
 mkdir mammal nonmammal
 
-
-cov=(2 3 4 5 6 7 8 9 10 11 12)
-len=(100 200 500 800 1000)
-
 for i in ${iden[@]}
 do
     mkdir nonmammal/iden$i
@@ -102,7 +94,7 @@ do
     do
 	for k in ${len[@]}
 	do	    
-	    ~/hGT/src/merge-nonmammal.pl 38M-masked.fa $k $j nonmammal/iden$i/merge-cov$j-len$k.bed nonmammal/iden$i/*.bed
+	    ~/hGT/src/merge-nonmammal.pl 38M-masked.fa $k $j nonmammal/iden$i/merge-cov$j-len$k.txt nonmammal/iden$i/*.bed
 	done
     done
 done
@@ -118,5 +110,47 @@ do
     done
 done
 
+
+for i in ${iden[@]}
+do
+    for j in ${cov[@]}
+    do
+        for k in ${len[@]}
+        do
+	    num=$(cat nonmammal/iden$i/merge-cov$j-len$k.txt |wc -l)
+	    echo -e "$i\t$j\t$k\t$num" >>number.txt
+	done
+    done
+done
+
+mkdir nonmammal-iden60-cov1-len200
+cp nonmammal/iden60/merge-cov1-len200.txt nonmammal-iden60-cov1-len200/merge.bed
+
 fi   # code annotation end
 
+iden=(40 50 60)
+len_cuttof=(0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1)
+count=(0 1 2 3 4 5 6 7 8)
+
+echo -e "iden\tlen_cuttof\tcount\tnum" >>number2.txt
+for i in ${iden[@]}
+do
+    for j in ${len_cuttof[@]}
+    do
+	#~/hGT/src/screenHGT.pl nonmammal-iden60-cov1-len200/merge.bed nonmammal-iden60-cov1-len200/screen-iden$i-len$j.out $j mammal/iden$i/*merge.txt
+	for k in ${count[@]}
+	do
+	    awk '{if($4<='$k') print $1"-"$2"-"$3}' nonmammal-iden70-cov2-len200/screen-iden$i-len$j.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 |uniq >screen-iden$i-len$j-cov$k.tmp
+	    line=$(cat screen-iden$i-len$j-cov$k.tmp |wc -l)
+	    if [ $line != 0 ]
+	    then
+		~/hGT/src/mergeBed.pl screen-iden$i-len$j-cov$k.tmp nonmammal-iden70-cov2-len200/screen-iden$i-len$j-cov$k.bed
+		rm screen-iden$i-len$j-cov$k.tmp
+	    else
+		mv screen-iden$i-len$j-cov$k.tmp nonmammal-iden70-cov2-len200/screen-iden$i-len$j-cov$k.bed
+	    fi
+	    num=$(cat nonmammal-iden70-cov2-len200/screen-iden$i-len$j-cov$k.bed |wc -l)
+	    echo -e "$i\t$j\t$k\t$num" >>number2.txt
+	done
+    done
+done
