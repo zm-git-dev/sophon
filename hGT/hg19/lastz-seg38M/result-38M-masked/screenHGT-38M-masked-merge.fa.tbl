@@ -1,0 +1,50 @@
+==================================================
+file name: screenHGT-8mammals-38M-masked-merge.fa
+sequences:           175
+total length:     232110 bp  (232110 bp excl N/X-runs)
+GC level:         35.07 %
+bases masked:      18141 bp ( 7.82 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:               35         2661 bp    1.15 %
+      ALUs           35         2661 bp    1.15 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:                2          350 bp    0.15 %
+      LINE1           2          350 bp    0.15 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:         0            0 bp    0.00 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:         1           50 bp    0.02 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     1           50 bp    0.02 %
+
+Unclassified:         4          162 bp    0.07 %
+
+Total interspersed repeats:     3223 bp    1.39 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           2         2480 bp    1.07 %
+Simple repeats:       4         2570 bp    1.11 %
+Low complexity:      16         9868 bp    4.25 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo sapiens  
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.6.0+
+
