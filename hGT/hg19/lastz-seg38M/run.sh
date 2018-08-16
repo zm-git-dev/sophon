@@ -123,8 +123,13 @@ do
     done
 done
 
+# Non-mammal : iden60, cov1, len200
 mkdir nonmammal-iden60-cov1-len200
 cp nonmammal/iden60/merge-cov1-len200.txt nonmammal-iden60-cov1-len200/merge.bed
+cat nonmammal-iden60-cov1-len200/merge.bed |awk '{print $1"-"$2"-"$3}' |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1"\t"$1"-"$2"-"$3"\t"$4"\t"$5}' |sort -k1,1 -k2n,2 >nonmammal-iden60-cov1-len200/merge-trans.bed
+~/hGT/src/biodiff.pl ~/hGT/data/hg19/rmsk/Simple_repeat-merge.bed nonmammal-iden60-cov1-len200/merge-trans.bed >nonmammal-iden60-cov1-len200/merge-trans-simple_repeat.txt
+## remove regions overlapped with simple_repeat : nonmammal-iden60-cov1-len200/merge-nonSimple.bed, 4,407 segments
+
 
 fi   # code annotation end
 
@@ -137,20 +142,31 @@ for i in ${iden[@]}
 do
     for j in ${len_cuttof[@]}
     do
-	#~/hGT/src/screenHGT.pl nonmammal-iden60-cov1-len200/merge.bed nonmammal-iden60-cov1-len200/screen-iden$i-len$j.out $j mammal/iden$i/*merge.txt
+	~/hGT/src/screenHGT.pl nonmammal-iden60-cov1-len200/merge-nonSimple.bed nonmammal-iden60-cov1-len200/screen-iden$i-len$j.out $j mammal/iden$i/*merge.txt
 	for k in ${count[@]}
 	do
-	    awk '{if($4<='$k') print $1"-"$2"-"$3}' nonmammal-iden70-cov2-len200/screen-iden$i-len$j.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 |uniq >screen-iden$i-len$j-cov$k.tmp
+	    awk '{if($4<='$k') print $1"-"$2"-"$3}' nonmammal-iden60-cov1-len200/screen-iden$i-len$j.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 |uniq >screen-iden$i-len$j-cov$k.tmp
 	    line=$(cat screen-iden$i-len$j-cov$k.tmp |wc -l)
 	    if [ $line != 0 ]
 	    then
-		~/hGT/src/mergeBed.pl screen-iden$i-len$j-cov$k.tmp nonmammal-iden70-cov2-len200/screen-iden$i-len$j-cov$k.bed
+		~/hGT/src/mergeBed.pl screen-iden$i-len$j-cov$k.tmp nonmammal-iden60-cov1-len200/screen-iden$i-len$j-cov$k.bed
 		rm screen-iden$i-len$j-cov$k.tmp
 	    else
-		mv screen-iden$i-len$j-cov$k.tmp nonmammal-iden70-cov2-len200/screen-iden$i-len$j-cov$k.bed
+		mv screen-iden$i-len$j-cov$k.tmp nonmammal-iden60-cov1-len200/screen-iden$i-len$j-cov$k.bed
 	    fi
-	    num=$(cat nonmammal-iden70-cov2-len200/screen-iden$i-len$j-cov$k.bed |wc -l)
+	    num=$(cat nonmammal-iden60-cov1-len200/screen-iden$i-len$j-cov$k.bed |wc -l)
 	    echo -e "$i\t$j\t$k\t$num" >>number2.txt
 	done
     done
 done
+
+# Mammal : iden50, len0.6
+awk '{if($4<=8) print $0}' nonmammal-iden60-cov1-len200/screen-iden50-len0.6.out >mm
+# delete some characters and getName
+~/hGT/src/getName.pl mm ~/hGT/data/53genome/info.txt screen-iden50-len0.6-cov8.out
+awk '{print $1"-"$2"-"$3}' screen-iden50-len0.6-cov8.out |awk -F '-' '{print $1"\t"$2+$4-1"\t"$2+$5-1}' |sort -k1,1 -k2n,2 |uniq >screen-iden50-len0.6-cov8.bed
+~/hGT/src/mergeBed.pl screen-iden50-len0.6-cov8.bed screen-iden50-len0.6-cov8-merge.bed
+
+~/hGT/src/biodiff.pl ~/hGT/data/hg19/rmsk.bed screen-iden50-len0.6-cov8-merge.bed >screen-iden50-len0.6-cov8-merge-rmsk.txt
+~/hGT/src/getHGTseq.pl ~/hGT/data/hg19/hg19-UCSC-uc.fa screen-iden50-len0.6-cov8-merge.bed screen-iden50-len0.6-cov8-merge.fa
+RepeatMasker screen-iden50-len0.6-cov8-merge.fa
