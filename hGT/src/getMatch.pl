@@ -18,22 +18,22 @@ my %hash = ();
 while(<HIT>){
     chomp();
     my @arr = split(/\s+/,$_);
-    my ($species,$chr,$start,$end,$identity) = ($arr[0],$arr[3],$arr[4],$arr[5],$arr[8]);
-    my $len = (abs($end-$start)+1) * $identity;
+    my ($species,$start_this,$end_this,$chr,$start,$end,$identity) = ($arr[0],$arr[1],$arr[2],$arr[3],$arr[4],$arr[5],$arr[8]);
+    my $len = (abs($end_this-$start_this)+1) * $identity;
     if(not exists($hash{$species})){
-	$hash{$species} = $chr."-".$start."-".$end."-".$identity;
+	$hash{$species} = $chr."-".$start."-".$end."-".$identity."-".$len;
     }
     else{
 	my $old = $hash{$species};
-	my ($chr_old,$start_old,$end_old,$identity_old) = split(/-/,$old);
-	if($len > (abs($end_old-$start_old)+1) * $identity_old){
-	    $hash{$species} = $chr."-".$start."-".$end."-".$identity;
+	my ($chr_old,$start_old,$end_old,$identity_old,$len_old) = split(/-/,$old);
+	if($len > $len_old){
+	    $hash{$species} = $chr."-".$start."-".$end."-".$identity."-".$len;
 	}
     }
 }
 
 foreach my $key(keys %hash){
-    my ($chr,$start,$end,$identity) = split(/-/,$hash{$key});
+    my ($chr,$start,$end,$identity,$len) = split(/-/,$hash{$key});
     print OUT "$key\t$chr\t$start\t$end\t$identity\n";
 }
 
